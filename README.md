@@ -230,6 +230,34 @@ Soy xxxxxxxxx
 
 #### 1.2.1. Antecedentes y problemática
 
+- **Who (¿Quiénes son los afectados?)**  
+  Personas entre 18 y 40 años interesadas en mejorar su estado físico o mantener una vida saludable, pero que enfrentan obstáculos como la falta de tiempo, desconocimiento sobre rutinas de ejercicio y dificultad para seguir planes alimenticios realistas.
+
+- **What (¿Qué sucede?)**  
+  Existe una creciente demanda de soluciones fitness personalizadas; sin embargo, muchas aplicaciones actuales son genéricas, poco flexibles y no consideran la realidad del usuario en cuanto a tiempo, nivel, objetivos y cultura alimentaria. Esto genera frustración, abandono y poco progreso.
+
+- **Where (¿Dónde ocurre?)**  
+  Principalmente en contextos urbanos, especialmente en ciudades como Lima, donde factores como el tráfico, las largas jornadas laborales y el escaso acceso a asesoría personalizada dificultan la constancia en la actividad física y en la alimentación saludable.
+
+- **When (¿Cuándo sucede?)**  
+  De forma cotidiana, cuando las personas intentan adoptar una rutina saludable pero no encuentran un plan realista que se ajuste a su disponibilidad de tiempo y recursos personales.
+
+- **Why (¿Por qué es un problema?)**  
+  Porque afecta directamente la salud física y mental. Sin una guía adecuada y adaptada, las personas pierden motivación rápidamente, lo que impide la adquisición de hábitos saludables sostenibles en el tiempo.
+
+- **How (¿Cómo se manifiesta?)**
+  - Rutinas genéricas que no consideran el tiempo real disponible del usuario.  
+  - Planes de nutrición no adaptados a la gastronomía local.  
+  - Falta de seguimiento y visualización de progreso.  
+  - Escasa interacción humana o profesional en las plataformas actuales.
+
+- **How Much (¿Cuán grande es el problema?)**  
+  Según el Ministerio de Salud del Perú:
+  - Más del **60%** de la población adulta presenta sobrepeso u obesidad.  
+  - Más del **70%** no realiza actividad física suficiente.
+
+  Esto representa un problema de salud pública y una gran **oportunidad de mercado** para soluciones tecnológicas efectivas y accesibles como FitWise.
+
 #### 1.2.2. Lean UX Process
 
 ##### 1.2.2.1. Lean UX Problem Statements
