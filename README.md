@@ -422,7 +422,6 @@ Antes de realizar las entrevistas, consideramos prudente realizar un análisis p
 
 En esta sección se documenta la recolección de información a través de entrevistas realizadas a representantes de los segmentos objetivo. Para esta investigación, se consideraron dos grupos clave: adultos jóvenes ocupados (25 - 50 años) y jóvenes universitarios saludables en formación (18 - 24 años). El propósito es comprender sus necesidades, desafíos y expectativas para el desarrollo de la aplicación VibeFit, enfocada en promover un estilo de vida saludable y activo.
 
-#### 2.2.2. Registro de entrevistas
 
 | **Entrevista 1** |
 |------------------|
