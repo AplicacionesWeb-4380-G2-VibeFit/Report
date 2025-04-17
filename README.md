@@ -363,6 +363,33 @@ El referente en tracking nutricional con:
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
+##### 1. **Diferenciación Básica pero Clave**
+**Objetivo:** Destacar con 1-2 features únicas sin sobrecargar desarrollo
+- **Tácticas alcanzables:**
+  - 🥗 **"Plan Nutricional Express"**: Menús semanales simples (5 ingredientes max) para usuarios sin tiempo
+  - 🏋️ **Rutinas de 15 min** enfocadas en hogar/oficina (vs competidores con rutinas largas)
+  - 🤖 **Recordatorios humanos**: Notificaciones con lenguaje motivacional (ej: "¡Vamos, [nombre]! Tu sesión de 15 min está lista")
+
+##### 2. **Enfoque en Nichos Específicos**
+**Objetivo:** Evitar competir frontalmente con apps establecidas
+- **Tácticas:**
+  - 👩‍💻 **"Workfrom Fitness"**: Rutinas para teletrabajadores (estiramientos, pausas activas)
+  - 👵 **Versión senior light**: Adaptar ejercicios para adultos mayores (mercado poco atendido)
+
+##### 3. **Alianzas de Bajo Costo**
+**Objetivo:** Ganar visibilidad sin gran inversión
+- **Tácticas:**
+  - 🤝 Colaborar con micro-influencers locales (500-5K seguidores) a cambio de acceso premium
+  - 🏢 Ofrecer prueba gratuita a 2-3 startups pequeñas (feedback + casos de uso)
+
+#### ⚡ **Acciones por Competidor (Enfoque Práctico)**
+
+| Competidor   | Aprovechar Debilidad                | Solución Simple                      |
+|--------------|-------------------------------------|--------------------------------------|
+| **Freeletics**| Complejidad para principiantes      | Video-tutoriales "Desde Cero"        |
+| **Fitbod**   | Solo para gimnasio                  | Rutinas con sillas/botellas de agua  |
+| **MyFitnessPal**| Interface obsoleta               | Diseño mobile-first más intuitivo    |
+
 ## 2.2 Entrevistas
 En esta sección del informe se realizará el diseño, registro y análisis de las entrevistas de nuestros segmentos objetivos.
 
