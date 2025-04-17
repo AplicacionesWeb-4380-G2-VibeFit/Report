@@ -172,6 +172,18 @@ del ABET – EAC - Student Outcome 5.
 
 #### 1.1.1. Descripción de la startup
 
+**VibeFit** es una startup tecnológica enfocada en mejorar el bienestar físico y mental de las personas a través de soluciones digitales inteligentes. Su misión es simplificar, personalizar y acompañar el proceso hacia una vida saludable, especialmente para quienes enfrentan barreras como la falta de tiempo, motivación o conocimiento especializado.
+
+Su producto principal, **FitWise**, es una aplicación disponible en versión web y móvil que crea rutinas de entrenamiento y planes nutricionales completamente personalizados. La plataforma se adapta a las características, objetivos y nivel físico de cada usuario, permitiendo que cualquier persona pueda incorporar hábitos saludables a su estilo de vida, sin importar su experiencia previa o disponibilidad horaria.
+
+La propuesta de valor de VibeFit se centra en tres pilares clave:
+
+- **Adaptabilidad**, para ajustarse a las necesidades individuales.  
+- **Personalización**, para ofrecer soluciones únicas y efectivas.  
+- **Acompañamiento constante**, mediante tecnología que guía, motiva y mide el progreso del usuario.
+
+VibeFit nace para transformar la manera en que las personas se relacionan con su salud, derribando los obstáculos más comunes y convirtiendo el bienestar en una experiencia accesible, flexible y sostenible.
+
 #### 1.1.2. Perfiles de los integrantes del equipo
 
 ---
