@@ -351,6 +351,27 @@ Antes de realizar las entrevistas, consideramos prudente realizar un análisis p
 
 ---
 
+### Segmento: Jóvenes Universitarios Saludables en Formación (18 - 24 años)
+
+#### **Principales:**
+1. **Introducción al Rol:** ¿Cuál es tu situación actual? ¿Estás estudiando, trabajando o ambas cosas?  
+2. **Estilo de Vida:** ¿Cómo describirías tu estilo de vida, tanto en términos de actividad física como de alimentación?  
+3. **Prioridades de Salud:** ¿Qué tan importante es para ti mantener una vida saludable en este momento de tu vida?  
+4. **Desafíos en la Salud:** ¿Qué dificultades encuentras para mantenerte activo/a o alimentarte saludablemente?  
+5. **Motivación para la Actividad Física:** ¿Qué te motiva a seguir una rutina de ejercicios?  
+6. **Tecnología y Bienestar:** ¿Qué tipo de herramientas digitales (aplicaciones, plataformas) utilizas para ayudarte a llevar una vida más saludable?  
+7. **Intereses en Fitness:** ¿Te gustaría que una app de fitness incluyera retos, logros o niveles para mantenerte motivado/a?  
+8. **Preferencias de Ejercicio:** ¿Qué tipo de ejercicios o entrenamientos prefieres hacer?  
+9. **Dieta Saludable:** ¿Te interesa seguir una dieta saludable? ¿Qué tipo de planes de alimentación serían más atractivos para ti?  
+10. **Personalización:** ¿Qué tan importante es para ti que una app se adapte a tus horarios, metas y preferencias alimenticias locales (como recetas peruanas saludables)?  
+11. **Herramientas de Motivación:** ¿Qué características te gustaría ver en una app que te ayuden a mantener la motivación y constancia?  
+12. **Accesibilidad:** ¿Prefieres entrenar en casa o en el gimnasio? ¿Cómo podría una app apoyarte en cualquiera de esos entornos?  
+13. **Interacción Social:** ¿Te gustaría que la app tuviera una opción para interactuar con amigos o una comunidad de usuarios?  
+14. **Disposición a Pagar:** Si una app de bienestar se ajusta a tus necesidades, ¿estarías dispuesto/a a pagar por una versión premium?  
+15. **Expectativas de la App:** ¿Qué expectativas tienes de una app para ayudarte a alcanzar tus objetivos de bienestar físico y mental? ¿Qué funcionalidades te gustaría que tuviera?
+
+---
+
 #### 2.2.2. Registro de entrevistas
 
 #### 2.2.3. Análisis de entrevistas
