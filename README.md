@@ -374,6 +374,24 @@ Antes de realizar las entrevistas, consideramos prudente realizar un análisis p
 
 #### 2.2.2. Registro de entrevistas
 
+En esta sección se documenta la recolección de información a través de entrevistas realizadas a representantes de los segmentos objetivo. Para esta investigación, se consideraron dos grupos clave: adultos jóvenes ocupados (25 - 50 años) y jóvenes universitarios saludables en formación (18 - 24 años). El propósito es comprender sus necesidades, desafíos y expectativas para el desarrollo de la aplicación VibeFit, enfocada en promover un estilo de vida saludable y activo.
+
+#### 2.2.2. Registro de entrevistas
+
+#### Entrevista 1  
+
+| **Datos del entrevistado** |
+|------------------------|
+| **Nombre:** Robert Joaquín Reyna Bohorquez |
+| **Edad:** 21 |
+| **Procedencia:** Lima |
+| **Segmento:** Jóvenes Universitarios Saludables en Formación (18 - 24 años) |
+| **Resumen:** Joaquín comenta que su principal desafío es la falta de tiempo, ya que estudia, entrena y trabaja. Es deportista y forma parte de un club que le brinda la oportunidad de competir los fines de semana, lo cual complementa sus ingresos. Considera útil una aplicación que le permita optimizar su entrenamiento, establecer metas claras, llevar un seguimiento de su progreso y compararse con sus amigos. También menciona que desearía incorporar alimentos típicos de la gastronomía peruana, como el lomo saltado y el ají de gallina, dentro de una dieta saludable propuesta por la app. |
+| **Enlace de video:** [https://drive.google.com/file/d/1I44cwCY-cDnWPcggkDgdEYffWx4QfPVJ/view?usp=sharing](https://drive.google.com/file/d/1I44cwCY-cDnWPcggkDgdEYffWx4QfPVJ/view?usp=sharing) |
+| <strong>Foto del entrevistado:</strong><br><img src="./assets/Joaquin.png" alt="Joaquin" height="200"/> |
+
+
+
 #### 2.2.3. Análisis de entrevistas
 
 ### 2.3. Needfinding
