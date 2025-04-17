@@ -213,9 +213,9 @@ Soy xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 
 #### **Miguel Angel Gómez Hurtado – Ingeniería de Software – U202220294**
 
-*(Sin imagen disponible)*
+<img src="https://i.postimg.cc/0N1330v8/Miguel-Foto.png" alt="Miguel Angel Gomez Hurtado - Foto" style="display: block; margin-left: auto; margin-right: auto;" height="300"/>
 
-Soy xxxxxxxxxxxx
+Tengo 23 años y estoy estudiando la carrera de Ingeniería Informática. Me encuentro en mi segundo ciclo en la UPC Sede San Miguel. Soy una persona académica y siempre estoy abierto al diálogo. Me apasiona mi carrera y siempre estoy dispuesto a aprender sobre este curso para brindar a mis futuros usuarios un buen producto acorde a sus necesidades.
 
 ---
 
