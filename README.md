@@ -270,6 +270,45 @@ Soy xxxxxxxxx
 
 ### 1.3. Segmentos objetivo
 
+### 1. Adultos jóvenes ocupados (25 - 50 años)
+
+**Descripción:**  
+Hombres y mujeres que trabajan a tiempo completo, principalmente en zonas urbanas como Lima Metropolitana, interesados en mejorar su salud física. Debido a sus agendas ajustadas, buscan soluciones prácticas, rápidas y efectivas que puedan integrar fácilmente en su rutina diaria.
+
+**Características clave:**  
+- Profesionales con horarios laborales intensos.  
+- Nivel socioeconómico medio a alto.  
+- Acceso frecuente y constante a smartphones.  
+- Metas claras de salud, pero requieren guía y motivación para alcanzarlas.  
+- Prefieren programas de entrenamiento y dietas flexibles y personalizables.
+
+**Datos de sustento:**  
+- Más del 65% de personas en Lima Metropolitana trabajan más de 40 horas semanales.  
+- El 70% de esta población no realiza actividad física de manera regular.  
+- Penetración de smartphones en Perú es del 91.6% (INEI, 2022).  
+- El 94.2% de los trabajadores en Lima cuentan con algún tipo de seguro de salud.  
+- Estudios indican que actividad física y sueño adecuado mejoran la autoevaluación de salud en adultos jóvenes.
+
+---
+
+### 2. Jóvenes universitarios saludables en formación (18 - 24 años)
+
+**Descripción:**  
+Estudiantes universitarios o egresados recientes que están consolidando hábitos saludables. Tienen mayor disponibilidad de tiempo, pero menor conocimiento técnico y poder adquisitivo limitado. Son nativos digitales, influenciados por redes sociales y tendencias fitness, y buscan aplicaciones atractivas, visuales y motivadoras.
+
+**Características clave:**  
+- Alta actividad en redes sociales y consumo de contenido digital.  
+- Prefieren contenido interactivo y gamificación para mantener la motivación.  
+- Disponen de tiempo para entrenar, pero necesitan orientación técnica.  
+- Interés en recetas saludables, especialmente peruanas y fáciles de preparar.
+
+**Datos de sustento:**  
+- El 45% de jóvenes peruanos busca llevar una vida más saludable (Ipsos, 2023).  
+- El 94% accede a internet principalmente desde sus celulares.  
+- Alta disposición a probar nuevas aplicaciones si son visuales y gratuitas o con modelo freemium.  
+- Solo un 24.8% realiza actividad física recomendada diariamente.  
+- La cobertura de seguro de salud en jóvenes de 18 a 29 años aumentó del 50.7% al 64.3% entre 2011 y 2016.
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
