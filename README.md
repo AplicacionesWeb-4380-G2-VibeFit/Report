@@ -184,9 +184,11 @@ Soy xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 ---
 
 #### **Ramiro Alexander Guzman Chavez – Ingeniería de Software – U202217062**  
-<*(Sin imagen disponible)*
+<img src="./assets/RAMIROGUZMAN.png" alt="RAMIROGUZMAN" height="200"/>
 
-Soy xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+Mi perfil se basa en ser una persona responsable, disciplinada en todo aspecto y comprometida con las actividades que me puedan tocar.
+Considero que tengo una experiencia altamente capacitada para este tipo de tareas. Suelo desarrollarme de manera positiva en los trabajos grupales y tengo conocimientos en bases de datos, lo cual puede aportar de manera importante al equipo.
+Además, cuento con conocimientos en lenguajes de programación como Java y JavaScript, lo que me permite desarrollar soluciones tanto del lado del backend como del frontend, contribuyendo a proyectos de desarrollo de software de manera integral.
 
 ---
 
