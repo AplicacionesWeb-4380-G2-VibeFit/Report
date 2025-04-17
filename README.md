@@ -270,7 +270,7 @@ Soy xxxxxxxxx
 
 ### 1.3. Segmentos objetivo
 
-### 1. Adultos jóvenes ocupados (25 - 50 años)
+### 1. Adultos jóvenes ocupados (25 - 40 años)
 
 **Descripción:**  
 Hombres y mujeres que trabajan a tiempo completo, principalmente en zonas urbanas como Lima Metropolitana, interesados en mejorar su salud física. Debido a sus agendas ajustadas, buscan soluciones prácticas, rápidas y efectivas que puedan integrar fácilmente en su rutina diaria.
