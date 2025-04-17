@@ -313,7 +313,53 @@ Estudiantes universitarios o egresados recientes que están consolidando hábito
 
 ### 2.1. Competidores
 
+FitWise compite directamente con estas plataformas digitales de fitness y bienestar:
+
+### a) Freeletics
+Aplicación líder en entrenamiento personalizado por IA que ofrece:
+- Rutinas adaptables sin equipamiento
+- Planes nutricionales complementarios
+- Comunidad activa y desafíos motivacionales
+**Punto débil:** Los planes de nutrición son menos completos que su oferta de entrenamiento
+
+### b) Fitbod
+Plataforma especializada en entrenamiento de fuerza que destaca por:
+- Algoritmos que consideran equipamiento disponible
+- Ajustes basados en fatiga muscular
+- Enfoque en hipertrofia y rendimiento
+**Punto débil:** Carece completamente de componente nutricional integrado
+
+### c) MyFitnessPal (Under Armour)
+El referente en tracking nutricional con:
+- Mayor base de datos de alimentos del mercado
+- Integración con wearables y otras apps
+- Herramientas para conteo de macros
+**Punto débil:** Funcionalidades limitadas de entrenamiento personalizado
+
 #### 2.1.1. Análisis competitivo
+
+| Competitive Analysis Landscape                                                                 | Su startup (VibeFit - FitWise) | Competidor 1 (Freeletics) | Competidor 2 (Fitbod) | Competidor 3 (MyFitnessPal) |
+|------------------------------------------------------------------------------------------------|--------------------------------|---------------------------|------------------------|-----------------------------|
+| **¿Por qué llevar a cabo este análisis?**<br>Identificar ventajas competitivas y oportunidades de diferenciación en el mercado de fitness* |                                |                           |                        |                             |
+| **Perfil**                                                                        |                                |                           |                        |                             |
+| **Overview**                                                                                   | App integral fitness + nutrición + bienestar mental | App de entrenamiento con IA | App de fuerza con IA | Tracking nutricional + integraciones |
+| **Ventaja competitiva**<br>*¿Qué valor ofrece a los clientes?*                                 | Personalización holística y adaptación continua | Entrenamientos sin equipo y comunidad | Rutinas inteligentes basadas en fatiga muscular | Mayor base de datos de alimentos |
+| **Perfil de Marketing**                                                                        |                                |                           |                        |                             |
+| **Mercado objetivo**                                                                           | Personas con poco tiempo que buscan solución todo-en-uno | Deportistas sin acceso a gimnasio | Usuarios de gimnasio que buscan progreso | Personas enfocadas en control nutricional |
+| **Estrategias de marketing**                                                                   | Freemium + alianzas corporativas (B2B) | Marketing de comunidad (retos virales) | Enfoque en resultados cuantificables | Partnership con wearables |
+| **Perfil de Producto**                                                                         |                                |                           |                        |                             |
+| **Productos & Servicios**                                                                      | - Rutinas adaptables<br>- Planes nutricionales<br>- Seguimiento de bienestar | - Entrenamientos por IA<br>- Nutrición básica | - Rutinas de fuerza<br>- Ajuste por equipamiento | - Tracking de calorías<br>- Recetario |
+| **Precios & Modelo**    | - Freemium y plan Premium                    | - Asesoramiento con costos variables. <br>- Pagos trimestrales, semestrales y anuales                              | - Pago mensual ($15.99) y pago anual                            | Freemium + $162.90/año (Premium)      |
+| **Canales Distribución**| - iOS/Android<br>- Web<br>  | - iOS/Android<br>- Web                  | - iOS/Android                         | - iOS/Android<br>- Web<br> |
+
+## Análisis SWOT
+
+| Elemento       | VibeFit - FitWise                                      | Freeletics                              | Fitbod                                 | MyFitnessPal                         |
+|----------------|-------------------------------------------------------|-----------------------------------------|----------------------------------------|-------------------------------------|
+| **Fortalezas** | - Solución integral<br>- IA adaptativa                | - Comunidad activa<br>- Sin equipos     | - Algoritmos de fatiga muscular        | - Base nutricional más completa      |
+| **Debilidades**| - Menor reconocimiento de marca                       | - Nutrición limitada                    | - No incluye nutrición                 | - Entrenamiento básico               |
+| **Oportunidades**| - Alianzas corporativas<br>- Expansión a wellness mental | - Mercado fitness casero              | - Integración con gimnasios           | - Dominio en tracking nutricional   |
+| **Amenazas**   | - Competidores establecidos<br>- Saturación de mercado | - Apps gratuitas con funciones similares | - Especialización limitada            | - Dependencia de integraciones      |
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
