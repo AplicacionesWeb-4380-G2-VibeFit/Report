@@ -489,6 +489,45 @@ En esta sección se documenta la recolección de información a través de entre
 
 #### 2.3.2. User Task Matrix
 
+En esta sección se presentan las tareas que los User Persona realizan para alcanzar sus objetivos de salud y bienestar. Las tareas listadas son independientes de la existencia de una aplicación, y reflejan acciones comunes realizadas por los usuarios en su vida cotidiana al momento de intentar adoptar hábitos saludables.  
+Los segmentos considerados son:
+
+- **Adultos Jóvenes Ocupados (25–40 años)**
+- **Jóvenes Universitarios Saludables en Formación (18–24 años)**
+
+| **Tarea / Task**                                 | **Alejandro Ríos (Adulto Joven Ocupado)** |                 | **Camila Fernández (Universitaria Saludable)** |                 |
+| ------------------------------------------------ | ----------------------------------------- | --------------- | ---------------------------------------------- | --------------- |
+|                                                  | **Frecuencia**                            | **Importancia** | **Frecuencia**                                 | **Importancia** |
+| Buscar recetas saludables adaptadas al tiempo    | Media                                     | Alta            | Alta                                           | Alta            |
+| Planificar tiempos para hacer ejercicio          | Baja                                      | Alta            | Media                                          | Media           |
+| Probar rutinas cortas en YouTube/TikTok          | Baja                                      | Media           | Alta                                           | Alta            |
+| Comer saludable fuera de casa                    | Alta                                      | Alta            | Baja                                           | Media           |
+| Medir o visualizar su progreso físico            | Media                                     | Alta            | Alta                                           | Alta            |
+| Compartir avances en redes sociales              | Baja                                      | Baja            | Alta                                           | Alta            |
+| Buscar motivación o inspiración                  | Media                                     | Media           | Alta                                           | Alta            |
+| Probar nuevas apps de fitness                    | Media                                     | Media           | Alta                                           | Alta            |
+| Pedir consejos a conocidos sobre salud/bienestar | Baja                                      | Media           | Media                                          | Media           |
+| Mantener constancia en rutinas de entrenamiento  | Baja                                      | Muy Alta        | Media                                          | Alta            |
+| Seguir influencers o cuentas fitness             | Baja                                      | Baja            | Alta                                           | Media           |
+
+- **Tareas con mayor frecuencia e importancia para ambos segmentos:**
+
+  - **Medir o visualizar el progreso físico:** ambas personas valoran poder ver resultados tangibles.
+  - **Buscar recetas saludables:** aunque difieren en contexto (tiempo vs. presupuesto), es una tarea clave para ambos.
+
+- **Tareas especialmente relevantes para Alejandro Ríos (Adulto Joven Ocupado):**
+
+  - **Planificar tiempo para entrenar y comer sano fuera de casa**, tareas que requieren mayor organización debido a su carga laboral.
+  - **Mantener constancia**, aunque su frecuencia es baja, su importancia es muy alta, lo que representa una oportunidad para diseñar soluciones que fomenten hábitos.
+
+- **Tareas especialmente relevantes para Camila Fernández (Universitaria):**
+
+  - **Compartir avances, probar nuevas apps y rutinas de TikTok**, muestra una fuerte necesidad de interacción visual y motivación social.
+  - **Buscar inspiración** es parte de su rutina, influenciada por redes sociales y contenido fitness moderno.
+
+- **Coincidencias:**
+  - Ambos buscan herramientas o estrategias para **mantener la motivación**, **organizar su alimentación** y **visualizar progreso**, aunque desde diferentes niveles de conocimiento, tiempo y objetivos.
+
 #### 2.3.3. User Journey Mapping
 
 #### 2.3.4. Empathy Mapping
