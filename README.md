@@ -485,7 +485,7 @@ En esta sección se documenta la recolección de información a través de entre
 
 - **Jóvenes Universitarios Saludables en Formación (18–24 años)**
 <p align="center">
-  <img src="./assets/persona2.png" alt="per2"/>
+  <img src="./assets/persona02.png" alt="per2"/>
 
 #### 2.3.2. User Task Matrix
 
