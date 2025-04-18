@@ -403,7 +403,7 @@ Antes de realizar las entrevistas, consideramos prudente realizar un análisis p
 
 ---
 
-### Segmento: Jóvenes Profesionales Urbanos (25 - 40 años)
+### Segmento: Adultos jóvenes ocupados (25 - 40 años)
 
 #### **Principales:**
 1. **Introducción al Rol:** ¿Podrías describir tu rol profesional y las principales responsabilidades que tienes en tu día a día?  
@@ -424,7 +424,7 @@ Antes de realizar las entrevistas, consideramos prudente realizar un análisis p
 
 ---
 
-### Segmento: Jóvenes Universitarios Saludables en Formación (18 - 24 años)
+### Segmento: Jóvenes universitarios saludables en formación (18 - 24 años)
 
 #### **Principales:**
 1. **Introducción al Rol:** ¿Cuál es tu situación actual? ¿Estás estudiando, trabajando o ambas cosas?  
