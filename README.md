@@ -540,6 +540,14 @@ Los segmentos considerados son:
 
 #### 2.3.4. Empathy Mapping
 
+- **Adultos Jóvenes Ocupados (25–40 años)**
+<p align="center">
+  <img src="./assets/emp1.png" alt="emp1"/>
+
+- **Jóvenes Universitarios Saludables en Formación (18–24 años)**
+  <p align="center">
+  <img src="./assets/emp2.png" alt="emp2"/>
+
 #### 2.3.5. As-is Scenario Mapping
 
 ### 2.4. Ubiquitous Language
