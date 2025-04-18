@@ -479,6 +479,14 @@ En esta sección se documenta la recolección de información a través de entre
 
 #### 2.3.1. User Personas
 
+- **Adultos Jóvenes Ocupados (25–40 años)**
+<p align="center">
+  <img src="./assets/persona1.png" alt="per1"/>
+
+- **Jóvenes Universitarios Saludables en Formación (18–24 años)**
+<p align="center">
+  <img src="./assets/persona2.png" alt="per2"/>
+
 #### 2.3.2. User Task Matrix
 
 #### 2.3.3. User Journey Mapping
