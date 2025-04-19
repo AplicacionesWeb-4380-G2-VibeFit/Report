@@ -625,6 +625,31 @@ Los segmentos considerados son:
 
 ### 3.3. Impact Mapping
 
+A continuación se cubrirán algunas User Story más importantes.
+
+#### Business Goal 1: 
+Incrementar la retención de usuarios en la plataforma en un 30% en 6 meses
+
+**URL de imagen:** [https://i.postimg.cc/YCDcpQQ5/image.png](https://i.postimg.cc/YCDcpQQ5/image.png)
+[![image.png](https://i.postimg.cc/YCDcpQQ5/image.png)](https://postimg.cc/75zt9Gs9)
+
+#### Business Goal 2: 
+Aumentar la conversión a planes premium en un 25% en 4 meses
+
+**URL de imagen:** [https://i.postimg.cc/L8b7d2pR/image.png](https://i.postimg.cc/L8b7d2pR/image.png)
+[![image.png](https://i.postimg.cc/L8b7d2pR/image.png)](https://postimg.cc/mP7VCxk6)
+
+#### Business Goal 3: 
+Lograr que el 40% de los usuarios registrados completen su perfil inicial en el primer mes
+
+**URL de imagen:** [https://i.postimg.cc/1Xs70zp0/image.png](https://i.postimg.cc/1Xs70zp0/image.png)
+[![image.png](https://i.postimg.cc/1Xs70zp0/image.png)](https://postimg.cc/LYQV22Qh)
+
+#### Business Goal 4: 
+Incrementar en un 20% las asesorías contratadas por usuarios activos en 3 meses
+
+**URL de imagen:** 
+
 ### 3.4. Product Backlog
 
 ## Capítulo IV: Product Design
