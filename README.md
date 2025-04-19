@@ -648,7 +648,8 @@ Lograr que el 40% de los usuarios registrados completen su perfil inicial en el 
 #### Business Goal 4: 
 Incrementar en un 20% las asesorías contratadas por usuarios activos en 3 meses
 
-**URL de imagen:** 
+**URL de imagen:** [https://i.postimg.cc/K8jTkyg1/image.png](https://i.postimg.cc/K8jTkyg1/image.png)
+[![image.png](https://i.postimg.cc/K8jTkyg1/image.png)](https://postimg.cc/rD6s33jT)
 
 ### 3.4. Product Backlog
 
