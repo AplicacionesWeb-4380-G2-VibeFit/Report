@@ -551,6 +551,28 @@ Los segmentos considerados son:
 #### 2.3.5. As-is Scenario Mapping
 
 ### 2.4. Ubiquitous Language
+El ubiquitous language es el conjunto de palabras claves que utilizaremos para referirnos a los distintos elementos de la aplicación. En estas palabras se usará el idioma inglés.
+
+**User:** persona que se ha registrado en la aplicación.
+**Profile:** el conjunto de datos del usuario (id, edad, altura, peso, etc).
+**Id:** el UUID asociado al User.
+**Experience level:** principiante/intermedio/avanzado.
+**Goal:** objetivo principal del usuario (perder peso, ganar masa muscular, resistencia, etc).
+
+**Routine:** conjunto de ejercicios asignados para lograr un objetivo.
+**Exercices:** refiérase a un ejercicio, cual sea su tipo.
+**Session:** la realización de una rutina.
+**Repetition:** la instancia de un ejercicio.
+**Serie:** la cantidad de repeticiones.
+
+**Diet plan:** conjunto de comidas asignado para lograr un objetivo.
+**Meal:** las comidas ingestarán durante el día (desayuno, almuerzo, cena).
+**Ingredient:** uno de los componentes básicos de una comida.
+**Calories:** la energía que proporciona un Meal.
+
+**Recomendations:** recomendaciones de rutinas y/o plan dietético basado en el perfil del usuario.
+**Custom plan:** rutinas y/o plan dietético creado y ajustado por el usuario.
+**Notifications:** recordatorios varios (sobre rutinas, hidratación, dieta, metas, etc).
 
 ## Capítulo III: Requirements Specification
 
