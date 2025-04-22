@@ -270,44 +270,48 @@ Soy xxxxxxxxx
 
 ### 1.3. Segmentos objetivo
 
-### 1. Adultos jóvenes ocupados (25 - 40 años)
+### 1. Adultos y jóvenes ocupados
 
 **Descripción:**  
-Hombres y mujeres que trabajan a tiempo completo, principalmente en zonas urbanas como Lima Metropolitana, interesados en mejorar su salud física. Debido a sus agendas ajustadas, buscan soluciones prácticas, rápidas y efectivas que puedan integrar fácilmente en su rutina diaria.
+Hombres y mujeres que trabajan a tiempo completo o parcial, estudian, residen principalmente en zonas urbanas como Lima Metropolitana, interesados en mejorar su salud física. Debido a sus agendas ajustadas, buscan soluciones prácticas, rápidas y efectivas que puedan integrar fácilmente en su rutina diaria.
 
 **Características clave:**  
-- Profesionales con horarios laborales intensos.  
+- Profesionales o estudiantes con horarios poco flexibles e intensos.  
 - Nivel socioeconómico medio a alto.  
 - Acceso frecuente y constante a smartphones.  
 - Metas claras de salud, pero requieren guía y motivación para alcanzarlas.  
 - Prefieren programas de entrenamiento y dietas flexibles y personalizables.
 
 **Datos de sustento:**  
-- Más del 65% de personas en Lima Metropolitana trabajan más de 40 horas semanales.  
-- El 70% de esta población no realiza actividad física de manera regular.  
-- Penetración de smartphones en Perú es del 91.6% (INEI, 2022).  
-- El 94.2% de los trabajadores en Lima cuentan con algún tipo de seguro de salud.  
-- Estudios indican que actividad física y sueño adecuado mejoran la autoevaluación de salud en adultos jóvenes.
+- La población ocupada en Lima Metropolitana fue de aproximadamente 5.46 millones entre diciembre 2024 y febrero 2025, con más del 54% en el rango de 25 a 44 años (INEI, 2025).
 
----
+- El 70% de la población no realiza actividad física de manera regular, lo que evidencia la necesidad de soluciones prácticas para mejorar la salud (Ministerio de Salud, 2023).
 
-### 2. Jóvenes universitarios saludables en formación (18 - 24 años)
+- La penetración de smartphones en Perú es del 91.6%, facilitando el acceso a aplicaciones móviles para salud y bienestar (INEI, 2022).
+
+- El 45% de jóvenes peruanos manifiesta interés en llevar una vida más saludable (Ipsos Perú, 2023).
+
+### 2. Entrenadores y profesionales del fitness
 
 **Descripción:**  
-Estudiantes universitarios o egresados recientes que están consolidando hábitos saludables. Tienen mayor disponibilidad de tiempo, pero menor conocimiento técnico y poder adquisitivo limitado. Son nativos digitales, influenciados por redes sociales y tendencias fitness, y buscan aplicaciones atractivas, visuales y motivadoras.
+Entrenadores personales, coaches de fitness y otros profesionales del sector salud y bienestar que buscan una herramienta para gestionar mejor a sus clientes y optimizar los entrenamientos que ofrecen. Este segmento busca una plataforma para crear rutinas personalizadas, realizar seguimientos y brindar un servicio más eficiente.
 
 **Características clave:**  
-- Alta actividad en redes sociales y consumo de contenido digital.  
-- Prefieren contenido interactivo y gamificación para mantener la motivación.  
-- Disponen de tiempo para entrenar, pero necesitan orientación técnica.  
-- Interés en recetas saludables, especialmente peruanas y fáciles de preparar.
+- Profesionales del fitness con experiencia en la creación de rutinas personalizadas.  
+- Interesados en herramientas tecnológicas para mejorar la gestión de clientes.  
+- Buscan integrar la tecnología para optimizar su trabajo y aumentar su alcance.  
+- Valoran las funciones de análisis de datos y seguimiento del progreso de los clientes.  
+- Necesitan una plataforma que sea fácil de usar tanto para ellos como para sus clientes.
 
 **Datos de sustento:**  
-- El 45% de jóvenes peruanos busca llevar una vida más saludable (Ipsos, 2023).  
-- El 94% accede a internet principalmente desde sus celulares.  
-- Alta disposición a probar nuevas aplicaciones si son visuales y gratuitas o con modelo freemium.  
-- Solo un 24.8% realiza actividad física recomendada diariamente.  
-- La cobertura de seguro de salud en jóvenes de 18 a 29 años aumentó del 50.7% al 64.3% entre 2011 y 2016.
+- El mercado global de la industria del fitness alcanzó $97.1 mil millones en 2023, con un crecimiento anual proyectado del 7.5% (IBISWorld, 2023).
+
+- El 30% de entrenadores personales en mercados urbanos utiliza aplicaciones digitales para gestionar rutinas y seguimiento de clientes (Statista, 2023).
+
+- El 85% de entrenadores están interesados en herramientas digitales para mejorar la comunicación y seguimiento de resultados (American Council on Exercise, 2023).
+
+- En Perú, el 40% de gimnasios y centros fitness planean adoptar tecnología digital para mejorar la experiencia del cliente (Estudio de mercado Perú, 2023).
+
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
@@ -390,20 +394,18 @@ El referente en tracking nutricional con:
 | **Fitbod**   | Solo para gimnasio                  | Rutinas con sillas/botellas de agua  |
 | **MyFitnessPal**| Interface obsoleta               | Diseño mobile-first más intuitivo    |
 
-## 2.2 Entrevistas
-En esta sección del informe se realizará el diseño, registro y análisis de las entrevistas de nuestros segmentos objetivos.
-
 ### 2.2.1 Diseño de entrevistas
-Segmentos encontrados:
 
-- **Jóvenes Profesionales Urbanos (25 - 40 años)**
-- **Jóvenes Universitarios Saludables en Formación (18 - 24 años)**
+**Segmentos encontrados:**
+
+- **Adultos y jóvenes ocupados**
+- **Entrenadores y profesionales del fitness**
 
 Antes de realizar las entrevistas, consideramos prudente realizar un análisis previo para llevar a cabo las entrevistas de la manera más efectiva. Para cada uno de nuestros segmentos, proponemos las siguientes preguntas para conocer mejor a nuestro público objetivo.
 
 ---
 
-### Segmento: Adultos jóvenes ocupados (25 - 40 años)
+### Segmento: Adultos y jóvenes ocupados
 
 #### **Principales:**
 1. **Introducción al Rol:** ¿Podrías describir tu rol profesional y las principales responsabilidades que tienes en tu día a día?  
@@ -424,24 +426,25 @@ Antes de realizar las entrevistas, consideramos prudente realizar un análisis p
 
 ---
 
-### Segmento: Jóvenes universitarios saludables en formación (18 - 24 años)
+### Segmento: Entrenadores y profesionales del fitness
 
 #### **Principales:**
-1. **Introducción al Rol:** ¿Cuál es tu situación actual? ¿Estás estudiando, trabajando o ambas cosas?  
-2. **Estilo de Vida:** ¿Cómo describirías tu estilo de vida, tanto en términos de actividad física como de alimentación?  
-3. **Prioridades de Salud:** ¿Qué tan importante es para ti mantener una vida saludable en este momento de tu vida?  
-4. **Desafíos en la Salud:** ¿Qué dificultades encuentras para mantenerte activo/a o alimentarte saludablemente?  
-5. **Motivación para la Actividad Física:** ¿Qué te motiva a seguir una rutina de ejercicios?  
-6. **Tecnología y Bienestar:** ¿Qué tipo de herramientas digitales (aplicaciones, plataformas) utilizas para ayudarte a llevar una vida más saludable?  
-7. **Intereses en Fitness:** ¿Te gustaría que una app de fitness incluyera retos, logros o niveles para mantenerte motivado/a?  
-8. **Preferencias de Ejercicio:** ¿Qué tipo de ejercicios o entrenamientos prefieres hacer?  
-9. **Dieta Saludable:** ¿Te interesa seguir una dieta saludable? ¿Qué tipo de planes de alimentación serían más atractivos para ti?  
-10. **Personalización:** ¿Qué tan importante es para ti que una app se adapte a tus horarios, metas y preferencias alimenticias locales (como recetas peruanas saludables)?  
-11. **Herramientas de Motivación:** ¿Qué características te gustaría ver en una app que te ayuden a mantener la motivación y constancia?  
-12. **Accesibilidad:** ¿Prefieres entrenar en casa o en el gimnasio? ¿Cómo podría una app apoyarte en cualquiera de esos entornos?  
-13. **Interacción Social:** ¿Te gustaría que la app tuviera una opción para interactuar con amigos o una comunidad de usuarios?  
-14. **Disposición a Pagar:** Si una app de bienestar se ajusta a tus necesidades, ¿estarías dispuesto/a a pagar por una versión premium?  
-15. **Expectativas de la App:** ¿Qué expectativas tienes de una app para ayudarte a alcanzar tus objetivos de bienestar físico y mental? ¿Qué funcionalidades te gustaría que tuviera?
+1. **Introducción al Rol:** ¿Podrías describir tu experiencia profesional en el mundo del fitness? ¿Cuáles son tus principales responsabilidades como entrenador o profesional del bienestar?  
+2. **Tipo de Clientes:** ¿Qué tipo de clientes sueles atender (por ejemplo, deportistas, personas que buscan perder peso, mejorar su condición física, etc.)?  
+3. **Métodos de Entrenamiento:** ¿Qué tipo de programas o rutinas de entrenamiento sueles diseñar para tus clientes?  
+4. **Uso de Tecnología:** ¿Qué herramientas o aplicaciones utilizas actualmente para gestionar a tus clientes, diseñar rutinas o hacer un seguimiento de su progreso?  
+5. **Desafíos en la Gestión de Clientes:** ¿Cuáles son los principales desafíos que enfrentas al gestionar a tus clientes, ya sea en el aspecto físico o en el seguimiento de sus metas?  
+6. **Necesidades de Herramientas Digitales:** ¿Qué funcionalidades consideras esenciales en una aplicación que utilices como entrenador?  
+7. **Interacción con Clientes:** ¿Qué tan importante es para ti poder mantener una comunicación constante con tus clientes a través de una aplicación? ¿Qué canales prefieres para interactuar con ellos (mensajes, seguimiento en tiempo real, etc.)?  
+8. **Valor de la Personalización:** ¿Qué tan valiosa consideras que sea la personalización de los programas de entrenamiento y dieta según las necesidades individuales de cada cliente?  
+9. **Análisis de Progreso:** ¿Cuánto valoras la capacidad de una app para ofrecer análisis detallados sobre el progreso de tus clientes (como métricas de rendimiento, estadísticas de entrenamiento, etc.)?  
+10. **Integración de Plataformas:** ¿Te gustaría que una app de bienestar pudiera integrarse con otras plataformas o dispositivos que ya usas (como monitores de frecuencia cardíaca, apps de nutrición, etc.)?  
+11. **Soporte y Formación:** ¿Qué tipo de soporte o formación te gustaría recibir para utilizar mejor una app de bienestar con tus clientes?  
+12. **Satisfacción del Cliente:** ¿Qué tan importante es para ti que la app también sea amigable para los usuarios finales, en este caso, tus clientes? ¿Qué funcionalidades crees que mejorarían su experiencia?  
+13. **Feedback y Mejora Continua:** ¿Te gustaría que la app incluyera mecanismos de retroalimentación para ayudarte a mejorar tus métodos de entrenamiento basados en los resultados de tus clientes?  
+14. **Disposición a Pagar:** ¿Estarías dispuesto a pagar por una herramienta que te permita ofrecer servicios más personalizados, eficientes y escalables a tus clientes? ¿Qué características justificarían el costo?  
+15. **Competencia:** ¿Qué diferencias ves entre las apps o herramientas actuales en el mercado para entrenadores? ¿Qué te gustaría que hiciera una nueva app que aún no ofrecen otras soluciones?  
+16. **Expectativas:** ¿Cuáles son tus expectativas al integrar una nueva app o tecnología en tu trabajo como entrenador o profesional del fitness?
 
 ---
 
