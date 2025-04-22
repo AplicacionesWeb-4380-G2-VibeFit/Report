@@ -450,31 +450,21 @@ Antes de realizar las entrevistas, consideramos prudente realizar un análisis p
 
 ### 2.2.2. Registro de entrevistas
 
-En esta sección se documenta la recolección de información a través de entrevistas realizadas a representantes de los segmentos objetivo. Para esta investigación, se consideraron dos grupos clave: adultos jóvenes ocupados (25 - 50 años) y jóvenes universitarios saludables en formación (18 - 24 años). El propósito es comprender sus necesidades, desafíos y expectativas para el desarrollo de la aplicación VibeFit, enfocada en promover un estilo de vida saludable y activo.
-
-
-| **Entrevista 1** |
-|------------------|
-| <strong>Nombre:</strong> Robert Joaquín Reyna Bohorquez |
-| <strong>Edad:</strong> 21 |
-| <strong>Procedencia:</strong> Lima |
-| <strong>Segmento:</strong> Jóvenes Universitarios Saludables en Formación (18 - 24 años) |
-| <strong>Resumen:</strong> Joaquín comenta que su principal desafío es la falta de tiempo, ya que estudia, entrena y trabaja. Es deportista y forma parte de un club que le brinda la oportunidad de competir los fines de semana, lo cual complementa sus ingresos. Considera útil una aplicación que le permita optimizar su entrenamiento, establecer metas claras, llevar un seguimiento de su progreso y compararse con sus amigos. También menciona que desearía incorporar alimentos típicos de la gastronomía peruana, como el lomo saltado y el ají de gallina, dentro de una dieta saludable propuesta por la app. |
-| <strong>Enlace de video:</strong> [https://drive.google.com/file/d/1I44cwCY-cDnWPcggkDgdEYffWx4QfPVJ/view?usp=sharing](https://drive.google.com/file/d/1I44cwCY-cDnWPcggkDgdEYffWx4QfPVJ/view?usp=sharing) |
-| <strong>Foto del entrevistado:</strong><br><img src="./assets/Joaquin.png" alt="Joaquin" height="200"/> |
+En esta sección se documenta la recolección de información a través de entrevistas realizadas a representantes de los segmentos objetivo. Para esta investigación, se consideraron dos grupos clave: adultos jóvenes ocupados y entrenadores y profesionales del fitness. El propósito es comprender sus necesidades, desafíos y expectativas para el desarrollo de la aplicación VibeFit, enfocada en promover un estilo de vida saludable y activo.
 
 &nbsp;
 
-| **Entrevista 2** |
+| **Entrevista 1** |
 |------------------|
 | <strong>Nombre:</strong> Christopher Adrián Carlos Urcia Tardío |
 | <strong>Edad:</strong> 27 |
 | <strong>Procedencia:</strong> Lima |
-| <strong>Segmento:</strong> Adultos jóvenes ocupados (25 - 40 años) |
+| <strong>Segmento:</strong> Adultos y jóvenes ocupados |
 | <strong>Resumen:</strong> Christopher trabaja como asistente en oficina, con una jornada de 9 a 5. Su rutina diaria incluye organizar reuniones, responder correos y colaborar en pequeños proyectos. Luego del trabajo, dedica tiempo al estudio y procura mantenerse activo a través del ejercicio, lectura o actividades recreativas. Considera muy importante llevar un estilo de vida saludable, aunque a veces enfrenta obstáculos como la falta de tiempo y motivación. Utiliza una aplicación para registrar su actividad física y alimentación, lo que le ayuda a mantenerse enfocado. Ha probado diferentes dietas, pero lo que más le ha funcionado es mantener hábitos sostenibles. Cree que la tecnología puede ser una gran aliada para organizar sus rutinas, reducir el estrés con herramientas como meditación, y recibir recordatorios personalizados. Le gustaría una app que se adapte a sus horarios, personalice entrenamientos y planes alimenticios, y que incluya funciones de comunidad, retos y seguimiento personalizado. Está dispuesto a pagar por una app que cumpla con estas expectativas. |
 | <strong>Enlace de video:</strong> [https://drive.google.com/file/d/1CefdfzctUQmsBDRiMwWRxyFM35zNvKiG/view?usp=sharing](https://drive.google.com/file/d/1CefdfzctUQmsBDRiMwWRxyFM35zNvKiG/view?usp=sharing) |
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/Urcia.png" alt="Urcia" height="200"/> |
 
+&nbsp;
 
 #### 2.2.3. Análisis de entrevistas
 
