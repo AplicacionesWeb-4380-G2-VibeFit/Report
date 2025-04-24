@@ -466,7 +466,7 @@ En esta sección se documenta la recolección de información a través de entre
 
 &nbsp;
 
-| **Entrevista 1** |
+| **Entrevista 2** |
 |------------------|
 | <strong>Nombre:</strong> Joaquin Pedraza Zapata |
 | <strong>Edad:</strong> 20 |
