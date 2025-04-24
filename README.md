@@ -431,23 +431,23 @@ El referente en tracking nutricional con:
 ##### 1. **Diferenciación Básica pero Clave**
 **Objetivo:** Destacar con 1-2 features únicas sin sobrecargar desarrollo
 - **Tácticas alcanzables:**
-  - 🥗 **"Plan Nutricional Express"**: Menús semanales simples (5 ingredientes max) para usuarios sin tiempo
-  - 🏋️ **Rutinas de 15 min** enfocadas en hogar/oficina (vs competidores con rutinas largas)
-  - 🤖 **Recordatorios humanos**: Notificaciones con lenguaje motivacional (ej: "¡Vamos, [nombre]! Tu sesión de 15 min está lista")
+  -  **"Plan Nutricional Express"**: Menús semanales simples (5 ingredientes max) para usuarios sin tiempo
+  -  **Rutinas de 15 min** enfocadas en hogar/oficina (vs competidores con rutinas largas)
+  -  **Recordatorios humanos**: Notificaciones con lenguaje motivacional (ej: "¡Vamos, [nombre]! Tu sesión de 15 min está lista")
 
 ##### 2. **Enfoque en Nichos Específicos**
 **Objetivo:** Evitar competir frontalmente con apps establecidas
 - **Tácticas:**
-  - 👩‍💻 **"Workfrom Fitness"**: Rutinas para teletrabajadores (estiramientos, pausas activas)
-  - 👵 **Versión senior light**: Adaptar ejercicios para adultos mayores (mercado poco atendido)
+  -  **"Workfrom Fitness"**: Rutinas para teletrabajadores (estiramientos, pausas activas)
+  -  **Versión senior light**: Adaptar ejercicios para adultos mayores (mercado poco atendido)
 
 ##### 3. **Alianzas de Bajo Costo**
 **Objetivo:** Ganar visibilidad sin gran inversión
 - **Tácticas:**
-  - 🤝 Colaborar con micro-influencers locales (500-5K seguidores) a cambio de acceso premium
-  - 🏢 Ofrecer prueba gratuita a 2-3 startups pequeñas (feedback + casos de uso)
+  -  Colaborar con micro-influencers locales (500-5K seguidores) a cambio de acceso premium
+  -  Ofrecer prueba gratuita a 2-3 startups pequeñas (feedback + casos de uso)
 
-#### ⚡ **Acciones por Competidor (Enfoque Práctico)**
+####  **Acciones por Competidor (Enfoque Práctico)**
 
 | Competidor   | Aprovechar Debilidad                | Solución Simple                      |
 |--------------|-------------------------------------|--------------------------------------|
@@ -539,6 +539,8 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Enlace de video:</strong>  https://www.mediafire.com/file/opz4ufwqupod8us/2025-04-23+00-38-08.mp4/file|
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/JOAKO.png" alt="JOAKO" height="200"/> |
 
+&nbsp;
+
 | **Entrevista 3** |
 |------------------|
 | <strong>Nombre:</strong> Alexia Jesus Acuña Calderon |
@@ -549,6 +551,8 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Enlace de video:</strong>  https://www.mediafire.com/file/opz4ufwqupod8us/2025-04-23+00-38-08.mp4/file|
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/ALEXIA.png" alt="ALEXIA" height="200"/> |
 
+&nbsp;
+
 | **Entrevista 4** |
 |------------------|
 | <strong>Nombre:</strong> Renzo Tomas Dueñas |
@@ -558,6 +562,20 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Resumen:</strong> Renzo tiene 2 años de experiencia como entrenador en gimnasios, especializado en la preparación física. Sus clientes suelen ser personas que buscan perder peso, ganar masa muscular o mejorar su rendimiento deportivo. Sus programas incluyen rutinas en máquinas de gimnasio y dietas personalizadas, según las necesidades de cada cliente. Actualmente, usa Excel para hacer seguimiento y WhatsApp para comunicarse, motivar y resolver dudas. Le parece atractiva la idea de una comunidad de entrenadores dentro de una aplicación, donde puedan compartir consejos y recomendaciones. Además, considera clave que la plataforma sea fácil de usar para sus clientes, ya que no deben frustrarse al utilizarla. Estaría dispuesto a pagar por una herramienta que facilite su trabajo y comunicación, siempre que el precio sea razonable.  |
 | <strong>Enlace de video:</strong>  https://www.mediafire.com/file/opz4ufwqupod8us/2025-04-23+00-38-08.mp4/file|
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/RENZO.png" alt="RENZO" height="200"/> |
+
+&nbsp;
+
+| **Entrevista 5** |
+|------------------|
+| **Nombre:** Gino Renatto Tineo Ynga |
+| **Edad:** 24 |
+| **Procedencia:** Lima |
+| **Segmento:** Entrenadores y profesionales del fitness |
+| **Resumen:** Gino Tineo, entrenador personal con varios años de experiencia, se especializa en diseñar planes personalizados de entrenamiento enfocados en fuerza, cardio, movilidad y funcionalidad, dirigidos a una amplia gama de clientes, desde personas que desean mejorar su salud hasta atletas. Utiliza herramientas como MyFitnessPal, Trainerize y Google Sheets para la gestión de rutinas y seguimiento del progreso. Destaca la importancia de la constancia del cliente, la personalización de programas, y una comunicación constante a través de apps o WhatsApp. Considera esencial que una app de bienestar sea intuitiva, personalizable, integrada con otros dispositivos, y que ofrezca análisis detallados del progreso. Estaría dispuesto a pagar por una solución que mejore la eficiencia, escalabilidad y experiencia tanto para él como para sus clientes. |
+| **Enlace de video:** [https://drive.google.com/file/d/1JM1VFKlOb5gjg_1NJ1n5pVgYztdiGKkV/view?usp=sharing](https://drive.google.com/file/d/1JM1VFKlOb5gjg_1NJ1n5pVgYztdiGKkV/view?usp=sharing) |
+| **Foto del entrevistado:**<br><img src="./assets/Gino.png" alt="Gino" height="200"/> |
+
+
 
 #### 2.2.3. Análisis de entrevistas
 
