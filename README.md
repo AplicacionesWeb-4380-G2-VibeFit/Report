@@ -787,7 +787,16 @@ Link del diagrama de clases: https://lucid.app/lucidchart/820c8fb4-d02f-4642-ba8
 
 #### 4.8 Database Design
 
+El diseño de la base de datos será fundamental para nuestro proyecto, ya que proporcionará la estructura subyacente para almacenar y gestionar
+los datos de manera eficiente y segura. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su recuperación y
+manipulación en respuesta a las solicitudes de los usuarios.
+
 #### 4.8.1. Database Diagram
+
+<p align="center">
+  <img src="./assets/DiagramaDBWeb.png" alt="DiagramaDBWeb" />
+</p>
+
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
