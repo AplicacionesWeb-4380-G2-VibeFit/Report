@@ -636,11 +636,56 @@ Los segmentos considerados son:
 
 #### 2.3.5. As-is Scenario Mapping
 
+**Jóvenes Profesionales Urbanos**
+Esta sección presenta el As-Is Scenario Mapping de jóvenes profesionales que buscan mejorar su salud mediante entrenamiento y dieta. A partir de una lluvia de ideas, el equipo identificó las etapas clave de su experiencia, considerando acciones, pensamientos y emociones. El mapeo resalta aspectos positivos, dificultades y áreas a investigar para optimizar su recorrido.
+
+  <p align="center">
+  <img src="./assets/as-is1.jpg" alt="asis1"/>
+
+**Jóvenes Universitarios Saludables en Formación**
+Esta sección presenta el As-Is Scenario Mapping de jóvenes universitarios que buscan mejorar su rendimiento deportivo o apariencia física mediante entrenamiento y dieta. El equipo identificó las etapas clave de su experiencia, incluyendo acciones, pensamientos y emociones. El mapeo revela aciertos, dificultades y aspectos que requieren mayor análisis, sirviendo como base para mejorar su proceso.
+
+  <p align="center">
+  <img src="./assets/as-is2.jpg" alt="asis2"/>
+
 ### 2.4. Ubiquitous Language
+
+
+| Termino | Significado dentro del dominio de la app       |
+|---------|-------------|
+| Usuario ocupado | Persona entre 25 y 40 años con poco tiempo libre, que busca mejorar su salud de forma eficiente.|
+| Universitario saludable | Joven entre 18 y 24 años que busca mejorar su físico o rendimiento deportivo con hábitos saludables.|
+|Plan personalizado| Rutina de ejercicios y plan nutricional adaptado a los objetivos, tiempo disponible y nivel del usuario.|
+|Adaptabilidad|	Capacidad de la app para ajustarse dinámicamente al contexto y cambios del usuario (tiempo, ánimo, progreso).|
+|Gamificación	|Elementos lúdicos en la app como logros, niveles, desafíos o insignias que fomentan la constancia.|
+|Plan Nutricional Express	|Menús simples, rápidos y accesibles, especialmente diseñados para usuarios con poco tiempo o recursos.|
+|Workfrom Fitness|	Entrenamientos breves enfocados en personas que trabajan desde casa (pausas activas, estiramientos, etc.).|
+|Freemium	|Modelo de negocio en el que la app ofrece una versión gratuita básica, con opción a pagar por funcionalidades premium.|
+|Acompañamiento constante|	Función que asegura que el usuario sienta seguimiento y apoyo continuo, ya sea mediante IA, notificaciones o comunidad.|
+|Plan flexible	|Rutina o dieta que puede modificarse según el día, el estado de ánimo o el tiempo disponible del usuario.
+|Comunidad	|Espacio dentro de la app donde los usuarios pueden interactuar, compartir logros y participar en desafíos.|
+|Retos semanales	|Micro objetivos o desafíos dentro de la app que incentivan el uso frecuente y construyen hábito.|
+|Bienestar integral	|Concepto que combina salud física, mental y emocional en la propuesta de valor de la app.|
+|Tracking	|Registro y seguimiento de actividad física, alimentación, sueño, o estado de ánimo del usuario.|
+|Fit Journey	|Camino del usuario desde su punto de partida hasta sus metas de bienestar, visualizado dentro de la app.|
+
 
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
+
+**Jóvenes Profesionales Urbanos**
+En esta sección se presenta el To-Be Scenario Mapping para el segmento de Jóvenes Profesionales Urbanos. El equipo llevó a cabo una fase de preparación y lluvia de ideas para definir las etapas clave de una experiencia mejorada al buscar rutinas de ejercicio y planes alimenticios enfocados en el bienestar integral. Este mapeo compara el escenario actual (As-Is) con el escenario ideal (To-Be), destacando los cambios que pueden mejorar las acciones, pensamientos y emociones del usuario, con el objetivo de brindar una experiencia más útil, motivadora y personalizada.
+
+  <p align="center">
+  <img src="./assets/to-be1.jpg" alt="tobe1"/>
+
+
+**Jóvenes Universitarios Saludables en Formación**
+Esta sección presenta el To-Be Scenario Mapping para el perfil de Jóvenes Universitarios Saludables en Formación. A través de un proceso de análisis y lluvia de ideas, se definieron las etapas de una experiencia mejorada al buscar rutinas de entrenamiento y planes alimenticios orientados a mejorar su rendimiento deportivo o apariencia física. La comparación con el escenario actual (As-Is) permite identificar oportunidades para optimizar sus acciones, pensamientos y emociones, brindando una experiencia más efectiva y motivadora.
+
+  <p align="center">
+  <img src="./assets/to-be2.jpg" alt="tobe2"/>
 
 ### 3.2. User Stories
 
