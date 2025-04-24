@@ -909,6 +909,123 @@ Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
 
 #### 4.2.2. Labeling Systems
 
+##### 1. Landing Page
+
+###### a) Navegación Principal
+| Elemento Menú    |Explicación                                                                                     |
+|------------------|------------------------------------------------------------------------------------------------|
+| **Home**         | Página principal que muestra una visión general de los servicios y ofrece acceso rápido a las principales funcionalidades. Incluye el llamado a acción principal ("Empieza gratis"). |
+| **Information**  | Sección detallada que explica cómo funciona la plataforma, metodologías utilizadas y requisitos técnicos necesarios para usar los servicios. |
+| **Benefits**     | Listado de ventajas competitivas, mostrando comparativas entre planes gratuitos y premium, con testimonios reales de usuarios. |
+| **About us**     | Información corporativa: historia de la marca, equipo profesional, certificaciones y valores de la compañía. |
+| **Contact us**    | Formulario de contacto directo con soporte técnico, ubicación física (si aplica) y horarios de atención. |
+| **Follow us**    | Enlaces a redes sociales (Facebook, Instagram, YouTube) y opción para suscribirse al newsletter. |
+
+###### b) Sección Hero
+| Elemento            | Etiqueta                          | Notas de Uso                                                                 |
+|---------------------|-----------------------------------|------------------------------------------------------------------------------|
+| **Título principal**  | "Transforma tu salud, sin complicaciones" | - Frase motivacional <br> - Incluye beneficio clave (simplicidad) <br> - 7 palabras cumple mejor práctica |
+| **Subtítulo**        | "Entrena y aliméntate con planes 100% personalizados" | - Explica el valor diferencial <br> - Usa "tú" para personalización <br> - 9 palabras (límite recomendado) |
+| **Llamada secundaria** | "Tú decides cuándo y cómo empezar" | - Empodera al usuario <br> - Refuerza flexibilidad <br> - 7 palabras |
+| **CTA principal**     | "Empieza Gratis"                  | - Verbo en imperativo <br> - Color naranja (#FF9800) para destacar <br> - Mayúscula en "Gratis" para énfasis |
+
+###### c) Sección de Beneficios
+| Elemento            | Etiqueta                    | Descripción |
+|---------------------|-----------------------------|-------------|
+| **Título principal** | "¿Por qué elegir FitWise?" | Encabezado emocional que siembra un poco de curiosidad por el servicio. |
+| **Rutinas**         | "Entrenamientos 100% adaptados" | Destaca la personalización extrema con número concreto ("100%") para generar confianza inmediata. Incluye icono de pesa (🏋️). |
+| **Plan nutricional** | "Comidas rápidas y saludables" | Comunica dos beneficios clave en 4 palabras: velocidad + salud. Icono de ensalada (🥗) para reconocimiento visual. |
+| **Seguimiento**     | "Motivación constante"       | Unifica los conceptos de recordatorios y enfoque en una sola etiqueta activa. Subtexto explica el cómo: "Notificaciones personalizadas". Icono de campana (🔔). |
+
+###### d) Sección de Sobre Nosotros
+| Elemento            | Etiqueta                    | Descripción |
+|---------------------|-----------------------------|-------------|
+| **Título principal** | "Impulsamos tu bienestar físico y mental con tecnología" | Comunica el propósito central de la empresa integrando los tres pilares (físico, mental y tecnológico) en una frase inspiradora. |
+| **Descripción**     | "VibeFit es una startup tecnológica creada por estudiantes..." | Texto de presentación que establece credibilidad (origen académico), propuesta de valor (salud accesible/personalizada) y filosofía (hábitos constantes). |
+| **Producto destacado** | "Desarrollamos **FitWise**, una app que integra..." | Destaca el nombre del producto en negrita y explica su diferencial (integración de entrenamiento, nutrición y bienestar). |
+| **Sección equipo**   | "Nuestro equipo"            | Encabezado preparatorio para presentar a los miembros fundadores (debe incluir fotos, roles y mini-bios en el diseño final). |
+
+###### e) Sección de Contactanos
+| Elemento            | Etiqueta                    | Descripción |
+|---------------------|-----------------------------|-------------|
+| **Título principal** | "¿Listo para transformar tu vida?" | Encabezado en formato H1 que plantea una pregunta directa al usuario para generar engagement. |
+| **Texto descriptivo** | "Conéctate con entrenadores expertos..." | Párrafo complementario que explica el valor principal del servicio (acceso a profesionales) y el beneficio final (vida saludable). |
+| **Campo de entrada** | "Enter your email..." | Campo de formulario con placeholder que indica dónde ingresar el correo electrónico. |
+| **Botón CTA**       | "Get started"               | Botón de llamado a acción principal con texto en inglés que invita a comenzar el proceso. |
+
+###### d) Sección de Información
+| Elemento            | Etiqueta                    | Descripción |
+|---------------------|-----------------------------|-------------|
+| **Encabezado de sección** | "SOBRE FITWISE" | Texto en mayúsculas que funciona como título identificador de la sección, con espaciado entre letras para mejor legibilidad. |
+| **Título principal** | "Tu guía completa hacia una vida saludable" | Encabezado H1 que establece el posicionamiento central del producto como solución integral para el bienestar. |
+| **Descripción del producto** | "FitWise es una aplicación web y móvil que combina..." | Párrafo descriptivo que enumera los componentes clave de la plataforma (ejercicio, nutrición, seguimiento) y su público objetivo (personas con poco tiempo). |
+| **Botón de acción** | "Conoce más" | Elemento interactivo que permite al usuario acceder a información adicional, presentado como texto hipervinculado o botón según diseño. |
+
+##### 2. Aplicación Web
+
+###### a) Navegación Global
+| Elemento            | Etiqueta          | Ubicación       | Estado Activo       |
+|---------------------|-------------------|-----------------|---------------------|
+| Inicio             | Mi progreso       | Barra lateral   | Icono azul (#2196F3)|
+| Nutrición          | Mi alimentación   |                 |                     |
+| Entrenamiento      | Mis rutinas       |                 |                     |
+| Asesorías          | Profesionales     |                 |                     |
+
+###### b) Panel de Control
+| Elemento            | Etiqueta          | Contexto                 |
+|---------------------|-------------------|--------------------------|
+| Resumen semanal    | Esta semana       | Sección superior         |
+| Último entrenamiento | Continuar rutina | Botón naranja (#FF9800)  |
+| Próxima cita       | Tu próxima sesión | Con fecha y hora         |
+
+###### c) Formularios
+| Elemento            | Etiqueta          | Validación               |
+|---------------------|-------------------|--------------------------|
+| Campo peso         | Peso (kg)         | Rango 30-300kg           |
+| Campo altura       | Altura (cm)       | Rango 100-250cm          |
+| Botón enviar       | Guardar cambios   | Deshabilitado si hay errores |
+
+##### 3. Convenciones Transversales
+
+###### a) Estados
+| Estado              | Etiqueta          | Color         |
+|---------------------|-------------------|---------------|
+| Éxito              | ¡Listo!           | Verde (#4CAF50)|
+| Error              | Alerta            | Rojo (#F44336)|
+| Advertencia        | Atención          | Amarillo (#FFC107)|
+
+###### b) Tamaños de Texto
+| Jerarquía          | Tamaño   | Uso típico          |
+|--------------------|----------|---------------------|
+| H1                 | 24px     | Títulos principales |
+| H2                 | 20px     | Subtítulos          |
+| Body               | 16px     | Texto normal        |
+| Notas              | 14px     | Texto secundario    |
+
+##### 4. Reglas de Implementación
+
+1. **Consistencia lingüística:**
+   - Siempre "tú" en lugar de "usted"
+   - Imperativos en CTAs ("Completa", "Guarda", "Comienza")
+
+2. **Accesibilidad:**
+   - Alt text para iconos: "Icono de nutrición (manzana)"
+   - Etiquetas ARIA para elementos interactivos
+
+3. **Localización:**
+   - Versión LATAM: "Ejercicios" en lugar de "Workouts"
+   - Formatos de fecha: DD/MM/AAAA
+
+## 5. Ejemplos de Buenas Prácticas
+
+✅ **Correcto:**
+- "Ver progreso completo" (acción clara)
+- "Peso actual: 70kg" (dato específico)
+
+❌ **Evitar:**
+- "Click aquí" (no descriptivo)
+- "Sección 4A" (sin significado)
+
 #### 4.2.3. SEO Tags and Meta Tags
 
 #### 4.2.4. Searching Systems
@@ -918,7 +1035,9 @@ Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
 ### 4.3. Landing Page UI Design
 
 #### 4.3.1. Landing Page Wireframe
+
 <img src="./assets/Wireframe - Landing.png" alt="landing wrfrm"/>
+
 #### 4.3.2. Landing Page Mock-up
 
 ### 4.4. Web Applications UX/UI Design
