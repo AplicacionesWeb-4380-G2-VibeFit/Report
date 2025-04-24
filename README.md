@@ -539,6 +539,26 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Enlace de video:</strong>  https://www.mediafire.com/file/opz4ufwqupod8us/2025-04-23+00-38-08.mp4/file|
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/JOAKO.png" alt="JOAKO" height="200"/> |
 
+| **Entrevista 3** |
+|------------------|
+| <strong>Nombre:</strong> Alexia Jesus Acuña Calderon |
+| <strong>Edad:</strong> 25 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Adultos y jóvenes ocupados |
+| <strong>Resumen:</strong> Alexia, de 25 años, es egresada universitaria y trabaja como coordinadora de pruebas de lunes a viernes, de 8 a.m. a 6 p.m. En su tiempo libre estudia para mantenerse actualizada. Los fines de semana también estudia, pero por las tardes asiste al gimnasio, ya que considera importante cuidar su salud física como forma de combatir el estrés y el sedentarismo laboral. Valora una aplicación integral que le ofrezca funciones como recordatorios, rutinas de ejercicio, plan de alimentación, y otras herramientas en un solo lugar, sin necesidad de usar múltiples apps. |
+| <strong>Enlace de video:</strong>  https://www.mediafire.com/file/opz4ufwqupod8us/2025-04-23+00-38-08.mp4/file|
+| <strong>Foto del entrevistado:</strong><br><img src="./assets/ALEXIA.png" alt="ALEXIA" height="200"/> |
+
+| **Entrevista 4** |
+|------------------|
+| <strong>Nombre:</strong> Renzo Tomas Dueñas |
+| <strong>Edad:</strong> 25 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Entrenadores y profesionales del fitness |
+| <strong>Resumen:</strong> Renzo tiene 2 años de experiencia como entrenador en gimnasios, especializado en la preparación física. Sus clientes suelen ser personas que buscan perder peso, ganar masa muscular o mejorar su rendimiento deportivo. Sus programas incluyen rutinas en máquinas de gimnasio y dietas personalizadas, según las necesidades de cada cliente. Actualmente, usa Excel para hacer seguimiento y WhatsApp para comunicarse, motivar y resolver dudas. Le parece atractiva la idea de una comunidad de entrenadores dentro de una aplicación, donde puedan compartir consejos y recomendaciones. Además, considera clave que la plataforma sea fácil de usar para sus clientes, ya que no deben frustrarse al utilizarla. Estaría dispuesto a pagar por una herramienta que facilite su trabajo y comunicación, siempre que el precio sea razonable.  |
+| <strong>Enlace de video:</strong>  https://www.mediafire.com/file/opz4ufwqupod8us/2025-04-23+00-38-08.mp4/file|
+| <strong>Foto del entrevistado:</strong><br><img src="./assets/RENZO.png" alt="RENZO" height="200"/> |
+
 #### 2.2.3. Análisis de entrevistas
 
 ### 2.3. Needfinding
