@@ -829,6 +829,84 @@ Incrementar en un 20% las asesorías contratadas por usuarios activos en 3 meses
 
 #### 4.2.1. Organization Systems
 
+##### 1. Organización Visual del Contenido
+
+###### a) Jerárquica (Prioridad Visual)
+**Se aplica en:**
+- **Página de inicio (Landing Page)**
+  - Hero principal > Beneficios > Testimonios > Planes > CTA final
+  - Técnicas: 
+    - Tamaño decreciente (título > subtítulo > texto normal)
+    - Colores: Botones primarios (#4CAF50) vs secundarios (#9E9E9E)
+
+- **Panel de control principal**
+  - Progreso semanal (arriba) > Rutina diaria > Nutrición
+
+**Justificación:**
+Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
+
+###### b) Secuencial (Paso a Paso)
+**Flujos clave:**
+1. Registro nuevo usuario:
+   - Paso 1: Email/contraseña
+   - Paso 2: Datos biométricos
+   - Paso 3: Objetivos
+
+2. Reserva de asesoría:
+   - Paso 1: Buscar profesional
+   - Paso 2: Seleccionar horario
+   - Paso 3: Confirmar pago
+
+###### c) Matricial (Cuadrícula)
+**Uso en:**
+- Explorar ejercicios:
+  - Filas: Tipo (cardio/fuerza)
+  - Columnas: Dificultad (baja/media/alta)
+
+##### 2. Esquemas de Categorización
+
+###### a) Por Temas
+**Estructura principal:**
+- Nutrición
+- Entrenamiento
+- Progreso
+- Asesorías
+
+###### b) Por Tipo de Usuario
+**Vistas diferenciadas:**
+1. Usuario regular:
+   - Mis rutinas
+   - Mi plan alimenticio
+
+2. Asesor:
+   - Clientes asignados
+   - Calendario
+
+3. Administrador:
+   - Moderación
+   - Reportes
+
+###### c) Cronológico
+**Casos de uso:**
+- Historial de progreso:
+  - Gráficos ordenados por fecha
+  - Comparativa semanal/mensual
+
+###### Mapa de Organización
+
+| Componente          | Estructura Visual | Categorización       |
+|---------------------|-------------------|----------------------|
+| Página Principal    | Jerárquica        | Por temas            |
+| Proceso de Registro | Secuencial        | Por usuario (nuevo) |
+| Buscador Ejercicios | Matricial         | Por tema/dificultad |
+| Panel de Control    | Jerárquica        | Por usuario/tipo    |
+
+**Principios clave:**
+1. Priorizar conversión en elementos clave
+2. Simplificar flujos complejos
+3. Adaptar la información al tipo de usuario
+4. Mantener consistencia entre plataformas
+
 #### 4.2.2. Labeling Systems
 
 #### 4.2.3. SEO Tags and Meta Tags
