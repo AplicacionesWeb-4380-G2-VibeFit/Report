@@ -1018,6 +1018,24 @@ Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+##### 1. Landing Page
+
+| Tag               | Contenido                                                                 |
+|-------------------|---------------------------------------------------------------------------|
+| **Title**         | "FitWise - Planes Personalizados de Entrenamiento y Nutrición"            |
+| **Meta Description** | "App todo-en-uno para fitness y bienestar con rutinas adaptables y seguimiento inteligente. Transforma tus hábitos en 30 días." |
+| **Keywords**      | "app fitness, entrenamiento personalizado, plan nutricional, salud integral" |
+| **Author**        | "VibeFit Technologies"                                                   |
+
+##### 2. Aplicación Web
+
+| Tag               | Contenido                                                                 |
+|-------------------|---------------------------------------------------------------------------|
+| **Title**         | "FitWise - Mi Progreso [NombreUsuario]"                                  |
+| **Meta Description** | "Dashboard personal con tus métricas de salud, rutinas completadas y logros alcanzados." |
+| **Keywords**      | "seguimiento fitness, progreso entrenamiento, métricas saludables"       |
+| **Author**        | "VibeFit Technologies"                                                   |
+
 #### 4.2.4. Searching Systems
 
 #### 4.2.5. Navigation Systems
