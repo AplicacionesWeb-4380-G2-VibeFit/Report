@@ -204,7 +204,7 @@ VibeFit nace para transformar la manera en que las personas se relacionan con su
 ---
 
 #### **Muñoz Vilcapoma Mauricio – Ingeniería de Software – U202217212**  
-<img src="./assets/RAMIROGUZMAN.png" alt="MAURICIO" height="200"/>
+<img src="./assets/MAURICIO.png" alt="MAURICIO" height="200"/>
 
 Soy Muñoz Vilcapoma Mauricio, estudiante de Ingeniería de Software. Deseo desempeñar un papel fundamental en el mundo de la tecnología, creando soluciones innovadoras y avanzadas como desarrollador de Software. Estoy comprometido con mi desarrollo profesional y con hacer una diferencia en el campo de la ingeniería de software.
 
