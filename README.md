@@ -840,7 +840,7 @@ Incrementar en un 20% las asesorías contratadas por usuarios activos en 3 meses
 ### 4.3. Landing Page UI Design
 
 #### 4.3.1. Landing Page Wireframe
-
+<img src="./assets/Wireframe - Landing.png" alt="landing wrfrm"/>
 #### 4.3.2. Landing Page Mock-up
 
 ### 4.4. Web Applications UX/UI Design
