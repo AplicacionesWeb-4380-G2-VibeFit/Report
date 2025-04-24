@@ -176,8 +176,8 @@ del ABET – EAC - Student Outcome 5.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. |                     |              |
-| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. |                     |              |
+| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. |    **MAURICIO MUÑOZ** <br> **TB1:** Me comuniqué activamente con mi equipo para coordinar las tareas asignadas a cada miembro. Además, realicé consultas al profesor para resolver dudas del grupo y transmitir la información de forma clara y útil. | Cada integrante cumplió con las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva, lo cual fortaleció la confianza entre los miembros. Esto contribuyó significativamente al fortalecimiento del trabajo en equipo, un aspecto esencial en proyectos colaborativos.                |              |
+| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. |   **MAURICIO MUÑOZ** <br> **TB1:** Respeté los objetivos y fechas establecidos por el equipo, cumpliendo con mis tareas puntualmente. También informaba sobre nuevos avisos o cambios relevantes, ayudando a mantener la planificación y coordinación del grupo.                   |         En conjunto, el equipo logró crear un entorno de trabajo colaborativo e inclusivo, en el que cada integrante aportó al establecimiento de metas claras, la planificación de tareas y el cumplimiento de los objetivos propuestos. La coordinación constante, el respeto por los plazos y la participación activa de todos los miembros permitieron un desarrollo fluido del proyecto, fortaleciendo tanto la eficiencia del grupo como el sentido de responsabilidad compartida.     |
 
 ---
 
