@@ -1016,16 +1016,6 @@ Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
    - Versión LATAM: "Ejercicios" en lugar de "Workouts"
    - Formatos de fecha: DD/MM/AAAA
 
-## 5. Ejemplos de Buenas Prácticas
-
-✅ **Correcto:**
-- "Ver progreso completo" (acción clara)
-- "Peso actual: 70kg" (dato específico)
-
-❌ **Evitar:**
-- "Click aquí" (no descriptivo)
-- "Sección 4A" (sin significado)
-
 #### 4.2.3. SEO Tags and Meta Tags
 
 #### 4.2.4. Searching Systems
