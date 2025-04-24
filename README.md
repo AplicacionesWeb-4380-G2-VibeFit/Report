@@ -697,11 +697,11 @@ Incrementar en un 20% las asesorías contratadas por usuarios activos en 3 meses
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagram
-
+  <img src="./assets/CONTEXT.png" alt="CONTEXT" />
 #### 4.6.2. Software Architecture Container Diagrams
-
+  <img src="./assets/CONTAINER.png" alt="CONTAINER" />
 #### 4.6.3. Software Architecture Components Diagrams
-
+  <img src="./assets/COMPONENTS.png" alt="COMPONENTS" />
 ### 4.7. Software Object-Oriented Design
 
 El diseño orientado a objetos del software será esencial para nuestro proyecto. Estructuramos nuestro software de acuerdo a nuestras reglas de
