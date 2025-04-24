@@ -793,6 +793,56 @@ Incrementar en un 20% las asesorías contratadas por usuarios activos en 3 meses
 
 ### 3.4. Product Backlog
 
+| Orden | User Story ID | Título | Descripción | Story Points |
+|-------|--------------|--------|-------------|-------------|
+| 1 | US01 | Registro básico | Como nuevo usuario, quiero registrarme con email y contraseña, para acceder a la plataforma | 3 |
+| 2 | US02 | Registro completo | Como usuario, quiero completar mi perfil inicial, para obtener recomendaciones personalizadas | 3 |
+| 3 | US03 | Login social | Como usuario, quiero acceder con redes sociales, para agilizar mi registro | 5 |
+| 4 | US04 | Verificación email | Como usuario, quiero confirmar mi cuenta, para garantizar seguridad | 2 |
+| 5 | US05 | Perfil de asesor | Como entrenador, quiero registrarme como profesional, para ofrecer mis servicios | 5 |
+| 6 | US06 | Actualización objetivos | Como usuario, quiero modificar mis metas, para ajustar mi plan | 3 |
+| 7 | TS01 | API Autenticación | Como desarrollador, quiero integrar login/registro | 5 |
+| 8 | US07 | Generación de plan nutricional | Como usuario, quiero un plan de comidas semanal, para mantener una dieta saludable | 8 |
+| 9 | US08 | Lista de compras | Como usuario, quiero una lista de ingredientes organizada, para facilitar mis compras | 5 |
+| 10 | US09 | Sustitución de ingredientes | Como usuario, quiero reemplazar alimentos que no me gustan, para personalizar mi plan | 5 |
+| 11 | US10 | Información nutricional | Como usuario, quiero ver detalles nutricionales, para controlar mi ingesta | 3 |
+| 12 | TS02 | API Planes Nutricionales | Como desarrollador, quiero consumir el servicio de planes | 8 |
+| 13 | US011 | Generación de rutinas | Como usuario, quiero una rutina de ejercicios personalizada, para entrenar eficientemente | 8 |
+| 14 | US012 | Progresión automática | Como usuario, quiero que mi rutina se ajuste a mi progreso, para mantener el desafío | 5 |
+| 15 | US13 | Demostraciones de ejercicios | Como principiante, quiero ver cómo realizar cada ejercicio correctamente, para evitar lesiones | 5 |
+| 16 | US14 | Registro de sesiones | Como usuario, quiero marcar mis ejercicios completados, para llevar un historial | 3 |
+| 17 | TS03 | API de Rutinas | Como desarrollador, quiero integrar el generador de rutinas | 13 |
+| 18 | US15 | Registro de métricas físicas | Como usuario, quiero registrar mis medidas corporales, para monitorear mi progreso | 5 |
+| 19 | US16 | Visualización de progreso | Como usuario, quiero ver gráficos de mi evolución, para motivarme | 8 |
+| 20 | US17 | Recomendaciones automáticas | Como usuario, quiero sugerencias basadas en mis resultados, para mejorar mi rendimiento | 5 |
+| 21 | US18 | Reporte semanal | Como usuario, quiero un resumen de mi actividad, para mantenerme accountable | 3 |
+| 22 | TS04 | API de Progreso | Como desarrollador, quiero integrar el módulo de seguimiento | 13 |
+| 23 | US19 | Búsqueda de asesores | Como usuario, quiero encontrar profesionales cerca de mi ubicación | 8 |
+| 24 | US20 | Perfiles de asesores | Como usuario, quiero ver información detallada de cada profesional | 5 |
+| 25 | US21 | Reserva de sesiones | Como usuario, quiero agendar citas con asesores | 8 |
+| 26 | US22 | Sistema de pagos | Como usuario, quiero pagar sesiones de forma segura | 13 |
+| 27 | US23 | Comunicación integrada | Como usuario, quiero contactar a mi asesor | 5 |
+| 28 | TS05 | API de Marketplace | Como desarrollador, quiero integrar el sistema de asesorías | 13 |
+| 29 | US24 | Suscripción premium | Como usuario, quiero mejorar a un plan premium para acceder a funciones exclusivas | 8 |
+| 30 | US25 | Pasarela de pagos | Como usuario, quiero pagar con métodos locales para mayor comodidad | 8 |
+| 31 | US26 | Gestión de renovaciones | Como usuario premium, quiero controlar mi suscripción para administrar gastos | 5 |
+| 32 | US27 | Acceso diferencial | Como usuario premium, quiero beneficios exclusivos para sentir valor agregado | 5 |
+| 33 | TS06 | API de Pagos | Como desarrollador, quiero procesar transacciones | 13 |
+| 34 | US28 | Recordatorios personalizados | Como usuario, quiero recibir notificaciones inteligentes para mantener mi disciplina | 5 |
+| 35 | US29 | Notificaciones de progreso | Como usuario, quiero alertas sobre mis logros para mantenerme motivado | 5 |
+| 36 | US30 | Alertas de asesorías | Como usuario, quiero recordatorios de mis citas programadas para no olvidarlas | 3 |
+| 37 | TS07 | API de Notificaciones | Como desarrollador, quiero gestionar envíos automatizados | 13 |
+| 38 | US31 | Gestión de usuarios | Como administrador, quiero ver y filtrar todos los usuarios registrados | 8 |
+| 39 | US32 | Moderación de contenido | Como administrador, quiero revisar y editar planes nutricionales/entrenamientos | 5 |
+| 40 | US33 | Reportes estadísticos | Como administrador, quiero exportar datos de crecimiento | 8 |
+| 41 | TS08 | API de Administración | Como desarrollador, quiero integrar funcionalidades de backoffice | 13 |
+| 42 | US34 | Hero Section Principal | Como visitante, quiero ver una sección hero clara y atractiva | 3 |
+| 43 | US35 | Formulario de Registro Simplificado | Como visitante, quiero registrarme rápidamente | 5 |
+| 44 | US36 | Sección de Beneficios Clave | Como visitante, quiero ver los principales beneficios | 3 |
+| 45 | US37 | Testimonios Verificados | Como visitante, quiero ver casos de éxito reales | 5 |
+| 46 | US38 | Comparación de Planes | Como visitante, quiero comparar opciones | 5 |
+| 47 | US39 | Versión Mobile Responsive | Como usuario móvil, quiero una experiencia optimizada | 8 |
+
 ## Capítulo IV: Product Design
 
 ### 4.1. Style Guidelines
