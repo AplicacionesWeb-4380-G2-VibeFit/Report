@@ -2143,9 +2143,50 @@ Este punto trata de Web Services y el uso de métodos http, los cuales no abarca
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+En este caso hemos realizado el `deploy` mediante el servicio de **Pages** de Github.
 
+### 🧰 **Requisitos previos**
+- Tener una cuenta en GitHub.
+- Tener tu landing page lista (HTML, CSS, JS, etc.) en una carpeta local.
+- Tener `index.html` como archivo principal.
+
+---
+
+### 🚀 **Pasos para hacer deploy**
+##### 1. Crear un nuevo repositorio en GitHub
+  - Tener una cuenta en GitHub.
+  - Tener tu landing page lista (HTML, CSS, JS, etc.) en una carpeta local.
+  - Tener `index.html` como archivo principal.
+
+[![image.png](https://i.postimg.cc/mr6G4Vxt/image.png)](https://postimg.cc/HJ5N4wkg)
+Descripción: Imagen de la creación de un Repositorio<br><br>
+
+##### 2. Subir tu proyecto al repositorio
+  - Acceder a tu repositorio
+  - Click en Add file -> Upload files
+  - Seleccionar los archivos a subir
+
+[![image.png](https://i.postimg.cc/RFRKq3R6/image.png)](https://postimg.cc/9RDrnQsC)
+Descripción: Vista de un repositorio. en este caso ya tiene la Landing Page ya deployada, aunque debería estar vacía si es nueva.<br><br>
+
+[![image.png](https://i.postimg.cc/P5YLPpfX/image.png)](https://postimg.cc/3krrqwDV)
+Descripción: Sección donde se suben los archivos necesarios para la Landing Page<br><br>
+
+##### 3. Habilitar GitHub Pages
+  - Ve al repositorio en GitHub.
+  - Haz clic en Settings.
+  - En la barra lateral, ve a Pages.
+  - En “Source”, selecciona la rama main y la carpeta / (root).
+  - Haz clic en Save.
+
+[![image.png](https://i.postimg.cc/fbbJ5HjL/image.png)](https://postimg.cc/fV6zRfPn)
+Descripción: Prueba de que la Landing Page ya esta deployada<br><br>
+
+Link de la Landing Page: https://aplicacionesweb-4380-g2-vibefit.github.io/LandingPage-FitWise/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+
 
 ## Conclusiones
 
