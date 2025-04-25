@@ -967,11 +967,7 @@ Esta guía establece los fundamentos de diseño visual y de comunicación para *
 | **Fondo**         | `#D7F205` `#F2F2F2`| Cards, fondos. |  
 | **Texto**         | `#909090`  | Cuerpo. |  
 
-[![Adobe-Color-color-theme-Mockup-Web-Aplication-Perfil.jpg](https://i.postimg.cc/Z5QsnKZH/Adobe-Color-color-theme-Mockup-Web-Aplication-Perfil.jpg)](https://postimg.cc/qN8xZrN6)
-
-**Accesibilidad:**  
-- Contraste mínimo `4.5:1` (texto/fondo).  
-- Modo oscuro: `#121212` (fondo) + `#E0E0E0` (texto).  
+[![Adobe-Color-color-theme-Mockup-Web-Aplication-Perfil.jpg](https://i.postimg.cc/Z5QsnKZH/Adobe-Color-color-theme-Mockup-Web-Aplication-Perfil.jpg)](https://postimg.cc/qN8xZrN6) 
 
 ---
 
@@ -994,10 +990,6 @@ Esta guía establece los fundamentos de diseño visual y de comunicación para *
 | **Instrucciones**  | *"Seleccione intervalo de tiempo"* (claro). |  
 | **Motivación**     | *"¡Objetivo aceptado! 💪"* (emoji opcional). |  
 | **Errores**        | *"Completa todos los campos"* (sin culpar). |  
-
-**Reglas:**  
-- **Imperativo positivo:** *"Descubre rutinas"* (no *"Podrías descubrir"*).  
-- **Empatía:** *"¿Olvidaste tu contraseña?"* en lugar de *"Error de credenciales"*.  
 
 ---
 
