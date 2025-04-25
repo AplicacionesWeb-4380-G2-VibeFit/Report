@@ -824,14 +824,14 @@ Las tareas listadas son actividades que estos segmentos realizan de forma habitu
 
 #### 2.3.5. As-is Scenario Mapping
 
-**Jóvenes Profesionales Urbanos**
-Esta sección presenta el As-Is Scenario Mapping de jóvenes profesionales que buscan mejorar su salud mediante entrenamiento y dieta. A partir de una lluvia de ideas, el equipo identificó las etapas clave de su experiencia, considerando acciones, pensamientos y emociones. El mapeo resalta aspectos positivos, dificultades y áreas a investigar para optimizar su recorrido.
+**Adultos y Jóvenes Ocupados**
+Esta sección presenta el As-Is Scenario Mapping de hombres y mujeres que, debido a sus horarios ajustados y responsabilidades laborales o académicas, buscan mejorar su salud física de manera eficiente. A través de un análisis detallado, el equipo identificó las etapas clave de su experiencia, desde la búsqueda de alternativas para mejorar su salud hasta la evaluación de los resultados. El mapeo resalta tanto las acciones como los pensamientos y emociones predominantes, subrayando las dificultades que enfrentan, como la falta de tiempo y la sobrecarga de información, y las áreas clave a investigar para ofrecerles soluciones prácticas, rápidas y efectivas.
 
   <p align="center">
   <img src="./assets/as-is1.jpg" alt="asis1"/>
 
-**Jóvenes Universitarios Saludables en Formación**
-Esta sección presenta el As-Is Scenario Mapping de jóvenes universitarios que buscan mejorar su rendimiento deportivo o apariencia física mediante entrenamiento y dieta. El equipo identificó las etapas clave de su experiencia, incluyendo acciones, pensamientos y emociones. El mapeo revela aciertos, dificultades y aspectos que requieren mayor análisis, sirviendo como base para mejorar su proceso.
+**Entrenadores y Profesionales del Fitness**
+Esta sección presenta el As-Is Scenario Mapping de entrenadores personales, coaches de fitness y otros profesionales del sector salud que buscan optimizar sus servicios y gestionar a sus clientes de manera más eficiente. A través de un análisis exhaustivo, el equipo identificó las principales etapas de su experiencia, desde la captación de clientes hasta la evaluación de la efectividad de los programas ofrecidos. El mapeo resalta las dificultades que enfrentan, como el seguimiento manual e inconsistente y la falta de herramientas para medir el progreso de sus clientes, así como las áreas de oportunidad para ofrecerles una plataforma que facilite la personalización de rutinas, el seguimiento efectivo y la retroalimentación en tiempo real.
 
   <p align="center">
   <img src="./assets/as-is2.jpg" alt="asis2"/>
