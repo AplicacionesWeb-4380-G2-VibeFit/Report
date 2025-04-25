@@ -2056,4 +2056,18 @@ Descripción: Imagen de la sección Contact Us<br><br>
 
 ## Bibliografía
 
+- **Ministerio de Salud del Perú**. (2023). Informe sobre actividad física en la población peruana. [https://www.minsa.gob.pe/](https://www.minsa.gob.pe/)
+  
+- **Instituto Nacional de Estadística e Informática**. (2022). Informe sobre penetración de smartphones en Perú. [https://www.inei.gob.pe/](https://www.inei.gob.pe/)
+  
+- **Ipsos Perú**. (2023). Estudio sobre hábitos de vida saludable en jóvenes peruanos. [https://www.ipsos.com/pe](https://www.ipsos.com/pe)
+  
+- **IBISWorld**. (2023). Global Fitness Industry Market Report. [https://www.ibisworld.com/](https://www.ibisworld.com/)
+  
+- **Statista**. (2023). Uso de aplicaciones digitales por entrenadores personales. [https://www.statista.com/](https://www.statista.com/)
+  
+- **American Council on Exercise**. (2023). Tendencias en herramientas digitales para profesionales del fitness. [https://www.acefitness.org/](https://www.acefitness.org/)
+  
+- **Estudio de mercado Perú**. (2023). Adopción de tecnología digital en gimnasios y centros fitness. [https://www.estudiomercado.pe/](https://www.estudiomercado.pe/)
+
 ## Anexos
