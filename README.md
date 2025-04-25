@@ -1383,6 +1383,25 @@ Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
 
 ### 4.5. Web Applications Prototyping
 
+En el desarrollo de nuestra aplicación web, hemos priorizado la creación de una experiencia simple, funcional y motivadora para los usuarios interesados en mejorar su salud física a través de rutinas de ejercicios y planes alimenticios personalizados. A continuación, se describen las principales funcionalidades prototipadas:
+
+1. **Registro en la Aplicación**: El proceso de registro es rápido e intuitivo. El usuario puede crear una cuenta mediante correo electrónico o iniciar sesión con Google.
+
+2. **Agregar una rutina o dieta**: El usuario puede cargar sus propias rutinas de ejercicios o planes de alimentación. Se pueden agregar descripciones, tiempos, niveles de dificultad y objetivos específicos (por ejemplo, pérdida de peso, ganancia muscular, mantenimiento).
+
+3. **Seleccionar una rutina o dieta**: El usuario accede a un catálogo organizado por objetivos y nivel. Al seleccionar una rutina o dieta, se despliega una vista detallada con días, horarios, recetas o ejercicios.
+
+4. **Editar Perfil**: Durante este proceso, se recopilan datos relevantes como edad, peso, objetivos y nivel de experiencia para personalizar la experiencia desde el inicio.
+
+5. **Ver progresos o logros de la comunidad**: El usuario puede explorar una sección comunitaria donde ve los logros de otros miembros, lo que crea un ambiente motivacional.
+
+<p align="center">
+<img src="./assets/PrototipoWeb.png" alt="PrototipoWeb"/>
+</p>
+
+Enlace al video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217062_upc_edu_pe/EVCGnxf0f9JLovJnvZgFvygBAAKqUB5Ti7v4mw3q7O1bZQ?e=lR1E7d](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217062_upc_edu_pe/EVCGnxf0f9JLovJnvZgFvygBAAKqUB5Ti7v4mw3q7O1bZQ?e=lR1E7d)
+
+
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagram
