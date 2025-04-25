@@ -1757,6 +1757,79 @@ En la sección de **GitHub Pages**, elegimos la rama principal (`main`) en el me
 #### 5.2.1. Sprint 1
 En Scrum, un Sprint es un lapso corto y definido durante el cual el equipo trabaja de forma concentrada para completar las tareas requeridas y alcanzar el objetivo del producto, conocido como "Product Goal" (Scrum Alliance, 2024).
 ##### 5.2.1.1. Sprint Planning 1
+
+Un sprint es un periodo corto y estructurado en el que se llevan a cabo tareas específicas dentro de un proyecto, siguiendo metodologías ágiles como Scrum. El Sprint #1, iniciado el 14 de agosto de 2024, tiene como meta crear una landing page llamativa para EcoMovil, diseñada para atraer a los usuarios y destacar las principales ventajas del producto.
+
+
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 1 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td>  19/04/2025 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 17:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Acuña Tomas, Diego Rolin <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+            <br>
+             Acuña Tomas, Diego Rolin
+            <br>
+             Guzmán Chávez, Ramiro Alexander
+            <br>
+            Gómez Hurtado, Miguel Angel
+            <br>
+             Briceño De La Cruz, Farid Sebastian
+            <br>
+            Muñoz Vilcapoma, Mauricio Rigoberto
+        <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> Al tratarse de nuestro primer sprint de desarrollo, aún no se cuenta con un resumen de revisión del sprint. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td> Como este es nuestro primer sprint de desarrollo, todavía no hemos definido planes de mejora.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Goal</td>
+          <td>  En este sprint, se tiene previsto desarrollar la landing page con las secciones de inicio de sesión, hero y elementos de navegación para el usuario, como el footer y la sección "About us". Al concluir el sprint, la landing page deberá estar publicada en GitHub, permitiendo que cualquier usuario acceda a ella mediante un enlace. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td>  26  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 26 <td>
+      </tr>
+
+
+  </table>
+
+
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 ##### 5.2.1.3. Sprint Backlog 1
 ##### 5.2.1.4. Development Evidence for Sprint Review
