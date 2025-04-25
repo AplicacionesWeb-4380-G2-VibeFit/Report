@@ -147,21 +147,21 @@
   - [Capítulo IV: Product Design](#capítulo-iv-product-design)
     - [4.1. Style Guidelines](#41-style-guidelines)
       - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-        - [**1. Branding**](#1-branding)
-        - [**2. Typography**](#2-typography)
-        - [**3. Colors**](#3-colors)
-        - [**4. Spacing \& Grid**](#4-spacing--grid)
-        - [**5. Tono de Comunicación**](#5-tono-de-comunicación)
-        - [**6. Sustento de Diseño**](#6-sustento-de-diseño)
+        - [**1. BRANDING**](#1-branding)
+        - [**2. TYPOGRAPHY**](#2-typography)
+        - [**3. COLORS**](#3-colors)
+        - [**4. SPACING**](#4-spacing)
+        - [**5. TONO DE COMUNICACIÓN**](#5-tono-de-comunicación)
+        - [**6. LENGUAJE APLICADO**](#6-lenguaje-aplicado)
       - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-        - [**1. Principios de Diseño**](#1-principios-de-diseño)
-        - [**2. Paleta de Colores**](#2-paleta-de-colores)
-        - [**3. Tipografía**](#3-tipografía)
-        - [**4. Componentes Reutilizables**](#4-componentes-reutilizables)
-      - [**Botones**](#botones)
-        - [**Cards de Entrenamiento**](#cards-de-entrenamiento)
-        - [**Formularios**](#formularios)
-        - [**5. Patrones de Interacción Responsive**](#5-patrones-de-interacción-responsive)
+      - [**1. Componentes UI Responsive**](#1-componentes-ui-responsive)
+        - [**A. Header/Navegación**](#a-headernavegación)
+        - [**B. Cards (Dietas/Rutinas)**](#b-cards-dietasrutinas)
+        - [**C. Formularios (Login/Registro)**](#c-formularios-loginregistro)
+      - [**2. Interacciones y Estados**](#2-interacciones-y-estados)
+      - [**3. Breakpoints y Grid**](#3-breakpoints-y-grid)
+      - [**4. Animaciones y Transiciones**](#4-animaciones-y-transiciones)
+      - [**5. Ejemplo de Código (CSS Responsive)**](#5-ejemplo-de-código-css-responsive)
     - [4.2. Information Architecture](#42-information-architecture)
       - [4.2.1. Organization Systems](#421-organization-systems)
         - [1. Organización Visual del Contenido](#1-organización-visual-del-contenido)
@@ -1878,6 +1878,189 @@ Un sprint es un periodo corto y estructurado en el que se llevan a cabo tareas e
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 ##### 5.2.1.3. Sprint Backlog 1
+
+
+En el primer sprint backlog, el equipo se propuso iniciar y completar el desarrollo de la landing page. Para coordinar y gestionar al equipo, se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas más pequeñas y su asignación según las habilidades de cada miembro. El objetivo principal del sprint era desarrollar la landing page de manera completa, garantizando que fuera atractiva y funcional.
+
+![Trello](assets/Sprint1.png)
+
+<table style="width:100%; height:auto; border-collapse: collapse;">
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 1 </th>
+   </tr>
+   <tr>
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task </th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th>
+     <th> Status (To-do / In-Process / To-Review / Done) </th>
+   </tr>
+   <tr>
+      <th> US01 </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> UT01 </th>
+     <th> Creación de la barra de navegación. </th>
+     <th> Implementar el menú de navegación de la landing page de FitWise, garantizando que las opciones sean claras y fáciles de usar para los usuarios. </th>
+     <th> 1 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US01 </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> UT02</th>
+     <th> Optimización de la barra de navegación. </th>
+     <th> Mejorar la experiencia del usuario con la barra de navegación incorporando animaciones o transiciones suaves. </th>
+     <th> 5 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US02 </th>
+     <th colspan="3"> Sección Hero en la Landing Page </th>
+      <th> UT03</th>
+     <th> Creación de la sección Hero. </th>
+     <th> Diseñar una sección principal en la landing page que incluya una imagen llamativa y un título que capte la atención. </th>
+     <th> 8 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US02 </th>
+     <th colspan="3"> Sección Hero en la Landing Page </th>
+      <th> UT04 </th>
+     <th> Modificaciones en la sección Hero. </th>
+     <th> Ajustar la sección Hero para garantizar un diseño responsive que se visualice adecuadamente en todo tipo de dispositivos y resoluciones de pantalla. </th>
+     <th> 4 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US03 </th>
+     <th colspan="3"> Sección Footer en la Landing Page </th>
+      <th> UT05 </th>
+     <th> Creación de la sección de footer. </th>
+     <th> Crear la sección de footer con enlaces a la información sobre el equipo y los términos y condiciones de uso. </th>
+     <th> 2 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US04 </th>
+     <th colspan="3"> Sección "About Us" en la Landing Page </th>
+      <th> UT06 </th>
+     <th> Crear una sección que describa nuestra startup.</th>
+     <th> Desarrollar la sección "Sobre nosotros" para proporcionar información acerca del equipo y la misión de la empresa. </th>
+     <th> 8 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US04 </th>
+     <th colspan="3"> Sección "About Us" en la Landing Page </th>
+      <th> UT07 </th>
+     <th> Describir nuestra empresa y a los miembros del equipo. </th>
+     <th> Incluir información detallada sobre la historia y los miembros del equipo en la sección "Sobre nosotros". </th>
+     <th> 7 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   
+   <tr>
+      <th> US05 </th>
+     <th colspan="3"> Sección "Information" en la Landing Page </th>
+      <th> UT08 </th>
+     <th> Describir en detalle nuestro producto.</th>
+     <th> Crear una sección que explique de manera detallada nuestro producto. </th>
+     <th> 8 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US05 </th>
+     <th colspan="3"> Sección "Information" en la Landing Page </th>
+      <th> UT09 </th>
+     <th> Modificación de la sección "Information". </th>
+     <th> Agregar información detallada sobre nuestro producto, junto con una frase atractiva y una imagen representativa del mismo. </th>
+     <th> 7 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+
+   <tr>
+      <th> US06 </th>
+     <th colspan="3"> Sección "Benefits" en la Landing Page </th>
+      <th> UT10 </th>
+     <th> Explicar los beneficios de nuestro producto.</th>
+     <th> CCrear una sección destacada que explique los principales beneficios de nuestra aplicación en comparación con otras. </th>
+     <th> 8 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US06 </th>
+     <th colspan="3"> Sección "Benefits" en la Landing Page </th>
+      <th> UT11 </th>
+     <th> Modificación de la sección "Benefits". </th>
+     <th> Explicar los beneficios de manera atractiva, mostrando imágenes cautivadoras con animaciones al pasar el mouse, acompañadas de texto explicativo sobre cada beneficio. </th>
+     <th> 7 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+
+   
+
+
+   <tr>
+      <th> US07 </th>
+     <th colspan="3"> Sección "Contact us" en la Landing Page </th>
+      <th> UT12 </th>
+     <th> Creación de la sección de contacto. </th>
+     <th> Incluir la información de contacto del equipo para facilitar la interacción con los usuarios. </th>
+     <th> 5 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US07 </th>
+     <th colspan="3"> Sección "Contact us" en la Landing Page </th>
+      <th> UT13 </th>
+     <th> Desarrollar el formulario de contacto. </th>
+     <th> Desarrollar un formulario de contacto operativo en la sección correspondiente. </th>
+     <th> 5 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US08 </th>
+     <th colspan="3"> Landing Page Responsive con diferentes dispositivos </th>
+      <th> UT14 </th>
+     <th> Ajustar cada elemento de la página web para que se adapte a diferentes dispositivos. </th>
+     <th> Garantizar que la landing page funcione correctamente y tenga un diseño visualmente adecuado en diversos dispositivos y tamaños de pantalla. </th>
+     <th> 6 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US08 </th>
+     <th colspan="3"> Landing Page Responsive con diferentes dispositivos </th>
+      <th> UT15 </th>
+     <th> Adaptación para dispositivos móviles. </th>
+     <th> Mejorar el diseño de la página para ofrecer una experiencia más fluida en dispositivos móviles. </th>
+     <th> 4 </th>
+     <th> Diego Acuña </th> 
+     <th> Done </th>
+   </tr>
+</table>
+
 ##### 5.2.1.4. Development Evidence for Sprint Review
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
