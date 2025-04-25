@@ -248,6 +248,7 @@
       - [CSS](#css)
       - [JavaScript](#javascript)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+
       - [Landing Page](#landing-page)
       - [Control de Versiones](#control-de-versiones)
     - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
@@ -269,6 +270,7 @@
   - [Recomendaciones](#recomendaciones)
   - [Bibliografía](#bibliografía)
   - [Anexos](#anexos)
+
 
 ## Student Outcome
 
@@ -1963,6 +1965,7 @@ En la sección de **GitHub Pages**, elegimos la rama principal (`main`) en el me
 
 
 ### 5.2. Landing Page, Services & Applications Implementation
+
 #### 5.2.1. Sprint 1
 En Scrum, un Sprint es un lapso corto y definido durante el cual el equipo trabaja de forma concentrada para completar las tareas requeridas y alcanzar el objetivo del producto, conocido como "Product Goal" (Scrum Alliance, 2024).
 ##### 5.2.1.1. Sprint Planning 1
@@ -2322,7 +2325,9 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 
 [![image.png](https://i.postimg.cc/dVkfdFgt/image.png)](https://postimg.cc/Hrm3Dqpf)
 
+
 ## Conclusiones
+
 
 1. **Viabilidad del Proyecto**
    - A lo largo del proceso de investigación y desarrollo, se validó la viabilidad técnica y comercial de la startup FitWise. La solución propuesta responde a una necesidad real en el mercado de fitness y bienestar, especialmente dirigida a un segmento de usuarios con un enfoque en la salud y el entrenamiento personalizado.
@@ -2355,6 +2360,7 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
    
 5. **Mejorar la Gestión de Equipos**
    - A medida que el equipo crezca, es crucial establecer una comunicación más eficiente y herramientas de gestión que aseguren que todos los miembros del equipo estén alineados en las metas y tareas del proyecto. Implementar metodologías ágiles más estrictas puede contribuir a mejorar la productividad y la colaboración.
+
 
 ## Bibliografía
 
