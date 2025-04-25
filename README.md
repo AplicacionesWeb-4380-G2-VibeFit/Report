@@ -1338,7 +1338,7 @@ Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
 
 #### 4.3.1. Landing Page Wireframe
 
-<img src="./assets/Wireframe - Landing.png" alt="landing wrfrm"/>
+<img src="./assets/Wireframe - Laning.png" alt="landing wrfrm"/>
 
 #### 4.3.2. Landing Page Mock-up
 
