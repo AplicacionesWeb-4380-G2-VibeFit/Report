@@ -823,7 +823,144 @@ Incrementar en un 20% las asesorías contratadas por usuarios activos en 3 meses
 
 #### 4.1.1. General Style Guidelines
 
+Esta guía establece los fundamentos de diseño visual y de comunicación para **FitWise**, integrando principios de *branding*, usabilidad y tono de voz. Se basa en un **Design System** modular, inspirado en sistemas como **Material Design** y **Apple Human Interface**, pero adaptado al contexto fitness.  
+
+---
+
+##### **1. Branding**  
+**Principios clave:**  
+- **Enfoque:** *Motivacional y empoderador*. FitWise combina energía y profesionalismo para inspirar acción.  
+- **Personalidad:**  
+  - **Dinámico** (movimiento, gradientes).  
+  - **Confiable** (tipografía clara, espacios ordenados).  
+  - **Inclusivo** (colores accesibles, lenguaje cercano).  
+
+**Elementos distintivos:**  
+- **Logotipo:** Isotipo con icono de ola/pulso (simbolizando energía y ritmo cardíaco).  
+- **Gradiente característico:** `#3A7BD5` (azul confianza) → `#00D2FF` (azul energía).  
+- **Símbolos:** Uso de iconos de movimiento (ej: ♥ para ritmo cardíaco, ▲▼ para intensidad).  
+
+---
+
+##### **2. Typography**  
+**Jerarquía y legibilidad:**  
+- **Fuente principal:** **Inter** (sans-serif, neutral y legible en pantallas).  
+  - *Sustento:* Estudios demuestran que sans-serif mejora la lectura en dispositivos móviles (NNGroup).  
+- **Escala tipográfica:**  
+
+  | Rol               | Estilo                  | Uso                          |  
+  |-------------------|-------------------------|-----------------------------|  
+  | **H1**            | `600 2.5rem/3rem`       | Títulos principales (ej: "Plan de Entrenamiento"). |  
+  | **H2**            | `500 2rem/2.5rem`       | Subtítulos (ej: "Rutinas Populares"). |  
+  | **Body**          | `400 1rem/1.5rem`       | Texto largo (ej: descripciones). |  
+  | **Caption**       | `300 0.875rem/1.25rem`  | Etiquetas secundarias (ej: "15 min"). |  
+
+**Reglas:**  
+- Evitar más de 3 tamaños de fuente por pantalla.  
+- Alinear siempre a la izquierda (excepto botones centrados).  
+
+---
+
+##### **3. Colors**  
+**Paleta con sustento psicológico:**  
+- **Azul primario (`#3A7BD5`):** Transmite *confianza y profesionalismo* (usado en botones clave).  
+- **Verde éxito (`#4CAF50`):** Asociado a *salud y progreso* (ej: logros completados).  
+- **Rojo coral (`#FF6B6B`):** Urgencia controlada (ej: alertas de sobreesfuerzo).  
+
+**Accesibilidad:**  
+- Contraste mínimo `4.5:1` (texto/fondo).  
+- Modo oscuro: Usar `#121212` para fondos y `#E0E0E0` para texto.  
+
+---
+
+##### **4. Spacing & Grid**  
+**Sistema 8px:**  
+- **Base:** Múltiplos de `8px` (ej: `16px`, `24px`) para consistencia visual.  
+- **Padding:** `16px` en móvil, `24px` en desktop.  
+- **Grid:**  
+  - **Desktop:** 12 columnas.  
+  - **Mobile:** 4 columnas con `16px` gutter.  
+
+---
+
+##### **5. Tono de Comunicación**  
+**Lenguaje y voz:**  
+| Atributo          | Aplicación en FitWise                          | Ejemplo                          |  
+|-------------------|-----------------------------------------------|---------------------------------|  
+| **Entusiasta**    | Mensajes motivacionales (ej: logros).         | "¡Lo estás haciendo genial!". |  
+| **Claro**         | Instrucciones de ejercicios.                  | "Mantén la espalda recta".       |  
+| **Empático**      | Retroalimentación (ej: errores).              | "Vamos por más, pero sin forzar".|  
+
+**Reglas:**  
+- Evitar jargon técnico (ej: usar "resistencia" en lugar de "capacidad anaeróbica").  
+
+---
+
+##### **6. Sustento de Diseño**  
+- **Principio de Pareto:** 80% de interacciones se concentran en 20% de componentes (botones, cards).  
+- **Ley de Fitts:** Botones grandes y espaciados para móviles.  
+- **Consistencia:** Reutilizar componentes (ej: mismo estilo de botón en toda la app).  
+
 #### 4.1.2. Web Style Guidelines
+
+Aquí tienes una propuesta de **Web Style Guide** para **FitWise**, aplicando estándares visuales y de interacción para una interfaz *responsive*. Incluiré elementos clave como colores, tipografía, componentes y pautas de interacción, enfocados en usabilidad y consistencia.  
+
+---
+
+##### **1. Principios de Diseño**  
+- **Enfoque:** Minimalista, centrado en el usuario (fitness).  
+- **Tono:** Motivacional, fresco y profesional.  
+- **Accesibilidad:** Cumplir con WCAG 2.1 (contraste ≥ 4.5:1, tamaño de texto adaptable).  
+
+---
+
+##### **2. Paleta de Colores**  
+| Rol               | Color (HEX)     | Uso                             |  
+|-------------------|----------------|--------------------------------|  
+| **Primario**      | `#3A7BD5` (Azul vibrante) | Botones principales, encabezados. |  
+| **Secundario**    | `#00D2FF` (Azul gradiente) | Degradados, elementos interactivos. |  
+| **Acento**        | `#FF6B6B` (Rojo coral)   | Alertas, acciones críticas (ej. "Eliminar"). |  
+| **Fondo**         | `#F8F9FA` (Gris claro)   | Fondo de pantalla, cards. |  
+| **Texto**         | `#333333` (Gris oscuro)  | Cuerpo de texto. |  
+| **Éxito**         | `#4CAF50` (Verde)       | Confirmaciones, progreso. |  
+
+**Gradiente característico:** `linear-gradient(to right, #3A7BD5, #00D2FF)` (usado en banners o botones destacados).  
+
+---
+
+##### **3. Tipografía**  
+- **Fuente Principal:** `Inter` (sans-serif, legible en pantallas).  
+  - Encabezados: `600 2rem/2.5rem` (H1), `500 1.5rem/2rem` (H2).  
+  - Cuerpo: `400 1rem/1.5rem`.  
+- **Fuente Secundaria:** `Roboto Condensed` (para citas o stats).  
+
+---
+
+##### **4. Componentes Reutilizables**  
+#### **Botones**  
+| Tipo          | Estilo (Ejemplo)                                  | Estados (hover/focus) |  
+|--------------|--------------------------------------------------|----------------------|  
+| **Primario** | `background: #3A7BD5; color: white; padding: 12px 24px;` | Oscurecer color (`#2A6BC5`). |  
+| **Secundario** | Borde azul (`border: 2px solid #3A7BD5;`)         | Fondo gris claro. |  
+| **Icono**    | Icono + texto (ej. `▶ Iniciar entrenamiento`).   | Animación de escala (110%). |  
+
+##### **Cards de Entrenamiento**  
+- **Estructura:** Imagen (16:9) + Título (negrita) + Meta (ej. "30 min · Intenso").  
+- **Interacción:** Sombra al hover (`box-shadow: 0 4px 8px rgba(0,0,0,0.1)`).  
+
+##### **Formularios**  
+- Campos con `border-radius: 8px; padding: 10px;`.  
+- Placeholders en gris (`#999`).  
+- Validación: Borde verde/rojo según estado.  
+
+---
+
+##### **5. Patrones de Interacción Responsive**  
+- **Menú Mobile:** Hamburguesa → Despliegue vertical con overlay.  
+- **Grid Adaptable:**  
+  - **Desktop:** 4 columnas (ej. lista de ejercicios).  
+  - **Mobile:** 1 columna con scroll horizontal.  
+- **Transiciones:** Suaves (`transition: all 0.3s ease`) en botones y cards.  
 
 ### 4.2. Information Architecture
 
