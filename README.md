@@ -694,72 +694,75 @@ En esta sección se documenta la recolección de información a través de entre
 
 #### 2.3.1. User Personas
 
-- **Adultos Jóvenes Ocupados (25–40 años)**
+- **Entrenadores y profesionales del fitness**
 <p align="center">
-  <img src="./assets/persona1.png" alt="per1"/>
+  <img src="./assets/PERSONA.png" alt="per1"/>
 
-- **Jóvenes Universitarios Saludables en Formación (18–24 años)**
+- **Jóvenes Universitarios Saludables en Formación (18–40 años)**
 <p align="center">
   <img src="./assets/persona02.png" alt="per2"/>
 
 #### 2.3.2. User Task Matrix
 
-En esta sección se presentan las tareas que los User Persona realizan para alcanzar sus objetivos de salud y bienestar. Las tareas listadas son independientes de la existencia de una aplicación, y reflejan acciones comunes realizadas por los usuarios en su vida cotidiana al momento de intentar adoptar hábitos saludables.  
-Los segmentos considerados son:
+Este User Task Matrix considera dos segmentos clave del sistema:
 
-- **Adultos Jóvenes Ocupados (25–40 años)**
-- **Jóvenes Universitarios Saludables en Formación (18–24 años)**
+1. **Adultos y jóvenes ocupados (Camila Fernández)**: Profesionales y estudiantes con agendas apretadas, interesados en mejorar su salud física a través de soluciones prácticas y personalizables.
+2. **Entrenadores y profesionales del fitness (Alejandro Ríos)**: Expertos en salud y entrenamiento físico que buscan optimizar la gestión de sus clientes mediante herramientas tecnológicas.
 
-| **Tarea / Task**                                 | **Alejandro Ríos (Adulto Joven Ocupado)** |                 | **Camila Fernández (Universitaria Saludable)** |                 |
-| ------------------------------------------------ | ----------------------------------------- | --------------- | ---------------------------------------------- | --------------- |
-|                                                  | **Frecuencia**                            | **Importancia** | **Frecuencia**                                 | **Importancia** |
-| Buscar recetas saludables adaptadas al tiempo    | Media                                     | Alta            | Alta                                           | Alta            |
-| Planificar tiempos para hacer ejercicio          | Baja                                      | Alta            | Media                                          | Media           |
-| Probar rutinas cortas en YouTube/TikTok          | Baja                                      | Media           | Alta                                           | Alta            |
-| Comer saludable fuera de casa                    | Alta                                      | Alta            | Baja                                           | Media           |
-| Medir o visualizar su progreso físico            | Media                                     | Alta            | Alta                                           | Alta            |
-| Compartir avances en redes sociales              | Baja                                      | Baja            | Alta                                           | Alta            |
-| Buscar motivación o inspiración                  | Media                                     | Media           | Alta                                           | Alta            |
-| Probar nuevas apps de fitness                    | Media                                     | Media           | Alta                                           | Alta            |
-| Pedir consejos a conocidos sobre salud/bienestar | Baja                                      | Media           | Media                                          | Media           |
-| Mantener constancia en rutinas de entrenamiento  | Baja                                      | Muy Alta        | Media                                          | Alta            |
-| Seguir influencers o cuentas fitness             | Baja                                      | Baja            | Alta                                           | Media           |
+Las tareas listadas son actividades que estos segmentos realizan de forma habitual para cumplir con sus objetivos, sin depender necesariamente de una plataforma específica.
 
-- **Tareas con mayor frecuencia e importancia para ambos segmentos:**
 
-  - **Medir o visualizar el progreso físico:** ambas personas valoran poder ver resultados tangibles.
-  - **Buscar recetas saludables:** aunque difieren en contexto (tiempo vs. presupuesto), es una tarea clave para ambos.
+**Matriz de Tareas**
 
-- **Tareas especialmente relevantes para Alejandro Ríos (Adulto Joven Ocupado):**
+| **Tareas**                                           | **Camila Fernández** (Frecuencia) | **Camila Fernández** (Importancia) | **Alejandro Ríos** (Frecuencia) | **Alejandro Ríos** (Importancia) |
+|------------------------------------------------------|------------------------------------|-------------------------------------|----------------------------------|-----------------------------------|
+| Buscar rutinas de ejercicio adaptables               | Alta                               | Alta                                | Media                            | Alta                              |
+| Buscar recetas o dietas saludables                   | Media                              | Alta                                | Baja                             | Media                             |
+| Medir y hacer seguimiento de su progreso físico      | Media                              | Alta                                | Alta                             | Alta                              |
+| Agendar tiempo para ejercitarse                      | Alta                               | Alta                                | Media                            | Alta                              |
+| Necesita recordatorios y motivación                 | Alta                               | Alta                                | Baja                             | Media                             |
+| Crear rutinas de entrenamiento personalizadas        | Baja                               | Media                               | Alta                             | Alta                              |
+| Hacer seguimiento al progreso de sus clientes        | —                                  | —                                   | Alta                             | Alta                              |
+| Comunicarse con clientes para seguimiento            | —                                  | —                                   | Alta                             | Alta                              |
+| Gestionar múltiples perfiles de clientes             | —                                  | —                                   | Media                            | Alta                              |
+| Compartir contenido sobre salud y bienestar          | Media                              | Media                               | Alta                             | Media                             |
 
-  - **Planificar tiempo para entrenar y comer sano fuera de casa**, tareas que requieren mayor organización debido a su carga laboral.
-  - **Mantener constancia**, aunque su frecuencia es baja, su importancia es muy alta, lo que representa una oportunidad para diseñar soluciones que fomenten hábitos.
 
-- **Tareas especialmente relevantes para Camila Fernández (Universitaria):**
 
-  - **Compartir avances, probar nuevas apps y rutinas de TikTok**, muestra una fuerte necesidad de interacción visual y motivación social.
-  - **Buscar inspiración** es parte de su rutina, influenciada por redes sociales y contenido fitness moderno.
+**Análisis**
 
-- **Coincidencias:**
-  - Ambos buscan herramientas o estrategias para **mantener la motivación**, **organizar su alimentación** y **visualizar progreso**, aunque desde diferentes niveles de conocimiento, tiempo y objetivos.
+**Tareas con mayor frecuencia e importancia:**
+
+- **Camila Fernández**: Enfatiza tareas como *buscar rutinas*, *agendar tiempo* y *seguir su progreso físico*. Estas reflejan la necesidad de soluciones prácticas y adaptables al estilo de vida urbano y ocupado.
+- **Alejandro Ríos**: Prioriza *crear rutinas personalizadas*, *seguimiento al progreso de clientes* y *comunicación constante*. Esto muestra una necesidad de herramientas tecnológicas que profesionalicen y optimicen su trabajo.
+
+**Coincidencias:**
+
+- Ambos valoran el **seguimiento del progreso físico**, aunque con enfoques distintos: uno personal, el otro profesional.
+- El interés en **contenido sobre salud y bienestar** también es compartido, aunque Alejandro lo utiliza como parte de su estrategia de comunicación.
+
+**Diferencias:**
+
+- **Camila** necesita ayuda para mantenerse motivada y organizada; **Alejandro** busca herramientas de gestión y análisis de datos para mejorar su servicio.
+- Las tareas relacionadas con clientes (seguimiento, comunicación, gestión) son exclusivas del perfil de Alejandro.
 
 #### 2.3.3. User Journey Mapping
 
-- **Adultos Jóvenes Ocupados (25–40 años)**
+- **Entrenadores y profesionales del fitness**
 <p align="center">
-  <img src="./assets/journey1.png" alt="jour1"/>
+  <img src="./assets/JOUR.png" alt="jour1"/>
 
-- **Jóvenes Universitarios Saludables en Formación (18–24 años)**
+- **Jóvenes Universitarios Saludables en Formación (18–40 años)**
   <p align="center">
   <img src="./assets/journey2.png" alt="jour2"/>
 
 #### 2.3.4. Empathy Mapping
 
-- **Adultos Jóvenes Ocupados (25–40 años)**
+- **Entrenadores y profesionales del fitness**
 <p align="center">
-  <img src="./assets/emp1.png" alt="emp1"/>
+  <img src="./assets/EMP.png" alt="emp1"/>
 
-- **Jóvenes Universitarios Saludables en Formación (18–24 años)**
+- **Jóvenes Universitarios Saludables en Formación (18–40 años)**
   <p align="center">
   <img src="./assets/emp2.png" alt="emp2"/>
 
