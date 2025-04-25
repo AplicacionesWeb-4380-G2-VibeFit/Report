@@ -1427,6 +1427,11 @@ Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+<img src="./assets/userflow menu.png" alt="web app srflw"/>
+<img src="./assets/userflow inicio.png" alt="web app srflw"/>
+<img src="./assets/userflow rutina.png" alt="web app srflw"/>
+<img src="./assets/userflow dieta.png" alt="web app srflw"/>
+
 ### 4.5. Web Applications Prototyping
 
 En el desarrollo de nuestra aplicación web, hemos priorizado la creación de una experiencia simple, funcional y motivadora para los usuarios interesados en mejorar su salud física a través de rutinas de ejercicios y planes alimenticios personalizados. A continuación, se describen las principales funcionalidades prototipadas:
