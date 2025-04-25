@@ -640,7 +640,8 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> Lima |
 | <strong>Segmento:</strong> Adultos y jóvenes ocupados |
 | <strong>Resumen:</strong> Christopher trabaja como asistente en oficina, con una jornada de 9 a 5. Su rutina diaria incluye organizar reuniones, responder correos y colaborar en pequeños proyectos. Luego del trabajo, dedica tiempo al estudio y procura mantenerse activo a través del ejercicio, lectura o actividades recreativas. Considera muy importante llevar un estilo de vida saludable, aunque a veces enfrenta obstáculos como la falta de tiempo y motivación. Utiliza una aplicación para registrar su actividad física y alimentación, lo que le ayuda a mantenerse enfocado. Ha probado diferentes dietas, pero lo que más le ha funcionado es mantener hábitos sostenibles. Cree que la tecnología puede ser una gran aliada para organizar sus rutinas, reducir el estrés con herramientas como meditación, y recibir recordatorios personalizados. Le gustaría una app que se adapte a sus horarios, personalice entrenamientos y planes alimenticios, y que incluya funciones de comunidad, retos y seguimiento personalizado. Está dispuesto a pagar por una app que cumpla con estas expectativas. |
-| <strong>Enlace de video:</strong> [https://drive.google.com/file/d/1CefdfzctUQmsBDRiMwWRxyFM35zNvKiG/view?usp=sharing](https://drive.google.com/file/d/1CefdfzctUQmsBDRiMwWRxyFM35zNvKiG/view?usp=sharing) |
+| <strong>Enlace de video:</strong> [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/ERohQvS8X7xHnSk_9JkHteoBo11FKBr-lsNZi4Ru9OVf_g?e=DppRe3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/ERohQvS8X7xHnSk_9JkHteoBo11FKBr-lsNZi4Ru9OVf_g?e=DppRe3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| <strong>Tiempo:</strong> 0:00 ➡️ 5:22 |
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/Urcia.png" alt="Urcia" height="200"/> |
 
 &nbsp;
@@ -652,7 +653,8 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> Lima |
 | <strong>Segmento:</strong> Adultos y jóvenes ocupados |
 | <strong>Resumen:</strong> Joakin Pedraza es un estudiante universitario de 21 años, cursa una carrera demandante que combina clases presenciales con tareas, proyectos y estudios fuera del aula. A pesar de su agenda apretada, se esfuerza por mantener un estilo de vida activo y equilibrado. Le gusta entrenar al menos 4 veces por semana, alternando entre pesas, cardio y rutinas funcionales. El ejercicio no solo le ayuda a mantenerse en forma, sino que también le sirve para despejarse mentalmente y reducir el estrés académico. |
-| <strong>Enlace de video:</strong>  https://www.mediafire.com/file/opz4ufwqupod8us/2025-04-23+00-38-08.mp4/file|
+| <strong>Enlace de video:</strong>  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/ERohQvS8X7xHnSk_9JkHteoBo11FKBr-lsNZi4Ru9OVf_g?e=DppRe3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+| <strong>Tiempo:</strong> 5:22 ➡️ 10:33 |
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/JOAKO.png" alt="JOAKO" height="200"/> |
 
 &nbsp;
@@ -664,7 +666,8 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> Lima |
 | <strong>Segmento:</strong> Adultos y jóvenes ocupados |
 | <strong>Resumen:</strong> Alexia, de 25 años, es egresada universitaria y trabaja como coordinadora de pruebas de lunes a viernes, de 8 a.m. a 6 p.m. En su tiempo libre estudia para mantenerse actualizada. Los fines de semana también estudia, pero por las tardes asiste al gimnasio, ya que considera importante cuidar su salud física como forma de combatir el estrés y el sedentarismo laboral. Valora una aplicación integral que le ofrezca funciones como recordatorios, rutinas de ejercicio, plan de alimentación, y otras herramientas en un solo lugar, sin necesidad de usar múltiples apps. |
-| <strong>Enlace de video:</strong>  https://www.mediafire.com/file/opz4ufwqupod8us/2025-04-23+00-38-08.mp4/file|
+| <strong>Enlace de video:</strong>  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/ERohQvS8X7xHnSk_9JkHteoBo11FKBr-lsNZi4Ru9OVf_g?e=DppRe3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+| <strong>Tiempo:</strong> 10:33 ➡️ 19:06 |
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/ALEXIA.png" alt="ALEXIA" height="200"/> |
 
 &nbsp;
@@ -676,7 +679,8 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> Lima |
 | <strong>Segmento:</strong> Entrenadores y profesionales del fitness |
 | <strong>Resumen:</strong> Renzo tiene 2 años de experiencia como entrenador en gimnasios, especializado en la preparación física. Sus clientes suelen ser personas que buscan perder peso, ganar masa muscular o mejorar su rendimiento deportivo. Sus programas incluyen rutinas en máquinas de gimnasio y dietas personalizadas, según las necesidades de cada cliente. Actualmente, usa Excel para hacer seguimiento y WhatsApp para comunicarse, motivar y resolver dudas. Le parece atractiva la idea de una comunidad de entrenadores dentro de una aplicación, donde puedan compartir consejos y recomendaciones. Además, considera clave que la plataforma sea fácil de usar para sus clientes, ya que no deben frustrarse al utilizarla. Estaría dispuesto a pagar por una herramienta que facilite su trabajo y comunicación, siempre que el precio sea razonable.  |
-| <strong>Enlace de video:</strong>  https://www.mediafire.com/file/opz4ufwqupod8us/2025-04-23+00-38-08.mp4/file|
+| <strong>Enlace de video:</strong>  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/ERohQvS8X7xHnSk_9JkHteoBo11FKBr-lsNZi4Ru9OVf_g?e=DppRe3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+| <strong>Tiempo:</strong> 19:06 ➡️ 28:35 |
 | <strong>Foto del entrevistado:</strong><br><img src="./assets/RENZO.png" alt="RENZO" height="200"/> |
 
 &nbsp;
@@ -688,7 +692,8 @@ En esta sección se documenta la recolección de información a través de entre
 | **Procedencia:** Lima |
 | **Segmento:** Entrenadores y profesionales del fitness |
 | **Resumen:** Gino Tineo, entrenador personal con varios años de experiencia, se especializa en diseñar planes personalizados de entrenamiento enfocados en fuerza, cardio, movilidad y funcionalidad, dirigidos a una amplia gama de clientes, desde personas que desean mejorar su salud hasta atletas. Utiliza herramientas como MyFitnessPal, Trainerize y Google Sheets para la gestión de rutinas y seguimiento del progreso. Destaca la importancia de la constancia del cliente, la personalización de programas, y una comunicación constante a través de apps o WhatsApp. Considera esencial que una app de bienestar sea intuitiva, personalizable, integrada con otros dispositivos, y que ofrezca análisis detallados del progreso. Estaría dispuesto a pagar por una solución que mejore la eficiencia, escalabilidad y experiencia tanto para él como para sus clientes. |
-| **Enlace de video:** [https://drive.google.com/file/d/1JM1VFKlOb5gjg_1NJ1n5pVgYztdiGKkV/view?usp=sharing](https://drive.google.com/file/d/1JM1VFKlOb5gjg_1NJ1n5pVgYztdiGKkV/view?usp=sharing) |
+| **Enlace de video:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/ERohQvS8X7xHnSk_9JkHteoBo11FKBr-lsNZi4Ru9OVf_g?e=DppRe3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/ERohQvS8X7xHnSk_9JkHteoBo11FKBr-lsNZi4Ru9OVf_g?e=DppRe3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| <strong>Tiempo:</strong> 28:35 ➡️ 34:53 |
 | **Foto del entrevistado:**<br><img src="./assets/Gino.png" alt="Gino" height="200"/> |
 
 | **Entrevista 6** |
@@ -698,7 +703,8 @@ En esta sección se documenta la recolección de información a través de entre
 | <strong>Procedencia:</strong> Lima |
 | <strong>Segmento:</strong> Adultos y jóvenes ocupados |
 | <strong>Resumen:</strong> Diego Alonso Crispe Flores, de 23 años, trabaja como analista de créditos en la Caja de Arequipa y estudia Administración de Empresas en la Universidad UTP en el turno nocturno, lo que le deja poco tiempo libre y afecta negativamente su estilo de vida saludable. Aunque antes realizaba actividad física regularmente y cuidaba su alimentación, hoy su rutina es sedentaria y su dieta irregular debido al cansancio, la falta de tiempo y la desorganización. A pesar de esto, desea retomar hábitos saludables motivado por el bienestar emocional que el ejercicio le proporcionaba. Prefiere entrenamientos de calistenia en casa por su practicidad y estaría interesado en una aplicación que le ayude a organizar su rutina con recordatorios, planes personalizados, recetas sencillas y accesibles, y elementos de gamificación como logros o medallas. Considera útil una app que se adapte a su contexto local, como sugerencias de menús saludables en restaurantes cercanos o en su universidad, y estaría dispuesto a pagar por una versión premium si la gratuita demuestra resultados y el contenido adicional agrega valor real. |
-| <strong>Enlace de video:</strong>  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220294_upc_edu_pe/Ec2-DTawnKpJmRVi3kEhvRIB6N1oNz-iJSSt4fJJ4FKj-w?e=w80jc2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+| <strong>Enlace de video:</strong>  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/ERohQvS8X7xHnSk_9JkHteoBo11FKBr-lsNZi4Ru9OVf_g?e=DppRe3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+| <strong>Tiempo:</strong> 34:53 ➡️ 52:22 |
 | <strong>Foto del entrevistado:</strong><br><img src="https://i.postimg.cc/Wz821t34/image.png" style="height: 200px;" />
  |
 
