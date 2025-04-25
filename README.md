@@ -1363,6 +1363,11 @@ Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+<img src="./assets/menu.png" alt="web app wrflw"/>
+<img src="./assets/inicio.png" alt="web app wrflw"/>
+<img src="./assets/rutina.png" alt="web app wrflw"/>
+<img src="./assets/dieta.png" alt="web app wrflw"/>
+
 #### 4.4.3. Web Applications Mock-ups
 
 <img src="./assets/Mockup - Web Aplication - Login.png" alt="web app mckp"/>
