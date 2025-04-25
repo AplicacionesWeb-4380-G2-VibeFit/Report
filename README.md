@@ -1038,7 +1038,65 @@ Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
 
 #### 4.2.4. Searching Systems
 
+##### 1. Búsqueda en Dashboard Principal
+
+###### Filtros Disponibles:
+| Filtro               | Opciones                          | Función                                                                 |
+|----------------------|-----------------------------------|-------------------------------------------------------------------------|
+| **Tipo de Actividad** | Ejercicio/Nutrición/Bienestar    | Filtra contenido por categoría principal                                |
+| **Rango de Fechas**  | Selector de calendario           | Visualizar progreso en período específico (ej: últimos 30 días)         |
+| **Intensidad**       | Principiante/Intermedio/Avanzado | Adapta resultados al nivel del usuario                                  |
+
+**Visualización de Resultados:**
+- Gráficos comparativos de progreso físico
+- Lista cronológica de actividades completadas
+- Resumen semanal con métricas clave
+
+##### 2. Búsqueda en Módulo de Nutrición
+
+###### Filtros Avanzados:
+| Filtro               | Opciones                          | UI Control                             |
+|----------------------|-----------------------------------|----------------------------------------|
+| **Tipo de Dieta**    | Keto/Vegana/Sin gluten, etc.      | Chips seleccionables                   |
+| **Tiempo Prep.**     | <15min / 15-30min / >30min        | Slider con iconos de reloj             |
+| **Ingredientes**     | Búsqueda por alimento principal   | Campo autocompletado                   |
+
+**Resultados:**
+- Grid de recetas con:
+  - Foto del platillo
+  - Tiempo de preparación
+  - Valor nutricional (calorías, proteínas)
+  - Badge "Favorito" si fue guardado previamente
+
 #### 4.2.5. Navigation Systems
+
+##### 1. Landing Page
+
+###### Estructura Principal
+| Sección              | Descripción                                                                 | Elementos Clave                                                                 |
+|----------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Hero**             | Introducción principal con llamado a acción                                 | - Botón "Empieza gratis"<br>- Video explicativo de 30 segundos                   |
+| **Beneficios**       | Muestra diferenciales clave de la plataforma                                | - 3 tarjetas con iconos (🏋️ Nutrición, 🥗 Entrenamiento, 📈 Progreso)          |
+| **Testimonios**      | Casos de éxito de usuarios reales                                           | - Fotos + métricas ("-15kg en 3 meses")<br>- Carrusel interactivo                |
+| **Planes**           | Comparativa entre versión gratuita y premium                                | - Tabla responsive<br>- Botón "Upgrade" destacado                                |
+| **Contacto**         | Formulario para consultas y soporte                                         | - Campos esenciales (email, mensaje)<br>- Chatbot de ayuda                       |
+
+**Técnicas de Navegación:**
+- **Menú sticky superior:** Acceso rápido a todas las secciones
+- **Scroll suave:** Transiciones animadas entre secciones
+- **Breadcrumbs:** "Inicio > Beneficios > Planes" para orientación
+- **Floating CTA:** Botón flotante "¿Necesitas ayuda?" en móvil
+
+##### 2. Aplicación Web
+
+###### Navegación Global
+| Sección              | Funcionalidad                                                               | Componentes UI                                                                 |
+|----------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| **Dashboard**        | Vista resumen del progreso                                                  | - Gráficos semanales<br>- Accesos rápidos a rutinas del día                     |
+| **Nutrición**        | Gestión de planes alimenticios                                               | - Buscador de recetas<br>- Lista de compras automática                          |
+| **Entrenamiento**    | Rutinas y ejercicios personalizados                                         | - Filtros por tipo/dificultad<br>- Videos demostrativos                         |
+| **Progreso**         | Historial de métricas físicas                                               | - Comparativas temporales<br>- Exportar reportes                                |
+| **Asesorías**        | Agenda con profesionales                                                    | - Búsqueda geolocalizada<br>- Sistema de reseñas                                |
 
 ### 4.3. Landing Page UI Design
 
