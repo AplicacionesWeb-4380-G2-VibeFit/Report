@@ -2241,3 +2241,9 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 - **Estudio de mercado Perú**. (2023). Adopción de tecnología digital en gimnasios y centros fitness. [https://www.estudiomercado.pe/](https://www.estudiomercado.pe/)
 
 ## Anexos
+
+Link de la Organización: https://github.com/AplicacionesWeb-4380-G2-VibeFit
+
+Link de la documentanción: https://github.com/AplicacionesWeb-4380-G2-VibeFit/Report
+
+Link de la Landing Page: https://aplicacionesweb-4380-g2-vibefit.github.io/LandingPage-FitWise/
