@@ -862,15 +862,15 @@ Esta sección presenta el As-Is Scenario Mapping de entrenadores personales, coa
 
 ### 3.1. To-Be Scenario Mapping
 
-**Jóvenes Profesionales Urbanos**
-En esta sección se presenta el To-Be Scenario Mapping para el segmento de Jóvenes Profesionales Urbanos. El equipo llevó a cabo una fase de preparación y lluvia de ideas para definir las etapas clave de una experiencia mejorada al buscar rutinas de ejercicio y planes alimenticios enfocados en el bienestar integral. Este mapeo compara el escenario actual (As-Is) con el escenario ideal (To-Be), destacando los cambios que pueden mejorar las acciones, pensamientos y emociones del usuario, con el objetivo de brindar una experiencia más útil, motivadora y personalizada.
+**Adultos y Jóvenes Ocupados**
+En esta sección se presenta el To-Be Scenario Mapping para el segmento de Adultos y Jóvenes Ocupados. El equipo llevó a cabo una fase de preparación y lluvia de ideas para definir las etapas clave de una experiencia mejorada en la que los usuarios puedan integrar de manera eficiente rutinas de ejercicio y planes alimenticios en sus agendas ajustadas. Este mapeo compara el escenario actual (As-Is) con el escenario ideal (To-Be), destacando los cambios que pueden mejorar las acciones, pensamientos y emociones del usuario, con el objetivo de ofrecerles soluciones prácticas, rápidas y efectivas que se ajusten a sus horarios y necesidades diarias.
 
   <p align="center">
   <img src="./assets/to-be1.jpg" alt="tobe1"/>
 
 
-**Jóvenes Universitarios Saludables en Formación**
-Esta sección presenta el To-Be Scenario Mapping para el perfil de Jóvenes Universitarios Saludables en Formación. A través de un proceso de análisis y lluvia de ideas, se definieron las etapas de una experiencia mejorada al buscar rutinas de entrenamiento y planes alimenticios orientados a mejorar su rendimiento deportivo o apariencia física. La comparación con el escenario actual (As-Is) permite identificar oportunidades para optimizar sus acciones, pensamientos y emociones, brindando una experiencia más efectiva y motivadora.
+**Entrenadores y Profesionales del Fitness**
+En esta sección se presenta el To-Be Scenario Mapping para el segmento de Entrenadores y Profesionales del Fitness. El equipo llevó a cabo una fase de preparación y lluvia de ideas para identificar las etapas clave de una experiencia optimizada para gestionar rutinas personalizadas y realizar un seguimiento efectivo de los clientes. Este mapeo compara el escenario actual (As-Is) con el escenario ideal (To-Be), destacando las mejoras que se pueden hacer en las acciones, pensamientos y emociones de los entrenadores, con el fin de proporcionarles una plataforma más eficiente para crear planes, realizar seguimientos y brindar una retroalimentación en tiempo real.
 
   <p align="center">
   <img src="./assets/to-be2.jpg" alt="tobe2"/>
