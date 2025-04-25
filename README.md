@@ -2026,6 +2026,26 @@ En estos commits se puede observar los últimos updates a la rama main que se hi
 | https://github.com/AplicacionesWeb-4380-G2-VibeFit/LandingPage-FitWise | main | 1cd6919 | feat: add the scripts for the index.html | - | 24/04/2025 |
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+
+En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
+
+Enlace de la Landing Page: https://aplicacionesweb-4380-g2-vibefit.github.io/LandingPage-FitWise/
+
+[![image.png](https://i.postimg.cc/Gp3rnnvd/image.png)](https://postimg.cc/CR29btvQ)
+Descripción: Imagen del hero y header<br><br>
+
+[![image.png](https://i.postimg.cc/vZbw5wqf/image.png)](https://postimg.cc/CzP2VXVx)
+Descripción: Imagen de la sección Information<br><br>
+
+[![image.png](https://i.postimg.cc/C5TQYb9k/image.png)](https://postimg.cc/0Mnf0Kky)
+Descripción: Imagen de la sección Benefits<br><br>
+
+[![image.png](https://i.postimg.cc/HsthDcz8/image.png)](https://postimg.cc/vccz5mpG)
+Descripción: Imagen de la sección About Us<br><br>
+
+[![image.png](https://i.postimg.cc/FKwPgjr8/image.png)](https://postimg.cc/KKrrm3gD)
+Descripción: Imagen de la sección Contact Us<br><br>
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
