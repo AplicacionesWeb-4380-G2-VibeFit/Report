@@ -1348,23 +1348,36 @@ Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
 
 #### 4.4.1. Web Applications Wireframes
 
-<img src="./assets/Wireframe - Web Aplication - Login.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Register.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Enviar correo de recuperacion.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Actualizar contraseña.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Rutinas inscripcion.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Rutinas detalles.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Agregar rutinas.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Dietas seleccion.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Dietas actualizacion.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Dietas agregar.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Comunidad.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Perfil.png" alt="landing mckp"/>
-<img src="./assets/Wireframe - Web Aplication - Progreso.png" alt="landing mckp"/>
+<img src="./assets/Wireframe - Web Aplication - Login.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Register.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Enviar correo de recuperacion.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Actualizar contraseña.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Rutinas inscripcion.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Rutinas detalles.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Agregar rutinas.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Dietas seleccion.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Dietas actualizacion.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Dietas agregar.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Comunidad.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Perfil.png" alt="web app wrfrm"/>
+<img src="./assets/Wireframe - Web Aplication - Progreso.png" alt="web app wrfrm"/>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 #### 4.4.3. Web Applications Mock-ups
+
+<img src="./assets/Mockup - Web Aplication - Login.png" alt="web app mckp"/>
+<img src="./assets/Mockup - Web Aplication - Register.png" alt="web app mckp"/>
+<img src="./assets/Mockup - Web Aplication - Enviar correo de recuperacion.png" alt="web app mckp"/>
+<img src="./assets/Mockup - Web Aplication - Actualizar contraseña.png" alt="web app mckp"/>
+<img src="./assets/Mockup - Web Aplication - Rutinas inscripcion.png" alt="web app mckp"/>
+<img src="./assets/Mockup - Web Aplication - Rutinas inscripcion.png" alt="web app mckp"/>
+<img src="./assets/Mockup - Web Aplication - Dietas agregar.png" alt="web app mckp"/>
+<img src="./assets/Mockup - Web Aplication - Dietas actualizar.png" alt="web app mckp"/>
+<img src="./assets/Mockup - Web Aplication - Dietas seleccion.png" alt="web app mckp"/>
+<img src="./assets/Mockup - Web Aplication - Comunidad.png" alt="web app mckp"/>
+<img src="./assets/Mockup - Web Aplication - Perfil.png" alt="web app mckp"/>
+<img src="./assets/Mockup - Web Aplication - Progreso.png" alt="web app mckp"/>
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
