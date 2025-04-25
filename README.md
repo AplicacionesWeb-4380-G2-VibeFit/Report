@@ -1726,7 +1726,7 @@ function sayHello() {
 
 ---
 
-### 5.1.4. Configuración de Despliegue de Software
+### 5.1.4. Software Deployment Configuration
 
 #### Landing Page
 
