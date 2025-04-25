@@ -591,6 +591,48 @@ En esta sección se documenta la recolección de información a través de entre
 
 #### 2.2.3. Análisis de entrevistas
 
+##### 🔍 **Análisis de la Entrevista 1 – Christopher Ursia**
+
+Christopher representa a un perfil común entre jóvenes profesionales universitarios que estudian y trabajan a tiempo completo. Su estilo de vida es exigente, con una rutina diaria que combina largas jornadas laborales (de 8:00 a 17:30) con horas de estudio en las noches. A pesar de su agenda ocupada, muestra un alto interés por mantener un estilo de vida saludable, el cual asocia directamente con sentirse con más energía y menos estrés.
+
+Entre los principales obstáculos que enfrenta están la **falta de tiempo** y la **pérdida ocasional de motivación**, lo que limita su constancia en hábitos como el ejercicio o una alimentación adecuada. Sin embargo, ha logrado integrar algunas prácticas positivas, como el uso de una aplicación para registrar su actividad física y hábitos alimenticios, y una rutina flexible que incluye ejercicio y momentos de desconexión.
+
+Christopher valora mucho la **personalización** en herramientas tecnológicas, y espera que una aplicación de bienestar pueda adaptarse a su rutina, recordarle cuándo ejercitarse o comer saludablemente, y ofrecer planes específicos según sus metas. Además, considera importante el **acompañamiento motivacional**, ya sea mediante recordatorios, seguimiento del progreso, o interacción con una comunidad digital. Está dispuesto a pagar por una app que cumpla estas funciones si realmente se ajusta a sus necesidades y le ofrece valor real.
+
+Este análisis refleja a un usuario con disposición al cambio, alta conciencia de su bienestar, y expectativas claras hacia el rol que debe cumplir la tecnología en su estilo de vida.
+
+--- 
+
+##### 🔍 **Análisis de la Entrevista 2 – Joaquin Zapata**
+
+Joaquín representa a un segmento de jóvenes ocupados, principalmente estudiantes, que valoran el bienestar físico y mental, pero que necesitan flexibilidad en las herramientas que utilizan. Aunque reconoce la importancia de mantenerse saludable para rendir mejor en sus actividades diarias, su experiencia previa con aplicaciones de salud fue negativa debido a que sentía que se convertían en una obligación más que en una motivación. Esto lo llevó a dejar de usarlas. Su motivación principal para mantenerse activo es sentirse bien consigo mismo, verse bien y rendir adecuadamente. Considera fundamental que una aplicación no solo proporcione rutinas de ejercicio, sino también un plan nutricional personalizado, ya que cree firmemente que la nutrición y el ejercicio deben ir de la mano. En cuanto al manejo del estrés, opta por actividades recreativas como jugar videojuegos o conversar con amigos, lo que indica una preferencia por métodos de desconexión más informales. Está abierto a pagar por una aplicación, siempre que esta ofrezca funciones útiles y personalizadas a un precio accesible. Su perfil refleja la necesidad de un enfoque menos rígido, más adaptable y emocionalmente equilibrado en las soluciones digitales de salud.
+
+--- 
+
+##### 🔍 **Análisis de la Entrevista 3 – Alexia Acuña**
+
+
+
+--- 
+
+##### 🔍 **Análisis de la Entrevista 4 – Renzo Dueñas**
+
+
+
+--- 
+
+##### 🔍 **Análisis de la Entrevista 5 – Gino Tineo**
+
+Gino Tineo, un entrenador personal con años de experiencia, valora la personalización y el seguimiento detallado en las herramientas digitales que utiliza para gestionar a sus clientes. En su trabajo, se enfoca en diseñar rutinas adaptadas a las necesidades individuales, y considera fundamental que una aplicación permita personalizar entrenamientos y dietas, así como ofrecer análisis detallados del progreso, como gráficos y alertas de estancamiento. La **comunicación constante** con los clientes es esencial para él, prefiriendo canales como **WhatsApp**. Gino también ve con buenos ojos la integración con dispositivos como monitores de frecuencia cardíaca y apps de nutrición. Está dispuesto a pagar por una aplicación que mejore la **personalización**, el **seguimiento** y la **escalabilidad** de sus servicios. Además, destaca la necesidad de que las aplicaciones sean **fáciles de usar** tanto para él como para sus clientes, con funciones como **recordatorios** y **videos explicativos**.
+
+--- 
+
+##### 🔍 **Análisis de la Entrevista 6 – Diego Quispe**
+
+La entrevista con Diego Alonso Crispe revela que su apretada agenda entre trabajo y estudios le impide mantener un estilo de vida saludable. Aunque antes practicaba ejercicio y llevaba una dieta más balanceada, ahora sus hábitos son irregulares. Diego busca recuperar una vida más saludable y cree que una aplicación que incluya elementos lúdicos, como retos y recompensas, lo motivaría a retomar el ejercicio. Prefiere ejercicios de calistenia, que se pueden hacer en casa sin equipamiento, y le gustaría que una app le recomendara opciones de alimentos saludables y fáciles de preparar, adaptadas a su entorno y horarios.
+
+Además, valora la personalización de la app, que le permita ajustar las rutinas y los planes de alimentación según sus necesidades. Aunque no es esencial para él interactuar socialmente en la app, estaría dispuesto a compartir su progreso si eso lo motiva. Diego estaría interesado en pagar por una versión premium si ofrece características avanzadas, como rutinas más complejas y planes de alimentación detallados. En resumen, espera que la aplicación sea fácil de usar, eficiente y adaptable a su estilo de vida.
+
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas
