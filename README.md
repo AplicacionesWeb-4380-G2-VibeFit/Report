@@ -1342,6 +1342,8 @@ Guía al usuario naturalmente hacia las acciones clave (registro, conversión)
 
 #### 4.3.2. Landing Page Mock-up
 
+<img src="./assets/Mockup - Landing.png" alt="landing mckp"/>
+
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
