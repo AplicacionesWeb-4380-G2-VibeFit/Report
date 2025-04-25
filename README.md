@@ -34,8 +34,8 @@
 
 | Versión | Fecha       | Autor | Descripción |
 |---------|-------------|-------|-------------|
-| TB1     | 17/04/2025  |  Ramiro Alexander Guzman Chavez   |   Desarrollé la carátula del repositorio, el startup profile, la solution profile, establecí los segmentos objetivos, el diseño de las entrevistas y mis entrevistas por segmento objetivo.          |
-| TB1     | 25/04/2025  |   Ramiro Alexander Guzman Chavez     |   Desarrollé el diagrama de clases, el class dictionary, el diseño de la base de datos y el prototipo web.          |
+| TB1     | 17/04/2025  |  Ramiro Alexander Guzman Chavez <br><br> Miguel Angel Gomez Hurtado  | - Desarrollé la carátula del repositorio, el startup profile, la solution profile, establecí los segmentos objetivos, el diseño de las entrevistas y mis entrevistas por segmento objetivo. <br> - Realizé el análisis de competidores y las estrategias contra ellos. Tome liderazgo en la creación de las historias de usuario e impact Mapping |
+| TB1     | 25/04/2025  |   Ramiro Alexander Guzman Chavez  <br><br> Miguel Angel Gomez Hurtado |  - Desarrollé el diagrama de clases, el class dictionary, el diseño de la base de datos y el prototipo web. <br> - Realizé el Product Backlog y la guía de estilos generales y web de los puntos 4.1 y 4.2. Además, valida los deploys y documenté los resultados de la creación de la Landing Page.  |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
