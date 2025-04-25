@@ -398,6 +398,7 @@ _¿De qué manera podríamos innovar con FitWise para fomentar una mayor constan
 9. Nuestra principal competencia serán las apps genéricas de fitness (como Freeletics o MyFitnessPal) y la oferta de entrenadores en redes sociales.
 10. Venceremos a la competencia por nuestra capacidad de personalización dinámica y la integración de tecnología pensada en motivar al usuario.
 11. Realizaremos estrategias de onboarding amigables, incentivos iniciales y llevaremos un registro sobre cuáles son los features más utilizados por el usuario para enfocarnos en esa característica.
+
 **¿Qué otras suposiciones tenemos que, si resultan falsas, harán que nuestro negocio/proyecto fracase?**
 
 **User Assumptions**
