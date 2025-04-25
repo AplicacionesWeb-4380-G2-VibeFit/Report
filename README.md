@@ -2113,6 +2113,16 @@ En el primer sprint backlog, el equipo se propuso iniciar y completar el desarro
 </table>
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
+
+En estos commits se puede observar los últimos updates a la rama main que se hizo en el repositorio de la Landing Page.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/LandingPage-FitWise | main | 66df5eb | feat: Add first version of index.html | - | 24/04/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/LandingPage-FitWise | main | 79e741a | feat: add pakage of images | - | 24/04/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/LandingPage-FitWise | main | 2302dc6 | feat: add the styles for the index.html | - | 24/04/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/LandingPage-FitWise | main | 1cd6919 | feat: add the scripts for the index.html | - | 24/04/2025 |
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
