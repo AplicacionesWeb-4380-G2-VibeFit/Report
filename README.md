@@ -26,7 +26,7 @@
 - Mauricio Rigoberto Muñoz Vilcapoma – U202217212  
 
 **Abril, 2025**  
-**URL del proyecto:** [https://github.com/RamiroGuzmanCh/AplicacionesWeb-4380](https://github.com/RamiroGuzmanCh/AplicacionesWeb-4380)
+**URL del proyecto:** [https://github.com/AplicacionesWeb-4380-G2-VibeFit](https://github.com/AplicacionesWeb-4380-G2-VibeFit)
 
 ---
 
@@ -53,9 +53,9 @@
 ## Project Report Collaboration Insights
 
 - **URL de la organización del proyecto:**  
-  [https://github.com/AplicacionesWeb-4380-G2-FitWise](https://github.com/AplicacionesWeb-4380-G2-FitWise)
+  [https://github.com/AplicacionesWeb-4380-G2-VibeFit](https://github.com/AplicacionesWeb-4380-G2-VibeFit)
 - **URL del repositorio del informe:**  
-  [https://github.com/AplicacionesWeb-4380-G2-FitWise/TB1](https://github.com/AplicacionesWeb-4380-G2-FitWise/TB1)
+  [https://github.com/AplicacionesWeb-4380-G2-VibeFit/Report](https://github.com/AplicacionesWeb-4380-G2-VibeFit/Report)
 
 
   Todas las tareas correspondientes a la entrega de la TB1 han sido completadas y están documentadas en el repositorio de GitHub de la organización del equipo. Para la elaboración del informe, cada integrante del equipo se encargó de redactar y generar gráficos en formato Markdown, según los puntos que le fueron asignados, realizando commits para dejar constancia del progreso en el repositorio.
