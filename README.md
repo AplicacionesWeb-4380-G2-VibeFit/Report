@@ -268,8 +268,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **MAURICIO MUÑOZ** <br> **TB1:** Me comuniqué activamente con mi equipo para coordinar las tareas asignadas a cada miembro. Además, realicé consultas al profesor para resolver dudas del grupo y transmitir la información de forma clara y útil. <br><br> **RAMIRO GUZMÁN** <br> **TB1:** Participé en la organización interna del equipo, proponiendo soluciones durante reuniones técnicas. Fomenté el diálogo entre los miembros para asegurar una comunicación abierta y lideré la revisión final de entregables. | Cada integrante cumplió con las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva, lo cual fortaleció la confianza entre los miembros. Esto contribuyó significativamente al fortalecimiento del trabajo en equipo, un aspecto esencial en proyectos colaborativos. |
-| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **MAURICIO MUÑOZ** <br> **TB1:** Respeté los objetivos y fechas establecidos por el equipo, cumpliendo con mis tareas puntualmente. También informaba sobre nuevos avisos o cambios relevantes, ayudando a mantener la planificación y coordinación del grupo. <br><br> **RAMIRO GUZMÁN** <br> **TB1:** Apoyé activamente la planificación del proyecto, sugiriendo cronogramas realistas y detectando posibles cuellos de botella. Promoví un ambiente donde todos los integrantes se sintieran cómodos aportando ideas, favoreciendo la inclusión y el compromiso. | En conjunto, el equipo logró crear un entorno de trabajo colaborativo e inclusivo, en el que cada integrante aportó al establecimiento de metas claras, la planificación de tareas y el cumplimiento de los objetivos propuestos. La coordinación constante, el respeto por los plazos y la participación activa de todos los miembros permitieron un desarrollo fluido del proyecto, fortaleciendo tanto la eficiencia del grupo como el sentido de responsabilidad compartida. |
+| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **MAURICIO MUÑOZ** <br> **TB1:** Me comuniqué activamente con mi equipo para coordinar las tareas asignadas a cada miembro. Además, realicé consultas al profesor para resolver dudas del grupo y transmitir la información de forma clara y útil. <br><br> **RAMIRO GUZMÁN** <br> **TB1:** Participé en la organización interna del equipo, proponiendo soluciones durante reuniones técnicas. Fomenté el diálogo entre los miembros para asegurar una comunicación abierta y lideré la revisión final de entregables. <br><br> **MIGUEL GOMEZ** <br> **TB1:** Realizé las secciones de 2.1, 3.2 - 3.4, 4.1 y 4.2. En las cuales recibi retroalimentación de mis compañeros para los mock ups. Además, siempre mantuve un canal abierto para informar sobre mis avances y en como afectarían al desarrollo de mis compañeros. <br><br> **FARID BRICEÑO** <br> **TB1:**  <br><br> **DIEGO ACUÑA** <br> **TB1:** | **TB1:** Cada integrante cumplió con las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva, lo cual fortaleció la confianza entre los miembros. Esto contribuyó significativamente al fortalecimiento del trabajo en equipo, un aspecto esencial en proyectos colaborativos. |
+| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **MAURICIO MUÑOZ** <br> **TB1:** Respeté los objetivos y fechas establecidos por el equipo, cumpliendo con mis tareas puntualmente. También informaba sobre nuevos avisos o cambios relevantes, ayudando a mantener la planificación y coordinación del grupo. <br><br> **RAMIRO GUZMÁN** <br> **TB1:** Apoyé activamente la planificación del proyecto, sugiriendo cronogramas realistas y detectando posibles cuellos de botella. Promoví un ambiente donde todos los integrantes se sintieran cómodos aportando ideas, favoreciendo la inclusión y el compromiso. <br><br> **MIGUEL GOMEZ** <br> **TB1:** Ayudé a segmentar nuestro público objetivo de mejor manera. En adición a esto, me presentaba a la pequeña reunión despues de clases para coordinar los detalles de nuestros avances y trabajos a realizar. <br><br> **FARID BRICEÑO** <br> **TB1:**  <br><br> **DIEGO ACUÑA** <br> **TB1:**| **TB1:** En conjunto, el equipo logró crear un entorno de trabajo colaborativo e inclusivo, en el que cada integrante aportó al establecimiento de metas claras, la planificación de tareas y el cumplimiento de los objetivos propuestos. La coordinación constante, el respeto por los plazos y la participación activa de todos los miembros permitieron un desarrollo fluido del proyecto, fortaleciendo tanto la eficiencia del grupo como el sentido de responsabilidad compartida. |
 
 ---
 
@@ -921,85 +921,90 @@ Incrementar en un 20% las asesorías contratadas por usuarios activos en 3 meses
 
 ### 4.1. Style Guidelines
 
-#### 4.1.1. General Style Guidelines
+#### 4.1.1. General Style Guidelines 
 
-Esta guía establece los fundamentos de diseño visual y de comunicación para **FitWise**, integrando principios de *branding*, usabilidad y tono de voz. Se basa en un **Design System** modular, inspirado en sistemas como **Material Design** y **Apple Human Interface**, pero adaptado al contexto fitness.  
+Esta guía establece los fundamentos de diseño visual y de comunicación para **FitWise**, centrándose en **patrones repetibles**, **consistencia** y **experiencia de usuario**. Se basa en principios de diseño modernos y buenas prácticas de UI/UX.  
 
----
+##### **1. BRANDING**  
+**Identidad Visual:**  
+- **Estilo:** Minimalista funcional con toques energéticos.  
+- **Enfoque:** Comunidad fitness + datos accionables.  
+- **Elementos clave:**  
+  - **Logo:** Tipografía semibold + ícono de pulso (opcional).  
+  - **Eslogan:** *"Conecta, entrena, evoluciona"*.  
 
-##### **1. Branding**  
-**Principios clave:**  
-- **Enfoque:** *Motivacional y empoderador*. FitWise combina energía y profesionalismo para inspirar acción.  
-- **Personalidad:**  
-  - **Dinámico** (movimiento, gradientes).  
-  - **Confiable** (tipografía clara, espacios ordenados).  
-  - **Inclusivo** (colores accesibles, lenguaje cercano).  
-
-**Elementos distintivos:**  
-- **Logotipo:** Isotipo con icono de ola/pulso (simbolizando energía y ritmo cardíaco).  
-- **Gradiente característico:** `#3A7BD5` (azul confianza) → `#00D2FF` (azul energía).  
-- **Símbolos:** Uso de iconos de movimiento (ej: ♥ para ritmo cardíaco, ▲▼ para intensidad).  
+**Personalidad de Marca:**  
+- **Motivacional pero realista:** Mensajes como *"Dieta seleccionada: ¡Tú puedes!"*.  
+- **Confiable:** Diseño limpio y jerarquía clara.  
 
 ---
 
-##### **2. Typography**  
-**Jerarquía y legibilidad:**  
-- **Fuente principal:** **Inter** (sans-serif, neutral y legible en pantallas).  
-  - *Sustento:* Estudios demuestran que sans-serif mejora la lectura en dispositivos móviles (NNGroup).  
-- **Escala tipográfica:**  
+##### **2. TYPOGRAPHY**  
+**Jerarquía:**  
+| Elemento          | Estilo (Mobile First)       | Ejemplo en Mockup       |  
+|-------------------|----------------------------|-------------------------|  
+| **H1 (Título)**   | `600 1.75rem/2.25rem`       | Dietas de la comunidad |  
+| **H2 (Subtítulo)**| `500 1.25rem/1.75rem`       | Filtrar por |  
+| **Body (Texto)**  | `400 1rem/1.5rem`           | Descripciones de dietas |  
+| **Botones**       | `500 1rem/1rem` + ALL CAPS  | ACEPTAR OBJETIVO |  
 
-  | Rol               | Estilo                  | Uso                          |  
-  |-------------------|-------------------------|-----------------------------|  
-  | **H1**            | `600 2.5rem/3rem`       | Títulos principales (ej: "Plan de Entrenamiento"). |  
-  | **H2**            | `500 2rem/2.5rem`       | Subtítulos (ej: "Rutinas Populares"). |  
-  | **Body**          | `400 1rem/1.5rem`       | Texto largo (ej: descripciones). |  
-  | **Caption**       | `300 0.875rem/1.25rem`  | Etiquetas secundarias (ej: "15 min"). |  
+**Fuentes:**  
+- **Principal:** `Inter` (sans-serif, legible).  
+- **Secundaria:** `Roboto Condensed` para datos numéricos.  
 
 **Reglas:**  
-- Evitar más de 3 tamaños de fuente por pantalla.  
-- Alinear siempre a la izquierda (excepto botones centrados).  
+- Alineación izquierda (excepto CTAs centrados).  
+- Negritas solo para títulos o acciones clave.  
 
 ---
 
-##### **3. Colors**  
-**Paleta con sustento psicológico:**  
-- **Azul primario (`#3A7BD5`):** Transmite *confianza y profesionalismo* (usado en botones clave).  
-- **Verde éxito (`#4CAF50`):** Asociado a *salud y progreso* (ej: logros completados).  
-- **Rojo coral (`#FF6B6B`):** Urgencia controlada (ej: alertas de sobreesfuerzo).  
+##### **3. COLORS**  
+**Paleta Principal:**  
+| Rol               | Color (HEX)     | Uso                             |  
+|-------------------|----------------|--------------------------------|  
+| **Primario**      | `##000000` `#454A59` | Botones principales, títulos. |  
+| **Fondo**         | `#D7F205` `#F2F2F2`| Cards, fondos. |  
+| **Texto**         | `#909090`  | Cuerpo. |  
+
+[![Adobe-Color-color-theme-Mockup-Web-Aplication-Perfil.jpg](https://i.postimg.cc/Z5QsnKZH/Adobe-Color-color-theme-Mockup-Web-Aplication-Perfil.jpg)](https://postimg.cc/qN8xZrN6)
 
 **Accesibilidad:**  
 - Contraste mínimo `4.5:1` (texto/fondo).  
-- Modo oscuro: Usar `#121212` para fondos y `#E0E0E0` para texto.  
+- Modo oscuro: `#121212` (fondo) + `#E0E0E0` (texto).  
 
 ---
 
-##### **4. Spacing & Grid**  
+##### **4. SPACING**  
 **Sistema 8px:**  
-- **Base:** Múltiplos de `8px` (ej: `16px`, `24px`) para consistencia visual.  
-- **Padding:** `16px` en móvil, `24px` en desktop.  
-- **Grid:**  
-  - **Desktop:** 12 columnas.  
-  - **Mobile:** 4 columnas con `16px` gutter.  
+- **Márgenes entre secciones:** `24px` (ej: entre `## Filtrar por` y cards).  
+- **Padding interno:** `16px` (móvil) / `24px` (desktop).  
+- **Botones:** `12px 24px` (alto contraste táctil).  
+
+**Grid:**  
+- **Mobile:** 1 columna (scroll vertical).  
+- **Desktop:** 2-3 columnas para cards (ej: listado de dietas).  
 
 ---
 
-##### **5. Tono de Comunicación**  
-**Lenguaje y voz:**  
-| Atributo          | Aplicación en FitWise                          | Ejemplo                          |  
-|-------------------|-----------------------------------------------|---------------------------------|  
-| **Entusiasta**    | Mensajes motivacionales (ej: logros).         | "¡Lo estás haciendo genial!". |  
-| **Claro**         | Instrucciones de ejercicios.                  | "Mantén la espalda recta".       |  
-| **Empático**      | Retroalimentación (ej: errores).              | "Vamos por más, pero sin forzar".|  
+##### **5. TONO DE COMUNICACIÓN**  
+**Lenguaje:**  
+| Situación          | Ejemplo                              |  
+|--------------------|--------------------------------------|  
+| **Instrucciones**  | *"Seleccione intervalo de tiempo"* (claro). |  
+| **Motivación**     | *"¡Objetivo aceptado! 💪"* (emoji opcional). |  
+| **Errores**        | *"Completa todos los campos"* (sin culpar). |  
 
 **Reglas:**  
-- Evitar jargon técnico (ej: usar "resistencia" en lugar de "capacidad anaeróbica").  
+- **Imperativo positivo:** *"Descubre rutinas"* (no *"Podrías descubrir"*).  
+- **Empatía:** *"¿Olvidaste tu contraseña?"* en lugar de *"Error de credenciales"*.  
 
 ---
 
-##### **6. Sustento de Diseño**  
-- **Principio de Pareto:** 80% de interacciones se concentran en 20% de componentes (botones, cards).  
-- **Ley de Fitts:** Botones grandes y espaciados para móviles.  
-- **Consistencia:** Reutilizar componentes (ej: mismo estilo de botón en toda la app).  
+##### **6. LENGUAJE APLICADO**  
+**Consistencia en términos:**  
+- **Dietas:** Usar *"Dieta [nombre]"* (ej: *Dieta vegana*).  
+- **Filtros:** *Fácil/Intermedio/Difícil* (siempre en español).  
+- **Botones:** Verbos en infinitivo (*"Iniciar sesión"*, *"Registrarse"*).  
 
 #### 4.1.2. Web Style Guidelines
 
@@ -1007,60 +1012,94 @@ Aquí tienes una propuesta de **Web Style Guide** para **FitWise**, aplicando es
 
 ---
 
-##### **1. Principios de Diseño**  
-- **Enfoque:** Minimalista, centrado en el usuario (fitness).  
-- **Tono:** Motivacional, fresco y profesional.  
-- **Accesibilidad:** Cumplir con WCAG 2.1 (contraste ≥ 4.5:1, tamaño de texto adaptable).  
+#### **1. Componentes UI Responsive**  
+**Patrones reutilizables y su comportamiento en distintos dispositivos:**  
+
+##### **A. Header/Navegación**  
+- **Desktop:**  
+  - Logo a la derecha + menú horizontal (`display: flex`).  
+  - Hover en ítems: subrayado azul (`border-bottom: 2px solid #454A59`).  
+- **Mobile:**  
+  - Menú hamburguesa (`position: fixed`) + overlay al abrir.  
+  - Logo a la derecha, tamaño reducido a `40px`.  
+
+##### **B. Cards (Dietas/Rutinas)**  
+- **Desktop:**  
+  - 3 columnas (`grid-template-columns: repeat(3, 1fr)`).  
+  - Hover: Sombra (`box-shadow: 0 4px 8px rgba(0,0,0,0.1)`).  
+- **Mobile:**  
+  - 1 columna + scroll horizontal (`overflow-x: auto`).  
+  - Tamaño fijo: `300px` de ancho.  
+
+##### **C. Formularios (Login/Registro)**  
+- **Desktop:**  
+  - Ancho del 50% (`width: 50%`) centrado.  
+- **Mobile:**  
+  - Ancho completo (`width: 100%`), padding `16px`.  
+  - Inputs: Altura mínima de `48px` (área táctil).  
 
 ---
 
-##### **2. Paleta de Colores**  
-| Rol               | Color (HEX)     | Uso                             |  
-|-------------------|----------------|--------------------------------|  
-| **Primario**      | `#3A7BD5` (Azul vibrante) | Botones principales, encabezados. |  
-| **Secundario**    | `#00D2FF` (Azul gradiente) | Degradados, elementos interactivos. |  
-| **Acento**        | `#FF6B6B` (Rojo coral)   | Alertas, acciones críticas (ej. "Eliminar"). |  
-| **Fondo**         | `#F8F9FA` (Gris claro)   | Fondo de pantalla, cards. |  
-| **Texto**         | `#333333` (Gris oscuro)  | Cuerpo de texto. |  
-| **Éxito**         | `#4CAF50` (Verde)       | Confirmaciones, progreso. |  
+#### **2. Interacciones y Estados**  
+**Microinteracciones para mejorar la usabilidad:**  
 
-**Gradiente característico:** `linear-gradient(to right, #3A7BD5, #00D2FF)` (usado en banners o botones destacados).  
+| Componente   | Estado        | Estilo/Comportamiento                          |  
+|--------------|---------------|-----------------------------------------------|  
+| **Botón**    | Hover         | `background-color: #3A7BD5` (oscurecer 10%). |  
+| **Input**    | Focus         | `outline: 2px solid #454A59`.                |  
+| **Filtros**  | Active        | `background: #D7F205`, `color: #000000`.     |  
+| **Cards**    | Clic/Tap      | Animación de escala (`transform: scale(1.02)`). |  
 
 ---
 
-##### **3. Tipografía**  
-- **Fuente Principal:** `Inter` (sans-serif, legible en pantallas).  
-  - Encabezados: `600 2rem/2.5rem` (H1), `500 1.5rem/2rem` (H2).  
-  - Cuerpo: `400 1rem/1.5rem`.  
-- **Fuente Secundaria:** `Roboto Condensed` (para citas o stats).  
+#### **3. Breakpoints y Grid**  
+**Puntos de ruptura basados en contenido (no solo en dispositivos):**  
+
+```css  
+/* Mobile First */  
+.container { padding: 16px; }  
+
+/* Tablet (≥768px) */  
+@media (min-width: 768px) {  
+  .container { padding: 24px; }  
+  .grid { grid-template-columns: repeat(2, 1fr); }  
+}  
+
+/* Desktop (≥1024px) */  
+@media (min-width: 1024px) {  
+  .grid { grid-template-columns: repeat(3, 1fr); }  
+}  
+```  
 
 ---
 
-##### **4. Componentes Reutilizables**  
-#### **Botones**  
-| Tipo          | Estilo (Ejemplo)                                  | Estados (hover/focus) |  
-|--------------|--------------------------------------------------|----------------------|  
-| **Primario** | `background: #3A7BD5; color: white; padding: 12px 24px;` | Oscurecer color (`#2A6BC5`). |  
-| **Secundario** | Borde azul (`border: 2px solid #3A7BD5;`)         | Fondo gris claro. |  
-| **Icono**    | Icono + texto (ej. `▶ Iniciar entrenamiento`).   | Animación de escala (110%). |  
-
-##### **Cards de Entrenamiento**  
-- **Estructura:** Imagen (16:9) + Título (negrita) + Meta (ej. "30 min · Intenso").  
-- **Interacción:** Sombra al hover (`box-shadow: 0 4px 8px rgba(0,0,0,0.1)`).  
-
-##### **Formularios**  
-- Campos con `border-radius: 8px; padding: 10px;`.  
-- Placeholders en gris (`#999`).  
-- Validación: Borde verde/rojo según estado.  
+#### **4. Animaciones y Transiciones**  
+**Sutiles pero efectivas:**  
+- **Carga de contenido:** Fade-in (`opacity: 0 → 1` en `0.3s`).  
+- **Botones:** Transición de color (`transition: all 0.2s ease`).  
+- **Scroll suave:** Para secciones largas (`scroll-behavior: smooth`).  
 
 ---
 
-##### **5. Patrones de Interacción Responsive**  
-- **Menú Mobile:** Hamburguesa → Despliegue vertical con overlay.  
-- **Grid Adaptable:**  
-  - **Desktop:** 4 columnas (ej. lista de ejercicios).  
-  - **Mobile:** 1 columna con scroll horizontal.  
-- **Transiciones:** Suaves (`transition: all 0.3s ease`) en botones y cards.  
+#### **5. Ejemplo de Código (CSS Responsive)**  
+**Card de Dieta:**  
+```css  
+.diet-card {  
+  background: #F2F2F2;  
+  border-radius: 12px;  
+  padding: 16px;  
+  margin-bottom: 24px;  
+  transition: transform 0.2s ease;  
+
+  &:hover { transform: translateY(-4px); }  
+
+  @media (max-width: 768px) {  
+    width: 280px;  
+    display: inline-block; /* Scroll horizontal */  
+    margin-right: 16px;  
+  }  
+}  
+```  
 
 ### 4.2. Information Architecture
 
