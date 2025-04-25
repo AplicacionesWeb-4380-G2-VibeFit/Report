@@ -428,7 +428,7 @@ _¿De qué manera podríamos innovar con FitWise para fomentar una mayor constan
 
 ##### 1.2.2.4. Lean UX Canvas
 
-<img src="./assets/Lean UX Canvas.png" alt="Lean-UX-Canvas" height="200"/>
+<img src="./assets/Lean UX Canvas.png" alt="Lean-UX-Canvas"/>
 
 ### 1.3. Segmentos objetivo
 
