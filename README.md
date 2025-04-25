@@ -38,10 +38,10 @@
 | TB1     | 25/04/2025  |   Ramiro Alexander Guzman Chavez  <br><br> Miguel Angel Gomez Hurtado |  - Desarrollé el diagrama de clases, el class dictionary, el diseño de la base de datos y el prototipo web. <br> - Realizé el Product Backlog y la guía de estilos generales y web de los puntos 4.1 y 4.2. Además, valida los deploys y documenté los resultados de la creación de la Landing Page.  |
 | TB1     | 24/04/2025  |   Farid Sebastian Briceño De La Cruz   | - Desarollé el wireframe y mockup de la landing page (4.3). |
 | TB1     | 25/04/2025  |   Farid Sebastian Briceño De La Cruz   | - Desarollé Web Application UX/UI Design (4.4), lo que incluye wireframe, wireflow, mockup y user flow. |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
-| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | 25/04/2025  |    Mauricio Rigoberto Muñoz Vilcapoma    | -Desarrolle el needfinding (user persona, task matrix, journey mapping e impact mapping)            |
+| TB1     | 25/04/2025  |    Mauricio Rigoberto Muñoz Vilcapoma   |     -Desarrolle el modelo c4 del diagrama de contexto        |
+| TB1     | 25/04/2025  |     Mauricio Rigoberto Muñoz Vilcapoma     |        -Desarrolle el modelo c4 del diagrama de componentes     |
+| TB1     | 25/04/2025  |      Mauricio Rigoberto Muñoz Vilcapoma    |       -Desarrolle el modelo c4 del diagrama de contenedores      |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
