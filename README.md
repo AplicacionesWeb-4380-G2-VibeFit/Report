@@ -2186,7 +2186,9 @@ Link de la Landing Page: https://aplicacionesweb-4380-g2-vibefit.github.io/Landi
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo principalmente por Diego Acuña.
 
+[![image.png](https://i.postimg.cc/dVkfdFgt/image.png)](https://postimg.cc/Hrm3Dqpf)
 
 ## Conclusiones
 
