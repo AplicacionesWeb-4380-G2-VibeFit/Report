@@ -281,6 +281,12 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 **VibeFit** es una startup tecnológica enfocada en mejorar el bienestar físico y mental de las personas a través de soluciones digitales inteligentes. Su misión es simplificar, personalizar y acompañar el proceso hacia una vida saludable, especialmente para quienes enfrentan barreras como la falta de tiempo, motivación o conocimiento especializado.
 
+**Misión**  
+Empoderar a las personas para que adopten y mantengan un estilo de vida saludable a través de soluciones digitales accesibles, personalizadas y motivadoras, que integren el bienestar físico y mental de forma sostenible.
+
+**Visión**  
+Ser la plataforma líder en bienestar integral digital en el Perú, reconocida por transformar hábitos de vida a través de experiencias personalizadas, innovadoras y centradas en las personas.
+
 Su producto principal, **FitWise**, es una aplicación disponible en versión web y móvil que crea rutinas de entrenamiento y planes nutricionales completamente personalizados. La plataforma se adapta a las características, objetivos y nivel físico de cada usuario, permitiendo que cualquier persona pueda incorporar hábitos saludables a su estilo de vida, sin importar su experiencia previa o disponibilidad horaria.
 
 La propuesta de valor de VibeFit se centra en tres pilares clave:
@@ -290,6 +296,7 @@ La propuesta de valor de VibeFit se centra en tres pilares clave:
 - **Acompañamiento constante**, mediante tecnología que guía, motiva y mide el progreso del usuario.
 
 VibeFit nace para transformar la manera en que las personas se relacionan con su salud, derribando los obstáculos más comunes y convirtiendo el bienestar en una experiencia accesible, flexible y sostenible.
+
 
 #### 1.1.2. Perfiles de los integrantes del equipo
 
