@@ -361,6 +361,8 @@ Soy estudiante de la carrera de Ingeniería de Software en la UPC. Elegí esta c
 
 #### 1.2.1. Antecedentes y problemática
 
+Con el transcurso de los años son cada vez más la evidencias de que los principales problemas de salud de ser humano están relacionadas con la carencia o ausencia de ejercicio físico y una buena dieta. Por un lado, la falta de tiempo de las personas se presenta como una de las causas, tanto profesionales como estudiantes se ven afectados por sus horarios apretados, lo que conlleva a evitar agendar realizar ejercicios; por otro lado, también es notable la falta de cultura alimentaria en la población, lo que ha traído problemas cardíacos, obesidad, diabetes, entre otras enfermedades, debido a que no tienen quién les brinde esta información.
+
 - **Who (¿Quiénes son los afectados?)**  
   Personas entre 18 y 40 años interesadas en mejorar su estado físico o mantener una vida saludable, pero que enfrentan obstáculos como la falta de tiempo, desconocimiento sobre rutinas de ejercicio y dificultad para seguir planes alimenticios realistas.
 
