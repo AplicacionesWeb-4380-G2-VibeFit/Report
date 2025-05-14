@@ -1657,6 +1657,10 @@ Para el despliegue de la landing page, se utilizó una solución de hosting inte
 
 ### 5.1.2. Source Code Management
 
+<p align="center">
+  <img src="./assets/SourceCodeManagement.png" alt="SourceCodeManagement" />
+</p>
+
 #### Producto y Repositorio
 
 | Producto             | Repositorio        | URL                                                       |
