@@ -1579,69 +1579,77 @@ manipulación en respuesta a las solicitudes de los usuarios.
 
 En este apartado se establecen los lineamientos y procedimientos adoptados durante el desarrollo y publicación del sitio web de FitWise, con el propósito de asegurar la coherencia y estabilidad del software desde sus primeras etapas hasta su implementación y posterior mantenimiento.
 
+---
+
 ### 5.1.1. Software Development Environment Configuration
 
 #### Project Management
 
-Para una gestión eficiente del proyecto, se hizo necesaria la implementación de un conjunto de herramientas destinadas a la asignación de tareas, la facilitación de reuniones y la colaboración entre los integrantes. Asimismo, se empleó un repositorio centralizado para consolidar los avances de manera coordinada. A continuación, se presentan las plataformas seleccionadas junto con su respectivo propósito dentro del marco del proyecto.
-- **Centro de organización de trabajo:** Github  
+Para una gestión eficiente del proyecto, se implementó un conjunto de herramientas destinadas a la asignación de tareas, la coordinación de reuniones y la colaboración continua entre los integrantes. Además, se utilizó un repositorio centralizado con control de versiones para consolidar los avances de manera ordenada. A continuación, se presentan las plataformas seleccionadas y su propósito dentro del proyecto:
+
+- **Centro de organización de trabajo:** GitHub  
 - **Planificación de tareas:** Trello  
 - **Reuniones de equipo:** Google Meet  
 - **Coordinación grupal:** WhatsApp  
 
+---
+
 #### Requirement Management
 
-Durante el desarrollo del proyecto se recurrió a diversas herramientas que facilitaron la definición, análisis y representación visual de los requerimientos técnicos y funcionales. Estas plataformas promovieron una planificación estructurada y una mayor claridad en el diseño conceptual del sistema:
+Durante el desarrollo del proyecto se emplearon herramientas que facilitaron la definición, análisis y representación visual de los requerimientos técnicos y funcionales. Estas plataformas promovieron una planificación estructurada y una mayor claridad conceptual del sistema:
 
-| Herramienta   | Descripción                                                                                                     | Enlace                                      |
-|---------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| **Trello**        | Herramienta de organización de proyectos basada en tableros y tarjetas, empleada para distribuir tareas entre los miembros del equipo y hacer seguimiento al progreso de cada fase del desarrollo. | [trello.com](https://trello.com/)           |
-| **Uxpressia**     | Aplicación digital utilizada para el diseño de mapas estratégicos, como *Impact Mapping*, lo cual permitió vincular los objetivos del negocio con las funcionalidades del producto de forma clara y visual. | [uxpressia.com](https://uxpressia.com/)     |
-| **Structurizr**   | Plataforma de modelado arquitectónico que facilita la construcción de diagramas C4, permitiendo representar la estructura lógica del sistema y su interacción entre componentes de manera estandarizada. | [structurizr.com](https://www.structurizr.com/) |
-| **Lucidchart**    | Entorno colaborativo de diagramación empleado para desarrollar modelos técnicos como diagramas de clases y estructuras de bases de datos, fundamentales en la definición de la arquitectura del sistema. | [lucidchart.com](https://www.lucidchart.com/) |
+| Herramienta    | Descripción                                                                                                                                      | Enlace                                            |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| **Trello**     | Herramienta basada en tableros para distribuir tareas, priorizar actividades y hacer seguimiento al avance de cada fase del desarrollo.         | [trello.com](https://trello.com/)                |
+| **Uxpressia**  | Aplicación digital utilizada para crear *Impact Maps*, vinculando objetivos del negocio con funcionalidades del producto.                        | [uxpressia.com](https://uxpressia.com/)          |
+| **Structurizr**| Plataforma para modelar la arquitectura del sistema mediante diagramas C4, representando componentes y sus relaciones.                          | [structurizr.com](https://www.structurizr.com/)  |
+| **Lucidchart** | Entorno colaborativo de diagramación empleado para representar modelos técnicos como diagramas de clases y estructuras de base de datos.        | [lucidchart.com](https://www.lucidchart.com/)    |
 
 ---
 
 #### Product UX/UI Design
 
-El diseño de la experiencia de usuario y de la interfaz visual se abordó mediante herramientas especializadas que posibilitaron la creación de prototipos gráficos y esquemas de navegación. Esto permitió validar la estructura de la aplicación antes de su implementación:
+El diseño de experiencia de usuario e interfaz gráfica se abordó mediante herramientas que permitieron la creación de prototipos visuales y esquemas de navegación. Esto facilitó la validación anticipada de la estructura antes del desarrollo:
 
-| Herramienta | Descripción                                                                                          | Enlace                              |
-|-------------|------------------------------------------------------------------------------------------------------|-------------------------------------|
-| **Figma**   | Plataforma de diseño colaborativo en línea que permitió a los miembros del equipo crear y editar en tiempo real wireframes y mockups, asegurando la coherencia visual y funcional de la landing page. | [figma.com](https://www.figma.com/) |
+| Herramienta | Descripción                                                                                                                                                | Enlace                                 |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| **Figma**   | Plataforma de diseño colaborativo utilizada para crear wireframes y mockups interactivos en tiempo real, asegurando coherencia visual y funcional.        | [figma.com](https://www.figma.com/)    |
 
 ---
 
 #### Software Development
 
-Para el desarrollo de la página web, se emplearon lenguajes de programación y etiquetado esenciales para crear la estructura, el diseño y las funcionalidades del sistema. A continuación, se describen las herramientas utilizadas:
+Para el desarrollo del sistema web, se emplearon tecnologías estándares del desarrollo frontend. Además, se implementó el flujo de trabajo GitFlow para una gestión ordenada del código, asegurando colaboración eficiente, control de versiones y despliegue progresivo de funcionalidades.
 
-| Herramienta    | Descripción                                                                                              | Enlace                                                       |
-|----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| **HTML**       | Lenguaje de marcado fundamental para estructurar el contenido y la disposición de los elementos en la web. | [HTML](https://www.w3schools.com/html/default.asp)           |
-| **CSS**        | Lenguaje de diseño que permite aplicar estilos visuales a los elementos estructurados en HTML, mejorando su presentación. | [CSS](https://www.w3schools.com/css/default.asp)             |
-| **JavaScript** | Lenguaje de programación orientado a objetos utilizado para agregar interactividad y funcionalidades dinámicas a la página web. | [JavaScript](https://www.w3schools.com/js/default.asp)       |
+| Herramienta       | Descripción                                                                                                                                      | Enlace                                                       |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **HTML**          | Lenguaje de marcado utilizado para estructurar el contenido de la página web.                                                                  | [HTML](https://www.w3schools.com/html/default.asp)           |
+| **CSS**           | Lenguaje de estilos utilizado para definir la presentación visual del contenido HTML.                                                           | [CSS](https://www.w3schools.com/css/default.asp)             |
+| **JavaScript**    | Lenguaje de programación utilizado para agregar interactividad y comportamiento dinámico a la página.                                            | [JavaScript](https://www.w3schools.com/js/default.asp)       |
+| **Git**           | Sistema de control de versiones distribuido que permitió la gestión eficiente del código fuente del proyecto.                                    | [git-scm.com](https://git-scm.com/)                          |
+| **GitHub**        | Plataforma de alojamiento de repositorios utilizada para centralizar el código y facilitar la colaboración entre desarrolladores.                | [GitHub](https://github.com/)                                |
+| **GitFlow**       | Estrategia de ramificación aplicada para organizar el flujo de trabajo del desarrollo. Se emplearon ramas principales (`main`, `develop`) y secundarias (`feature`, `release`, `hotfix`) para garantizar un proceso estructurado y seguro. | [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/) |
 
 ---
 
 #### Software Documentation
 
-La gestión y documentación del proyecto se llevó a cabo utilizando herramientas que facilitaron la organización y el acceso a la información técnica, asegurando la transparencia y la trazabilidad del desarrollo:
+La documentación del proyecto se organizó en un repositorio accesible al equipo, escrita en un formato ligero y legible. Esto facilitó el acceso y la actualización constante de la información técnica relevante:
 
-| Herramienta    | Descripción                                                                                              | Enlace                                                       |
-|----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| **GitHub**     | Plataforma de desarrollo colaborativo que también se utilizó para gestionar y alojar la documentación del proyecto. | [GitHub](https://github.com/SmartFinance-OpenSource/Report)  |
-| **Markdown**   | Formato de texto ligero utilizado para escribir y estructurar la documentación técnica del proyecto de forma clara y legible. | [markdown.es](https://markdown.es/)                          |
+| Herramienta    | Descripción                                                                                                                                     | Enlace                                                                 |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **GitHub**     | Utilizado también para alojar la documentación técnica, facilitando su acceso, actualización y control de cambios.                            | [GitHub Docs](https://github.com/SmartFinance-OpenSource/Report)      |
+| **Markdown**   | Lenguaje de marcado ligero empleado para estructurar la documentación de manera clara y accesible.                                             | [markdown.es](https://markdown.es/)                                   |
 
 ---
 
 #### Software Deployment
 
-Para el despliegue de la landing page, se optó por una plataforma de hosting que permite la publicación directa desde un repositorio de GitHub, garantizando una gestión eficiente del ciclo de vida de la aplicación:
+Para el despliegue de la landing page, se utilizó una solución de hosting integrada con GitHub que permite publicar el sitio directamente desde el repositorio, asegurando una integración continua del proceso de desarrollo con su puesta en producción:
 
-| Herramienta     | Descripción                                                                                              | Enlace                                                       |
-|-----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| **GitHub Pages** | Servicio de GitHub que permite desplegar la aplicación directamente desde el repositorio, facilitando la visualización pública de la página. | [GitHub Pages](https://pages.github.com/)                   |
+| Herramienta      | Descripción                                                                                                                                         | Enlace                                          |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| **GitHub Pages** | Servicio gratuito de GitHub para la publicación de sitios estáticos directamente desde un repositorio, ideal para el despliegue de la landing page. | [GitHub Pages](https://pages.github.com/)      |
 
 ---
 
