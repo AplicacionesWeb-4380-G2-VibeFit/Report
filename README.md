@@ -2411,6 +2411,19 @@ Segunda pagina donde se pueden visualizar con más detalle los plans
 Segunda vista d ela seunda pagina con las dietas del plan
 [![image.png](https://i.postimg.cc/5t5XG1mH/image.png)](https://postimg.cc/94MXR6KV)
 
+###### Profile
+
+Primera vista de profile
+
+<img src="./assets/profile1.jpg" alt="profile1"/>
+<img src="./assets/profile2.jpg" alt="profile2"/>
+
+Segunda vista de profile
+
+<img src="./assets/profile3.jpg" alt="profile3"/>
+<img src="./assets/profile4.jpg" alt="profile4"/>
+
+
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 📝 Introducción
