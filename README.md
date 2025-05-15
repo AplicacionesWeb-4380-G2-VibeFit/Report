@@ -2208,20 +2208,187 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 
 [![image.png](https://i.postimg.cc/dVkfdFgt/image.png)](https://postimg.cc/Hrm3Dqpf)
 
-#### 5.2.2. Sprint 2
+## 5.2.2. Sprint 2
 
-##### 5.2.2.1 Sprint Planning 2
+En este sprint, el equipo se centró en el desarrollo del frontend de la aplicación, implementando funcionalidades clave para la gestión de rutinas, ventas y reseñas de los usuarios.
 
-##### 5.2.2.2 Aspect Leaders and Collaborators.
-| Team Member (Last Name, First Name) | GitHub Username | Cronograma y Visualización de Rutinas | Gestión de Rutinas | Interacción Social y Reseñas | Gestión de Perfil y Membresía | Marketplace de Cursos |
-|-------------------------------------|-----------------|------------------------------|--------------|--------|------------------|---------------------|
-| Acuña Tomas, Diego Rolin | ComidaRapida007 | L | C | C | L | C|
-| Guzmán Chávez, Ramiro Alexander | RamiroGuzmanCh | C | C | L | C | C |
-| Gómez Hurtado, Miguel Angel | Miguel26112001 | C | L | C | C | C |
-| Briceño De La Cruz, Farid Sebastian | InjustShin | C | C | C | C | C |
-| Muñoz Vilcapoma, Mauricio Rigoberto | MauricioMVilcapoma | C | C | C | C | L |
+### 5.2.2.1. Sprint Planning 2
 
-##### 5.2.2.3 Sprint Backlog 2
+El Sprint #2, iniciado el 28 de agosto de 2024, tiene como objetivo desarrollar las siguientes funcionalidades en el frontend:
+
+- Mostrar la gestión de rutinas.
+- Mostrar las ventas de rutinas.
+- Mostrar las reseñas de los usuarios.
+- Editar reseñas.
+- Eliminar reseñas.
+- Agregar nuevas reseñas.
+- Permitir cambiar el idioma en las reseñas.
+
+<table>
+  <tr> 
+    <th> Sprint # </th>
+    <th> Sprint 2 </th>
+  </tr>
+  <tr> 
+    <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 28/08/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 17:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Modalidad remota a través de Discord </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Acuña Tomas, Diego Rolin </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td> 
+        <br> Acuña Tomas, Diego Rolin
+        <br> Guzmán Chávez, Ramiro Alexander
+        <br> Gómez Hurtado, Miguel Angel
+        <br> Briceño De La Cruz, Farid Sebastian
+        <br> Muñoz Vilcapoma, Mauricio Rigoberto
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+    <td> Se completó exitosamente la landing page con todas las secciones planificadas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+    <td> Se identificaron mejoras en la comunicación y coordinación entre los miembros del equipo. </td>
+  </tr>
+  <tr> 
+    <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Goal</td>
+    <td> Desarrollar las funcionalidades del frontend para la gestión de rutinas, ventas y reseñas, asegurando una experiencia de usuario fluida y eficiente. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+    <td> 34 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 34 </td>
+  </tr>
+</table>
+
+### 5.2.2.2. Aspect Leaders and Collaborators
+
+| Miembro del equipo (Apellido, Nombre)      | Nombre de usuario en GitHub | Gestión de Rutinas | Ventas de Rutinas | Reseñas | Edición de Reseñas | Eliminación de Reseñas | Agregar Nuevas Reseñas | Cambio de Idioma en Reseñas | Documentación del Sprint |
+|--------------------------------------------|------------------------------|---------------------|--------------------|---------|---------------------|-------------------------|-------------------------|-----------------------------|---------------------------|
+| Acuña Tomas, Diego Rolin                   | ComidaRapida007              | L                   | L                  | L       | L                   | L                       | L                       | L                           | C                         |
+| Guzmán Chávez, Ramiro Alexander            | RamiroGuzmanCh               | C                   | C                  | C       | C                   | C                       | C                       | C                           | L                         |
+| Gómez Hurtado, Miguel Angel                | Miguel26112001               | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+| Briceño De La Cruz, Farid Sebastian        | InjustShin                   | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+| Muñoz Vilcapoma, Mauricio Rigoberto        | MauricioMVilcapoma           | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+
+### 5.2.2.3. Sprint Backlog 2
+
+En el segundo sprint backlog, el equipo centró su trabajo en mostrar las rutinas y ventas disponibles, así como gestionar reseñas de usuarios. Se continuó utilizando Trello como herramienta principal de organización.
+
+![Trello](assets/Sprint2.png)
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th colspan="4"> Sprint # </th>
+    <th colspan="7"> Sprint 2 </th>
+  </tr>
+  <tr>
+    <th colspan="4"> User Story </th>
+    <th colspan="7"> Work-Item / Task </th>
+  </tr>
+  <tr>
+    <th> Id </th>
+    <th colspan="3"> Title </th>
+    <th> Id </th>
+    <th> Title </th>
+    <th> Description </th>
+    <th> Estimation (Hours) </th>
+    <th> Assigned To </th>
+    <th> Status </th>
+  </tr>
+  <tr>
+    <th> US09 </th>
+    <th colspan="3"> Mostrar rutina management </th>
+    <th> UT16 </th>
+    <th> Visualización de rutinas disponibles </th>
+    <th> Implementar la interfaz que permita mostrar las rutinas activas. </th>
+    <th> 3 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US10 </th>
+    <th colspan="3"> Mostrar routine sales </th>
+    <th> UT17 </th>
+    <th> Visualización de ventas realizadas </th>
+    <th> Mostrar al usuario las ventas realizadas de rutinas. </th>
+    <th> 3 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US11 </th>
+    <th colspan="3"> Gestión de reviews </th>
+    <th> UT18 </th>
+    <th> Mostrar reseñas de usuarios </th>
+    <th> Crear componente para visualizar las reseñas dejadas por otros usuarios. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US11 </th>
+    <th colspan="3"> Gestión de reviews </th>
+    <th> UT19 </th>
+    <th> Editar reseñas </th>
+    <th> Permitir al usuario editar su propia reseña. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US11 </th>
+    <th colspan="3"> Gestión de reviews </th>
+    <th> UT20 </th>
+    <th> Eliminar reseñas </th>
+    <th> Permitir al usuario eliminar reseñas existentes. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US11 </th>
+    <th colspan="3"> Gestión de reviews </th>
+    <th> UT21 </th>
+    <th> Agregar nueva reseña </th>
+    <th> Permitir a los usuarios añadir nuevas reseñas al sistema. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US12 </th>
+    <th colspan="3"> Cambio de idioma en reseñas </th>
+    <th> UT22 </th>
+    <th> Implementación de selector de idioma </th>
+    <th> Incorporar una opción para traducir o visualizar reseñas en múltiples idiomas. </th>
+    <th> 4 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+</table>
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
