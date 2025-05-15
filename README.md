@@ -2213,6 +2213,13 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 ##### 5.2.2.1 Sprint Planning 2
 
 ##### 5.2.2.2 Aspect Leaders and Collaborators.
+| Team Member (Last Name, First Name) | GitHub Username | Cronograma y Visualización de Rutinas | Gestión de Rutinas | Interacción Social y Reseñas | Gestión de Perfil y Membresía | Marketplace de Cursos |
+|-------------------------------------|-----------------|------------------------------|--------------|--------|------------------|---------------------|
+| Acuña Tomas, Diego Rolin | ComidaRapida007 | L | C | C | L | C|
+| Guzmán Chávez, Ramiro Alexander | RamiroGuzmanCh | C | C | L | C | C |
+| Gómez Hurtado, Miguel Angel | Miguel26112001 | C | L | C | C | C |
+| Briceño De La Cruz, Farid Sebastian | InjustShin | C | C | C | C | C |
+| Muñoz Vilcapoma, Mauricio Rigoberto | MauricioMVilcapoma | C | C | C | C | L |
 
 ##### 5.2.2.3 Sprint Backlog 2
 
@@ -2221,6 +2228,21 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+📝 Introducción
+Durante este Sprint se avanzó con la documentación completa de los Web Services correspondientes al contexto de planes de salud (HealthPlans) y sus componentes (Meals, Exercises, Instructions, Ingredients).
+
+A continuación, se presenta una tabla con los endpoints documentados, incluyendo acciones soportadas (verbos HTTP), sintaxis y parámetros
+
+| Recurso      | Acción           | Verbo HTTP | Endpoint                          | Parámetros   | Ejemplo de Response |
+| ------------ | ---------------- | ---------- | --------------------------------- | ------------ | ------------------- |
+| HealthPlans  | Obtener todos    | `GET`      | `/api/healthplans`                | —            | ✅                   |
+| HealthPlans  | Obtener por ID   | `GET`      | `/api/healthplans/{id}`           | `id: number` | ✅                   |
+| Meals        | Obtener por plan | `GET`      | `/api/healthplans/{id}/meals`     | `id: number` | ✅                   |
+| Exercises    | Obtener por plan | `GET`      | `/api/healthplans/{id}/exercises` | `id: number` | ✅                   |
+| Ingredients  | Obtener por meal | `GET`      | `/api/meals/{id}/ingredients`     | `id: number` | ✅                   |
+| Instructions | Obtener por meal | `GET`      | `/api/meals/{id}/instructions`    | `id: number` | ✅                   |
+
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -2285,3 +2307,7 @@ Link de la Organización: https://github.com/AplicacionesWeb-4380-G2-VibeFit
 Link de la documentanción: https://github.com/AplicacionesWeb-4380-G2-VibeFit/Report
 
 Link de la Landing Page: https://aplicacionesweb-4380-g2-vibefit.github.io/LandingPage-FitWise/
+
+Link del Deploy del FrontEnd: https://fit-wise-499c9.web.app
+
+Link del json server desplegado: https://my-json-server.typicode.com/AplicacionesWeb-4380-G2-VibeFit/db.json
