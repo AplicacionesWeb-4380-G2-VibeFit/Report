@@ -2394,6 +2394,23 @@ En el segundo sprint backlog, el equipo centró su trabajo en mostrar las rutina
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
+En esta entrega, nuestro equipo ha desplegado con éxito del Front End.
+
+######  Home
+
+[![image.png](https://i.postimg.cc/YqSQW4zd/image.png)](https://postimg.cc/5jZHc2Gz)
+
+######  Publishing
+
+Primera vista de publishing donde estan los planes
+[![image.png](https://i.postimg.cc/TYS55twP/image.png)](https://postimg.cc/kBQgkFWr)
+
+Segunda pagina donde se pueden visualizar con más detalle los plans
+[![image.png](https://i.postimg.cc/tgG127FQ/image.png)](https://postimg.cc/BjNQvShM)
+
+Segunda vista d ela seunda pagina con las dietas del plan
+[![image.png](https://i.postimg.cc/5t5XG1mH/image.png)](https://postimg.cc/94MXR6KV)
+
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 📝 Introducción
