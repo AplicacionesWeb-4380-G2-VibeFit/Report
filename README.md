@@ -1552,11 +1552,13 @@ los datos de manera eficiente y segura. Esto nos permitirá organizar los datos 
 manipulación en respuesta a las solicitudes de los usuarios.
 
 #### 4.8.1. Database Diagram
+Nuestro diagrama de base de datos se dividio en 5 Bounded Context para el correcto inicio de desarrollo de nuestra aplicación.
 
 <p align="center">
-  <img src="./assets/DiagramaDBWeb.png" alt="DiagramaDBWeb" />
+  <img src="./assets/DBAppWeb.png" alt="DiagramaDBWeb" />
 </p>
 
+Link del diagrama de base de datos: https://lucid.app/lucidchart/13b4b27e-5e22-49cc-b482-6651f4c40563/edit?viewport_loc=-4192%2C-668%2C6868%2C3260%2C0_0&invitationId=inv_8cbe48d9-5b5d-4991-96b7-369242ba722b
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
