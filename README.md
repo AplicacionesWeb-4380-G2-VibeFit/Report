@@ -2234,7 +2234,7 @@ El Sprint #2, iniciado el 28 de agosto de 2024, tiene como objetivo desarrollar 
   </tr>
   <tr>
     <td style="font-weight: bold;"> Date </td>
-    <td> 28/08/2024 </td>
+    <td> 10/05/2025 </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Time </td>
