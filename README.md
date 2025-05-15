@@ -2520,6 +2520,10 @@ Link del Deploy del FrontEnd: https://fit-wise-499c9.web.app
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
+Para este sprint, las tareas de diseño, implementación y documentación del front end, se distribuyó entre los integrantes del equipo. La implementación y despliegue del front end fue llevado a cabo principalmente por Miguel Gomez.
+
+[![image.png](https://i.postimg.cc/zDQGxV1t/image.png)](https://postimg.cc/w3hzvxML)
+
 ## Conclusiones
 
 
