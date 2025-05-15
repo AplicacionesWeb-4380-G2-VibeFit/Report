@@ -2246,6 +2246,94 @@ A continuación, se presenta una tabla con los endpoints documentados, incluyend
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+En este caso hemos realizado el `deploy` mediante el servicio de **Hosting** de Firebase.
+
+Aquí tienes los pasos para hacer deploy de tu proyecto Vue a Firebase en formato `.md`:
+
+---
+
+````markdown
+# 🚀 Deploy de Proyecto Vue.js a Firebase Hosting
+
+## ✅ Requisitos Previos
+
+1. **Instalar Node.js y npm**  
+   Asegúrate de tener Node.js y npm instalados en tu máquina. Puedes verificarlo con:
+
+   ```bash
+   node -v
+   npm -v
+````
+
+2. **Instalar Firebase CLI**
+
+   ```bash
+   npm install -g firebase-tools
+   ```
+
+3. **Tener una cuenta de Firebase y crear un proyecto**
+
+   * Ve a [https://console.firebase.google.com](https://console.firebase.google.com)
+   * Crea un proyecto nuevo o usa uno existente.
+
+---
+
+## 🛠️ Build del Proyecto Vue
+
+Si estás usando Vue CLI:
+
+```bash
+npm run build
+```
+
+Si estás usando Vite:
+
+```bash
+npm run build
+```
+
+Esto generará una carpeta `dist/` con los archivos listos para producción.
+
+---
+
+## 🔧 Inicializar Firebase Hosting
+
+Ejecuta lo siguiente en la raíz del proyecto:
+
+```bash
+firebase login
+firebase init hosting
+```
+
+Durante el proceso:
+
+* Selecciona tu proyecto de Firebase
+* Establece `dist` como directorio público
+* Responde `Yes` a la opción de configurar como SPA (Single Page App)
+* Responde `No` cuando pregunte si quieres sobrescribir `index.html`
+
+---
+
+## 🚀 Hacer Deploy
+
+Una vez configurado correctamente, ejecuta:
+
+```bash
+firebase deploy
+```
+
+Al finalizar, recibirás una URL pública como esta:
+
+```
+Hosting URL: https://your-project-id.web.app
+```
+
+---
+## Evidencia del deploy
+
+Link del Deploy del FrontEnd: https://fit-wise-499c9.web.app
+
+
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
