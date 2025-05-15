@@ -863,53 +863,51 @@ Incrementar en un 20% las asesorías contratadas por usuarios activos en 3 meses
 
 | Orden | User Story ID | Título | Descripción | Story Points |
 |-------|--------------|--------|-------------|-------------|
-| 1 | US01 | Registro básico | Como nuevo usuario, quiero registrarme con email y contraseña, para acceder a la plataforma | 3 |
-| 2 | US02 | Registro completo | Como usuario, quiero completar mi perfil inicial, para obtener recomendaciones personalizadas | 3 |
-| 3 | US03 | Login social | Como usuario, quiero acceder con redes sociales, para agilizar mi registro | 5 |
-| 4 | US04 | Verificación email | Como usuario, quiero confirmar mi cuenta, para garantizar seguridad | 2 |
-| 5 | US05 | Perfil de asesor | Como entrenador, quiero registrarme como profesional, para ofrecer mis servicios | 5 |
-| 6 | US06 | Actualización objetivos | Como usuario, quiero modificar mis metas, para ajustar mi plan | 3 |
-| 7 | TS01 | API Autenticación | Como desarrollador, quiero integrar login/registro | 5 |
-| 8 | US07 | Generación de plan nutricional | Como usuario, quiero un plan de comidas semanal, para mantener una dieta saludable | 8 |
-| 9 | US08 | Lista de compras | Como usuario, quiero una lista de ingredientes organizada, para facilitar mis compras | 5 |
-| 10 | US09 | Sustitución de ingredientes | Como usuario, quiero reemplazar alimentos que no me gustan, para personalizar mi plan | 5 |
-| 11 | US10 | Información nutricional | Como usuario, quiero ver detalles nutricionales, para controlar mi ingesta | 3 |
-| 12 | TS02 | API Planes Nutricionales | Como desarrollador, quiero consumir el servicio de planes | 8 |
-| 13 | US011 | Generación de rutinas | Como usuario, quiero una rutina de ejercicios personalizada, para entrenar eficientemente | 8 |
-| 14 | US012 | Progresión automática | Como usuario, quiero que mi rutina se ajuste a mi progreso, para mantener el desafío | 5 |
-| 15 | US13 | Demostraciones de ejercicios | Como principiante, quiero ver cómo realizar cada ejercicio correctamente, para evitar lesiones | 5 |
-| 16 | US14 | Registro de sesiones | Como usuario, quiero marcar mis ejercicios completados, para llevar un historial | 3 |
-| 17 | TS03 | API de Rutinas | Como desarrollador, quiero integrar el generador de rutinas | 13 |
-| 18 | US15 | Registro de métricas físicas | Como usuario, quiero registrar mis medidas corporales, para monitorear mi progreso | 5 |
-| 19 | US16 | Visualización de progreso | Como usuario, quiero ver gráficos de mi evolución, para motivarme | 8 |
-| 20 | US17 | Recomendaciones automáticas | Como usuario, quiero sugerencias basadas en mis resultados, para mejorar mi rendimiento | 5 |
-| 21 | US18 | Reporte semanal | Como usuario, quiero un resumen de mi actividad, para mantenerme accountable | 3 |
-| 22 | TS04 | API de Progreso | Como desarrollador, quiero integrar el módulo de seguimiento | 13 |
-| 23 | US19 | Búsqueda de asesores | Como usuario, quiero encontrar profesionales cerca de mi ubicación | 8 |
-| 24 | US20 | Perfiles de asesores | Como usuario, quiero ver información detallada de cada profesional | 5 |
-| 25 | US21 | Reserva de sesiones | Como usuario, quiero agendar citas con asesores | 8 |
-| 26 | US22 | Sistema de pagos | Como usuario, quiero pagar sesiones de forma segura | 13 |
-| 27 | US23 | Comunicación integrada | Como usuario, quiero contactar a mi asesor | 5 |
-| 28 | TS05 | API de Marketplace | Como desarrollador, quiero integrar el sistema de asesorías | 13 |
-| 29 | US24 | Suscripción premium | Como usuario, quiero mejorar a un plan premium para acceder a funciones exclusivas | 8 |
-| 30 | US25 | Pasarela de pagos | Como usuario, quiero pagar con métodos locales para mayor comodidad | 8 |
-| 31 | US26 | Gestión de renovaciones | Como usuario premium, quiero controlar mi suscripción para administrar gastos | 5 |
-| 32 | US27 | Acceso diferencial | Como usuario premium, quiero beneficios exclusivos para sentir valor agregado | 5 |
-| 33 | TS06 | API de Pagos | Como desarrollador, quiero procesar transacciones | 13 |
-| 34 | US28 | Recordatorios personalizados | Como usuario, quiero recibir notificaciones inteligentes para mantener mi disciplina | 5 |
-| 35 | US29 | Notificaciones de progreso | Como usuario, quiero alertas sobre mis logros para mantenerme motivado | 5 |
-| 36 | US30 | Alertas de asesorías | Como usuario, quiero recordatorios de mis citas programadas para no olvidarlas | 3 |
-| 37 | TS07 | API de Notificaciones | Como desarrollador, quiero gestionar envíos automatizados | 13 |
-| 38 | US31 | Gestión de usuarios | Como administrador, quiero ver y filtrar todos los usuarios registrados | 8 |
-| 39 | US32 | Moderación de contenido | Como administrador, quiero revisar y editar planes nutricionales/entrenamientos | 5 |
-| 40 | US33 | Reportes estadísticos | Como administrador, quiero exportar datos de crecimiento | 8 |
-| 41 | TS08 | API de Administración | Como desarrollador, quiero integrar funcionalidades de backoffice | 13 |
-| 42 | US34 | Hero Section Principal | Como visitante, quiero ver una sección hero clara y atractiva | 3 |
-| 43 | US35 | Formulario de Registro Simplificado | Como visitante, quiero registrarme rápidamente | 5 |
-| 44 | US36 | Sección de Beneficios Clave | Como visitante, quiero ver los principales beneficios | 3 |
-| 45 | US37 | Testimonios Verificados | Como visitante, quiero ver casos de éxito reales | 5 |
-| 46 | US38 | Comparación de Planes | Como visitante, quiero comparar opciones | 5 |
-| 47 | US39 | Versión Mobile Responsive | Como usuario móvil, quiero una experiencia optimizada | 8 |
+| 1 | US001 | Barra de navegación en la Landing Page |Como usuario visitante, quiero una barra de navegación clara y funcional, para poder moverme fácilmente por las diferentes secciones de la landing page | 2 |
+| 2 | US002 | Sección Hero en la Landing Page	 | Como usuario visitante, quiero una sección hero atractiva con imagen y título llamativo, para entender rápidamente el propósito principal de FitWise | 3 |
+| 3 | US003	 | Sección Footer en la Landing Page	 | Como usuario interesado, conocer información sobre el equipo y la misión de la empresa, para decidir si confiar en el producto	 | 5 |
+| 4 | US004 | Sección "About Us" en la Landing Page	| Como usuario, quiero confirmar mi cuenta, para garantizar seguridad | 2 |
+| 5 | US005 | Sección "Information" en la Landing Page | CComo usuario potencial, quiero detalles claros sobre el producto, para entender qué ofrece exactamente FitWise. | 3 |
+| 6 | US006 | Sección "Benefits" en la Landing Page | Como usuario indeciso, quiero conocer las ventajas competitivas de FitWise, para compararlo con otras soluciones similares. | 4 |
+| 7 | US007 | Sección "Contact us" en la Landing Page | Como usuario interesado, quiero un formulario de contacto funcional, para hacer consultas al equipo. | 5 |
+| 8 | US008 | Landing Page Responsive | Como usuario que accede desde diferentes dispositivos, quiero que la página se adapte correctamente, para tener una buena experiencia sin importar el dispositivo | 3 |
+| 9 | US015 | Visualización de comidas diarias en vista tabla | Como usuario, quiero ver una tabla con las comidas programadas por fecha y tipo, para saber qué debo comer cada día de forma clara y organizada. | 5 |
+| 10 | US016 | Visualización resumida de rutinas por fecha | Como usuario, ver un resumen con los rangos de fechas en los que tengo rutinas activas, para tener una vista clara de mi calendario de entrenamiento. | 3 |
+| 11 | US019 | Creación de una nueva rutina | Como entrenador con membresía activa, quiero crear una nueva rutina con título, descripción y duración recomendada, para ofrecer un plan de entrenamiento estructurado a los usuarios. | 5 |
+| 12 | US023 | Visualización de rutina y sus componentes	 | Como usuario, quiero visualizar una rutina con sus ejercicios y comidas asociadas, para entender completamente el plan que debo seguir. | 5 |
+| 13 | US024 | Visualizar comentarios de una rutina publicada | Como usuario, quiero poder visualizar los comentarios de una rutina publicada, para conocer las opiniones y experiencias de otros usuarios. | 3 |
+| 14 | US030 | Comprar membresía de creador de contenido | Como usuario, quiero poder comprar una membresía para convertirme en creador de contenido, para poder vender mis rutinas. | 5 |
+| 15 | US033 | Buscar cursos disponibles en el marketplace | Como usuario, quiero poder buscar cursos disponibles en el marketplace, para encontrar fácilmente los que me interesan. | 5 |
+| 16 | US029 | Editar información de perfil | Como usuario, quiero poder editar mi información de perfil, para mantener mis datos personales actualizados. | 3 |
+| 17 | US031 | Agregar y eliminar amigos | Como usuario, quiero poder agregar y eliminar amigos desde mi perfil, para conectar y compartir con otros usuarios. | 5 |
+| 18 | US034 | Ver detalles de un curso | Como usuario, quiero poder ver la información detallada de un curso, para decidir si quiero comprarlo. | 5 |
+| 19 | US017 | Asignación de nueva rutina al cronograma | Como usuario, asignar una nueva rutina desde una fecha específica, para comenzar un nuevo ciclo de entrenamiento planificado. | 8 |
+| 20 | US018 | Alternancia entre vistas de cronograma | Como usuario, alternar entre la vista de tabla diaria y la vista resumida de rutinas, para consultar mi agenda según lo que necesite ver. | 3 |
+| 21 | US020 | Agregar ejercicios a una rutina | Como entrenador con membresía activa, quiero poder agregar ejercicios a una rutina, para definir claramente qué actividades debe realizar el usuario. | 5 |
+| 22 | US021 | Agregar comidas a una rutina | Como entrenador con membresía activa,, quiero  poder asociar comidas a una rutina con su tipo (desayuno, almuerzo, cena), para entregar un plan nutricional completo al usuario | 5 |
+| 23 | US025 | Agregar un comentario a una rutina publicada | Como usuario, quiero poder comentar una rutina publicada, para compartir mi experiencia o dar retroalimentación a otros usuarios. | 3 |
+| 24 | US026 | Editar un comentario propio | Como usuario, quiero poder editar un comentario que yo hice sobre una rutina, para corregir o actualizar mi opinión. | 3 |
+| 25 | US027 | Eliminar un comentario propio | Como usuario, quiero poder eliminar un comentario que realicé, para retirar mi opinión si ya no deseo que sea visible. | 2 |
+| 26 | US028 | Ver resumen de calificaciones de una rutina | Como usuario, quiero ver un resumen de calificaciones en una rutina publicada, para tener una idea rápida de su valoración general. | 3 |
+| 27 | US032 | Ver perfil de otros usuarios | Como usuario, quiero poder ver el perfil de otros usuarios, para conocer más sobre ellos y su actividad. | 3 |
+| 28 | US035 | Comprar un curso | CComo usuario, quiero poder comprar un curso disponible, para acceder a su contenido exclusivo. | 5 |
+| 29 | US036 | Ocultar cursos propios del marketplace | Como creador de contenido, quiero que mis propios cursos no aparezcan en el listado del marketplace, para no comprarlos por error. | 3 |
+| 30 | US009 | Registro básico | Como nuevo usuario, quiero registrarme con email y contraseña, para acceder a la plataforma | 5 |
+| 31 | US010 | Registro completo | Como usuario, quiero completar mi perfil inicial, para obtener recomendaciones personalizadas | 8 |
+| 32 | US011 | 	Login social | Como usuario, quiero acceder con redes sociales, para agilizar mi registro | 5 |
+| 33 | US012	 | Verificación email | Como usuario, quiero confirmar mi cuenta, para garantizar seguridad | 3 |
+| 34 | US013 | Perfil de asesor | Como entrenador, quiero registrarme como profesional, para ofrecer mis servicios | 5 |
+| 35 | US014 | Actualización objetivos | Como usuario, quiero modificar mis metas, para ajustar mi plan | 3 |
+| 36 | TS001 | Modelo de rutina con integridad de fechas | Como desarrollador, quiero definir el modelo de rutina con una validación de fechas, para evitar superposiciones entre rutinas. | 8 |
+| 37 | TS002 | API para consulta estructurada del cronograma | Como desarrollador, quiero una API que devuelva las rutinas, comidas y ejercicios organizados por fecha, para alimentar la tabla de visualización. | 13 |
+| 38 | TS003 | Estructura relacional entre Rutina, Ejercicio y Comida | Como desarrollador, quiero definir relaciones entre rutina, ejercicios y comidas, para garantizar que cada rutina pueda tener múltiples componentes. | 8 |
+| 39 | TS004 | Middleware de acceso restringido a entrenadores | Como desarrollador, quiero implementar un middleware que verifique membresía de entrenador, para restringir el acceso a la gestión de rutinas. | 3 |
+| 40 | TS005 | Modelo de comentarios con rating vinculado a rutina | CComo desarrollador, quiero diseñar el modelo de comentarios vinculado a rutinas y con rating, para almacenar la retroalimentación de usuarios. | 5 |
+| 41 | TS006 | Endpoint de resumen de ratings por rutina | CComo desarrollador, quiero un endpoint que devuelva el promedio de calificación de una rutina, para mostrar el resumen a los usuarios. | 5 |
+| 42 | TS007 | Sistema de roles y membresía en usuarios | Como desarrollador, quiero implementar un sistema de roles y membresía, para diferenciar entre usuarios normales y creadores de contenido. | 8 |
+| 43 | TS008 | Relaciones entre usuarios para funcionalidad de amistad	 | Como desarrollador, quiero definir una relación many-to-many entre usuarios, para permitir la funcionalidad de agregar y eliminar amigos.	 | 5 |
+| 44 | TS009 | Filtrado de cursos por palabra clave y exclusión de cursos propios | Como desarrollador, quiero implementar un sistema de búsqueda que excluya los cursos creados por el usuario autenticado, para evitar que compre los suyos. | 8 |
+| 45 | TS010 | Lógica de compra y asignación de cursos | Como desarrollador, quiero implementar la lógica de compra de cursos y su asociación al usuario, para que solo acceda a los cursos adquiridos. | 13 |
 
 ## Capítulo IV: Product Design
 
