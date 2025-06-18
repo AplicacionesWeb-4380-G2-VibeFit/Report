@@ -2537,6 +2537,64 @@ Para este sprint, las tareas de diseño, implementación y documentación del fr
 
 [![image.png](https://i.postimg.cc/zDQGxV1t/image.png)](https://postimg.cc/w3hzvxML)
 
+## 5.3 Validation Interviews
+
+Para realizar las entrevistas de validación, primero se han planteado 15 preguntas para cada segmento de acuerdo a lo que se quiere saber del usuario, para así tener un análisis más enfocado.
+
+### Segmento: Adultos y jóvenes ocupados
+
+#### **Interacción con la landing page:**
+1. **Primera impresión:** ¿Qué fue lo primero que pensaste o sentiste al ingresar a la landing page?
+2. **Mensaje percibido:** ¿Qué crees que ofrece esta app según lo que viste?
+3. **Confianza:** ¿Te generó confianza o interés como para registrarte? ¿Por qué sí o no?
+
+#### **Uso de la aplicación (navegación y funcionalidad):**
+4. **Inicio de uso:** ¿Qué tan fácil te resultó comenzar a usar la app? (registro, onboarding, primeros pasos)
+5. **Navegación:** ¿Tuviste momentos en los que no supiste qué hacer o cómo avanzar dentro de la app? 
+6. **Interfaz:** ¿Cómo calificarías el diseño visual y los botones? ¿Te parecieron cómodos de usar?
+
+#### **Personalización y adaptación a su rutina:**
+7. **Flexibilidad:** ¿Sentiste que la app se adaptaba a tu horario, tiempo libre o tipo de entrenamiento preferido?
+8. **Planes sugeridos:** ¿Qué tan útil te parecieron las rutinas o menús generados para ti? ¿Cambiarías algo?
+9. **Configuración de objetivos:** ¿Te fue fácil configurar tus metas? ¿Las opciones disponibles se ajustaron a lo que buscabas?
+
+#### **Atractivo motivacional y emocional:**
+10. **Motivación:** ¿Los mensajes, recordatorios o elementos visuales (como medallas o barras de progreso) te motivaron a seguir usando la app?
+11. **Lenguaje:** ¿Qué te pareció el lenguaje de la app? ¿Muy técnico, muy informal, adecuado?
+12. **Conexión personal:** ¿Te sentiste identificado con lo que viste o leíste dentro de la app?
+
+#### **Valor percibido y disposición a pagar:**
+13. **Utilidad general:** ¿Crees que esta app realmente podría ayudarte a mejorar tu bienestar físico y mental? ¿Por qué?
+14. **Propuesta freemium:** ¿Te interesaría una versión gratuita con funciones básicas? ¿Y qué te haría considerar pagar por una versión premium?
+15. **Satisfacción:** En una escala del 1 al 10, ¿qué nota le pondrías a la experiencia general? ¿Qué mejorarías?
+
+### Segmento: Entrenadores y profesionales del fitness
+
+#### **Experiencia general con la plataforma:**
+1. **Primera impresión:** ¿Qué fue lo primero que pensaste al ver la landing page o el panel principal de la app como entrenador?
+2. **Claridad del propósito:** ¿Te quedó claro desde el inicio cómo esta app puede ayudarte como profesional del fitness?
+3. **Interfaz y flujo:** ¿Qué tan fácil te resultó navegar entre funciones como crear rutinas o gestionar clientes?
+
+#### **Creación de contenido profesional:**
+4. **Personalización de rutinas:** ¿Qué tan completo te pareció el editor de rutinas? ¿Faltó algo que normalmente usas?
+5. **Asignación de planes:** ¿Pudiste asignar rutinas fácilmente a perfiles de clientes? ¿Te pareció práctico ese proceso?
+6. **Carga operativa:** ¿Esta app podría ahorrarte tiempo frente a tus métodos actuales (Excel, papel, WhatsApp)?
+
+#### **Seguimiento y métricas:**
+7. **Visualización de progreso:** ¿Cómo valoras la manera en la que se presentan los resultados o avances de tus clientes?
+8. **Panel de control:** ¿Te resultó útil tener una vista general del estado de cada cliente? ¿Qué le agregarías?
+9. **Alertas e insights:** ¿Te parecieron relevantes las alertas (por ejemplo: cliente sin actividad, progreso lento, etc.)?
+
+#### **Comunicación y soporte al cliente:**
+10. **Interacción:** ¿Qué te pareció el sistema de mensajes o comentarios entre tú y tus clientes? ¿Es suficiente?
+11. **Simplicidad para el usuario final:** ¿Crees que tus clientes podrían entender y usar la app sin complicaciones?
+12. **Recursos educativos:** ¿Te gustaría tener material de ayuda para ti y tus clientes dentro de la app (videos, tips, etc.)?
+
+#### **Monetización y propuesta de valor:**
+13. **Valor profesional:** ¿Esta plataforma podría ayudarte a escalar tu negocio o brindar un servicio más profesional? ¿Por qué?
+14. **Planes premium:** ¿Estarías dispuesto a pagar por una versión profesional? ¿Qué funcionalidades lo justificarían?
+15. **Expectativas generales:** ¿Qué esperas de una app de este tipo que no has encontrado aún en otras soluciones?
+
 ## Conclusiones
 
 
