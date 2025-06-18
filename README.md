@@ -1853,7 +1853,7 @@ En la sección de **GitHub Pages**, elegimos la rama principal (`main`) en el me
 En Scrum, un Sprint es un lapso corto y definido durante el cual el equipo trabaja de forma concentrada para completar las tareas requeridas y alcanzar el objetivo del producto, conocido como "Product Goal" (Scrum Alliance, 2024).
 ##### 5.2.1.1. Sprint Planning 1
 
-Un sprint es un periodo corto y estructurado en el que se llevan a cabo tareas específicas dentro de un proyecto, siguiendo metodologías ágiles como Scrum. El Sprint #1, iniciado el 14 de agosto de 2024, tiene como meta crear una landing page llamativa para EcoMovil, diseñada para atraer a los usuarios y destacar las principales ventajas del producto.
+Un sprint es un periodo corto y estructurado en el que se llevan a cabo tareas específicas dentro de un proyecto, siguiendo metodologías ágiles como Scrum. El Sprint #1, iniciado el 14 de agosto de 2024, tiene como meta crear una landing page llamativa para FitWise, diseñada para atraer a los usuarios y destacar las principales ventajas del producto.
 
 
 
@@ -2536,6 +2536,107 @@ Link del Deploy del FrontEnd: https://fit-wise-499c9.web.app
 Para este sprint, las tareas de diseño, implementación y documentación del front end, se distribuyó entre los integrantes del equipo. La implementación y despliegue del front end fue llevado a cabo principalmente por Miguel Gomez.
 
 [![image.png](https://i.postimg.cc/zDQGxV1t/image.png)](https://postimg.cc/w3hzvxML)
+
+#### 5.2.3. Sprint 3
+[descripcion breve de qué se hizo en este sprint]
+
+##### 5.2.3.1. Sprint Planning 3
+El Sprint #2, iniciado el [fecha], tiene como objetivo mejorar las siguientes funcionalidades en el frontend:
+-
+-
+-
+-
+-
+
+<table>
+  <tr> 
+    <th> Sprint # </th>
+    <th> Sprint 3 </th>
+  </tr>
+  <tr> 
+    <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 02/06/2025 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 18:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Modalidad remota a través de Discord </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Guzmán Chávez, Ramiro Alexander </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td> 
+        <br> Acuña Tomas, Diego Rolin
+        <br> Guzmán Chávez, Ramiro Alexander
+        <br> Gómez Hurtado, Miguel Angel
+        <br> Briceño De La Cruz, Farid Sebastian
+        <br> Muñoz Vilcapoma, Mauricio Rigoberto
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+    <td> Se completó exitosamente la landing page con todas las secciones planificadas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+    <td> Se identificaron mejoras en la comunicación y coordinación entre los miembros del equipo. </td>
+  </tr>
+   <tr>
+    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+    <td> Se completó parcialmente el front-end incluyendo todas las secciones planificadas. </td>
+  </tr>
+   <tr>
+    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+    <td> Se identificaron mejor agilidad para presentar entregables diarios entre los miembros del equipo. </td>
+  </tr>
+  <tr> 
+    <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Goal</td>
+    <td> Mejorar y completar las funcionalidades implementadas en el frontend. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+    <td> 31 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 31 </td>
+  </tr>
+</table>
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Miembro del equipo (Apellido, Nombre)      | Nombre de usuario en GitHub  | Gestión de Rutinas  | Ventas de Rutinas  | Reseñas | Edición de Reseñas | Eliminación de Reseñas | Agregar Nuevas Reseñas | Cambio de Idioma en Reseñas | Documentación del Sprint |
+|--------------------------------------------|------------------------------|---------------------|--------------------|---------|---------------------|-------------------------|-------------------------|-----------------------------|---------------------------|
+| Acuña Tomas, Diego Rolin                   | ComidaRapida007              | L                   | L                  | L       | L                   | L                       | L                       | L                           | C                         |
+| Guzmán Chávez, Ramiro Alexander            | RamiroGuzmanCh               | C                   | C                  | C       | C                   | C                       | C                       | C                           | L                         |
+| Gómez Hurtado, Miguel Angel                | Miguel26112001               | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+| Briceño De La Cruz, Farid Sebastian        | InjustShin                   | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+| Muñoz Vilcapoma, Mauricio Rigoberto        | MauricioMVilcapoma           | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+
+##### 5.2.3.3. Sprint Backlog 3
+
+
+##### 5.2.3.4. Development Evidence for Sprint Review
+##### 5.2.3.5. Execution Evidence for Sprint Review
+En esta entrega se corrigió puntos en el frontend.
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
 
 ## 5.3 Validation Interviews
 
