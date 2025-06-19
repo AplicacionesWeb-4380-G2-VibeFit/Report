@@ -1,5 +1,3 @@
-
-
 # VibeFit  
 **Producto: FitWise**  
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
@@ -2742,6 +2740,17 @@ El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes
 </table>
 
 ##### 5.2.3.4. Development Evidence for Sprint Review
+
+En estos commits se puede observar los últimos updates a la rama main que se hizo en el repositorio del Front End.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|---------------------------------------------------------------------|------|-----------|----------------|---------------------|--------------------|
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | <rellenar> | feat: <rellenar> | - | 19/06/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | <rellenar> | feat: <rellenar> | - | 19/06/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | <rellenar> | feat: <rellenar> | - | 19/06/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | <rellenar> | feat: <rellenar> | - | 19/06/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | <rellenar> | fix: <rellenar>  | - | 19/06/2025 |
+
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 En esta entrega se corrigió puntos en el frontend.
 
