@@ -2756,7 +2756,199 @@ En esta entrega se corrigió puntos en el frontend.
 
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint se avanzó con la documentación completa de los Web Services correspondientes a los siguientes contextos:
+- Users
+- HealthPlans
+- Meals
+- Exercises
+- Instructions
+- Ingredients
+- Certificates
+- Schedules
+- Review-Comments
+- Reviews
+- Review-Reports
+- Followers
+- PurchasedPlans
+- Payments
+- PurchaseHistory
+
+A continuación, se presenta una tabla con los endpoints documentados, incluyendo acciones soportadas (verbos HTTP), sintaxis y parámetros
+
+| Recurso           | Acción                       | Verbo HTTP | Endpoint                                 | Parámetros                | Ejemplo de Response |
+|-------------------|------------------------------|------------|------------------------------------------|---------------------------|---------------------|
+| Users             | Obtener todos                | GET        | /api/users                               | —                         | ✅                  |
+| Users             | Obtener por ID               | GET        | /api/users/{id}                          | id: number                | ✅                  |
+| Users             | Obtener por email            | GET        | /api/users?email={mail}                  | email: string             | ✅                  |
+| Users             | Crear                        | POST       | /api/users                               | body: objeto user         | ✅                  |
+| Users             | Actualizar                   | PUT        | /api/users/{id}                          | id: number, body: user    | ✅                  |
+| Users             | Eliminar                     | DELETE     | /api/users/{id}                          | id: number                | ✅                  |
+| HealthPlans       | Obtener todos                | GET        | /api/healthplans                         | —                         | ✅                  |
+| HealthPlans       | Obtener por ID               | GET        | /api/healthplans/{id}                    | id: number                | ✅                  |
+| HealthPlans       | Crear                        | POST       | /api/healthplans                         | body: objeto plan         | ✅                  |
+| HealthPlans       | Actualizar                   | PUT        | /api/healthplans/{id}                    | id: number, body: plan    | ✅                  |
+| HealthPlans       | Eliminar                     | DELETE     | /api/healthplans/{id}                    | id: number                | ✅                  |
+| Meals             | Obtener todos                | GET        | /api/meals                               | —                         | ✅                  |
+| Meals             | Obtener por ID               | GET        | /api/meals/{id}                          | id: number                | ✅                  |
+| Meals             | Obtener por healthPlanId     | GET        | /api/meals?healthPlanId={id}             | healthPlanId: number      | ✅                  |
+| Meals             | Crear                        | POST       | /api/meals                               | body: objeto meal         | ✅                  |
+| Meals             | Actualizar                   | PUT        | /api/meals/{id}                          | id: number, body: meal    | ✅                  |
+| Meals             | Eliminar                     | DELETE     | /api/meals/{id}                          | id: number                | ✅                  |
+| Exercises         | Obtener todos                | GET        | /api/exercises                           | —                         | ✅                  |
+| Exercises         | Obtener por ID               | GET        | /api/exercises/{id}                      | id: number                | ✅                  |
+| Exercises         | Obtener por healthPlanId     | GET        | /api/exercises?healthPlanId={id}         | healthPlanId: number      | ✅                  |
+| Exercises         | Crear                        | POST       | /api/exercises                           | body: objeto ex           | ✅                  |
+| Exercises         | Actualizar                   | PUT        | /api/exercises/{id}                      | id: number, body: ex      | ✅                  |
+| Exercises         | Eliminar                     | DELETE     | /api/exercises/{id}                      | id: number                | ✅                  |
+| Instructions      | Obtener todos                | GET        | /api/instructions                        | —                         | ✅                  |
+| Instructions      | Obtener por ID               | GET        | /api/instructions/{id}                   | id: number                | ✅                  |
+| Instructions      | Obtener por mealId           | GET        | /api/instructions?mealId={id}            | mealId: number            | ✅                  |
+| Instructions      | Crear                        | POST       | /api/instructions                        | body: objeto inst         | ✅                  |
+| Instructions      | Actualizar                   | PUT        | /api/instructions/{id}                   | id: number, body: inst    | ✅                  |
+| Instructions      | Eliminar                     | DELETE     | /api/instructions/{id}                   | id: number                | ✅                  |
+| Ingredients       | Obtener todos                | GET        | /api/ingredients                         | —                         | ✅                  |
+| Ingredients       | Obtener por ID               | GET        | /api/ingredients/{id}                    | id: number                | ✅                  |
+| Ingredients       | Obtener por mealId           | GET        | /api/ingredients?mealId={id}             | mealId: number            | ✅                  |
+| Ingredients       | Crear                        | POST       | /api/ingredients                         | body: objeto ing          | ✅                  |
+| Ingredients       | Actualizar                   | PUT        | /api/ingredients/{id}                    | id: number, body: ing     | ✅                  |
+| Ingredients       | Eliminar                     | DELETE     | /api/ingredients/{id}                    | id: number                | ✅                  |
+| Certificates      | Obtener todos                | GET        | /api/certificates                        | —                         | ✅                  |
+| Certificates      | Obtener por ID               | GET        | /api/certificates/{id}                   | id: number                | ✅                  |
+| Certificates      | Obtener por userId           | GET        | /api/certificates?userId={id}            | userId: number            | ✅                  |
+| Certificates      | Crear                        | POST       | /api/certificates                        | body: objeto cert         | ✅                  |
+| Certificates      | Actualizar                   | PUT        | /api/certificates/{id}                   | id: number, body: cert    | ✅                  |
+| Certificates      | Eliminar                     | DELETE     | /api/certificates/{id}                   | id: number                | ✅                  |
+| Schedules         | Obtener todos                | GET        | /api/schedules                           | —                         | ✅                  |
+| Schedules         | Obtener por ID               | GET        | /api/schedules/{id}                      | id: number                | ✅                  |
+| Schedules         | Crear                        | POST       | /api/schedules                           | body: objeto sched        | ✅                  |
+| Schedules         | Actualizar                   | PUT        | /api/schedules/{id}                      | id: number, body: sched   | ✅                  |
+| Schedules         | Eliminar                     | DELETE     | /api/schedules/{id}                      | id: number                | ✅                  |
+| Review-Comments   | Obtener todos                | GET        | /api/review-comments                     | —                         | ✅                  |
+| Review-Comments   | Obtener por reviewId         | GET        | /api/review-comments?reviewId={id}       | reviewId: string          | ✅                  |
+| Review-Comments   | Crear                        | POST       | /api/review-comments                     | body: objeto comm         | ✅                  |
+| Review-Comments   | Actualizar                   | PUT        | /api/review-comments/{id}                | id: string, body: comm    | ✅                  |
+| Review-Comments   | Eliminar                     | DELETE     | /api/review-comments/{id}                | id: string                | ✅                  |
+| Reviews           | Obtener todos                | GET        | /api/reviews                             | —                         | ✅                  |
+| Reviews           | Obtener por ID               | GET        | /api/reviews/{id}                        | id: string                | ✅                  |
+| Reviews           | Obtener por healthPlanId     | GET        | /api/reviews?healthPlanId={id}           | healthPlanId: number      | ✅                  |
+| Reviews           | Crear                        | POST       | /api/reviews                             | body: objeto rev          | ✅                  |
+| Reviews           | Actualizar                   | PUT        | /api/reviews/{id}                        | id: string, body: rev     | ✅                  |
+| Reviews           | Eliminar                     | DELETE     | /api/reviews/{id}                        | id: string                | ✅                  |
+| Review-Reports    | Obtener todos                | GET        | /api/review-reports                      | —                         | ✅                  |
+| Review-Reports    | Obtener por reviewId         | GET        | /api/review-reports?reviewId={id}        | reviewId: string          | ✅                  |
+| Review-Reports    | Crear                        | POST       | /api/review-reports                      | body: objeto rep          | ✅                  |
+| Review-Reports    | Actualizar estado            | PATCH      | /api/review-reports/{id}/status          | id: string, status        | ✅                  |
+| Review-Reports    | Eliminar                     | DELETE     | /api/review-reports/{id}                 | id: string                | ✅                  |
+| Followers         | Obtener todos                | GET        | /api/followers                           | —                         | ✅                  |
+| Followers         | Obtener por ID               | GET        | /api/followers/{id}                      | id: number                | ✅                  |
+| Followers         | Obtener por followerUserId   | GET        | /api/followers?followerUserId={id}       | followerUserId: number    | ✅                  |
+| Followers         | Crear                        | POST       | /api/followers                           | body: objeto fol          | ✅                  |
+| Followers         | Actualizar                   | PUT        | /api/followers/{id}                      | id: number, body: fol     | ✅                  |
+| Followers         | Eliminar                     | DELETE     | /api/followers/{id}                      | id: number                | ✅                  |
+| PurchasedPlans    | Obtener todos                | GET        | /api/purchasedPlans                      | —                         | ✅                  |
+| PurchasedPlans    | Obtener por ID               | GET        | /api/purchasedPlans/{id}                 | id: number                | ✅                  |
+| PurchasedPlans    | Crear                        | POST       | /api/purchasedPlans                      | body: objeto plan         | ✅                  |
+| PurchasedPlans    | Actualizar                   | PUT        | /api/purchasedPlans/{id}                 | id: number, body: plan    | ✅                  |
+| PurchasedPlans    | Eliminar                     | DELETE     | /api/purchasedPlans/{id}                 | id: number                | ✅                  |
+| Payments          | Obtener todos                | GET        | /api/payments                            | —                         | ✅                  |
+| Payments          | Crear                        | POST       | /api/payments                            | body: objeto payment      | ✅                  |
+| Payments          | Actualizar                   | PATCH      | /api/payments/{id}                       | id: number, body: data    | ✅                  |
+| Payments          | Eliminar                     | DELETE     | /api/payments/{id}                       | id: number                | ✅                  |
+| PurchaseHistory   | Obtener por userId           | GET        | /api/purchaseHistory/{userId}            | userId: string/number     | ✅                  |
+| PurchaseHistory   | Crear                        | POST       | /api/purchaseHistory                     | body: objeto history      | ✅                  |
+| PurchaseHistory   | Actualizar (agregar pago)    | PATCH      | /api/purchaseHistory/{userId}            | userId, body: payments    | ✅                  |
+
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este caso hemos realizado el `deploy` mediante el servicio de **Hosting** de Firebase.
+
+Aquí tienes los pasos para hacer deploy de tu proyecto Vue a Firebase en formato `.md`:
+
+---
+
+````markdown
+# 🚀 Deploy de Proyecto Vue.js a Firebase Hosting
+
+## ✅ Requisitos Previos
+
+1. **Instalar Node.js y npm**  
+   Asegúrate de tener Node.js y npm instalados en tu máquina. Puedes verificarlo con:
+
+   ```bash
+   node -v
+   npm -v
+````
+
+2. **Instalar Firebase CLI**
+
+   ```bash
+   npm install -g firebase-tools
+   ```
+
+3. **Tener una cuenta de Firebase y crear un proyecto**
+
+   * Ve a [https://console.firebase.google.com](https://console.firebase.google.com)
+   * Crea un proyecto nuevo o usa uno existente.
+
+---
+
+## 🛠️ Build del Proyecto Vue
+
+Si estás usando Vue CLI:
+
+```bash
+npm run build
+```
+
+Si estás usando Vite:
+
+```bash
+npm run build
+```
+
+Esto generará una carpeta `dist/` con los archivos listos para producción.
+
+---
+
+## 🔧 Inicializar Firebase Hosting
+
+Ejecuta lo siguiente en la raíz del proyecto:
+
+```bash
+firebase login
+firebase init hosting
+```
+
+Durante el proceso:
+
+* Selecciona tu proyecto de Firebase
+* Establece `dist` como directorio público
+* Responde `Yes` a la opción de configurar como SPA (Single Page App)
+* Responde `No` cuando pregunte si quieres sobrescribir `index.html`
+
+---
+
+## 🚀 Hacer Deploy
+
+Una vez configurado correctamente, ejecuta:
+
+```bash
+firebase deploy
+```
+
+Al finalizar, recibirás una URL pública como esta:
+
+```
+Hosting URL: <rellenar>
+```
+
+---
+## Evidencia del deploy
+
+Link del Deploy del FrontEnd: <rellenar>
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 
