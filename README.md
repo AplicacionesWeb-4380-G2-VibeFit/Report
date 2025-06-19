@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d261df30-7e91-4023-86d1-ea05600cbec6)
+
 
 # VibeFit  
 **Producto: FitWise**  
