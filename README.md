@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/d261df30-7e91-4023-86d1-ea05600cbec6)
 
 # VibeFit  
 **Producto: FitWise**  
@@ -2630,6 +2630,116 @@ El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes
 
 ##### 5.2.3.3. Sprint Backlog 3
 
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th colspan="4"> Sprint # </th>
+    <th colspan="7"> Sprint 3 </th>
+  </tr>
+  <tr>
+    <th colspan="4"> User Story </th>
+    <th colspan="7"> Work-Item / Task </th>
+  </tr>
+  <tr>
+    <th> Id </th>
+    <th colspan="3"> Title </th>
+    <th> Id </th>
+    <th> Title </th>
+    <th> Description </th>
+    <th> Estimation (Hours) </th>
+    <th> Assigned To </th>
+    <th> Status </th>
+  </tr>
+  <tr>
+    <th> US015 </th>
+    <th colspan="3"> Visualización de comidas diarias en vista tabla </th>
+    <th> UT23 </th>
+    <th> Visualización de comidas en la rutina </th>
+    <th> Implementar la interfaz que permita mostrar las comidas pertenecientes a la rutina. </th>
+    <th> 3 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US19 </th>
+    <th colspan="3"> Creación de una nueva rutina </th>
+    <th> UT24 </th>
+    <th> Crear rutina </th>
+    <th> Implementar una interfaz que permite agregar una nueva rutina. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US23 </th>
+    <th colspan="3"> Visualización de rutina y sus componentes </th>
+    <th> UT25 </th>
+    <th> Detalles de rutina </th>
+    <th> Permite ver los detalles de la rutina al usuario. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US29 </th>
+    <th colspan="3"> Editar información de perfil </th>
+    <th> UT26 </th>
+    <th> Editar perfil </th>
+    <th> Permitir al usuario modificar los datos de su perfil. </th>
+    <th> 3 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US17 </th>
+    <th colspan="3"> Asignación de nueva rutina al cronograma </th>
+    <th> UT27 </th>
+    <th> Agregar rutina al cronograma </th>
+    <th> Permitir a los usuarios añadir rutinas a su cronograma. </th>
+    <th> 3 </th>
+    <th> Farid Briceño </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US26 </th>
+    <th colspan="3"> Editar un comentario propio </th>
+    <th> UT28 </th>
+    <th> Editar comentario </th>
+    <th> Incorporar una opción para modificar un comentario previamente publicado. </th>
+    <th> 4 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US27 </th>
+    <th colspan="3"> Eliminar un comentario propio </th>
+    <th> UT29 </th>
+    <th> Eliminar comentario </th>
+    <th> Incorporar una opción para eliminar tu propio comentario. </th>
+    <th> 4 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US32 </th>
+    <th colspan="3"> Ver perfil de otros usuarios </th>
+    <th> UT30 </th>
+    <th> Ver otros perfiles </th>
+    <th> Permite, al usuario, ver los perfiles de otros usuarios de la aplicación. </th>
+    <th> 4 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US14 </th>
+    <th colspan="3"> Actualización objetivos </th>
+    <th> UT31 </th>
+    <th> Actualizar objetivos </th>
+    <th> Implementar una interfaz que permite modificar el objetivo de una rutina. </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+</table>
 
 ##### 5.2.3.4. Development Evidence for Sprint Review
 ##### 5.2.3.5. Execution Evidence for Sprint Review
