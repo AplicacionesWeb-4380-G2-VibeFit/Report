@@ -2541,12 +2541,15 @@ Para este sprint, las tareas de diseño, implementación y documentación del fr
 [descripcion breve de qué se hizo en este sprint]
 
 ##### 5.2.3.1. Sprint Planning 3
-El Sprint #2, iniciado el [fecha], tiene como objetivo mejorar las siguientes funcionalidades en el frontend:
--
--
--
--
--
+El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes funcionalidades en el frontend:
+
+- Se agregó contenido a la sección **Home**
+- Se agregó contenido a la sección **About**
+- Mejorar y agregar CRUD a la sección **Reviews**
+- Mejorar y agregar CRUD a la sección **Profile**
+- Mejorar y agregar CRUD a la sección **Routine Management**
+- Mejorar y agregar CRUD a la sección **Routine Sales**
+- Mejorar y agregar CRUD a la sección **Schedule**
 
 <table>
   <tr> 
