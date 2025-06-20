@@ -2741,15 +2741,15 @@ El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes
 
 ##### 5.2.3.4. Development Evidence for Sprint Review
 
-En estos commits se puede observar los últimos updates a la rama main que se hizo en el repositorio del Front End.
+En estos commits se puede observar los últimos updates a la rama develop que se hizo en el repositorio del Front End.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|---------------------------------------------------------------------|------|-----------|----------------|---------------------|--------------------|
-| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | <rellenar> | feat: <rellenar> | - | 19/06/2025 |
-| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | <rellenar> | feat: <rellenar> | - | 19/06/2025 |
-| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | <rellenar> | feat: <rellenar> | - | 19/06/2025 |
-| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | <rellenar> | feat: <rellenar> | - | 19/06/2025 |
-| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | <rellenar> | fix: <rellenar>  | - | 19/06/2025 |
+| Repository                                                          | Branch  | Commit Id | Commit Message                                                          | Description                                                    | Commited on (Date) |
+|---------------------------------------------------------------------|---------|-----------|-------------------------------------------------------------------------|----------------------------------------------------------------|--------------------|
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   805e0d1 | Tu mensaje de commit                                                    | Cambio de .env.production                                      | 19/06/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   2e566d3 | Fixed api url. Now using .env instead of localhost. Added better styles | Now, Sales uses the endpoint                                   | 19/06/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   90da8a4 | style: Style on review-report modified                                  | minimum changes on the style                                   | 19/06/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   32f3ef5 | Cambiando el user a string                                              | Now the created method receives a userId string                | 19/06/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   7c83563 | feat: Add schedule-management                                           | Correcciones mayores del bounded context organizing (Schedule) | 18/06/2025         |
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 En esta entrega se corrigieron los bounded context y se agregaron nuevos en el frontend
