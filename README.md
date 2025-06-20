@@ -2752,7 +2752,43 @@ En estos commits se puede observar los últimos updates a la rama main que se hi
 | https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | <rellenar> | fix: <rellenar>  | - | 19/06/2025 |
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
-En esta entrega se corrigió puntos en el frontend.
+En esta entrega se corrigieron los bounded context y se agregaron nuevos en el frontend
+
+Home:
+
+<img src="./assets/frontv2-home.jpeg" alt="front home"/>
+
+About:
+
+<img src="./assets/frontv2-about.jpeg" alt="front about"/>
+
+Reviews:
+
+<img src="./assets/frontv2-reviwews-1.jpeg" alt="reviews main">
+<img src="./assets/frontv2-reviwews-2.jpeg" alt="reviews add">
+
+Profile:
+
+<img src="./assets/frontv2-profile-1.jpeg" alt="profile main up">
+<img src="./assets/frontv2-profile-2.jpeg" alt="profile main down">
+<img src="./assets/frontv2-profile-3.jpeg" alt="add certificate">
+<img src="./assets/frontv2-profile-4.jpeg" alt="followers up">
+<img src="./assets/frontv2-profile-5.jpeg" alt="followers down">
+<img src="./assets/frontv2-profile-6.jpeg" alt="add followers">
+
+Routine Management:
+
+<img src="./assets/frontv2-routine-management-1.jpeg" alt="routine management main">
+<img src="./assets/frontv2-routine-management-2.jpeg" alt="routine management new">
+<img src="./assets/frontv2-routine-management-3.jpeg" alt="routine management edit">
+<img src="./assets/frontv2-routine-management-4.jpeg" alt="see more up">
+<img src="./assets/frontv2-routine-management-5.jpeg" alt="see more down">
+
+Schedule:
+
+<img src="./assets/frontv2-schedule-1.jpeg" alt="schedule main">
+<img src="./assets/frontv2-schedule-2.jpeg" alt="schedule new or edit">
+
 
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
