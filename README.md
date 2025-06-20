@@ -158,7 +158,7 @@
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
+- [5.2.1. Sprint 1](#521-sprint-1)
   - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
   - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
   - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
@@ -176,7 +176,6 @@
   - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
   - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
   - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-
 - [5.2.3. Sprint 3](#523-sprint-3)
   - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
   - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
