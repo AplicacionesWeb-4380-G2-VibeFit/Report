@@ -3065,7 +3065,16 @@ Para realizar las entrevistas de validación, primero se han planteado 15 pregun
 
 ### 5.3.2 Registro de Entrevistas
 
-
+| **Entrevista 1** |
+|------------------|
+| <strong>Nombre:</strong> Diego Alonso Quispe Flores |
+| <strong>Edad:</strong> 24 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Adultos y jóvenes ocupados |
+| <strong>Resumen:</strong> Diego Alonso Crispe Flores, de 23 años, trabaja como analista de créditos en la Caja de Arequipa y estudia Administración de Empresas en la Universidad UTP en el turno nocturno, lo que le deja poco tiempo libre y afecta negativamente su estilo de vida saludable. Aunque antes realizaba actividad física regularmente y cuidaba su alimentación, hoy su rutina es sedentaria y su dieta irregular debido al cansancio, la falta de tiempo y la desorganización. A pesar de esto, desea retomar hábitos saludables motivado por el bienestar emocional que el ejercicio le proporcionaba. Prefiere entrenamientos de calistenia en casa por su practicidad y estaría interesado en una aplicación que le ayude a organizar su rutina con recordatorios, planes personalizados, recetas sencillas y accesibles, y elementos de gamificación como logros o medallas. Considera útil una app que se adapte a su contexto local, como sugerencias de menús saludables en restaurantes cercanos o en su universidad, y estaría dispuesto a pagar por una versión premium si la gratuita demuestra resultados y el contenido adicional agrega valor real. |
+| <strong>Enlace de video:</strong>  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220294_upc_edu_pe/ESwCtLk4kE1Lnp8YkRGHsNcBoPXnGLWSh5duFhkk6c_lMg?e=WmAhT5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+| <strong>Tiempo:</strong> 7:44 minutos |
+| <strong>Foto del entrevistado:</strong><br><img src="https://i.postimg.cc/Wz821t34/image.png" style="height: 200px;" />
 
 ### 5.3.3 Evaluaciones según heurísticas
 
