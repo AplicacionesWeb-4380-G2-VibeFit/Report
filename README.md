@@ -2817,6 +2817,15 @@ Routine Management:
 <img src="./assets/frontv2-routine-management-4.jpeg" alt="see more up">
 <img src="./assets/frontv2-routine-management-5.jpeg" alt="see more down">
 
+Routine Sales:
+
+<img src="./assets/frontv2-routine-sales-1.jpeg" alt="routine sales main">
+<img src="./assets/frontv2-routine-sales-1.jpeg" alt="detalle plan">
+<img src="./assets/frontv2-routine-sales-1.jpeg" alt="reditar plan">
+<img src="./assets/frontv2-routine-sales-1.jpeg" alt="crear plan">
+<img src="./assets/frontv2-routine-sales-1.jpeg" alt="historial plan">
+<img src="./assets/frontv2-routine-sales-1.jpeg" alt="pagos pendiente">
+
 Schedule:
 
 <img src="./assets/frontv2-schedule-1.jpeg" alt="schedule main">
