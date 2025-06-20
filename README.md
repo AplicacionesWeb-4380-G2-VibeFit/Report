@@ -2920,6 +2920,16 @@ El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes
     <th> Miguel Gomez </th>
     <th> Done </th>
   </tr>
+  <tr>
+    <th> TS003 </th>
+    <th colspan="3"> Estructura relacional entre Rutina, Ejercicio y Comida </th>
+    <th> UT32 </th>
+    <th> Crear endpoints del bounded context publishing (HealthPlans)</th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades HealthPlan, Exercise y Meals </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> InProgress </th>
+  </tr>
 </table>
 
 ##### 5.2.3.4. Development Evidence for Sprint Review
