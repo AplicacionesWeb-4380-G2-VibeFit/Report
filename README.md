@@ -2941,7 +2941,7 @@ firebase deploy
 Al finalizar, recibirás una URL pública como esta:
 
 ```
-Hosting URL: <rellenar>
+Hosting URL: https://fitwise-frontend.web.app/home
 ```
 
 ---
