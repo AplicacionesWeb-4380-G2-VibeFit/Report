@@ -3005,6 +3005,8 @@ Link del Deploy del FrontEnd: <rellenar>
 
 ## 5.3 Validation Interviews
 
+### 5.3.1 Diseño de Entrevistas
+
 Para realizar las entrevistas de validación, primero se han planteado 15 preguntas para cada segmento de acuerdo a lo que se quiere saber del usuario, para así tener un análisis más enfocado.
 
 ### Segmento: Adultos y jóvenes ocupados
@@ -3061,8 +3063,134 @@ Para realizar las entrevistas de validación, primero se han planteado 15 pregun
 14. **Planes premium:** ¿Estarías dispuesto a pagar por una versión profesional? ¿Qué funcionalidades lo justificarían?
 15. **Expectativas generales:** ¿Qué esperas de una app de este tipo que no has encontrado aún en otras soluciones?
 
-## Conclusiones
+### 5.3.2 Registro de Entrevistas
 
+
+
+### 5.3.3 Evaluaciones según heurísticas
+
+#### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de usuario nuevo
+2. Visualización del landing page
+3. Acceso a la aplicación mediante botón de "Call to Action"
+4. Revisión de planes de salud (dietas, ejercicios)
+5. Evaluación de perfiles de entrenadores
+6. Seguimiento de rutinas
+7. Creación y asignación de planes de salud
+8. Agendamiento de sesiones presenciales
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Sincronización con smartwatch
+2. Generación automática de dieta con ingredientes disponibles
+3. Compartir avances con otros usuarios
+4. Integración con sistemas de pago reales
+
+### TABLA RESUMEN - Evaluación Heurística de FitWise
+
+| #  | Problema detectado                                                                 | Escala de severidad | Heurística/Principio violado(a)                                       |
+|----|-------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------|
+| 1  | No hay elementos multimedia que refuercen la propuesta (e.g., video demostrativo)  | 2                   | Usability: Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores |
+| 2  | Reviews visibles sin estar autenticado generan confusión en funcionalidades        | 2                   | Usability: Control y libertad del usuario                             |
+| 3  | Falta de claridad al mostrar el propósito y contenido de las secciones iniciales   | 3                   | Information Architecture: Is it understandable?                      |
+| 4  | La sección "Sales" no está completamente operativa                               | 3                   | Usability: Prevención de errores                                     |
+| 5  | No existe función de generación de dieta basada en ingredientes disponibles        | 1                   | Inclusive Design: Personalización y adaptabilidad                    |
+| 6  | El proceso de seguimiento de rutina y pagos aún no es claro ni completamente funcional | 3               | Information Architecture: Is it usable?                             |
+| 7  | No hay retroalimentación clara al realizar acciones como seguir o dejar de seguir  | 2                   | Usability: Visibilidad del estado del sistema                         |
+
+### DESCRIPCIÓN DE PROBLEMAS
+
+---
+
+#### PROBLEMA #1: No hay elementos multimedia que refuercen la propuesta (e.g., video demostrativo)  
+**Severidad**: 2  
+**Heurística violada**: Usabilidad – Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores  
+
+**Problema**:  
+Durante la revisión del landing page, el usuario expresó que, si bien el diseño es atractivo, se siente poco convincente. La falta de elementos como videos explicativos o testimoniales reduce la capacidad del usuario de entender cómo funciona realmente la app. Esto puede afectar negativamente la primera impresión y la decisión de continuar explorando la aplicación.  
+
+**Recomendación**:  
+Incluir un video corto en el landing page mostrando cómo funciona FitWise, con testimonios reales de usuarios. Esto genera confianza, refuerza la propuesta de valor y mejora la comprensión general del servicio.
+
+---
+
+#### PROBLEMA #2: Reviews visibles sin estar autenticado generan confusión  
+**Severidad**: 2  
+**Heurística violada**: Usabilidad – Control y libertad del usuario  
+
+**Problema**:  
+El sistema permite visualizar reseñas y comentarios sin que el usuario haya iniciado sesión. Esto puede llevar a malentendidos sobre quién puede comentar, editar o interactuar con dichas secciones. Además, puede dar una sensación de falta de seguridad o control.  
+
+**Recomendación**:  
+Mostrar las reseñas de forma limitada (solo lectura) y desactivar opciones de interacción (como editar, reportar o eliminar) si el usuario no ha iniciado sesión. Incluir un mensaje claro que indique que se requiere autenticación para interactuar.
+
+---
+
+#### PROBLEMA #3: Falta de claridad en el propósito y contenido de las secciones iniciales  
+**Severidad**: 3  
+**Heurística violada**: Arquitectura de la Información – ¿Es comprensible?  
+
+**Problema**:  
+El usuario manifestó confusión sobre las primeras secciones del landing page, pues no queda claro de inmediato cuál es el propósito principal de la app. Las secciones están ordenadas, pero su contenido no comunica eficazmente su función ni cómo ayudan al usuario.  
+
+**Recomendación**:  
+Agregar títulos más descriptivos y textos introductorios breves en cada sección. Reorganizar la estructura inicial para que en los primeros segundos se entienda qué es FitWise, a quién está dirigido y cómo puede ayudar.
+
+---
+
+#### PROBLEMA #4: La sección "Sales" no está completamente operativa  
+**Severidad**: 3  
+**Heurística violada**: Usabilidad – Prevención de errores  
+
+**Problema**:  
+Durante la demostración se identificó que la sección “Sales” aún no está habilitada o no responde correctamente. Esto genera una experiencia incompleta, ya que el usuario puede ingresar, pero no realizar ninguna acción relevante, generando frustración.  
+
+**Recomendación**:  
+Ocultar esta sección hasta que esté completamente funcional o incluir un aviso que indique que está en desarrollo. Así se evitan confusiones y se mantiene la coherencia de la experiencia.
+
+---
+
+#### PROBLEMA #5: No existe función de generación de dieta basada en ingredientes disponibles  
+**Severidad**: 1  
+**Heurística violada**: Inclusive Design – Personalización y adaptabilidad  
+
+**Problema**:  
+El usuario sugirió que sería útil poder crear un plan de alimentación basado en los ingredientes que ya tiene en casa. Actualmente, la app no ofrece esa opción, lo que limita su flexibilidad, especialmente para personas con restricciones económicas o de acceso.  
+
+**Recomendación**:  
+Incluir una funcionalidad que permita ingresar ingredientes disponibles y generar sugerencias alimenticias en base a ellos. Esto mejoraría la personalización y la accesibilidad.
+
+---
+
+#### PROBLEMA #6: El proceso de seguimiento de rutina y pagos no es claro  
+**Severidad**: 3  
+**Heurística violada**: Arquitectura de la Información – ¿Es usable?  
+
+**Problema**:  
+Las rutas que llevan al historial de pagos, adquisición de planes y seguimiento de rutina no están bien definidas ni explicadas. El usuario puede perderse en el flujo o no entender cómo se conectan las acciones.  
+
+**Recomendación**:  
+Reorganizar la navegación y añadir breadcrumbs o un flujo guiado que conecte las secciones de planes, pagos y rutinas. También sería útil incluir tutoriales o ayudas contextuales.
+
+---
+
+#### PROBLEMA #7: No hay retroalimentación clara al seguir o dejar de seguir entrenadores  
+**Severidad**: 2  
+**Heurística violada**: Usabilidad – Visibilidad del estado del sistema  
+
+**Problema**:  
+Al realizar acciones como seguir o dejar de seguir entrenadores, el sistema no muestra un mensaje ni cambio visible inmediato que confirme la acción, lo cual genera incertidumbre.  
+
+**Recomendación**:  
+Añadir retroalimentación visual (cambio de botón, animación o mensaje flotante) que indique con claridad que la acción se realizó correctamente.
+
+## Video About-the-Product
+
+
+
+## Conclusiones
 
 1. **Viabilidad del Proyecto**
    - A lo largo del proceso de investigación y desarrollo, se validó la viabilidad técnica y comercial de la startup FitWise. La solución propuesta responde a una necesidad real en el mercado de fitness y bienestar, especialmente dirigida a un segmento de usuarios con un enfoque en la salud y el entrenamiento personalizado.
