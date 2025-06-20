@@ -2820,11 +2820,11 @@ Routine Management:
 Routine Sales:
 
 <img src="./assets/frontv2-routine-sales-1.png" alt="routine sales main">
-<img src="./assets/frontv2-routine-sales-1.png" alt="detalle plan">
-<img src="./assets/frontv2-routine-sales-1.png" alt="reditar plan">
-<img src="./assets/frontv2-routine-sales-1.png" alt="crear plan">
-<img src="./assets/frontv2-routine-sales-1.png" alt="historial plan">
-<img src="./assets/frontv2-routine-sales-1.png" alt="pagos pendiente">
+<img src="./assets/frontv2-routine-sales-2.png" alt="detalle plan">
+<img src="./assets/frontv2-routine-sales-3.png" alt="reditar plan">
+<img src="./assets/frontv2-routine-sales-4.png" alt="crear plan">
+<img src="./assets/frontv2-routine-sales-5.png" alt="historial plan">
+<img src="./assets/frontv2-routine-sales-6.png" alt="pagos pendiente">
 
 Schedule:
 
