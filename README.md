@@ -2831,6 +2831,11 @@ Schedule:
 <img src="./assets/frontv2-schedule-1.jpeg" alt="schedule main">
 <img src="./assets/frontv2-schedule-2.jpeg" alt="schedule new or edit">
 
+Además en esta entrega se implementaron nuevos endpoints para la parte de nuestro servicio backend como nuestra primera versión
+
+<img src="./assets/Backend1.png" alt="Backend1">
+<img src="./assets/Backend2.png" alt="Backend2">
+<img src="./assets/Backend3.png" alt="Backend3">
 
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
