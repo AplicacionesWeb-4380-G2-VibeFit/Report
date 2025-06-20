@@ -2764,8 +2764,8 @@ About:
 
 Reviews:
 
-<img src="./assets/frontv2-reviwews-1.jpeg" alt="reviews main">
-<img src="./assets/frontv2-reviwews-2.jpeg" alt="reviews add">
+<img src="./assets/frontv2-reviews-1.jpeg" alt="reviews main">
+<img src="./assets/frontv2-reviews-2.jpeg" alt="reviews add">
 
 Profile:
 
