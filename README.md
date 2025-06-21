@@ -2726,7 +2726,7 @@ Hosting URL: https://your-project-id.web.app
 ---
 ## Evidencia del deploy
 
-Link del Deploy del FrontEnd: https://fit-wise-499c9.web.app
+Link del Deploy del FrontEnd: https://fitwise-9402e.web.app/
 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
