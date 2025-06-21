@@ -3208,10 +3208,13 @@ Hosting URL: https://fitwise-frontend.web.app/home
 ---
 ## Evidencia del deploy
 
-Link del Deploy del FrontEnd: <rellenar>
+Link del Deploy del FrontEnd: https://fitwise-frontend.web.app/home
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Participantes: Ramiro y Miguel, respectivamente.
+
+[![image.png](https://i.postimg.cc/JnKQKpSr/image.png)](https://postimg.cc/wyyJjQ6Z)
 
 ## 5.3 Validation Interviews
 
