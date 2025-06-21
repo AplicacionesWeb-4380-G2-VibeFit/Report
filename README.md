@@ -3011,6 +3011,8 @@ Schedule:
 
 Además en esta entrega se implementaron nuevos endpoints para la parte de nuestro servicio backend como nuestra primera versión
 
+Video explicación HealthPlan Endpoints: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220294_upc_edu_pe/EeZLPG_4l19LrbD3zvV7g9wBXMQYcoaT8oicIAgaNP-H-Q?e=RF1k2k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 <img src="./assets/Backend1.png" alt="Backend1">
 <img src="./assets/Backend2.png" alt="Backend2">
 <img src="./assets/Backend3.png" alt="Backend3">
