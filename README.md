@@ -3210,7 +3210,7 @@ Hosting URL: https://fitwise-frontend.web.app/home
 ---
 ## Evidencia del deploy
 
-Link del Deploy del FrontEnd: https://fitwise-frontend.web.app/home
+Link del Deploy del FrontEnd: https://fitwise-9402e.web.app/
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
