@@ -57,7 +57,7 @@
 | TB2     | 14/05/2025  |   Farid Sebastian Briceño De La Cruz    |      - Actualicé el código del bounded context de organizing, el cual se encarga de editar, mostrar y eliminar itinerarios del usuario.     |
 | TB2     | 14/05/2025  |   Farid Sebastian Briceño De La Cruz    |      - Añadí el punto 5.2.3 que corresponde al sprint 3 del proyecto     |
 | TB2     | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - Actualicé el código del bounded context de publishing, el cual se encarga de editar, mostrar, agregar y eliminar rutinas gestionadas por el usuario.     |
-| TB2     | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - reporte algo    |
+| TB2     | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - Use MockApi para que nuestro front end tenga una backend y base de datos provisional hasta tener la ultima version de nuestro Web Services  |
 | TB2     | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Actualicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar, añadir, borrar y reportar comentarios.     |
 | TB2     | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
 
