@@ -1,5 +1,3 @@
-
-
 # VibeFit  
 **Producto: FitWise**  
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
@@ -38,15 +36,31 @@
 | TB1     | 25/04/2025  |   Ramiro Alexander Guzman Chavez  <br><br> Miguel Angel Gomez Hurtado |  - Desarrollé el diagrama de clases, el class dictionary, el diseño de la base de datos y el prototipo web. <br> - Realizé el Product Backlog y la guía de estilos generales y web de los puntos 4.1 y 4.2. Además, valida los deploys y documenté los resultados de la creación de la Landing Page.  |
 | TB1     | 24/04/2025  |   Farid Sebastian Briceño De La Cruz   | - Desarollé el wireframe y mockup de la landing page (4.3). |
 | TB1     | 25/04/2025  |   Farid Sebastian Briceño De La Cruz   | - Desarollé Web Application UX/UI Design (4.4), lo que incluye wireframe, wireflow, mockup y user flow. |
-| TB1     | 25/04/2025  |    Mauricio Rigoberto Muñoz Vilcapoma    | -Desarrolle el needfinding (user persona, task matrix, journey mapping e impact mapping)            |
-| TB1     | 25/04/2025  |    Mauricio Rigoberto Muñoz Vilcapoma   |     -Desarrolle el modelo c4 del diagrama de contexto        |
-| TB1     | 25/04/2025  |     Mauricio Rigoberto Muñoz Vilcapoma     |        -Desarrolle el modelo c4 del diagrama de componentes     |
-| TB1     | 25/04/2025  |      Mauricio Rigoberto Muñoz Vilcapoma    |       -Desarrolle el modelo c4 del diagrama de contenedores      |
-| TB1     | 25/04/2025  |  Diego Rolin Acuña Tomas     |    - Realicé las entrevistas asignadas y desarrollé un registro para ellas.         |
-| TB1     | 25/04/2025  |  Diego Rolin Acuña Tomas     |     - Programé la landing page estática desde cero, asegurándome de que fuera responsive y que pudiera hacer deploy. También estuve modificándola para solucionar errores.        |
+| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    | -Desarrolle el needfinding (user persona, task matrix, journey mapping e impact mapping)            |
+| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma   |     -Desarrolle el modelo c4 del diagrama de contexto        |
+| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma     |        -Desarrolle el modelo c4 del diagrama de componentes     |
+| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |       -Desarrolle el modelo c4 del diagrama de contenedores      |
+| TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas     |    - Realicé las entrevistas asignadas y desarrollé un registro para ellas.         |
+| TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas     |     - Programé la landing page estática desde cero, asegurándome de que fuera responsive y que pudiera hacer deploy. También estuve modificándola para solucionar errores.        |
 | TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas    |      - Realicé los As-is Scenario Mapping, Ubiquitous Language y To-Be Scenario Mapping al revisar el trabajo, reconocer las palabras clave y guiarme por las entrevistas.       |
 | TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas    |      - Completé los capítulos del Sprint 1, incluyendo el Sprint Planning 1, Aspect Leaders and Collaborators, y Sprint Backlog 1.     |
 | TB1     | 25/04/2025  |   Diego Rolin Acuña    |      - Realicé el Trello para organizar y confirmar el desarrollo de las secciones de la landing page.     |
+| TP      | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - Realicé el código del bounded context de publishing, el cual se encarga de editar, mostrar rutinas.     |
+| TP      | 14/05/2025  |   Farid Sebastian Briceño De La Cruz    |      - Realicé el código del bounded context de organizing, el cual se encarga de editar, mostrar itinerarios.     |
+| TP      | 14/05/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - Realicé el código del bounded context de selling, el cual se encarga de editar, mostrar planes a vender.     |
+| TP      | 14/05/2025  |   Diego Rolin Acuña Tomas    |      - Realicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario.     |
+| TP      | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Realicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar el perfil comentarios.     |
+| TB2     | 14/05/2025  |   Diego Rolin Acuña Tomas    |      - Actualicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario y administrar seguidores.     |
+| TB2     | 14/05/2025  |   Diego Rolin Acuña Tomas    |      - reporte algo   |
+| TB2     | 14/05/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - Actualicé el código del bounded context de selling, el cual se encarga de editar, mostrar, registrar las ventas del usuario.     |
+| TB2     | 14/05/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - reporte algo |
+| TB2     | 14/05/2025  |   Farid Sebastian Briceño De La Cruz    |      - Actualicé el código del bounded context de organizing, el cual se encarga de editar, mostrar y eliminar itinerarios del usuario.     |
+| TB2     | 14/05/2025  |   Farid Sebastian Briceño De La Cruz    |      - Añadí el punto 5.2.3 que corresponde al sprint 3 del proyecto     |
+| TB2     | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - Actualicé el código del bounded context de publishing, el cual se encarga de editar, mostrar, agregar y eliminar rutinas gestionadas por el usuario.     |
+| TB2     | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - Use MockApi para que nuestro front end tenga una backend y base de datos provisional hasta tener la ultima version de nuestro Web Services  |
+| TB2     | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Actualicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar, añadir, borrar y reportar comentarios.     |
+| TB2     | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
+
 
 ---
 
@@ -229,7 +243,6 @@
       - [4.8.1. Database Diagram](#481-database-diagram)
   - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
     - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1. Software Configuration Management](#51-software-configuration-management-1)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
       - [Project Management](#project-management)
       - [Requirement Management](#requirement-management)
@@ -248,7 +261,6 @@
       - [CSS](#css)
       - [JavaScript](#javascript)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-
       - [Landing Page](#landing-page)
       - [Control de Versiones](#control-de-versiones)
     - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
@@ -266,11 +278,66 @@
         - [2. Subir tu proyecto al repositorio](#2-subir-tu-proyecto-al-repositorio)
         - [3. Habilitar GitHub Pages](#3-habilitar-github-pages)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+    - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+        - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+          - [Home](#home)
+          - [Publishing](#publishing)
+          - [Profile](#profile)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+  - [🛠️ Build del Proyecto Vue](#️-build-del-proyecto-vue)
+  - [🔧 Inicializar Firebase Hosting](#-inicializar-firebase-hosting)
+  - [🚀 Hacer Deploy](#-hacer-deploy)
+  - [Evidencia del deploy](#evidencia-del-deploy)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+      - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+        - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+        - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+        - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+  - [🛠️ Build del Proyecto Vue](#️-build-del-proyecto-vue-1)
+  - [🔧 Inicializar Firebase Hosting](#-inicializar-firebase-hosting-1)
+  - [🚀 Hacer Deploy](#-hacer-deploy-1)
+  - [Evidencia del deploy](#evidencia-del-deploy-1)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.3 Validation Interviews](#53-validation-interviews)
+    - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [Segmento: Adultos y jóvenes ocupados](#segmento-adultos-y-jóvenes-ocupados-1)
+      - [**Interacción con la landing page:**](#interacción-con-la-landing-page)
+      - [**Uso de la aplicación (navegación y funcionalidad):**](#uso-de-la-aplicación-navegación-y-funcionalidad)
+      - [**Personalización y adaptación a su rutina:**](#personalización-y-adaptación-a-su-rutina)
+      - [**Atractivo motivacional y emocional:**](#atractivo-motivacional-y-emocional)
+      - [**Valor percibido y disposición a pagar:**](#valor-percibido-y-disposición-a-pagar)
+    - [Segmento: Entrenadores y profesionales del fitness](#segmento-entrenadores-y-profesionales-del-fitness-1)
+      - [**Experiencia general con la plataforma:**](#experiencia-general-con-la-plataforma)
+      - [**Creación de contenido profesional:**](#creación-de-contenido-profesional)
+      - [**Seguimiento y métricas:**](#seguimiento-y-métricas)
+      - [**Comunicación y soporte al cliente:**](#comunicación-y-soporte-al-cliente)
+      - [**Monetización y propuesta de valor:**](#monetización-y-propuesta-de-valor)
+    - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3 Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+      - [TAREAS A EVALUAR:](#tareas-a-evaluar)
+    - [TABLA RESUMEN - Evaluación Heurística de FitWise](#tabla-resumen---evaluación-heurística-de-fitwise)
+    - [DESCRIPCIÓN DE PROBLEMAS](#descripción-de-problemas)
+      - [PROBLEMA #1: No hay elementos multimedia que refuercen la propuesta (e.g., video demostrativo)](#problema-1-no-hay-elementos-multimedia-que-refuercen-la-propuesta-eg-video-demostrativo)
+      - [PROBLEMA #2: Reviews visibles sin estar autenticado generan confusión](#problema-2-reviews-visibles-sin-estar-autenticado-generan-confusión)
+      - [PROBLEMA #3: Falta de claridad en el propósito y contenido de las secciones iniciales](#problema-3-falta-de-claridad-en-el-propósito-y-contenido-de-las-secciones-iniciales)
+      - [PROBLEMA #4: La sección "Sales" no está completamente operativa](#problema-4-la-sección-sales-no-está-completamente-operativa)
+      - [PROBLEMA #5: No existe función de generación de dieta basada en ingredientes disponibles](#problema-5-no-existe-función-de-generación-de-dieta-basada-en-ingredientes-disponibles)
+      - [PROBLEMA #6: El proceso de seguimiento de rutina y pagos no es claro](#problema-6-el-proceso-de-seguimiento-de-rutina-y-pagos-no-es-claro)
+      - [PROBLEMA #7: No hay retroalimentación clara al seguir o dejar de seguir entrenadores](#problema-7-no-hay-retroalimentación-clara-al-seguir-o-dejar-de-seguir-entrenadores)
+  - [Video About-the-Product](#video-about-the-product)
   - [Conclusiones](#conclusiones)
   - [Recomendaciones](#recomendaciones)
   - [Bibliografía](#bibliografía)
   - [Anexos](#anexos)
-
 
 ## Student Outcome
 
@@ -283,8 +350,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **MAURICIO MUÑOZ** <br> **TB1:** Me comuniqué activamente con mi equipo para coordinar las tareas asignadas a cada miembro. Además, realicé consultas al profesor para resolver dudas del grupo y transmitir la información de forma clara y útil. <br><br> **RAMIRO GUZMÁN** <br> **TB1:** Participé en la organización interna del equipo, proponiendo soluciones durante reuniones técnicas. Fomenté el diálogo entre los miembros para asegurar una comunicación abierta y lideré la revisión final de entregables. <br><br> **MIGUEL GOMEZ** <br> **TB1:** Realicé las secciones de 2.1, 3.2 - 3.4, 4.1 y 4.2. En las cuales recibi retroalimentación de mis compañeros para los mock ups. Además, siempre mantuve un canal abierto para informar sobre mis avances y en cómo afectarían al desarrollo de mis compañeros. <br><br> **FARID BRICEÑO** <br> **TB1:** Coordiné las reuniones para asegurarme de que todos los miembros del equipo estuvieran alineados con los objetivos del proyecto. Además, propuse estrategias para mantener la motivación y el enfoque dentro del equipo, contribuyendo a la toma de decisiones finales en conjunto. <br><br> **DIEGO ACUÑA** <br> **TB1:** Asumí un rol activo en la toma de decisiones técnicas y en la organización del trabajo. Realicé propuestas para mejorar los procesos del equipo y garantice que se cumplieran los plazos establecidos. <br><br> | **TB1:** Cada integrante cumplió con las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva, lo cual fortaleció la confianza entre los miembros. Esto contribuyó significativamente al fortalecimiento del trabajo en equipo, un aspecto esencial en proyectos colaborativos. |
- | 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **MAURICIO MUÑOZ** <br> **TB1:** Respeté los objetivos y fechas establecidos por el equipo, cumpliendo con mis tareas puntualmente. También informaba sobre nuevos avisos o cambios relevantes, ayudando a mantener la planificación y coordinación del grupo. <br><br> **RAMIRO GUZMÁN** <br> **TB1:** Apoyé activamente la planificación del proyecto, sugiriendo cronogramas realistas y detectando posibles cuellos de botella. Promoví un ambiente donde todos los integrantes se sintieran cómodos aportando ideas, favoreciendo la inclusión y el compromiso. <br><br> **MIGUEL GOMEZ** <br> **TB1:** Ayudé a segmentar nuestro público objetivo de mejor manera. En adición a esto, me presentaba a la pequeña reunión después de clases para coordinar los detalles de nuestros avances y trabajos a realizar. <br><br> **FARID BRICEÑO** <br> **TB1:** Contribuí al establecimiento de metas claras, ayudando a organizar las tareas de manera efectiva. Aseguré que todos los miembros del equipo tuvieran las herramientas necesarias para cumplir sus objetivos y fomentar una atmósfera inclusiva. <br><br> **DIEGO ACUÑA** <br> **TB1:** Propuse y coordine varias reuniones para establecer metas claras y medibles para el proyecto. Además, gestioné los tiempos de cada tarea para asegurar el cumplimiento de los objetivos del equipo. <br><br> | **TB1:** En conjunto, el equipo logró crear un entorno de trabajo colaborativo e inclusivo, en el que cada integrante aportó al establecimiento de metas claras, la planificación de tareas y el cumplimiento de los objetivos propuestos. La coordinación constante, el respeto por los plazos y la participación activa de todos los miembros permitieron un desarrollo fluido del proyecto, fortaleciendo tanto la eficiencia del grupo como el sentido de responsabilidad compartida. |
+| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **MAURICIO MUÑOZ** <br> **TB1:** Me comuniqué activamente con mi equipo para coordinar las tareas asignadas a cada miembro. Además, realicé consultas al profesor para resolver dudas del grupo y transmitir la información de forma clara y útil. <br><br> **TP:**<br><br>  **RAMIRO GUZMÁN** <br> **TB1:** Participé en la organización interna del equipo, proponiendo soluciones durante reuniones técnicas. Fomenté el diálogo entre los miembros para asegurar una comunicación abierta y lideré la revisión final de entregables. <br><br> **TP:** <br><br> **MIGUEL GOMEZ** <br> **TB1:** Realicé las secciones de 2.1, 3.2 - 3.4, 4.1 y 4.2. En las cuales recibi retroalimentación de mis compañeros para los mock ups. Además, siempre mantuve un canal abierto para informar sobre mis avances y en cómo afectarían al desarrollo de mis compañeros. <br><br> **TP:** Realizé el bounded context de publishing y modiqfique las historias de usaurios pertinentes<br><br> **TB2:** Finalizé el diseño del front end Publishing y entregué la primera versión del BackEnd de Publishing (HealthPlans)<br><br>**FARID BRICEÑO** <br> **TB1:** Coordiné las reuniones para asegurarme de que todos los miembros del equipo estuvieran alineados con los objetivos del proyecto. Además, propuse estrategias para mantener la motivación y el enfoque dentro del equipo, contribuyendo a la toma de decisiones finales en conjunto. <br><br> **TP:** <br><br> **DIEGO ACUÑA** <br> **TB1:** Asumí un rol activo en la toma de decisiones técnicas y en la organización del trabajo. Realicé propuestas para mejorar los procesos del equipo y garantice que se cumplieran los plazos establecidos. <br><br> **TP:** Decidimos como separar los bounded context y nos pusimos de acuerdo las fechas para entregar los avances, tambien nos apoyamos para solucionar los problemas de desplegar el front end. <br><br> **TB2:** Dimos fechas para finalizar el front end, ademas de decidir las preguntas para las entrevistas y avances del backend.  <br><br> | **TB1:** Cada integrante cumplió con las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva, lo cual fortaleció la confianza entre los miembros. Esto contribuyó significativamente al fortalecimiento del trabajo en equipo, un aspecto esencial en proyectos colaborativos. <br><br> **TP:** Cada integrantes realizó sus actividades realizadasy mantuvieron una comunicación efectiva mediante el desarrollo del front end en github y ramas. Esto contribuyó en el cumplimiento de los diferentes objetivos propuestos para este sprint.<br><br>**TB2:** Esta entregra estuvo principalmente centrada en terminar definitivamente el desarrollo del FrontEnd y la presentación del inicio del BackEnd. Utilizamos herramientas nuevas como deploy de bases de datos y uso de platillas vue como Sakai.<br><br>|
+ | 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **MAURICIO MUÑOZ** <br> **TB1:** Respeté los objetivos y fechas establecidos por el equipo, cumpliendo con mis tareas puntualmente. También informaba sobre nuevos avisos o cambios relevantes, ayudando a mantener la planificación y coordinación del grupo. <br><br> **TP:** <br><br> **RAMIRO GUZMÁN** <br> **TB1:** Apoyé activamente la planificación del proyecto, sugiriendo cronogramas realistas y detectando posibles cuellos de botella. Promoví un ambiente donde todos los integrantes se sintieran cómodos aportando ideas, favoreciendo la inclusión y el compromiso. <br><br> **TP:** <br><br> **MIGUEL GOMEZ** <br> **TB1:** Ayudé a segmentar nuestro público objetivo de mejor manera. En adición a esto, me presentaba a la pequeña reunión después de clases para coordinar los detalles de nuestros avances y trabajos a realizar. <br><br> **TP:** M encagué de la destribución de bounded context con los integrantes del grupo, mantuve cierta auditoría con los progresos del equipo y fomente el apoyo antes dudas de tema teórico y práctico.<br><br>**TB2:** Me encargue de la coordinación del desarrollo del apartado BackEnd mediante la entrega de proyectos base y prototipos de mis endpoints.<br><br> **FARID BRICEÑO** <br> **TB1:** Contribuí al establecimiento de metas claras, ayudando a organizar las tareas de manera efectiva. Aseguré que todos los miembros del equipo tuvieran las herramientas necesarias para cumplir sus objetivos y fomentar una atmósfera inclusiva. <br><br> **TP:** <br><br> **DIEGO ACUÑA** <br> **TB1:** Propuse y coordine varias reuniones para establecer metas claras y medibles para el proyecto. Además, gestioné los tiempos de cada tarea para asegurar el cumplimiento de los objetivos del equipo. <br><br> **TP:** Tuvimos reuniiones para separa el las tablas y funcionalidades de cada bounded context, tambien para ayudar en el diseño de cada pagina del front end  <br><br> **TB2:** Tuvimos reuniones para confirmar la finalizacion de cada bounded context, ademas de decidir que pagina nos puede proporcionar un api fake para el front, y ayudar o explicar como haremos el backend. <br><br> | **TB1:** En conjunto, el equipo logró crear un entorno de trabajo colaborativo e inclusivo, en el que cada integrante aportó al establecimiento de metas claras, la planificación de tareas y el cumplimiento de los objetivos propuestos. La coordinación constante, el respeto por los plazos y la participación activa de todos los miembros permitieron un desarrollo fluido del proyecto, fortaleciendo tanto la eficiencia del grupo como el sentido de responsabilidad compartida. <br><br> **TP:** El equipo de trabajó logro mantener un orden en su cronograma de entregas, ya que consideramos pertinentes múltiples reuniones para coordinar las divisiones de carga de trabajo durante el desarrollo del front end.<br><br>**TB2:** El equipo pudo avanzar el desarrollo de manera continua aunque un poco pausada debido a la dificultad con la que se adaptaban al desarrallo backend.<br><br>|
 
 
 ---
@@ -360,6 +427,8 @@ Soy estudiante de la carrera de Ingeniería de Software en la UPC. Elegí esta c
 ### 1.2. Solution Profile
 
 #### 1.2.1. Antecedentes y problemática
+
+Con el transcurso de los años son cada vez más la evidencias de que los principales problemas de salud de ser humano están relacionadas con la carencia o ausencia de ejercicio físico y una buena dieta. Por un lado, la falta de tiempo de las personas se presenta como una de las causas, tanto profesionales como estudiantes se ven afectados por sus horarios apretados, lo que conlleva a evitar agendar realizar ejercicios; por otro lado, también es notable la falta de cultura alimentaria en la población, lo que ha traído problemas cardíacos, obesidad, diabetes, entre otras enfermedades, debido a que no tienen quién les brinde esta información.
 
 - **Who (¿Quiénes son los afectados?)**  
   Personas entre 18 y 40 años interesadas en mejorar su estado físico o mantener una vida saludable, pero que enfrentan obstáculos como la falta de tiempo, desconocimiento sobre rutinas de ejercicio y dificultad para seguir planes alimenticios realistas.
@@ -445,7 +514,7 @@ _¿De qué manera podríamos innovar con FitWise para fomentar una mayor constan
 
 ##### 1.2.2.4. Lean UX Canvas
 
-<img src="./assets/Lean UX Canvas.png" alt="Lean-UX-Canvas"/>
+<img src="./assets/LEAN UX CANVAS.png" alt="Lean-UX-Canvas"/>
 
 ### 1.3. Segmentos objetivo
 
@@ -887,77 +956,61 @@ En esta sección se presenta el To-Be Scenario Mapping para el segmento de Entre
 
 | User Story ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con (Epic ID) |
 |---|---|---|---|---|
-| **US01** | Registro básico | Como nuevo usuario, quiero registrarme con email y contraseña, para acceder a la plataforma | 1. **Dado que** el usuario ingresa un email con formato válido y una contraseña de al menos 8 caracteres (con 1 mayúscula y 1 número)<br>**Cuando** hace clic en "Registrarse"<br>**Entonces** el sistema envía un email de verificación con un enlace válido por 24 horas<br><br>2. **Dado que** el usuario ingresa un email ya registrado<br>**Cuando** intenta registrarse<br>**Entonces** el sistema muestra el mensaje "Este email ya está en uso" | EP01 |
-| **US02** | Registro completo | Como usuario, quiero completar mi perfil inicial, para obtener recomendaciones personalizadas | 1. **Dado que** el usuario ingresa un peso de 70kg y una altura de 170cm<br>**Cuando** guarda la información<br>**Entonces** el sistema calcula un IMC de 24.2 y sugiere 3 rutinas de tipo cardio<br><br>2. **Dado que** el usuario deja el campo "altura" vacío<br>**Cuando** intenta guardar<br>**Entonces** el sistema muestra un mensaje indicando que el campo es obligatorio | EP01 |
-| **US03** | Login social | Como usuario, quiero acceder con redes sociales, para agilizar mi registro | 1. **Dado que** el usuario selecciona "Continuar con Google" y acepta los permisos<br>**Cuando** completa el proceso<br>**Entonces** el sistema importa automáticamente su nombre y foto de perfil<br><br>2. **Dado que** el usuario cierra el popup de login<br>**Cuando** reintenta dentro de los 2 minutos siguientes<br>**Entonces** el sistema mantiene la sesión de Google activa | EP01 |
-| **US04** | Verificación email | Como usuario, quiero confirmar mi cuenta, para garantizar seguridad | 1. **Dado que** el usuario hace clic en el enlace de verificación dentro de las 24 horas<br>**Cuando** completa el proceso<br>**Entonces** el sistema activa su cuenta y lo redirige al dashboard principal<br><br>2. **Dado que** han pasado más de 24 horas desde el envío del email de verificación<br>**Cuando** el usuario intenta usar el enlace<br>**Entonces** el sistema muestra un mensaje indicando que el enlace ha expirado | EP01 |
-| **US05** | Perfil de asesor | Como entrenador, quiero registrarme como profesional, para ofrecer mis servicios | 1. **Dado que** el asesor sube un archivo PDF válido como certificación<br>**Cuando** completa el formulario de registro<br>**Entonces** el sistema marca su perfil como "En revisión"<br><br>2. **Dado que** el asesor intenta subir un archivo con formato no permitido (.exe)<br>**Cuando** intenta guardar<br>**Entonces** el sistema muestra un mensaje indicando los formatos aceptables | EP01 |
-| **US06** | Actualización objetivos | Como usuario, quiero modificar mis metas, para ajustar mi plan | 1. **Dado que** el usuario cambia su objetivo a "ganar músculo"<br>**Cuando** confirma los cambios<br>**Entonces** el sistema ajusta sus requerimientos calóricos con un incremento del 15%<br><br>2. **Dado que** el usuario tiene una asesoría activa<br>**Cuando** modifica sus objetivos<br>**Entonces** el sistema notifica automáticamente a su asesor asignado | EP01 |
-| **TS01** | API Autenticación | Como desarrollador, quiero integrar login/registro | 1. **Dado que** se realiza una petición POST a /api/register con credenciales válidas<br>**Cuando** el servidor procesa la solicitud<br>**Entonces** responde con un código 201 y un token JWT válido<br><br>2. **Dado que** se realiza una petición con un email en formato inválido<br>**Cuando** el servidor valida los datos<br>**Entonces** responde con un código 400 y un mensaje de error descriptivo | EP01 |
+| EPIC001 | Creación de la Landing Page | Como usuario quiero contar con un sitio web para poder guiarme y conocer más sobre la aplicación |  |  |
+| **US001** |  Barra de navegación en la Landing Page | Como usuario visitante, quiero una barra de navegación clara y funcional, para poder moverme fácilmente por las diferentes secciones de la landing page | 1. **Dado que** el usuario ha cargado la landing page<br>**Cuando** observa la parte superior de la página<br>**Entonces** debe ver una barra de navegación con las opciones: "Inicio", "Sobre Nosotros", "Beneficios", "Información" y "Contacto".<br><br>2. **Dado que** el usuario está en la landing page<br>**Cuando** hace clic en cualquier opción de la barra de navegación<br>**Entonces** debe ser redirigido a la sección correspondiente de la página sin errores | EPIC001 |
+| **US002** | Sección Hero en la Landing Page | Como usuario visitante, quiero una sección hero atractiva con imagen y título llamativo, para entender rápidamente el propósito principal de FitWise | 1. **Dado que** el usuario ha cargado la landing page<br>**Cuando** se muestra la sección hero<br>**Entonces** debe incluir un título principal, una breve descripción y una imagen representativa<br><br>2. **Dado que** el usuario accede desde un dispositivo móvil<br>**Cuando** visualiza la sección hero<br>**Entonces** el texto y la imagen deben ajustarse correctamente sin superposiciones | EPIC001 |
+| **US003** | Sección Footer en la Landing Page | Como usuario visitante, quiero un footer con información relevante, para conocer los términos de uso y datos del equipo | 1. **Dado que** el usuario ha llegado al final de la página<br>**Cuando** ve el footer<br>**Entonces** debe encontrar enlaces a "Términos y condiciones" y "Equipo de desarrollo"<br><br>2. **Dado que** el usuario hace clic en "Términos y condiciones"<br>**Cuando** se carga la página correspondiente<br>**Entonces** debe mostrar el contenido legal sin errores | EPIC001 |
+| **US004** | Sección "About Us" en la Landing Page | Como usuario interesado, conocer información sobre el equipo y la misión de la empresa, para decidir si confiar en el producto | 1. **Dado que**  el usuario navega a "Sobre Nosotros"<br>**Cuando** revisa la sección<br>**Entonces** debe ver fotos/nombres de los miembros del equipo y sus roles<br><br>2. **Dado que** hel usuario quiere conocer los orígenes del proyecto<br>**Cuando** lee la sección "About Us"<br>**Entonces** debe encontrar al menos 3 párrafos explicando la misión y visión | EPIC001 |
+| **US005** | Sección "Information" en la Landing Page | Como usuario potencial, quiero detalles claros sobre el producto, para entender qué ofrece exactamente FitWise. | 1. **Dado que** el usuario accede a la sección "Information"<br>**Cuando** lee el contenido<br>**Entonces** debe encontrar al menos 3 características principales del producto<br><br>2. **Dado que** usuario revisa la sección<br>**Cuando** se muestra la información<br>**Entonces** debe incluir al menos una imagen representativa del producto | EPIC001 |
+| **US06** | Sección "Benefits" en la Landing Page | Como usuario indeciso, quiero conocer las ventajas competitivas de FitWise, para compararlo con otras soluciones similares. | 1. **Dado que** el usuario navega a "Beneficios"<br>**Cuando** revisa la sección<br>**Entonces** debe ver al menos 3 ventajas claramente diferenciadas<br><br>2. **Dado que** el usuario pasa el mouse sobre los beneficios<br>**Cuando** interactúa con ellos<br>**Entonces** debe aparecer una animación sutil que destaque cada ítem | EPIC001 |
+| **US007** | Sección "Contact us" en la Landing Page | Como usuario interesado, quiero un formulario de contacto funcional, para hacer consultas al equipo. | 1. **Dado que** el usuario intenta enviar el formulario vacío<br>**Cuando** presiona "Enviar"<br>**Entonces** debe mostrar mensajes de error para los campos requeridos<br><br>2. **Dado que** el usuario completa todos los campos correctamente<br>**Cuando** envía el formulario<br>**Entonces** debe mostrar un mensaje de confirmación y vaciar los campos | EPIC001 |
+| **US008** | Landing Page Responsive | Como usuario que accede desde diferentes dispositivos, quiero que la página se adapte correctamente, para tener una buena experiencia sin importar el dispositivo | 1. **Dado que** el usuario accede desde un smartphone<br>**Cuando** navega por la página<br>**Entonces** el menú debe convertirse en hamburguesa y el texto ajustar su tamaño<br><br>2. **Dado que** el usuario usa una pantalla grande<br>**Cuando** carga la página<br>**Entonces** debe mostrar el diseño completo sin espacios vacíos excesivos | EPIC001 |
+| EPIC002 | Gestión de usuarios / IAM | Como usuario del sistema, quiero poder gestionar los perfiles y cuentas agregadas para garantizar la integridad de los datos y la seguridad de la plataforma. |  |  |
+| **US009** | Registro básico | Como nuevo usuario, quiero registrarme con email y contraseña, para acceder a la plataforma | 1. **Dado que** el usuario ingresa un email con formato válido y una contraseña de al menos 8 caracteres (con 1 mayúscula y 1 número)<br>**Cuando** hace clic en "Registrarse"<br>**Entonces** el sistema envía un email de verificación con un enlace válido por 24 horas<br><br>2. **Dado que** el usuario ingresa un email ya registrado<br>**Cuando** intenta registrarse<br>**Entonces** el sistema muestra el mensaje "Este email ya está en uso" | EPIC002 |
+| **US010** | Registro completo | Como usuario, quiero completar mi perfil inicial, para obtener recomendaciones personalizadas | 1. **Dado que** el usuario ingresa un peso de 70kg y una altura de 170cm<br>**Cuando** guarda la información<br>**Entonces** el sistema calcula un IMC de 24.2 y sugiere 3 rutinas de tipo cardio<br><br>2. **Dado que** el usuario deja el campo "altura" vacío<br>**Cuando** intenta guardar<br>**Entonces** el sistema muestra un mensaje indicando que el campo es obligatorio | EPIC002 |
+| **US011** | Login social | Como usuario, quiero acceder con redes sociales, para agilizar mi registro | 1. **Dado que** el usuario selecciona "Continuar con Google" y acepta los permisos<br>**Cuando** completa el proceso<br>**Entonces** el sistema importa automáticamente su nombre y foto de perfil<br><br>2. **Dado que** el usuario cierra el popup de login<br>**Cuando** reintenta dentro de los 2 minutos siguientes<br>**Entonces** el sistema mantiene la sesión de Google activa | EPIC002 |
+| **US012** | Verificación email | Como usuario, quiero confirmar mi cuenta, para garantizar seguridad | 1. **Dado que** el usuario hace clic en el enlace de verificación dentro de las 24 horas<br>**Cuando** completa el proceso<br>**Entonces** el sistema activa su cuenta y lo redirige al dashboard principal<br><br>2. **Dado que** han pasado más de 24 horas desde el envío del email de verificación<br>**Cuando** el usuario intenta usar el enlace<br>**Entonces** el sistema muestra un mensaje indicando que el enlace ha expirado | EPIC002 |
+| **US013** | Perfil de asesor | Como entrenador, quiero registrarme como profesional, para ofrecer mis servicios | 1. **Dado que** el asesor sube un archivo PDF válido como certificación<br>**Cuando** completa el formulario de registro<br>**Entonces** el sistema marca su perfil como "En revisión"<br><br>2. **Dado que** el asesor intenta subir un archivo con formato no permitido (.exe)<br>**Cuando** intenta guardar<br>**Entonces** el sistema muestra un mensaje indicando los formatos aceptables | EPIC002 |
+| **US014** | Actualización objetivos | Como usuario, quiero modificar mis metas, para ajustar mi plan | 1. **Dado que** el usuario cambia su objetivo a "ganar músculo"<br>**Cuando** confirma los cambios<br>**Entonces** el sistema ajusta sus requerimientos calóricos con un incremento del 15%<br><br>2. **Dado que** el usuario tiene una asesoría activa<br>**Cuando** modifica sus objetivos<br>**Entonces** el sistema notifica automáticamente a su asesor asignado | EPIC002 |
+| EPIC003 | Agenda y Cronograma de Rutinas (Scheduling) | Como usuario, quiero gestionar las rutinas y las duraciones de las mismas, para garantizar la pertinencia de las mismas y controlar el progreso físico junto a los horarios. |  |  |
+| **US015** | Visualización de comidas diarias en vista tabla | Como usuario, quiero ver una tabla con las comidas programadas por fecha y tipo, para saber qué debo comer cada día de forma clara y organizada. | 1. **Dado que** que el usuario tiene comidas asignadas en su cronograma<br>**Cuando** accede a la vista de tabla<br>**Entonces** debe visualizarse una fila por comida con su fecha, nombre y tipo (desayuno, almuerzo, cena)<br><br>2. **Dado que** que una comida aparece en la tabla<br>**Cuando** el usuario hace clic en el botón de detalles<br>**Entonces** debe mostrarse una vista con la imagen, ingredientes e instrucciones de la comida | EPIC003 |
+| **US016** | Visualización resumida de rutinas por fecha | Como usuario, ver un resumen con los rangos de fechas en los que tengo rutinas activas, para tener una vista clara de mi calendario de entrenamiento. | 1. **Dado que** el usuario tiene rutinas activas asignadas<br>**Cuando** accede a la vista de resumen de rutinas<br>**Entonces** tdebe visualizarse el nombre de la rutina y sus fechas de inicio y fin<br><br>2. **Dado que** existen varias rutinas no superpuestas<br>**Cuando** el usuario navega la vista de resumen<br>**Entonces** todas deben mostrarse ordenadas cronológicamente sin traslapes | EPIC003 |
+| **US017** | Asignación de nueva rutina al cronograma | Como usuario, asignar una nueva rutina desde una fecha específica, para comenzar un nuevo ciclo de entrenamiento planificado. | 1. **Dado que** el usuario elige una rutina y una fecha de inicio<br>**Cuando** la fecha no se cruza con otra rutina ya asignada<br>**Entonces** la rutina debe añadirse exitosamente al cronograma<br><br>2. **Dado que** el usuario selecciona una fecha que se superpone con otra rutina activa<br>**Cuando** intenta guardar la nueva rutina<br>**Entonces** el sistema debe mostrar un mensaje de error e impedir la asignación | EPIC003 |
+| **US018** | Alternancia entre vistas de cronograma | Como usuario, alternar entre la vista de tabla diaria y la vista resumida de rutinas, para consultar mi agenda según lo que necesite ver. | 1. **Dado que** el usuario está en la vista de tabla de comidas<br>**Cuando** hace clic en el botón de cambiar vista<br>**Entonces** debe redirigirse o renderizarse la vista de resumen de rutinas<br><br>2. **Dado que** el usuario está en la vista de resumen de rutinas<br>**Cuando** hace clic en el botón de cambiar vista<br>**Entonces** debe redirigirse o renderizarse la vista tipo tabla con comidas | EPIC003 |
+| EPIC004 | Gestión de Rutinas (Routine Management) | Como entrenador, quiero gestionar las rutinas y modificarlas, para garantizar un vervadero valor a mis pupilos fit y ayudarlos a mejorar su vida fit. |  |  |
+| **US019** | Creación de una nueva rutina | Como entrenador con membresía activa, quiero crear una nueva rutina con título, descripción y duración recomendada, para ofrecer un plan de entrenamiento estructurado a los usuarios. | 1. **Dado que** el usuario tiene una membresía activa como entrenador<br>**Cuando** accede a la sección de creación de rutina<br>**Entonces** debe poder ingresar un título, una descripción y un tiempo recomendado<br><br>2. **Dado que** el usuario completa correctamente los campos requeridos<br>**Cuando** hace clic en guardar<br>**Entonces** la rutina debe crearse y guardarse exitosamente en el sistema | EPIC004 |
+| **US020** | Agregar ejercicios a una rutina | Como entrenador con membresía activa, quiero poder agregar ejercicios a una rutina, para definir claramente qué actividades debe realizar el usuario. | 1. **Dado que** el usuario está editando una rutina existente<br>**Cuando** hace clic en “Agregar ejercicio”<br>**Entonces** debe abrirse un formulario o modal para ingresar nombre, descripción y detalles del ejercicio.<br><br>2. **Dado que** se completa la información del ejercicio<br>**Cuando** se confirma el formulario<br>**Entonces** el ejercicio debe añadirse correctamente a la rutina | EPIC004 |
+| **US021** | Agregar comidas a una rutina | Como entrenador con membresía activa,, quiero  poder asociar comidas a una rutina con su tipo (desayuno, almuerzo, cena), para entregar un plan nutricional completo al usuario | 1. **Dado que** el usuario está editando una rutina<br>**Cuando** hace clic en “Agregar comida”<br>**Entonces** debe poder seleccionar una comida y su tipo correspondiente<br><br>2. **Dado que** se guardan las asociaciones de comidas<br>**Cuando** se finaliza la edición<br>**Entonces** estas comidas deben quedar vinculadas correctamente a la rutina | EPIC004 |
+| **US022** | Acceso restringido a la gestión de rutinas | Como usuario sin membresía, que no se me permita acceder a la sección de gestión de rutinas, para mantener esta funcionalidad exclusiva para entrenadores. | 1. **Dado que** el usuario no posee membresía activa de entrenador<br>**Cuando** intenta acceder a la página de gestión de rutinas<br>**Entonces** debe redirigirse o mostrarse un mensaje informando que no tiene acceso<br><br>2. **Dado que** el usuario adquiere una membresía de entrenador<br>**Cuando** vuelve a acceder a la gestión de rutinas<br>**Entonces** debe poder ingresar sin restricciones | EPIC004 |
+| **US023** | Visualización de rutina y sus componentes | Como usuario, quiero visualizar una rutina con sus ejercicios y comidas asociadas, para entender completamente el plan que debo seguir. | 1. **Dado que** el usuario accede al detalle de una rutina<br>**Cuando** la rutina tiene ejercicios asociados<br>**Entonces** deben mostrarse listados con su nombre, descripción y detalles<br><br>2. **Dado que** la rutina tiene comidas asignadas<br>**Cuando** el usuario ve el detalle<br>**Entonces** deben mostrarse agrupadas por tipo (desayuno, almuerzo, cena) junto a sus nombres | EPIC004 |
+| EPIC005 | Interacción Social y Reseñas (Community Feedback) | Como novato fit, quiero expresar mi opinión sobre las rutinas, para fomentar el intercambio de ideas y aumentar el flujo de tiempo de uso en la aplicación web. |  |  |
+| **US024** | Visualizar comentarios de una rutina publicada | Como usuario, quiero poder visualizar los comentarios de una rutina publicada, para conocer las opiniones y experiencias de otros usuarios. | 1. **Dado que** el usuario accede a una rutina publicada<br>**Cuando** hay comentarios registrados<br>**Entonces** deben mostrarse los comentarios con nombre de autor, texto y calificación<br><br>2. **Dado que** la rutina no tiene comentarios<br>**Cuando** el usuario la visualiza<br>**Entonces** debe mostrarse un mensaje indicando que aún no hay comentarios | EPIC005 |
+| **US025** | Agregar un comentario a una rutina publicada | Como usuario, quiero poder comentar una rutina publicada, para compartir mi experiencia o dar retroalimentación a otros usuarios. | 1. **Dado que** el usuario está autenticado<br>**Cuando** accede a una rutina publicada<br>**Entonces** debe visualizar un formulario para agregar comentario y calificación<br><br>2. **Dado que** el usuario completa el formulario y envía su comentario<br>**Cuando** la operación es exitosa<br>**Entonces** el nuevo comentario debe aparecer listado junto a los anteriores | EPIC005 |
+| **US026** | Editar un comentario propio | Como usuario, quiero poder editar un comentario que yo hice sobre una rutina, para corregir o actualizar mi opinión. | 1. **Dado que** el usuario ha comentado una rutina<br>**Cuando** accede a esa rutina y visualiza su comentario<br>**Entonces** debe ver un botón o ícono para editar su comentario<br><br>2. **Dado que** el usuario actualiza su comentario<br>**Cuando** lo guarda<br>**Entonces** los cambios deben reflejarse inmediatamente en la interfaz | EPIC005 |
+| **US027** | Eliminar un comentario propio | Como usuario, quiero poder eliminar un comentario que realicé, para retirar mi opinión si ya no deseo que sea visible. | 1. **Dado que** el usuario ha hecho un comentario<br>**Cuando** accede a la rutina<br>**Entonces** debe ver un botón para eliminar su comentario<br><br>2. **Dado que** el usuario confirma la eliminación<br>**Cuando** esta se ejecuta correctamente<br>**Entonces** el comentario debe desaparecer de la lista de reseñas | EPIC005 |
+| **US028** | Ver resumen de calificaciones de una rutina | Como usuario, quiero ver un resumen de calificaciones en una rutina publicada, para tener una idea rápida de su valoración general. | 1. **Dado que** la rutina tiene comentarios con calificaciones<br>**Cuando** un usuario accede a ella<br>**Entonces** debe visualizarse un resumen numérico (promedio de estrellas o puntuación)<br><br>2. **Dado que** la rutina tiene varias valoraciones<br>**Cuando** se muestra el resumen<br>**Entonces** debe calcularse correctamente con base en los datos actuales | EPIC005 |
+| EPIC006 | Gestión de Perfil y Membresía (User Profile & Membership) | Como usuario del sistema, quiero modificar mi perfil y adquirir membresias, para obtener más funcionalidades, destacarme de los demás y tener una mejor experiencia de usuario. | | |
+| **US029** | Editar información de perfil | Como usuario, quiero poder editar mi información de perfil, para mantener mis datos personales actualizados. | 1. **Dado que** el usuario accede a su perfil<br>**Cuando** hace clic en "Editar perfil"<br>**Entonces** debe visualizar un formulario con sus datos personales actuales<br><br>2. **Dado que** el usuario edita y guarda su información<br>**Cuando** la operación se completa<br>**Entonces** los cambios deben reflejarse al volver a su perfil | EPIC006 |
+| **US030** | Comprar membresía de creador de contenido | Como usuario, quiero poder comprar una membresía para convertirme en creador de contenido, para poder vender mis rutinas. | 1. **Dado que** el usuario no posee una membresía activa<br>**Cuando** hace clic en "Comprar membresía"<br>**Entonces** debe abrirse un diálogo con opciones de compra<br><br>2. **Dado que** el usuario completa el proceso de compra<br>**Cuando** se confirme el pago<br>**Entonces** su cuenta debe marcarse como creador de contenido | EPIC006 |
+| **US031** | Agregar y eliminar amigos | Como usuario, quiero poder agregar y eliminar amigos desde mi perfil, para conectar y compartir con otros usuarios. | 1. **Dado que** el usuario está en el perfil de otro usuario<br>**Cuando** hace clic en "Agregar amigo"<br>**Entonces** debe añadirse a su lista de amigos<br><br>2. **Dado que** el usuario visualiza su lista de amigos<br>**Cuando** hace clic en "Eliminar amigo"<br>**Entonces** el amigo debe ser eliminado de la lista | EPIC006 |
+| **US032** | Ver perfil de otros usuarios | Como usuario, quiero poder ver el perfil de otros usuarios, para conocer más sobre ellos y su actividad. | 1. **Dado que** el usuario está en su lista de amigos<br>**Cuando** hace clic en "Ver perfil"<br>**Entonces** debe redirigirse al perfil del amigo seleccionado<br><br>2. **Dado que** el usuario está en el perfil de otro<br>**Cuando** lo visualiza<br>**Entonces** debe ver su nombre, foto, bio y actividades públicas permitidas | EPIC006 |
+| EPIC007 | Marketplace de Cursos (Course Marketplace) | Como entrenador, quiero vender mis routines de manera individual o darselas a mis pupilos fit, para entregarles un valor agregado de contratar mis servicios y mejoren su vida fit. | | |
+| **US033** | Buscar cursos disponibles en el marketplace | Como usuario, quiero poder buscar cursos disponibles en el marketplace, para encontrar fácilmente los que me interesan. | 1. **Dado que** el usuario accede al marketplace<br>**Cuando** escribe una palabra clave en el buscador<br>**Entonces** deben mostrarse los cursos que coinciden con la búsqueda<br><br>2. **Dado que** el usuario no encuentra coincidencias<br>**Cuando** realiza una búsqueda<br>**Entonces** debe mostrarse un mensaje indicando que no se encontraron resultados | EPIC007 |
+| **US034** | Ver detalles de un curso | Como usuario, quiero poder ver la información detallada de un curso, para decidir si quiero comprarlo. | 1. **Dado que** el usuario está navegando en el marketplace<br>**Cuando** hace clic en un curso<br>**Entonces** debe abrirse una vista con su descripción, objetivos y contenido<br><br>2. **Dado que** el curso tiene calificaciones y reseñas<br>**Cuando** el usuario ve los detalles<br>**Entonces** deben mostrarse junto a la información del curso | EPIC007 |
+| **US035** | Comprar un curso | Como usuario, quiero poder comprar un curso disponible, para acceder a su contenido exclusivo. | 1. **Dado que** el usuario visualiza los detalles de un curso<br>**Cuando** hace clic en "Comprar curso"<br>**Entonces** debe mostrarse un flujo de pago o confirmación de compra<br><br>2. **Dado que** el usuario finaliza el pago<br>**Cuando** la operación es exitosa<br>**Entonces** el curso debe agregarse a su biblioteca personal | EPIC007 |
+| **US036** | Ocultar cursos propios del marketplace | Como creador de contenido, quiero que mis propios cursos no aparezcan en el listado del marketplace, para no comprarlos por error. | 1. **Dado que** el usuario es creador de contenido y ha publicado cursos<br>**Cuando** accede al marketplace<br>**Entonces** no deben aparecer sus cursos en la lista general de búsqueda<br><br>2. **Dado que** el usuario busca por palabras clave que coinciden con sus propios cursos<br>**Cuando** realiza la búsqueda<br>**Entonces** los cursos que él ha creado no deben mostrarse en los resultados | EPIC007 |
+| EPIC008 | Technical Stories | Como desarrolador, quiero implementar un motor de programación que gestione la asignación y visualización de rutinas y comidas por fecha, para asegurar que los usuarios puedan ver su cronograma diario sin conflictos de superposición y con información detallada y accesible. | | |
+| **TS001** | Modelo de rutina con integridad de fechas | Como desarrollador, quiero definir el modelo de rutina con una validación de fechas, para evitar superposiciones entre rutinas. | 1. **Dado que** se está creando una nueva rutina<br>**Cuando** la fecha de inicio o fin se cruza con otra ya existente<br>**Entonces** debe rechazarse la operación con un mensaje de conflicto<br><br>2. **Dado que** el usuario proporciona un rango válido<br>**Cuando** se guarda<br>**Entonces** la rutina debe persistirse correctamente sin conflictos | EPIC003/EPIC008 |
+| **TS002** | API para consulta estructurada del cronograma | Como desarrollador, quiero una API que devuelva las rutinas, comidas y ejercicios organizados por fecha, para alimentar la tabla de visualización. | 1. **Dado que** existen rutinas con comidas y ejercicios asignados<br>**Cuando** se hace una consulta al endpoint del cronograma<br>**Entonces** se debe recibir una respuesta organizada por fecha, incluyendo tipo de comida y nombre del ejercicio<br><br>2. **Dado que** no existen datos para una fecha<br>**Cuando** se consulta<br>**Entonces** la fecha debe aparecer vacía o con un mensaje correspondiente | EPIC003/EPIC008 |
+| **TS003** | Estructura relacional entre Rutina, Ejercicio y Comida | Como desarrollador, quiero definir relaciones entre rutina, ejercicios y comidas, para garantizar que cada rutina pueda tener múltiples componentes. | 1. **Dado que** se consulta una rutina<br>**Cuando** tiene ejercicios y comidas asociadas<br>**Entonces** deben estar disponibles en las relaciones definidas en el modelo<br><br>2. **Dado que** se elimina una rutina<br>**Cuando** se ejecuta la operación<br>**Entonces** deben eliminarse en cascada o desvincularse sus componentes asociados | EPIC004/EPIC008 |
+| **TS004** | Middleware de acceso restringido a entrenadores | Como desarrollador, quiero implementar un middleware que verifique membresía de entrenador, para restringir el acceso a la gestión de rutinas. | 1. **Dado que** un usuario sin membresía intenta acceder<br>**Cuando** se intercepta la solicitud<br>**Entonces** debe redirigirse o bloquearse con error 403<br><br>2. **Dado que** un usuario con membresía válida accede<br>**Cuando** pasa por el middleware<br>**Entonces** se debe permitir el acceso sin restricciones | EPIC004/EPIC008 |
+| **TS005** | Modelo de comentarios con rating vinculado a rutina | Como desarrollador, quiero diseñar el modelo de comentarios vinculado a rutinas y con rating, para almacenar la retroalimentación de usuarios. | 1. **Dado que** se crea un comentario<br>**Cuando** incluye texto y puntuación<br>**Entonces** debe persistirse correctamente en la base de datos<br><br>2. **Dado que** se elimina una rutina<br>**Cuando** existen comentarios asociados<br>**Entonces** deben eliminarse en cascada o marcarse como huérfanos | EPIC005/EPIC008 |
+| **TS006** | Endpoint de resumen de ratings por rutina | Como desarrollador, quiero un endpoint que devuelva el promedio de calificación de una rutina, para mostrar el resumen a los usuarios. | 1. **Dado que** existen múltiples comentarios con ratings<br>**Cuando** se consulta el resumen<br>**Entonces** debe devolverse el promedio redondeado y la cantidad total de reseñas<br><br>2. **Dado que** no existen comentarios<br>**Cuando** se consulta el resumen<br>**Entonces** debe devolverse `0` o `null` según las reglas del negocio | EPIC005/EPIC008 |
+| **TS007** | Sistema de roles y membresía en usuarios | Como desarrollador, quiero implementar un sistema de roles y membresía, para diferenciar entre usuarios normales y creadores de contenido. | 1. **Dado que** un usuario adquiere membresía<br>**Cuando** se confirma el pago<br>**Entonces** su rol debe actualizarse a "entrenador" o "creador"<br><br>2. **Dado que** el usuario pierde su membresía<br>**Cuando** se verifica su estado<br>**Entonces** el sistema debe revocar los privilegios de creación | EPIC006/EPIC008 |
+| **TS008** | Relaciones entre usuarios para funcionalidad de amistad | Como desarrollador, quiero definir una relación many-to-many entre usuarios, para permitir la funcionalidad de agregar y eliminar amigos. | 1. **Dado que** un usuario agrega a otro<br>**Cuando** se ejecuta la operación<br>**Entonces** debe crearse un vínculo entre ambos en la base de datos<br><br>2. **Dado que** el usuario elimina un amigo<br>**Cuando** se confirma la acción<br>**Entonces** el vínculo debe eliminarse sin errores | EPIC006/EPIC008 |
+| **TS009** | Filtrado de cursos por palabra clave y exclusión de cursos propios | Como desarrollador, quiero implementar un sistema de búsqueda que excluya los cursos creados por el usuario autenticado, para evitar que compre los suyos. | 1. **Dado que** el usuario está autenticado<br>**Cuando** realiza una búsqueda<br>**Entonces** los cursos propios deben ser excluidos de los resultados<br><br>2. **Dado que** no hay coincidencias<br>**Cuando** realiza una búsqueda<br>**Entonces** debe devolverse una respuesta vacía o mensaje de “sin resultados” | EPIC007/EPIC008 |
+| **TS010** | Lógica de compra y asignación de cursos | Como desarrollador, quiero implementar la lógica de compra de cursos y su asociación al usuario, para que solo acceda a los cursos adquiridos. | 1. **Dado que** el usuario completa el proceso de compra<br>**Cuando** se confirma el pago<br>**Entonces** el curso debe asociarse a su cuenta<br><br>2. **Dado que** el usuario accede a su biblioteca<br>**Cuando** visualiza los cursos<br>**Entonces** solo debe ver los que ha comprado | EPIC007/EPIC008 |
 
-| User Story ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con (Epic ID) |
-|---|---|---|---|---|
-| **US07** | Generación de plan nutricional | Como usuario, quiero un plan de comidas semanal, para mantener una dieta saludable | 1. **Dado que** el usuario tiene registradas sus preferencias (vegetariano, sin gluten)<br>**Cuando** solicita un nuevo plan nutricional<br>**Entonces** el sistema genera 21 recetas (3 diarias) que cumplen con sus restricciones<br><br>2. **Dado que** el usuario selecciona "alto en proteínas"<br>**Cuando** se genera el plan<br>**Entonces** cada comida contiene mínimo 30g de proteína | EP02 |
-| **US08** | Lista de compras | Como usuario, quiero una lista de ingredientes organizada, para facilitar mis compras | 1. **Dado que** el plan nutricional está generado<br>**Cuando** el usuario accede a la sección de compras<br>**Entonces** muestra los ingredientes agrupados por categoría (lácteos, granos, etc.)<br><br>2. **Dado que** existe un ingrediente repetido en múltiples recetas<br>**Cuando** se genera la lista<br>**Entonces** consolida las cantidades en un solo item | EP02 |
-| **US09** | Sustitución de ingredientes | Como usuario, quiero reemplazar alimentos que no me gustan, para personalizar mi plan | 1. **Dado que** el usuario selecciona "no quinua"<br>**Cuando** regenera el plan<br>**Entonces** todas las recetas usan kiwicha o cañihua como sustituto<br><br>2. **Dado que** se sustituye un ingrediente principal<br>**Cuando** se actualiza el plan<br>**Entonces** el sistema recalcula automáticamente los valores nutricionales | EP02 |
-| **US10** | Información nutricional | Como usuario, quiero ver detalles nutricionales, para controlar mi ingesta | 1. **Dado que** el usuario visualiza una receta<br>**Cuando** abre la sección nutricional<br>**Entonces** muestra desglose de macros (proteínas: 30g, carbohidratos: 45g, grasas: 10g)<br><br>2. **Dado que** el usuario sigue una dieta de 2000 kcal<br>**Cuando** revisa el plan diario<br>**Entonces** la suma total no excede ±5% del objetivo | EP02 |
-| **TS02** | API Planes Nutricionales | Como desarrollador, quiero consumir el servicio de planes | 1. **Dado que** se envía un request GET /api/meal-plans con parámetros válidos<br>**Cuando** el servidor responde<br>**Entonces** retorna un JSON con 7 días de comidas y sus nutrientes<br><br>2. **Dado que** se solicita un plan sin parámetros requeridos<br>**Cuando** el servidor valida<br>**Entonces** responde con error 400 y lista de campos faltantes | EP02 |
-
-| User Story ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con (Epic ID) |
-|---|---|---|---|---|
-| **US011** | Generación de rutinas | Como usuario, quiero una rutina de ejercicios personalizada, para entrenar eficientemente | 1. **Dado que** el usuario especifica "nivel: principiante" y "objetivo: bajar grasa"<br>**Cuando** genera su rutina<br>**Entonces** el sistema sugiere 3 días/semana de cardio (20-30 min) y 2 de fuerza<br><br>2. **Dado que** el usuario indica "espacio: pequeño"<br>**Cuando** visualiza los ejercicios<br>**Entonces** solo muestra opciones que requieren ≤1m² | EP03 |
-| **US012** | Progresión automática | Como usuario, quiero que mi rutina se ajuste a mi progreso, para mantener el desafío | 1. **Dado que** el usuario completa >90% de sus sesiones por 2 semanas<br>**Cuando** el sistema analiza su desempeño<br>**Entonces** aumenta la intensidad en 10-15% (peso/repeticiones)<br><br>2. **Dado que** el usuario falla en completar 3+ ejercicios consecutivos<br>**Cuando** se regenera la rutina<br>**Entonces** sugiere ejercicios alternativos con menor dificultad | EP03 |
-| **US13** | Demostraciones de ejercicios | Como principiante, quiero ver cómo realizar cada ejercicio correctamente, para evitar lesiones | 1. **Dado que** el usuario selecciona un ejercicio<br>**Cuando** abre los detalles<br>**Entonces** muestra un video con: ángulos múltiples, errores comunes y modificaciones<br><br>2. **Dado que** el ejercicio requiere equipamiento<br>**Cuando** se reproduce la demo<br>**Entonces** incluye alternativa con materiales domésticos (ej: botellas como pesas) | EP03 |
-| **US14** | Registro de sesiones | Como usuario, quiero marcar mis ejercicios completados, para llevar un historial | 1. **Dado que** el usuario finaliza una sesión<br>**Cuando** marca "completado"<br>**Entonces** el sistema registra: fecha, ejercicios, y tiempo total<br><br>2. **Dado que** salta un ejercicio<br>**Cuando** guarda el progreso<br>**Entonces** pregunta "¿Quieres reprogramarlo para hoy o saltarlo definitivamente?" | EP03 |
-| **TS03** | API de Rutinas | Como desarrollador, quiero integrar el generador de rutinas | 1. **Dado que** se llama a /api/routines con {level: "beginner", goal: "strength"}<br>**Cuando** el servidor responde<br>**Entonces** retorna JSON con ejercicios que priorizan grupos musculares clave<br><br>2. **Dado que** se solicita una rutina sin parámetros obligatorios<br>**Cuando** el servidor valida<br>**Entonces** responde 422 con {error: "Missing required field: 'goal'"} | EP03 |
-
-| User Story ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con (Epic ID) |
-|---|---|---|---|---|
-| **US15** | Registro de métricas físicas | Como usuario, quiero registrar mis medidas corporales, para monitorear mi progreso | 1. **Dado que** el usuario ingresa peso=85kg y cintura=90cm<br>**Cuando** guarda los datos<br>**Entonces** el sistema calcula automáticamente el IMC y porcentaje de grasa estimado<br><br>2. **Dado que** el usuario intenta registrar peso=0kg<br>**Cuando** guarda<br>**Entonces** el sistema muestra "El peso debe estar entre 30-300kg" | EP04 |
-| **US16** | Visualización de progreso | Como usuario, quiero ver gráficos de mi evolución, para motivarme | 1. **Dado que** el usuario tiene 3+ registros semanales de peso<br>**Cuando** accede a "Mi Progreso"<br>**Entonces** muestra gráfico de línea con tendencia y promedio móvil<br><br>2. **Dado que** el usuario selecciona "Últimos 30 días"<br>**Cuando** visualiza el dashboard<br>**Entonces** resalta hitos clave (ej: "Mayor pérdida: -2kg el 15/03") | EP04 |
-| **US17** | Recomendaciones automáticas | Como usuario, quiero sugerencias basadas en mis resultados, para mejorar mi rendimiento | 1. **Dado que** el usuario pierde >3kg en 1 semana<br>**Cuando** abre la app<br>**Entonces** sugiere "¿Quieres ajustar tu plan para evitar pérdida muscular?"<br><br>2. **Dado que** el usuario estanca su peso por 2 semanas<br>**Cuando** revisa su progreso<br>**Entonces** recomienda "Consulta con un nutricionista" con CTA directo | EP04 |
-| **US18** | Reporte semanal | Como usuario, quiero un resumen de mi actividad, para mantenerme accountable | 1. **Dado que** es domingo a las 20:00<br>**Cuando** el sistema genera el reporte<br>**Entonces** incluye: % objetivos cumplidos, comparación semana anterior y sugerencias<br><br>2. **Dado que** el usuario completa <50% de sus entrenamientos<br>**Cuando** recibe el reporte<br>**Entonces** destaca "Te faltaron 3 sesiones vs meta semanal" | EP04 |
-| **TS04** | API de Progreso | Como desarrollador, quiero integrar el módulo de seguimiento | 1. **Dado que** se envía POST /api/progress con {weight, date}<br>**Cuando** los datos son válidos<br>**Entonces** responde 201 y almacena la entrada en la base de datos<br><br>2. **Dado que** se solicita GET /api/progress?range=last_month<br>**Cuando** existe historial<br>**Entonces** retorna JSON con {dates[], values[], avg} | EP04 |
-
-| User Story ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con (Epic ID) |
-|---|---|---|---|---|
-| **US19** | Búsqueda de asesores | Como usuario, quiero encontrar profesionales cerca de mi ubicación, para acceder a asesorías presenciales | 1. **Dado que** el usuario activa los permisos de ubicación<br>**Cuando** busca "nutricionistas"<br>**Entonces** el sistema prioriza asesores en un radio de 10km<br><br>2. **Dado que** el usuario no comparte su ubicación<br>**Cuando** realiza una búsqueda<br>**Entonces** muestra asesores filtrados por especialidad con indicador "Distancia no disponible" | EP05 |
-| **US20** | Perfiles de asesores | Como usuario, quiero ver información detallada de cada profesional, para tomar decisiones informadas | 1. **Dado que** el usuario visualiza un perfil de asesor<br>**Cuando** revisa la sección de certificaciones<br>**Entonces** muestra: título profesional, años de experiencia y especialidades<br><br>2. **Dado que** un asesor tiene 10+ reseñas<br>**Cuando** se carga su perfil<br>**Entonces** calcula y muestra el rating promedio (1-5 estrellas) | EP05 |
-| **US21** | Reserva de sesiones | Como usuario, quiero agendar citas con asesores, para programar mis entrenamientos/nutrición | 1. **Dado que** el usuario selecciona un horario disponible<br>**Cuando** confirma la reserva<br>**Entonces** bloquea ese slot en el calendario del asesor<br><br>2. **Dado que** el usuario intenta agendar en horario no laboral<br>**Cuando** selecciona la fecha<br>**Entonces** muestra "Este profesional no atiende los domingos" | EP05 |
-| **US22** | Sistema de pagos | Como usuario, quiero pagar sesiones de forma segura, para acceder a los servicios | 1. **Dado que** el usuario selecciona "Pagar con Yape"<br>**Cuando** confirma el monto<br>**Entonces** genera un QR con el código de pago y número de referencia<br><br>2. **Dado que** el pago no se confirma en 15 minutos<br>**Cuando** el usuario revisa su reserva<br>**Entonces** muestra "Pendiente de pago - Reintentar" | EP05 |
-| **US23** | Comunicación integrada | Como usuario, quiero contactar a mi asesor, para resolver dudas rápidamente | 1. **Dado que** el usuario tiene una reserva confirmada<br>**Cuando** accede al chat<br>**Entonces** muestra el historial de mensajes anteriores con ese profesional<br><br>2. **Dado que** el asesor no responde en 24h<br>**Cuando** el usuario envía un mensaje<br>**Entonces** muestra notificación "Respuesta usual en 48h" | EP05 |
-| **TS05** | API de Marketplace | Como desarrollador, quiero integrar el sistema de asesorías | 1. **Dado que** se llama a GET /api/coaches?location=-12.0432,-77.0282<br>**Cuando** hay asesores disponibles<br>**Entonces** retorna JSON ordenado por proximidad (km)<br><br>2. **Dado que** se envía POST /api/bookings sin token de autenticación<br>**Cuando** el servidor valida<br>**Entonces** responde 401 Unauthorized | EP05 |
-
-| User Story ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con (Epic ID) |
-|---|---|---|---|---|
-| **US24** | Suscripción premium | Como usuario, quiero mejorar a un plan premium, para acceder a funciones exclusivas | 1. **Dado que** el usuario selecciona "Plan Avanzado"<br>**Cuando** completa el pago exitosamente<br>**Entonces** desbloquea: rutinas especializadas y nutricionista virtual<br><br>2. **Dado que** el pago falla por saldo insuficiente<br>**Cuando** reintenta<br>**Entonces** sugiere "Prueba otro método de pago" con opciones alternativas | EP06 |
-| **US25** | Pasarela de pagos | Como usuario, quiero pagar con métodos locales, para mayor comodidad | 1. **Dado que** el usuario selecciona "Pagar con Yape"<br>**Cuando** confirma el monto<br>**Entonces** genera QR con referencia única válida por 10min<br><br>2. **Dado que** el QR expira<br>**Cuando** escanea<br>**Entonces** auto-genera un nuevo código sin perder el carrito | EP06 |
-| **US26** | Gestión de renovaciones | Como usuario premium, quiero controlar mi suscripción, para administrar gastos | 1. **Dado que** la renovación automática está activa<br>**Cuando** llega la fecha de corte<br>**Entonces** carga el monto y envía voucher por email<br><br>2. **Dado que** el usuario cancela antes del vencimiento<br>**Cuando** finaliza el ciclo<br>**Entonces** mantiene acceso premium hasta la fecha pagada | EP06 |
-| **US27** | Acceso diferencial | Como usuario premium, quiero beneficios exclusivos, para sentir valor agregado | 1. **Dado que** el plan incluye "Nutricionista Virtual"<br>**Cuando** accede a su perfil<br>**Entonces** muestra badge "Premium" y chat prioritario<br><br>2. **Dado que** el usuario visita una función restringida<br>**Cuando** no tiene suscripción activa<br>**Entonces** muestra modal "Upgrade requerido" con comparativa de planes | EP06 |
-| **TS06** | API de Pagos | Como desarrollador, quiero procesar transacciones | 1. **Dado que** se recibe un webhook de Culqi con status="paid"<br>**Cuando** se verifica la firma digital<br>**Entonces** activa los beneficios asociados a esa compra<br><br>2. **Dado que** falla la conexión con el banco<br>**Cuando** se intenta cobrar<br>**Entonces** programa reintento automático cada 5min (max 3 veces) | EP06 |
-
-| User Story ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con (Epic ID) |
-|---|---|---|---|---|
-| **US28** | Recordatorios personalizados | Como usuario, quiero recibir notificaciones inteligentes, para mantener mi disciplina | 1. **Dado que** el usuario suele entrenar a las 7:00 AM<br>**Cuando** es 6:45 AM<br>**Entonces** el sistema envía notificación "¿Listo para tu sesión de hoy?"<br><br>2. **Dado que** el usuario no registra actividad por 3 días<br>**Cuando** abre la app<br>**Entonces** muestra mensaje motivacional + CTA "Reanudar rutina" | EP07 |
-| **US29** | Notificaciones de progreso | Como usuario, quiero alertas sobre mis logros, para mantenerme motivado | 1. **Dado que** el usuario completa 5 entrenamientos consecutivos<br>**Cuando** finaliza la última sesión<br>**Entonces** envía badge virtual "Racha de 5 días"<br><br>2. **Dado que** el usuario supera su marca personal en sentadillas<br>**Cuando** sincroniza los datos<br>**Entonces** muestra comparativa: "Nuevo récord: 50kg (antes: 45kg)" | EP07 |
-| **US30** | Alertas de asesorías | Como usuario, quiero recordatorios de mis citas programadas, para no olvidarlas | 1. **Dado que** hay una asesoría agendada para hoy a las 17:00<br>**Cuando** son las 16:30<br>**Entonces** envía SMS/email con link directo a la videollamada<br><br>2. **Dado que** el usuario no se conecta 5min después de la hora<br>**Cuando** el asesor inicia la sesión<br>**Entonces** envía notificación push "Tu asesor ya está esperando" | EP07 |
-| **TS07** | API de Notificaciones | Como desarrollador, quiero gestionar envíos automatizados | 1. **Dado que** se llama a POST /api/notifications con {user_id, type="reminder"}<br>**Cuando** los datos son válidos<br>**Entonces** programa el envío y retorna {notification_id, scheduled_time}<br><br>2. **Dado que** el usuario desactiva notificaciones<br>**Cuando** el sistema intenta enviar<br>**Entonces** registra el intento sin enviar y retorna status 204 | EP07 |
-
-| User Story ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con (Epic ID) |
-|---|---|---|---|---|
-| **US31** | Gestión de usuarios | Como administrador, quiero ver y filtrar todos los usuarios registrados, para realizar mantenimientos | 1. **Dado que** el admin ingresa al panel<br>**Cuando** aplica filtros "Fecha: Últimos 30 días" y "Tipo: Asesores"<br>**Entonces** muestra lista paginada con: nombre, email, fecha registro y estado<br><br>2. **Dado que** un usuario viola los términos de servicio<br>**Cuando** el admin selecciona "Suspender cuenta"<br>**Entonces** envía email de notificación y bloquea el acceso inmediatamente | EP08 |
-| **US32** | Moderación de contenido | Como administrador, quiero revisar y editar planes nutricionales/entrenamientos, para garantizar calidad | 1. **Dado que** un asesor sube una rutina con ejercicios avanzados<br>**Cuando** el admin la marca como "Para principiantes"<br>**Entonces** notifica al asesor para su revisión<br><br>2. **Dado que** se reporta una receta con ingredientes incorrectos<br>**Cuando** el admin verifica<br>**Entonces** corrige los valores nutricionales y actualiza todas las instancias | EP08 |
-| **US33** | Reportes estadísticos | Como administrador, quiero exportar datos de crecimiento, para tomar decisiones estratégicas | 1. **Dado que** el admin selecciona "Reporte Q2 2024"<br>**Cuando** genera el documento<br>**Entonces** descarga CSV con: nuevos usuarios, retención, ingresos y asesorías completadas<br><br>2. **Dado que** hay un pico de cancelaciones<br>**Cuando** se visualiza el dashboard<br>**Entonces** resalta correlación con eventos específicos (ej: cambio en planes premium) | EP08 |
-| **TS08** | API de Administración | Como desarrollador, quiero integrar funcionalidades de backoffice | 1. **Dado que** se llama a DELETE /api/users/{id} con rol=admin<br>**Cuando** el usuario existe<br>**Entonces** desactiva la cuenta y responde 200 (no borra físicamente) | EP08 |
-
-| User Story ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con (Epic ID) |
-|---|---|---|---|---|
-| **US34** | Hero Section Principal | Como visitante, quiero ver una sección hero clara y atractiva, para entender inmediatamente el valor de FitWise | 1. **Dado que** el usuario carga la landing page<br>**Cuando** aparece la hero section<br>**Entonces** debe mostrar: un headline principal, subtítulo explicativo, CTA "Empieza Gratis" e imagen representativa<br><br>2. **Dado que** la hero section está visible<br>**Cuando** el usuario hace clic en el CTA<br>**Entonces** debe redirigir al formulario de registro | EP09 |
-| **US35** | Formulario de Registro Simplificado | Como visitante, quiero registrarme rápidamente, para comenzar a usar la plataforma sin fricciones | 1. **Dado que** el usuario accede al formulario<br>**Cuando** ingresa email válido y contraseña de 8+ caracteres<br>**Entonces** permite el registro y muestra mensaje de éxito<br><br>2. **Dado que** el usuario deja campos vacíos<br>**Cuando** intenta registrarse<br>**Entonces** muestra mensaje "Complete todos los campos" en rojo | EP09 |
-| **US36** | Sección de Beneficios Clave | Como visitante, quiero ver los principales beneficios, para convencerme de usar FitWise | 1. **Dado que** el usuario hace scroll<br>**Cuando** llega a la sección de beneficios<br>**Entonces** muestra 3-4 features con iconos (ej: "Plan nutricional automático")<br><br>2. **Dado que** se muestran los beneficios<br>**Cuando** el usuario pasa el mouse sobre ellos<br>**Entonces** muestra breve descripción (tooltip) | EP09 |
-| **US37** | Testimonios Verificados | Como visitante, quiero ver casos de éxito reales, para generar confianza en la plataforma | 1. **Dado que** el usuario ve la sección de testimonios<br>**Cuando** revisa los casos<br>**Entonces** muestra foto, nombre, edad y logros (ej: "-15kg en 3 meses")<br><br>2. **Dado que** hay múltiples testimonios<br>**Cuando** el usuario hace clic en ">"<br>**Entonces** muestra el siguiente testimonio con animación fade | EP09 |
-| **US38** | Comparación de Planes | Como visitante, quiero comparar opciones, para decidir qué plan elegir | 1. **Dado que** el usuario ve la tabla de planes<br>**Cuando** compara gratis vs premium<br>**Entonces** muestra al menos 3 diferencias clave (ej: "Entrenador Fit 24/7")<br><br>2. **Dado que** el usuario hace clic en "Premium"<br>**Cuando** selecciona el plan<br>**Entonces** resalta ese plan con borde dorado | EP09 |
-| **US39** | Versión Mobile Responsive | Como usuario móvil, quiero una experiencia optimizada, para navegar fácilmente | 1. **Dado que** se accede desde smartphone<br>**Cuando** se carga la página<br>**Entonces** los textos se ajustan sin horizontal scroll<br><br>2. **Dado que** el usuario toca el menú<br>**Cuando** está en móvil<br>**Entonces** muestra menú hamburguesa colapsable | EP09 |
 
 ### 3.3. Impact Mapping
 
@@ -991,53 +1044,51 @@ Incrementar en un 20% las asesorías contratadas por usuarios activos en 3 meses
 
 | Orden | User Story ID | Título | Descripción | Story Points |
 |-------|--------------|--------|-------------|-------------|
-| 1 | US01 | Registro básico | Como nuevo usuario, quiero registrarme con email y contraseña, para acceder a la plataforma | 3 |
-| 2 | US02 | Registro completo | Como usuario, quiero completar mi perfil inicial, para obtener recomendaciones personalizadas | 3 |
-| 3 | US03 | Login social | Como usuario, quiero acceder con redes sociales, para agilizar mi registro | 5 |
-| 4 | US04 | Verificación email | Como usuario, quiero confirmar mi cuenta, para garantizar seguridad | 2 |
-| 5 | US05 | Perfil de asesor | Como entrenador, quiero registrarme como profesional, para ofrecer mis servicios | 5 |
-| 6 | US06 | Actualización objetivos | Como usuario, quiero modificar mis metas, para ajustar mi plan | 3 |
-| 7 | TS01 | API Autenticación | Como desarrollador, quiero integrar login/registro | 5 |
-| 8 | US07 | Generación de plan nutricional | Como usuario, quiero un plan de comidas semanal, para mantener una dieta saludable | 8 |
-| 9 | US08 | Lista de compras | Como usuario, quiero una lista de ingredientes organizada, para facilitar mis compras | 5 |
-| 10 | US09 | Sustitución de ingredientes | Como usuario, quiero reemplazar alimentos que no me gustan, para personalizar mi plan | 5 |
-| 11 | US10 | Información nutricional | Como usuario, quiero ver detalles nutricionales, para controlar mi ingesta | 3 |
-| 12 | TS02 | API Planes Nutricionales | Como desarrollador, quiero consumir el servicio de planes | 8 |
-| 13 | US011 | Generación de rutinas | Como usuario, quiero una rutina de ejercicios personalizada, para entrenar eficientemente | 8 |
-| 14 | US012 | Progresión automática | Como usuario, quiero que mi rutina se ajuste a mi progreso, para mantener el desafío | 5 |
-| 15 | US13 | Demostraciones de ejercicios | Como principiante, quiero ver cómo realizar cada ejercicio correctamente, para evitar lesiones | 5 |
-| 16 | US14 | Registro de sesiones | Como usuario, quiero marcar mis ejercicios completados, para llevar un historial | 3 |
-| 17 | TS03 | API de Rutinas | Como desarrollador, quiero integrar el generador de rutinas | 13 |
-| 18 | US15 | Registro de métricas físicas | Como usuario, quiero registrar mis medidas corporales, para monitorear mi progreso | 5 |
-| 19 | US16 | Visualización de progreso | Como usuario, quiero ver gráficos de mi evolución, para motivarme | 8 |
-| 20 | US17 | Recomendaciones automáticas | Como usuario, quiero sugerencias basadas en mis resultados, para mejorar mi rendimiento | 5 |
-| 21 | US18 | Reporte semanal | Como usuario, quiero un resumen de mi actividad, para mantenerme accountable | 3 |
-| 22 | TS04 | API de Progreso | Como desarrollador, quiero integrar el módulo de seguimiento | 13 |
-| 23 | US19 | Búsqueda de asesores | Como usuario, quiero encontrar profesionales cerca de mi ubicación | 8 |
-| 24 | US20 | Perfiles de asesores | Como usuario, quiero ver información detallada de cada profesional | 5 |
-| 25 | US21 | Reserva de sesiones | Como usuario, quiero agendar citas con asesores | 8 |
-| 26 | US22 | Sistema de pagos | Como usuario, quiero pagar sesiones de forma segura | 13 |
-| 27 | US23 | Comunicación integrada | Como usuario, quiero contactar a mi asesor | 5 |
-| 28 | TS05 | API de Marketplace | Como desarrollador, quiero integrar el sistema de asesorías | 13 |
-| 29 | US24 | Suscripción premium | Como usuario, quiero mejorar a un plan premium para acceder a funciones exclusivas | 8 |
-| 30 | US25 | Pasarela de pagos | Como usuario, quiero pagar con métodos locales para mayor comodidad | 8 |
-| 31 | US26 | Gestión de renovaciones | Como usuario premium, quiero controlar mi suscripción para administrar gastos | 5 |
-| 32 | US27 | Acceso diferencial | Como usuario premium, quiero beneficios exclusivos para sentir valor agregado | 5 |
-| 33 | TS06 | API de Pagos | Como desarrollador, quiero procesar transacciones | 13 |
-| 34 | US28 | Recordatorios personalizados | Como usuario, quiero recibir notificaciones inteligentes para mantener mi disciplina | 5 |
-| 35 | US29 | Notificaciones de progreso | Como usuario, quiero alertas sobre mis logros para mantenerme motivado | 5 |
-| 36 | US30 | Alertas de asesorías | Como usuario, quiero recordatorios de mis citas programadas para no olvidarlas | 3 |
-| 37 | TS07 | API de Notificaciones | Como desarrollador, quiero gestionar envíos automatizados | 13 |
-| 38 | US31 | Gestión de usuarios | Como administrador, quiero ver y filtrar todos los usuarios registrados | 8 |
-| 39 | US32 | Moderación de contenido | Como administrador, quiero revisar y editar planes nutricionales/entrenamientos | 5 |
-| 40 | US33 | Reportes estadísticos | Como administrador, quiero exportar datos de crecimiento | 8 |
-| 41 | TS08 | API de Administración | Como desarrollador, quiero integrar funcionalidades de backoffice | 13 |
-| 42 | US34 | Hero Section Principal | Como visitante, quiero ver una sección hero clara y atractiva | 3 |
-| 43 | US35 | Formulario de Registro Simplificado | Como visitante, quiero registrarme rápidamente | 5 |
-| 44 | US36 | Sección de Beneficios Clave | Como visitante, quiero ver los principales beneficios | 3 |
-| 45 | US37 | Testimonios Verificados | Como visitante, quiero ver casos de éxito reales | 5 |
-| 46 | US38 | Comparación de Planes | Como visitante, quiero comparar opciones | 5 |
-| 47 | US39 | Versión Mobile Responsive | Como usuario móvil, quiero una experiencia optimizada | 8 |
+| 1 | US001 | Barra de navegación en la Landing Page |Como usuario visitante, quiero una barra de navegación clara y funcional, para poder moverme fácilmente por las diferentes secciones de la landing page | 2 |
+| 2 | US002 | Sección Hero en la Landing Page	 | Como usuario visitante, quiero una sección hero atractiva con imagen y título llamativo, para entender rápidamente el propósito principal de FitWise | 3 |
+| 3 | US003	 | Sección Footer en la Landing Page	 | Como usuario interesado, conocer información sobre el equipo y la misión de la empresa, para decidir si confiar en el producto	 | 5 |
+| 4 | US004 | Sección "About Us" en la Landing Page	| Como usuario, quiero confirmar mi cuenta, para garantizar seguridad | 2 |
+| 5 | US005 | Sección "Information" en la Landing Page | CComo usuario potencial, quiero detalles claros sobre el producto, para entender qué ofrece exactamente FitWise. | 3 |
+| 6 | US006 | Sección "Benefits" en la Landing Page | Como usuario indeciso, quiero conocer las ventajas competitivas de FitWise, para compararlo con otras soluciones similares. | 4 |
+| 7 | US007 | Sección "Contact us" en la Landing Page | Como usuario interesado, quiero un formulario de contacto funcional, para hacer consultas al equipo. | 5 |
+| 8 | US008 | Landing Page Responsive | Como usuario que accede desde diferentes dispositivos, quiero que la página se adapte correctamente, para tener una buena experiencia sin importar el dispositivo | 3 |
+| 9 | US015 | Visualización de comidas diarias en vista tabla | Como usuario, quiero ver una tabla con las comidas programadas por fecha y tipo, para saber qué debo comer cada día de forma clara y organizada. | 5 |
+| 10 | US016 | Visualización resumida de rutinas por fecha | Como usuario, ver un resumen con los rangos de fechas en los que tengo rutinas activas, para tener una vista clara de mi calendario de entrenamiento. | 3 |
+| 11 | US019 | Creación de una nueva rutina | Como entrenador con membresía activa, quiero crear una nueva rutina con título, descripción y duración recomendada, para ofrecer un plan de entrenamiento estructurado a los usuarios. | 5 |
+| 12 | US023 | Visualización de rutina y sus componentes	 | Como usuario, quiero visualizar una rutina con sus ejercicios y comidas asociadas, para entender completamente el plan que debo seguir. | 5 |
+| 13 | US024 | Visualizar comentarios de una rutina publicada | Como usuario, quiero poder visualizar los comentarios de una rutina publicada, para conocer las opiniones y experiencias de otros usuarios. | 3 |
+| 14 | US030 | Comprar membresía de creador de contenido | Como usuario, quiero poder comprar una membresía para convertirme en creador de contenido, para poder vender mis rutinas. | 5 |
+| 15 | US033 | Buscar cursos disponibles en el marketplace | Como usuario, quiero poder buscar cursos disponibles en el marketplace, para encontrar fácilmente los que me interesan. | 5 |
+| 16 | US029 | Editar información de perfil | Como usuario, quiero poder editar mi información de perfil, para mantener mis datos personales actualizados. | 3 |
+| 17 | US031 | Agregar y eliminar amigos | Como usuario, quiero poder agregar y eliminar amigos desde mi perfil, para conectar y compartir con otros usuarios. | 5 |
+| 18 | US034 | Ver detalles de un curso | Como usuario, quiero poder ver la información detallada de un curso, para decidir si quiero comprarlo. | 5 |
+| 19 | US017 | Asignación de nueva rutina al cronograma | Como usuario, asignar una nueva rutina desde una fecha específica, para comenzar un nuevo ciclo de entrenamiento planificado. | 8 |
+| 20 | US018 | Alternancia entre vistas de cronograma | Como usuario, alternar entre la vista de tabla diaria y la vista resumida de rutinas, para consultar mi agenda según lo que necesite ver. | 3 |
+| 21 | US020 | Agregar ejercicios a una rutina | Como entrenador con membresía activa, quiero poder agregar ejercicios a una rutina, para definir claramente qué actividades debe realizar el usuario. | 5 |
+| 22 | US021 | Agregar comidas a una rutina | Como entrenador con membresía activa,, quiero  poder asociar comidas a una rutina con su tipo (desayuno, almuerzo, cena), para entregar un plan nutricional completo al usuario | 5 |
+| 23 | US025 | Agregar un comentario a una rutina publicada | Como usuario, quiero poder comentar una rutina publicada, para compartir mi experiencia o dar retroalimentación a otros usuarios. | 3 |
+| 24 | US026 | Editar un comentario propio | Como usuario, quiero poder editar un comentario que yo hice sobre una rutina, para corregir o actualizar mi opinión. | 3 |
+| 25 | US027 | Eliminar un comentario propio | Como usuario, quiero poder eliminar un comentario que realicé, para retirar mi opinión si ya no deseo que sea visible. | 2 |
+| 26 | US028 | Ver resumen de calificaciones de una rutina | Como usuario, quiero ver un resumen de calificaciones en una rutina publicada, para tener una idea rápida de su valoración general. | 3 |
+| 27 | US032 | Ver perfil de otros usuarios | Como usuario, quiero poder ver el perfil de otros usuarios, para conocer más sobre ellos y su actividad. | 3 |
+| 28 | US035 | Comprar un curso | CComo usuario, quiero poder comprar un curso disponible, para acceder a su contenido exclusivo. | 5 |
+| 29 | US036 | Ocultar cursos propios del marketplace | Como creador de contenido, quiero que mis propios cursos no aparezcan en el listado del marketplace, para no comprarlos por error. | 3 |
+| 30 | US009 | Registro básico | Como nuevo usuario, quiero registrarme con email y contraseña, para acceder a la plataforma | 5 |
+| 31 | US010 | Registro completo | Como usuario, quiero completar mi perfil inicial, para obtener recomendaciones personalizadas | 8 |
+| 32 | US011 | 	Login social | Como usuario, quiero acceder con redes sociales, para agilizar mi registro | 5 |
+| 33 | US012	 | Verificación email | Como usuario, quiero confirmar mi cuenta, para garantizar seguridad | 3 |
+| 34 | US013 | Perfil de asesor | Como entrenador, quiero registrarme como profesional, para ofrecer mis servicios | 5 |
+| 35 | US014 | Actualización objetivos | Como usuario, quiero modificar mis metas, para ajustar mi plan | 3 |
+| 36 | TS001 | Modelo de rutina con integridad de fechas | Como desarrollador, quiero definir el modelo de rutina con una validación de fechas, para evitar superposiciones entre rutinas. | 8 |
+| 37 | TS002 | API para consulta estructurada del cronograma | Como desarrollador, quiero una API que devuelva las rutinas, comidas y ejercicios organizados por fecha, para alimentar la tabla de visualización. | 13 |
+| 38 | TS003 | Estructura relacional entre Rutina, Ejercicio y Comida | Como desarrollador, quiero definir relaciones entre rutina, ejercicios y comidas, para garantizar que cada rutina pueda tener múltiples componentes. | 8 |
+| 39 | TS004 | Middleware de acceso restringido a entrenadores | Como desarrollador, quiero implementar un middleware que verifique membresía de entrenador, para restringir el acceso a la gestión de rutinas. | 3 |
+| 40 | TS005 | Modelo de comentarios con rating vinculado a rutina | CComo desarrollador, quiero diseñar el modelo de comentarios vinculado a rutinas y con rating, para almacenar la retroalimentación de usuarios. | 5 |
+| 41 | TS006 | Endpoint de resumen de ratings por rutina | CComo desarrollador, quiero un endpoint que devuelva el promedio de calificación de una rutina, para mostrar el resumen a los usuarios. | 5 |
+| 42 | TS007 | Sistema de roles y membresía en usuarios | Como desarrollador, quiero implementar un sistema de roles y membresía, para diferenciar entre usuarios normales y creadores de contenido. | 8 |
+| 43 | TS008 | Relaciones entre usuarios para funcionalidad de amistad	 | Como desarrollador, quiero definir una relación many-to-many entre usuarios, para permitir la funcionalidad de agregar y eliminar amigos.	 | 5 |
+| 44 | TS009 | Filtrado de cursos por palabra clave y exclusión de cursos propios | Como desarrollador, quiero implementar un sistema de búsqueda que excluya los cursos creados por el usuario autenticado, para evitar que compre los suyos. | 8 |
+| 45 | TS010 | Lógica de compra y asignación de cursos | Como desarrollador, quiero implementar la lógica de compra de cursos y su asociación al usuario, para que solo acceda a los cursos adquiridos. | 13 |
 
 ## Capítulo IV: Product Design
 
@@ -1680,88 +1731,101 @@ los datos de manera eficiente y segura. Esto nos permitirá organizar los datos 
 manipulación en respuesta a las solicitudes de los usuarios.
 
 #### 4.8.1. Database Diagram
+Nuestro diagrama de base de datos se dividio en 5 Bounded Context para el correcto inicio de desarrollo de nuestra aplicación.
 
 <p align="center">
-  <img src="./assets/DiagramaDBWeb.png" alt="DiagramaDBWeb" />
+  <img src="./assets/DBAppWeb.png" alt="DiagramaDBWeb" />
 </p>
 
+Link del diagrama de base de datos: https://lucid.app/lucidchart/13b4b27e-5e22-49cc-b482-6651f4c40563/edit?viewport_loc=-4192%2C-668%2C6868%2C3260%2C0_0&invitationId=inv_8cbe48d9-5b5d-4991-96b7-369242ba722b
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
-### 5.1. Software Configuration Management
 
 En este apartado se establecen los lineamientos y procedimientos adoptados durante el desarrollo y publicación del sitio web de FitWise, con el propósito de asegurar la coherencia y estabilidad del software desde sus primeras etapas hasta su implementación y posterior mantenimiento.
+
+---
 
 ### 5.1.1. Software Development Environment Configuration
 
 #### Project Management
 
-Para una gestión eficiente del proyecto, se hizo necesaria la implementación de un conjunto de herramientas destinadas a la asignación de tareas, la facilitación de reuniones y la colaboración entre los integrantes. Asimismo, se empleó un repositorio centralizado para consolidar los avances de manera coordinada. A continuación, se presentan las plataformas seleccionadas junto con su respectivo propósito dentro del marco del proyecto.
-- **Centro de organización de trabajo:** Github  
+Para una gestión eficiente del proyecto, se implementó un conjunto de herramientas destinadas a la asignación de tareas, la coordinación de reuniones y la colaboración continua entre los integrantes. Además, se utilizó un repositorio centralizado con control de versiones para consolidar los avances de manera ordenada. A continuación, se presentan las plataformas seleccionadas y su propósito dentro del proyecto:
+
+- **Centro de organización de trabajo:** GitHub  
 - **Planificación de tareas:** Trello  
 - **Reuniones de equipo:** Google Meet  
 - **Coordinación grupal:** WhatsApp  
 
+---
+
 #### Requirement Management
 
-Durante el desarrollo del proyecto se recurrió a diversas herramientas que facilitaron la definición, análisis y representación visual de los requerimientos técnicos y funcionales. Estas plataformas promovieron una planificación estructurada y una mayor claridad en el diseño conceptual del sistema:
+Durante el desarrollo del proyecto se emplearon herramientas que facilitaron la definición, análisis y representación visual de los requerimientos técnicos y funcionales. Estas plataformas promovieron una planificación estructurada y una mayor claridad conceptual del sistema:
 
-| Herramienta   | Descripción                                                                                                     | Enlace                                      |
-|---------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| **Trello**        | Herramienta de organización de proyectos basada en tableros y tarjetas, empleada para distribuir tareas entre los miembros del equipo y hacer seguimiento al progreso de cada fase del desarrollo. | [trello.com](https://trello.com/)           |
-| **Uxpressia**     | Aplicación digital utilizada para el diseño de mapas estratégicos, como *Impact Mapping*, lo cual permitió vincular los objetivos del negocio con las funcionalidades del producto de forma clara y visual. | [uxpressia.com](https://uxpressia.com/)     |
-| **Structurizr**   | Plataforma de modelado arquitectónico que facilita la construcción de diagramas C4, permitiendo representar la estructura lógica del sistema y su interacción entre componentes de manera estandarizada. | [structurizr.com](https://www.structurizr.com/) |
-| **Lucidchart**    | Entorno colaborativo de diagramación empleado para desarrollar modelos técnicos como diagramas de clases y estructuras de bases de datos, fundamentales en la definición de la arquitectura del sistema. | [lucidchart.com](https://www.lucidchart.com/) |
+| Herramienta    | Descripción                                                                                                                                      | Enlace                                            |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| **Trello**     | Herramienta basada en tableros para distribuir tareas, priorizar actividades y hacer seguimiento al avance de cada fase del desarrollo.         | [trello.com](https://trello.com/)                |
+| **Uxpressia**  | Aplicación digital utilizada para crear *Impact Maps*, vinculando objetivos del negocio con funcionalidades del producto.                        | [uxpressia.com](https://uxpressia.com/)          |
+| **Structurizr**| Plataforma para modelar la arquitectura del sistema mediante diagramas C4, representando componentes y sus relaciones.                          | [structurizr.com](https://www.structurizr.com/)  |
+| **Lucidchart** | Entorno colaborativo de diagramación empleado para representar modelos técnicos como diagramas de clases y estructuras de base de datos.        | [lucidchart.com](https://www.lucidchart.com/)    |
 
 ---
 
 #### Product UX/UI Design
 
-El diseño de la experiencia de usuario y de la interfaz visual se abordó mediante herramientas especializadas que posibilitaron la creación de prototipos gráficos y esquemas de navegación. Esto permitió validar la estructura de la aplicación antes de su implementación:
+El diseño de experiencia de usuario e interfaz gráfica se abordó mediante herramientas que permitieron la creación de prototipos visuales y esquemas de navegación. Esto facilitó la validación anticipada de la estructura antes del desarrollo:
 
-| Herramienta | Descripción                                                                                          | Enlace                              |
-|-------------|------------------------------------------------------------------------------------------------------|-------------------------------------|
-| **Figma**   | Plataforma de diseño colaborativo en línea que permitió a los miembros del equipo crear y editar en tiempo real wireframes y mockups, asegurando la coherencia visual y funcional de la landing page. | [figma.com](https://www.figma.com/) |
+| Herramienta | Descripción                                                                                                                                                | Enlace                                 |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| **Figma**   | Plataforma de diseño colaborativo utilizada para crear wireframes y mockups interactivos en tiempo real, asegurando coherencia visual y funcional.        | [figma.com](https://www.figma.com/)    |
 
 ---
 
 #### Software Development
 
-Para el desarrollo de la página web, se emplearon lenguajes de programación y etiquetado esenciales para crear la estructura, el diseño y las funcionalidades del sistema. A continuación, se describen las herramientas utilizadas:
+Para el desarrollo del sistema web, se emplearon tecnologías estándares del desarrollo frontend. Además, se implementó el flujo de trabajo GitFlow para una gestión ordenada del código, asegurando colaboración eficiente, control de versiones y despliegue progresivo de funcionalidades.
 
-| Herramienta    | Descripción                                                                                              | Enlace                                                       |
-|----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| **HTML**       | Lenguaje de marcado fundamental para estructurar el contenido y la disposición de los elementos en la web. | [HTML](https://www.w3schools.com/html/default.asp)           |
-| **CSS**        | Lenguaje de diseño que permite aplicar estilos visuales a los elementos estructurados en HTML, mejorando su presentación. | [CSS](https://www.w3schools.com/css/default.asp)             |
-| **JavaScript** | Lenguaje de programación orientado a objetos utilizado para agregar interactividad y funcionalidades dinámicas a la página web. | [JavaScript](https://www.w3schools.com/js/default.asp)       |
+| Herramienta       | Descripción                                                                                                                                      | Enlace                                                       |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **HTML**          | Lenguaje de marcado utilizado para estructurar el contenido de la página web.                                                                  | [HTML](https://www.w3schools.com/html/default.asp)           |
+| **CSS**           | Lenguaje de estilos utilizado para definir la presentación visual del contenido HTML.                                                           | [CSS](https://www.w3schools.com/css/default.asp)             |
+| **JavaScript**    | Lenguaje de programación utilizado para agregar interactividad y comportamiento dinámico a la página.                                            | [JavaScript](https://www.w3schools.com/js/default.asp)       |
+| **Git**           | Sistema de control de versiones distribuido que permitió la gestión eficiente del código fuente del proyecto.                                    | [git-scm.com](https://git-scm.com/)                          |
+| **GitHub**        | Plataforma de alojamiento de repositorios utilizada para centralizar el código y facilitar la colaboración entre desarrolladores.                | [GitHub](https://github.com/)                                |
+| **GitFlow**       | Estrategia de ramificación aplicada para organizar el flujo de trabajo del desarrollo. Se emplearon ramas principales (`main`, `develop`) y secundarias (`feature`, `release`, `hotfix`) para garantizar un proceso estructurado y seguro. | [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/) |
 
 ---
 
 #### Software Documentation
 
-La gestión y documentación del proyecto se llevó a cabo utilizando herramientas que facilitaron la organización y el acceso a la información técnica, asegurando la transparencia y la trazabilidad del desarrollo:
+La documentación del proyecto se organizó en un repositorio accesible al equipo, escrita en un formato ligero y legible. Esto facilitó el acceso y la actualización constante de la información técnica relevante:
 
-| Herramienta    | Descripción                                                                                              | Enlace                                                       |
-|----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| **GitHub**     | Plataforma de desarrollo colaborativo que también se utilizó para gestionar y alojar la documentación del proyecto. | [GitHub](https://github.com/SmartFinance-OpenSource/Report)  |
-| **Markdown**   | Formato de texto ligero utilizado para escribir y estructurar la documentación técnica del proyecto de forma clara y legible. | [markdown.es](https://markdown.es/)                          |
+| Herramienta    | Descripción                                                                                                                                     | Enlace                                                                 |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **GitHub**     | Utilizado también para alojar la documentación técnica, facilitando su acceso, actualización y control de cambios.                            | [GitHub Docs](https://github.com/SmartFinance-OpenSource/Report)      |
+| **Markdown**   | Lenguaje de marcado ligero empleado para estructurar la documentación de manera clara y accesible.                                             | [markdown.es](https://markdown.es/)                                   |
 
 ---
 
 #### Software Deployment
 
-Para el despliegue de la landing page, se optó por una plataforma de hosting que permite la publicación directa desde un repositorio de GitHub, garantizando una gestión eficiente del ciclo de vida de la aplicación:
+Para el despliegue de la landing page, se utilizó una solución de hosting integrada con GitHub que permite publicar el sitio directamente desde el repositorio, asegurando una integración continua del proceso de desarrollo con su puesta en producción:
 
-| Herramienta     | Descripción                                                                                              | Enlace                                                       |
-|-----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| **GitHub Pages** | Servicio de GitHub que permite desplegar la aplicación directamente desde el repositorio, facilitando la visualización pública de la página. | [GitHub Pages](https://pages.github.com/)                   |
+| Herramienta      | Descripción                                                                                                                                         | Enlace                                          |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| **GitHub Pages** | Servicio gratuito de GitHub para la publicación de sitios estáticos directamente desde un repositorio, ideal para el despliegue de la landing page. | [GitHub Pages](https://pages.github.com/)      |
 
 ---
 
 
 
 ### 5.1.2. Source Code Management
+
+<p align="center">
+  <img src="./assets/SourceCodeManagement.png" alt="SourceCodeManagement" />
+</p>
 
 #### Producto y Repositorio
 
@@ -1970,7 +2034,7 @@ En la sección de **GitHub Pages**, elegimos la rama principal (`main`) en el me
 En Scrum, un Sprint es un lapso corto y definido durante el cual el equipo trabaja de forma concentrada para completar las tareas requeridas y alcanzar el objetivo del producto, conocido como "Product Goal" (Scrum Alliance, 2024).
 ##### 5.2.1.1. Sprint Planning 1
 
-Un sprint es un periodo corto y estructurado en el que se llevan a cabo tareas específicas dentro de un proyecto, siguiendo metodologías ágiles como Scrum. El Sprint #1, iniciado el 14 de agosto de 2024, tiene como meta crear una landing page llamativa para EcoMovil, diseñada para atraer a los usuarios y destacar las principales ventajas del producto.
+Un sprint es un periodo corto y estructurado en el que se llevan a cabo tareas específicas dentro de un proyecto, siguiendo metodologías ágiles como Scrum. El Sprint #1, iniciado el 14 de agosto de 2024, tiene como meta crear una landing page llamativa para FitWise, diseñada para atraer a los usuarios y destacar las principales ventajas del producto.
 
 
 
@@ -2325,9 +2389,1054 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 
 [![image.png](https://i.postimg.cc/dVkfdFgt/image.png)](https://postimg.cc/Hrm3Dqpf)
 
+## 5.2.2. Sprint 2
+
+En este sprint, el equipo se centró en el desarrollo del frontend de la aplicación, implementando funcionalidades clave para la gestión de rutinas, ventas y reseñas de los usuarios.
+
+### 5.2.2.1. Sprint Planning 2
+
+El Sprint #2, iniciado el 28 de agosto de 2024, tiene como objetivo desarrollar las siguientes funcionalidades en el frontend:
+
+- Mostrar la gestión de rutinas.
+- Mostrar las ventas de rutinas.
+- Mostrar las reseñas de los usuarios.
+- Editar reseñas.
+- Eliminar reseñas.
+- Agregar nuevas reseñas.
+- Permitir cambiar el idioma en las reseñas.
+
+<table>
+  <tr> 
+    <th> Sprint # </th>
+    <th> Sprint 2 </th>
+  </tr>
+  <tr> 
+    <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 10/05/2025 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 17:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Modalidad remota a través de Discord </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Acuña Tomas, Diego Rolin </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td> 
+        <br> Acuña Tomas, Diego Rolin
+        <br> Guzmán Chávez, Ramiro Alexander
+        <br> Gómez Hurtado, Miguel Angel
+        <br> Briceño De La Cruz, Farid Sebastian
+        <br> Muñoz Vilcapoma, Mauricio Rigoberto
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+    <td> Se completó exitosamente la landing page con todas las secciones planificadas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+    <td> Se identificaron mejoras en la comunicación y coordinación entre los miembros del equipo. </td>
+  </tr>
+  <tr> 
+    <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Goal</td>
+    <td> Desarrollar las funcionalidades del frontend para la gestión de rutinas, ventas y reseñas, asegurando una experiencia de usuario fluida y eficiente. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+    <td> 34 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 34 </td>
+  </tr>
+</table>
+
+### 5.2.2.2. Aspect Leaders and Collaborators
+
+| Miembro del equipo (Apellido, Nombre)      | Nombre de usuario en GitHub | Gestión de Rutinas | Ventas de Rutinas | Reseñas | Edición de Reseñas | Eliminación de Reseñas | Agregar Nuevas Reseñas | Cambio de Idioma en Reseñas | Documentación del Sprint |
+|--------------------------------------------|------------------------------|---------------------|--------------------|---------|---------------------|-------------------------|-------------------------|-----------------------------|---------------------------|
+| Acuña Tomas, Diego Rolin                   | ComidaRapida007              | L                   | L                  | L       | L                   | L                       | L                       | L                           | C                         |
+| Guzmán Chávez, Ramiro Alexander            | RamiroGuzmanCh               | C                   | C                  | C       | C                   | C                       | C                       | C                           | L                         |
+| Gómez Hurtado, Miguel Angel                | Miguel26112001               | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+| Briceño De La Cruz, Farid Sebastian        | InjustShin                   | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+| Muñoz Vilcapoma, Mauricio Rigoberto        | MauricioMVilcapoma           | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+
+### 5.2.2.3. Sprint Backlog 2
+
+En el segundo sprint backlog, el equipo centró su trabajo en mostrar las rutinas y ventas disponibles, así como gestionar reseñas de usuarios. Se continuó utilizando Trello como herramienta principal de organización.
+
+![Trello](assets/Sprint2.png)
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th colspan="4"> Sprint # </th>
+    <th colspan="7"> Sprint 2 </th>
+  </tr>
+  <tr>
+    <th colspan="4"> User Story </th>
+    <th colspan="7"> Work-Item / Task </th>
+  </tr>
+  <tr>
+    <th> Id </th>
+    <th colspan="3"> Title </th>
+    <th> Id </th>
+    <th> Title </th>
+    <th> Description </th>
+    <th> Estimation (Hours) </th>
+    <th> Assigned To </th>
+    <th> Status </th>
+  </tr>
+  <tr>
+    <th> US09 </th>
+    <th colspan="3"> Mostrar rutina management </th>
+    <th> UT16 </th>
+    <th> Visualización de rutinas disponibles </th>
+    <th> Implementar la interfaz que permita mostrar las rutinas activas. </th>
+    <th> 3 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US10 </th>
+    <th colspan="3"> Mostrar routine sales </th>
+    <th> UT17 </th>
+    <th> Visualización de ventas realizadas </th>
+    <th> Mostrar al usuario las ventas realizadas de rutinas. </th>
+    <th> 3 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US11 </th>
+    <th colspan="3"> Gestión de reviews </th>
+    <th> UT18 </th>
+    <th> Mostrar reseñas de usuarios </th>
+    <th> Crear componente para visualizar las reseñas dejadas por otros usuarios. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US11 </th>
+    <th colspan="3"> Gestión de reviews </th>
+    <th> UT19 </th>
+    <th> Editar reseñas </th>
+    <th> Permitir al usuario editar su propia reseña. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US11 </th>
+    <th colspan="3"> Gestión de reviews </th>
+    <th> UT20 </th>
+    <th> Eliminar reseñas </th>
+    <th> Permitir al usuario eliminar reseñas existentes. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US11 </th>
+    <th colspan="3"> Gestión de reviews </th>
+    <th> UT21 </th>
+    <th> Agregar nueva reseña </th>
+    <th> Permitir a los usuarios añadir nuevas reseñas al sistema. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US12 </th>
+    <th colspan="3"> Cambio de idioma en reseñas </th>
+    <th> UT22 </th>
+    <th> Implementación de selector de idioma </th>
+    <th> Incorporar una opción para traducir o visualizar reseñas en múltiples idiomas. </th>
+    <th> 4 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+</table>
+
+##### 5.2.2.4. Development Evidence for Sprint Review
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+En esta entrega, nuestro equipo ha desplegado con éxito del Front End.
+
+######  Home
+
+[![image.png](https://i.postimg.cc/YqSQW4zd/image.png)](https://postimg.cc/5jZHc2Gz)
+
+######  Publishing
+
+Primera vista de publishing donde estan los planes
+[![image.png](https://i.postimg.cc/TYS55twP/image.png)](https://postimg.cc/kBQgkFWr)
+
+Segunda pagina donde se pueden visualizar con más detalle los plans
+[![image.png](https://i.postimg.cc/tgG127FQ/image.png)](https://postimg.cc/BjNQvShM)
+
+Segunda vista d ela seunda pagina con las dietas del plan
+[![image.png](https://i.postimg.cc/5t5XG1mH/image.png)](https://postimg.cc/94MXR6KV)
+
+###### Profile
+
+Primera vista de profile
+
+<img src="./assets/profile1.jpg" alt="profile1"/>
+<img src="./assets/profile2.jpg" alt="profile2"/>
+
+Segunda vista de profile
+
+<img src="./assets/profile3.jpg" alt="profile3"/>
+<img src="./assets/profile4.jpg" alt="profile4"/>
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint se avanzó con la documentación completa de los Web Services correspondientes a los siguientes contextos:
+- CreatorHealthPlans
+- HealthPlan
+- Review
+- ReviewComment
+- ReviewReport
+
+A continuación, se presenta una tabla con los endpoints documentados, incluyendo acciones soportadas (verbos HTTP), sintaxis y parámetros:
+
+| Recurso             | Acción                         | Verbo HTTP | Endpoint                                          | Parámetros                          | Ejemplo de Response |
+|---------------------|--------------------------------|------------|---------------------------------------------------|-------------------------------------|---------------------|
+| CreatorHealthPlans   | Obtener por creatorId          | GET        | /api/v1/creator/{creatorId}/healthplans           | creatorId: string                   | ✅                  |
+| HealthPlan           | Obtener todos                  | GET        | /api/v1/health-plan                               | —                                   | ✅                  |
+| HealthPlan           | Crear                          | POST       | /api/v1/health-plan                               | body: objeto healthPlan             | ✅                  |
+| HealthPlan           | Obtener por ID                 | GET        | /api/v1/health-plan/{healthPlanId}                | healthPlanId: string                | ✅                  |
+| HealthPlan           | Actualizar                     | PUT        | /api/v1/health-plan/{healthPlanId}                | healthPlanId: string, body: plan    | ✅                  |
+| HealthPlan           | Eliminar                       | DELETE     | /api/v1/health-plan/{healthPlanId}                | healthPlanId: string                | ✅                  |
+| Review               | Obtener todos                  | GET        | /api/v1/review                                    | —                                   | ✅                  |
+| Review               | Crear                          | POST       | /api/v1/review                                    | body: objeto review                 | ✅                  |
+| Review               | Obtener por ID                 | GET        | /api/v1/review/{id}                               | id: string                          | ✅                  |
+| Review               | Actualizar                     | PUT        | /api/v1/review/{id}                               | id: string, body: review            | ✅                  |
+| ReviewComment        | Obtener todos                  | GET        | /api/v1/review-comment                            | —                                   | ✅                  |
+| ReviewComment        | Crear                          | POST       | /api/v1/review-comment                            | body: objeto comment                | ✅                  |
+| ReviewComment        | Obtener por reviewId           | GET        | /api/v1/review-comment/by-review/{reviewId}       | reviewId: string                    | ✅                  |
+| ReviewComment        | Actualizar                     | PUT        | /api/v1/review-comment/{id}                       | id: string, body: comment           | ✅                  |
+| ReviewComment        | Eliminar                       | DELETE     | /api/v1/review-comment/{id}                       | id: string                          | ✅                  |
+| ReviewReport         | Obtener todos                  | GET        | /api/v1/review-report                             | —                                   | ✅                  |
+| ReviewReport         | Crear                          | POST       | /api/v1/review-report                             | body: objeto report                 | ✅                  |
+| ReviewReport         | Obtener por reviewId           | GET        | /api/v1/review-report/by-review/{reviewId}        | reviewId: string                    | ✅                  |
+| ReviewReport         | Actualizar estado              | PATCH      | /api/v1/review-report/{id}/status                 | id: string, body: status            | ✅                  |
+
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+En este caso hemos realizado el `deploy` mediante el servicio de **Hosting** de Firebase.
+
+Aquí tienes los pasos para hacer deploy de tu proyecto Vue a Firebase en formato `.md`:
+
+---
+
+````markdown
+# 🚀 Deploy de Proyecto Vue.js a Firebase Hosting
+
+## ✅ Requisitos Previos
+
+1. **Instalar Node.js y npm**  
+   Asegúrate de tener Node.js y npm instalados en tu máquina. Puedes verificarlo con:
+
+   ```bash
+   node -v
+   npm -v
+````
+
+2. **Instalar Firebase CLI**
+
+   ```bash
+   npm install -g firebase-tools
+   ```
+
+3. **Tener una cuenta de Firebase y crear un proyecto**
+
+   * Ve a [https://console.firebase.google.com](https://console.firebase.google.com)
+   * Crea un proyecto nuevo o usa uno existente.
+
+---
+
+## 🛠️ Build del Proyecto Vue
+
+Si estás usando Vue CLI:
+
+```bash
+npm run build
+```
+
+Si estás usando Vite:
+
+```bash
+npm run build
+```
+
+Esto generará una carpeta `dist/` con los archivos listos para producción.
+
+---
+
+## 🔧 Inicializar Firebase Hosting
+
+Ejecuta lo siguiente en la raíz del proyecto:
+
+```bash
+firebase login
+firebase init hosting
+```
+
+Durante el proceso:
+
+* Selecciona tu proyecto de Firebase
+* Establece `dist` como directorio público
+* Responde `Yes` a la opción de configurar como SPA (Single Page App)
+* Responde `No` cuando pregunte si quieres sobrescribir `index.html`
+
+---
+
+## 🚀 Hacer Deploy
+
+Una vez configurado correctamente, ejecuta:
+
+```bash
+firebase deploy
+```
+
+Al finalizar, recibirás una URL pública como esta:
+
+```
+Hosting URL: https://your-project-id.web.app
+```
+
+---
+## Evidencia del deploy
+
+Link del Deploy del FrontEnd: https://fitwise-9402e.web.app/
+
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Para este sprint, las tareas de diseño, implementación y documentación del front end, se distribuyó entre los integrantes del equipo. La implementación y despliegue del front end fue llevado a cabo principalmente por Miguel Gomez.
+
+[![image.png](https://i.postimg.cc/zDQGxV1t/image.png)](https://postimg.cc/w3hzvxML)
+
+#### 5.2.3. Sprint 3
+[descripcion breve de qué se hizo en este sprint]
+
+##### 5.2.3.1. Sprint Planning 3
+El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes funcionalidades en el frontend:
+
+- Se agregó contenido a la sección **Home**
+- Se agregó contenido a la sección **About**
+- Mejorar y agregar CRUD a la sección **Reviews**
+- Mejorar y agregar CRUD a la sección **Profile**
+- Mejorar y agregar CRUD a la sección **Routine Management**
+- Mejorar y agregar CRUD a la sección **Routine Sales**
+- Mejorar y agregar CRUD a la sección **Schedule**
+
+<table>
+  <tr> 
+    <th> Sprint # </th>
+    <th> Sprint 3 </th>
+  </tr>
+  <tr> 
+    <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 02/06/2025 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 18:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Modalidad remota a través de Discord </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Guzmán Chávez, Ramiro Alexander </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td> 
+        <br> Acuña Tomas, Diego Rolin
+        <br> Guzmán Chávez, Ramiro Alexander
+        <br> Gómez Hurtado, Miguel Angel
+        <br> Briceño De La Cruz, Farid Sebastian
+        <br> Muñoz Vilcapoma, Mauricio Rigoberto
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+    <td> Se completó exitosamente la landing page con todas las secciones planificadas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+    <td> Se identificaron mejoras en la comunicación y coordinación entre los miembros del equipo. </td>
+  </tr>
+   <tr>
+    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+    <td> Se completó parcialmente el front-end incluyendo todas las secciones planificadas. </td>
+  </tr>
+   <tr>
+    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+    <td> Se identificaron mejor agilidad para presentar entregables diarios entre los miembros del equipo. </td>
+  </tr>
+  <tr> 
+    <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Goal</td>
+    <td> Mejorar y completar las funcionalidades implementadas en el frontend. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+    <td> 31 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 31 </td>
+  </tr>
+</table>
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Miembro del equipo (Apellido, Nombre)      | Nombre de usuario en GitHub  | Gestión de Rutinas  | Ventas de Rutinas  | Reseñas | Edición de Reseñas | Eliminación de Reseñas | Agregar Nuevas Reseñas | Cambio de Idioma en Reseñas | Documentación del Sprint |
+|--------------------------------------------|------------------------------|---------------------|--------------------|---------|---------------------|-------------------------|-------------------------|-----------------------------|---------------------------|
+| Acuña Tomas, Diego Rolin                   | ComidaRapida007              | L                   | L                  | L       | L                   | L                       | L                       | L                           | C                         |
+| Guzmán Chávez, Ramiro Alexander            | RamiroGuzmanCh               | C                   | C                  | C       | C                   | C                       | C                       | C                           | L                         |
+| Gómez Hurtado, Miguel Angel                | Miguel26112001               | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+| Briceño De La Cruz, Farid Sebastian        | InjustShin                   | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+| Muñoz Vilcapoma, Mauricio Rigoberto        | MauricioMVilcapoma           | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
+
+##### 5.2.3.3. Sprint Backlog 3
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th colspan="4"> Sprint # </th>
+    <th colspan="7"> Sprint 3 </th>
+  </tr>
+  <tr>
+    <th colspan="4"> User Story </th>
+    <th colspan="7"> Work-Item / Task </th>
+  </tr>
+  <tr>
+    <th> Id </th>
+    <th colspan="3"> Title </th>
+    <th> Id </th>
+    <th> Title </th>
+    <th> Description </th>
+    <th> Estimation (Hours) </th>
+    <th> Assigned To </th>
+    <th> Status </th>
+  </tr>
+  <tr>
+    <th> US015 </th>
+    <th colspan="3"> Visualización de comidas diarias en vista tabla </th>
+    <th> UT23 </th>
+    <th> Visualización de comidas en la rutina </th>
+    <th> Implementar la interfaz que permita mostrar las comidas pertenecientes a la rutina. </th>
+    <th> 3 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US19 </th>
+    <th colspan="3"> Creación de una nueva rutina </th>
+    <th> UT24 </th>
+    <th> Crear rutina </th>
+    <th> Implementar una interfaz que permite agregar una nueva rutina. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US23 </th>
+    <th colspan="3"> Visualización de rutina y sus componentes </th>
+    <th> UT25 </th>
+    <th> Detalles de rutina </th>
+    <th> Permite ver los detalles de la rutina al usuario. </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US29 </th>
+    <th colspan="3"> Editar información de perfil </th>
+    <th> UT26 </th>
+    <th> Editar perfil </th>
+    <th> Permitir al usuario modificar los datos de su perfil. </th>
+    <th> 3 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US17 </th>
+    <th colspan="3"> Asignación de nueva rutina al cronograma </th>
+    <th> UT27 </th>
+    <th> Agregar rutina al cronograma </th>
+    <th> Permitir a los usuarios añadir rutinas a su cronograma. </th>
+    <th> 3 </th>
+    <th> Farid Briceño </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US26 </th>
+    <th colspan="3"> Editar un comentario propio </th>
+    <th> UT28 </th>
+    <th> Editar comentario </th>
+    <th> Incorporar una opción para modificar un comentario previamente publicado. </th>
+    <th> 4 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US27 </th>
+    <th colspan="3"> Eliminar un comentario propio </th>
+    <th> UT29 </th>
+    <th> Eliminar comentario </th>
+    <th> Incorporar una opción para eliminar tu propio comentario. </th>
+    <th> 4 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US32 </th>
+    <th colspan="3"> Ver perfil de otros usuarios </th>
+    <th> UT30 </th>
+    <th> Ver otros perfiles </th>
+    <th> Permite, al usuario, ver los perfiles de otros usuarios de la aplicación. </th>
+    <th> 4 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US14 </th>
+    <th colspan="3"> Actualización objetivos </th>
+    <th> UT31 </th>
+    <th> Actualizar objetivos </th>
+    <th> Implementar una interfaz que permite modificar el objetivo de una rutina. </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> TS003 </th>
+    <th colspan="3"> Estructura relacional entre Rutina, Ejercicio y Comida </th>
+    <th> UT32 </th>
+    <th> Crear endpoints del bounded context publishing (HealthPlans)</th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades HealthPlan, Exercise y Meals </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> InProgress </th>
+  </tr>
+</table>
+
+##### 5.2.3.4. Development Evidence for Sprint Review
+
+En estos commits se puede observar los últimos updates a la rama develop que se hizo en el repositorio del Front End.
+
+| Repository                                                          | Branch  | Commit Id | Commit Message                                                          | Description                                                    | Commited on (Date) |
+|---------------------------------------------------------------------|---------|-----------|-------------------------------------------------------------------------|----------------------------------------------------------------|--------------------|
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   805e0d1 | Tu mensaje de commit                                                    | Cambio de .env.production                                      | 19/06/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   2e566d3 | Fixed api url. Now using .env instead of localhost. Added better styles | Now, Sales uses the endpoint                                   | 19/06/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   90da8a4 | style: Style on review-report modified                                  | minimum changes on the style                                   | 19/06/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   32f3ef5 | Cambiando el user a string                                              | Now the created method receives a userId string                | 19/06/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   7c83563 | feat: Add schedule-management                                           | Correcciones mayores del bounded context organizing (Schedule) | 18/06/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/publishing |   eaac4377bb69dae29ad443e2811227437871b49f | feat: Added Exercise Post Command                                           | Inicio del desarrollo de Exercises. HealthPlans Finalizado. | 20/06/2025         |
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+En esta entrega se corrigieron los bounded context y se agregaron nuevos en el frontend
+
+Home:
+
+<img src="./assets/frontv2-home.jpeg" alt="front home"/>
+
+About:
+
+<img src="./assets/frontv2-about.jpeg" alt="front about"/>
+
+Reviews:
+
+<img src="./assets/frontv2-reviews-1.jpeg" alt="reviews main">
+<img src="./assets/frontv2-reviews-2.jpeg" alt="reviews add">
+
+Profile:
+
+<img src="./assets/frontv2-profile-1.jpeg" alt="profile main up">
+<img src="./assets/frontv2-profile-2.jpeg" alt="profile main down">
+<img src="./assets/frontv2-profile-3.jpeg" alt="add certificate">
+<img src="./assets/frontv2-profile-4.jpeg" alt="followers up">
+<img src="./assets/frontv2-profile-5.jpeg" alt="followers down">
+<img src="./assets/frontv2-profile-6.jpeg" alt="add followers">
+
+Routine Management:
+
+<img src="./assets/frontv2-routine-management-1.jpeg" alt="routine management main">
+<img src="./assets/frontv2-routine-management-2.jpeg" alt="routine management new">
+<img src="./assets/frontv2-routine-management-3.jpeg" alt="routine management edit">
+<img src="./assets/frontv2-routine-management-4.jpeg" alt="see more up">
+<img src="./assets/frontv2-routine-management-5.jpeg" alt="see more down">
+
+Routine Sales:
+
+<img src="./assets/frontv2-routine-sales-1.png" alt="routine sales main">
+<img src="./assets/frontv2-routine-sales-2.png" alt="detalle plan">
+<img src="./assets/frontv2-routine-sales-3.png" alt="reditar plan">
+<img src="./assets/frontv2-routine-sales-4.png" alt="crear plan">
+<img src="./assets/frontv2-routine-sales-5.png" alt="historial plan">
+<img src="./assets/frontv2-routine-sales-6.png" alt="pagos pendiente">
+
+Schedule:
+
+<img src="./assets/frontv2-schedule-1.jpeg" alt="schedule main">
+<img src="./assets/frontv2-schedule-2.jpeg" alt="schedule new or edit">
+
+Además en esta entrega se implementaron nuevos endpoints para la parte de nuestro servicio backend como nuestra primera versión
+
+Video explicación HealthPlan Endpoints: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220294_upc_edu_pe/EeZLPG_4l19LrbD3zvV7g9wBXMQYcoaT8oicIAgaNP-H-Q?e=RF1k2k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+<img src="./assets/Backend1.png" alt="Backend1">
+<img src="./assets/Backend2.png" alt="Backend2">
+<img src="./assets/Backend3.png" alt="Backend3">
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint se avanzó con la documentación completa de los Web Services correspondientes a los siguientes contextos:
+- Users
+- HealthPlans
+- Meals
+- Exercises
+- Instructions
+- Ingredients
+- Certificates
+- Schedules
+- Review-Comments
+- Reviews
+- Review-Reports
+- Followers
+- PurchasedPlans
+- Payments
+- PurchaseHistory
+
+A continuación, se presenta una tabla con los endpoints documentados, incluyendo acciones soportadas (verbos HTTP), sintaxis y parámetros
+
+| Recurso           | Acción                       | Verbo HTTP | Endpoint                                 | Parámetros                | Ejemplo de Response |
+|-------------------|------------------------------|------------|------------------------------------------|---------------------------|---------------------|
+| Users             | Obtener todos                | GET        | /api/users                               | —                         | ✅                  |
+| Users             | Obtener por ID               | GET        | /api/users/{id}                          | id: number                | ✅                  |
+| Users             | Obtener por email            | GET        | /api/users?email={mail}                  | email: string             | ✅                  |
+| Users             | Crear                        | POST       | /api/users                               | body: objeto user         | ✅                  |
+| Users             | Actualizar                   | PUT        | /api/users/{id}                          | id: number, body: user    | ✅                  |
+| Users             | Eliminar                     | DELETE     | /api/users/{id}                          | id: number                | ✅                  |
+| HealthPlans       | Obtener todos                | GET        | /api/healthplans                         | —                         | ✅                  |
+| HealthPlans       | Obtener por ID               | GET        | /api/healthplans/{id}                    | id: number                | ✅                  |
+| HealthPlans       | Crear                        | POST       | /api/healthplans                         | body: objeto plan         | ✅                  |
+| HealthPlans       | Actualizar                   | PUT        | /api/healthplans/{id}                    | id: number, body: plan    | ✅                  |
+| HealthPlans       | Eliminar                     | DELETE     | /api/healthplans/{id}                    | id: number                | ✅                  |
+| Meals             | Obtener todos                | GET        | /api/meals                               | —                         | ✅                  |
+| Meals             | Obtener por ID               | GET        | /api/meals/{id}                          | id: number                | ✅                  |
+| Meals             | Obtener por healthPlanId     | GET        | /api/meals?healthPlanId={id}             | healthPlanId: number      | ✅                  |
+| Meals             | Crear                        | POST       | /api/meals                               | body: objeto meal         | ✅                  |
+| Meals             | Actualizar                   | PUT        | /api/meals/{id}                          | id: number, body: meal    | ✅                  |
+| Meals             | Eliminar                     | DELETE     | /api/meals/{id}                          | id: number                | ✅                  |
+| Exercises         | Obtener todos                | GET        | /api/exercises                           | —                         | ✅                  |
+| Exercises         | Obtener por ID               | GET        | /api/exercises/{id}                      | id: number                | ✅                  |
+| Exercises         | Obtener por healthPlanId     | GET        | /api/exercises?healthPlanId={id}         | healthPlanId: number      | ✅                  |
+| Exercises         | Crear                        | POST       | /api/exercises                           | body: objeto ex           | ✅                  |
+| Exercises         | Actualizar                   | PUT        | /api/exercises/{id}                      | id: number, body: ex      | ✅                  |
+| Exercises         | Eliminar                     | DELETE     | /api/exercises/{id}                      | id: number                | ✅                  |
+| Instructions      | Obtener todos                | GET        | /api/instructions                        | —                         | ✅                  |
+| Instructions      | Obtener por ID               | GET        | /api/instructions/{id}                   | id: number                | ✅                  |
+| Instructions      | Obtener por mealId           | GET        | /api/instructions?mealId={id}            | mealId: number            | ✅                  |
+| Instructions      | Crear                        | POST       | /api/instructions                        | body: objeto inst         | ✅                  |
+| Instructions      | Actualizar                   | PUT        | /api/instructions/{id}                   | id: number, body: inst    | ✅                  |
+| Instructions      | Eliminar                     | DELETE     | /api/instructions/{id}                   | id: number                | ✅                  |
+| Ingredients       | Obtener todos                | GET        | /api/ingredients                         | —                         | ✅                  |
+| Ingredients       | Obtener por ID               | GET        | /api/ingredients/{id}                    | id: number                | ✅                  |
+| Ingredients       | Obtener por mealId           | GET        | /api/ingredients?mealId={id}             | mealId: number            | ✅                  |
+| Ingredients       | Crear                        | POST       | /api/ingredients                         | body: objeto ing          | ✅                  |
+| Ingredients       | Actualizar                   | PUT        | /api/ingredients/{id}                    | id: number, body: ing     | ✅                  |
+| Ingredients       | Eliminar                     | DELETE     | /api/ingredients/{id}                    | id: number                | ✅                  |
+| Certificates      | Obtener todos                | GET        | /api/certificates                        | —                         | ✅                  |
+| Certificates      | Obtener por ID               | GET        | /api/certificates/{id}                   | id: number                | ✅                  |
+| Certificates      | Obtener por userId           | GET        | /api/certificates?userId={id}            | userId: number            | ✅                  |
+| Certificates      | Crear                        | POST       | /api/certificates                        | body: objeto cert         | ✅                  |
+| Certificates      | Actualizar                   | PUT        | /api/certificates/{id}                   | id: number, body: cert    | ✅                  |
+| Certificates      | Eliminar                     | DELETE     | /api/certificates/{id}                   | id: number                | ✅                  |
+| Schedules         | Obtener todos                | GET        | /api/schedules                           | —                         | ✅                  |
+| Schedules         | Obtener por ID               | GET        | /api/schedules/{id}                      | id: number                | ✅                  |
+| Schedules         | Crear                        | POST       | /api/schedules                           | body: objeto sched        | ✅                  |
+| Schedules         | Actualizar                   | PUT        | /api/schedules/{id}                      | id: number, body: sched   | ✅                  |
+| Schedules         | Eliminar                     | DELETE     | /api/schedules/{id}                      | id: number                | ✅                  |
+| Review-Comments   | Obtener todos                | GET        | /api/review-comments                     | —                         | ✅                  |
+| Review-Comments   | Obtener por reviewId         | GET        | /api/review-comments?reviewId={id}       | reviewId: string          | ✅                  |
+| Review-Comments   | Crear                        | POST       | /api/review-comments                     | body: objeto comm         | ✅                  |
+| Review-Comments   | Actualizar                   | PUT        | /api/review-comments/{id}                | id: string, body: comm    | ✅                  |
+| Review-Comments   | Eliminar                     | DELETE     | /api/review-comments/{id}                | id: string                | ✅                  |
+| Reviews           | Obtener todos                | GET        | /api/reviews                             | —                         | ✅                  |
+| Reviews           | Obtener por ID               | GET        | /api/reviews/{id}                        | id: string                | ✅                  |
+| Reviews           | Obtener por healthPlanId     | GET        | /api/reviews?healthPlanId={id}           | healthPlanId: number      | ✅                  |
+| Reviews           | Crear                        | POST       | /api/reviews                             | body: objeto rev          | ✅                  |
+| Reviews           | Actualizar                   | PUT        | /api/reviews/{id}                        | id: string, body: rev     | ✅                  |
+| Reviews           | Eliminar                     | DELETE     | /api/reviews/{id}                        | id: string                | ✅                  |
+| Review-Reports    | Obtener todos                | GET        | /api/review-reports                      | —                         | ✅                  |
+| Review-Reports    | Obtener por reviewId         | GET        | /api/review-reports?reviewId={id}        | reviewId: string          | ✅                  |
+| Review-Reports    | Crear                        | POST       | /api/review-reports                      | body: objeto rep          | ✅                  |
+| Review-Reports    | Actualizar estado            | PATCH      | /api/review-reports/{id}/status          | id: string, status        | ✅                  |
+| Review-Reports    | Eliminar                     | DELETE     | /api/review-reports/{id}                 | id: string                | ✅                  |
+| Followers         | Obtener todos                | GET        | /api/followers                           | —                         | ✅                  |
+| Followers         | Obtener por ID               | GET        | /api/followers/{id}                      | id: number                | ✅                  |
+| Followers         | Obtener por followerUserId   | GET        | /api/followers?followerUserId={id}       | followerUserId: number    | ✅                  |
+| Followers         | Crear                        | POST       | /api/followers                           | body: objeto fol          | ✅                  |
+| Followers         | Actualizar                   | PUT        | /api/followers/{id}                      | id: number, body: fol     | ✅                  |
+| Followers         | Eliminar                     | DELETE     | /api/followers/{id}                      | id: number                | ✅                  |
+| PurchasedPlans    | Obtener todos                | GET        | /api/purchasedPlans                      | —                         | ✅                  |
+| PurchasedPlans    | Obtener por ID               | GET        | /api/purchasedPlans/{id}                 | id: number                | ✅                  |
+| PurchasedPlans    | Crear                        | POST       | /api/purchasedPlans                      | body: objeto plan         | ✅                  |
+| PurchasedPlans    | Actualizar                   | PUT        | /api/purchasedPlans/{id}                 | id: number, body: plan    | ✅                  |
+| PurchasedPlans    | Eliminar                     | DELETE     | /api/purchasedPlans/{id}                 | id: number                | ✅                  |
+| Payments          | Obtener todos                | GET        | /api/payments                            | —                         | ✅                  |
+| Payments          | Crear                        | POST       | /api/payments                            | body: objeto payment      | ✅                  |
+| Payments          | Actualizar                   | PATCH      | /api/payments/{id}                       | id: number, body: data    | ✅                  |
+| Payments          | Eliminar                     | DELETE     | /api/payments/{id}                       | id: number                | ✅                  |
+| PurchaseHistory   | Obtener por userId           | GET        | /api/purchaseHistory/{userId}            | userId: string/number     | ✅                  |
+| PurchaseHistory   | Crear                        | POST       | /api/purchaseHistory                     | body: objeto history      | ✅                  |
+| PurchaseHistory   | Actualizar (agregar pago)    | PATCH      | /api/purchaseHistory/{userId}            | userId, body: payments    | ✅                  |
+
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este caso hemos realizado el `deploy` mediante el servicio de **Hosting** de Firebase.
+
+Aquí tienes los pasos para hacer deploy de tu proyecto Vue a Firebase en formato `.md`:
+
+---
+
+````markdown
+# 🚀 Deploy de Proyecto Vue.js a Firebase Hosting
+
+## ✅ Requisitos Previos
+
+1. **Instalar Node.js y npm**  
+   Asegúrate de tener Node.js y npm instalados en tu máquina. Puedes verificarlo con:
+
+   ```bash
+   node -v
+   npm -v
+````
+
+2. **Instalar Firebase CLI**
+
+   ```bash
+   npm install -g firebase-tools
+   ```
+
+3. **Tener una cuenta de Firebase y crear un proyecto**
+
+   * Ve a [https://console.firebase.google.com](https://console.firebase.google.com)
+   * Crea un proyecto nuevo o usa uno existente.
+
+---
+
+## 🛠️ Build del Proyecto Vue
+
+Si estás usando Vue CLI:
+
+```bash
+npm run build
+```
+
+Si estás usando Vite:
+
+```bash
+npm run build
+```
+
+Esto generará una carpeta `dist/` con los archivos listos para producción.
+
+---
+
+## 🔧 Inicializar Firebase Hosting
+
+Ejecuta lo siguiente en la raíz del proyecto:
+
+```bash
+firebase login
+firebase init hosting
+```
+
+Durante el proceso:
+
+* Selecciona tu proyecto de Firebase
+* Establece `dist` como directorio público
+* Responde `Yes` a la opción de configurar como SPA (Single Page App)
+* Responde `No` cuando pregunte si quieres sobrescribir `index.html`
+
+---
+
+## 🚀 Hacer Deploy
+
+Una vez configurado correctamente, ejecuta:
+
+```bash
+firebase deploy
+```
+
+Al finalizar, recibirás una URL pública como esta:
+
+```
+Hosting URL: https://fitwise-frontend.web.app/home
+```
+
+---
+## Evidencia del deploy
+
+Link del Deploy del FrontEnd: https://fitwise-9402e.web.app/
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Participantes: Ramiro y Miguel, respectivamente.
+
+[![image.png](https://i.postimg.cc/JnKQKpSr/image.png)](https://postimg.cc/wyyJjQ6Z)
+
+## 5.3 Validation Interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+Para realizar las entrevistas de validación, primero se han planteado 15 preguntas para cada segmento de acuerdo a lo que se quiere saber del usuario, para así tener un análisis más enfocado.
+
+### Segmento: Adultos y jóvenes ocupados
+
+#### **Interacción con la landing page:**
+1. **Primera impresión:** ¿Qué fue lo primero que pensaste o sentiste al ingresar a la landing page?
+2. **Mensaje percibido:** ¿Qué crees que ofrece esta app según lo que viste?
+3. **Confianza:** ¿Te generó confianza o interés como para registrarte? ¿Por qué sí o no?
+
+#### **Uso de la aplicación (navegación y funcionalidad):**
+4. **Inicio de uso:** ¿Qué tan fácil te resultó comenzar a usar la app? (registro, onboarding, primeros pasos)
+5. **Navegación:** ¿Tuviste momentos en los que no supiste qué hacer o cómo avanzar dentro de la app? 
+6. **Interfaz:** ¿Cómo calificarías el diseño visual y los botones? ¿Te parecieron cómodos de usar?
+
+#### **Personalización y adaptación a su rutina:**
+7. **Flexibilidad:** ¿Sentiste que la app se adaptaba a tu horario, tiempo libre o tipo de entrenamiento preferido?
+8. **Planes sugeridos:** ¿Qué tan útil te parecieron las rutinas o menús generados para ti? ¿Cambiarías algo?
+9. **Configuración de objetivos:** ¿Te fue fácil configurar tus metas? ¿Las opciones disponibles se ajustaron a lo que buscabas?
+
+#### **Atractivo motivacional y emocional:**
+10. **Motivación:** ¿Los mensajes, recordatorios o elementos visuales (como medallas o barras de progreso) te motivaron a seguir usando la app?
+11. **Lenguaje:** ¿Qué te pareció el lenguaje de la app? ¿Muy técnico, muy informal, adecuado?
+12. **Conexión personal:** ¿Te sentiste identificado con lo que viste o leíste dentro de la app?
+
+#### **Valor percibido y disposición a pagar:**
+13. **Utilidad general:** ¿Crees que esta app realmente podría ayudarte a mejorar tu bienestar físico y mental? ¿Por qué?
+14. **Propuesta freemium:** ¿Te interesaría una versión gratuita con funciones básicas? ¿Y qué te haría considerar pagar por una versión premium?
+15. **Satisfacción:** En una escala del 1 al 10, ¿qué nota le pondrías a la experiencia general? ¿Qué mejorarías?
+
+### Segmento: Entrenadores y profesionales del fitness
+
+#### **Experiencia general con la plataforma:**
+1. **Primera impresión:** ¿Qué fue lo primero que pensaste al ver la landing page o el panel principal de la app como entrenador?
+2. **Claridad del propósito:** ¿Te quedó claro desde el inicio cómo esta app puede ayudarte como profesional del fitness?
+3. **Interfaz y flujo:** ¿Qué tan fácil te resultó navegar entre funciones como crear rutinas o gestionar clientes?
+
+#### **Creación de contenido profesional:**
+4. **Personalización de rutinas:** ¿Qué tan completo te pareció el editor de rutinas? ¿Faltó algo que normalmente usas?
+5. **Asignación de planes:** ¿Pudiste asignar rutinas fácilmente a perfiles de clientes? ¿Te pareció práctico ese proceso?
+6. **Carga operativa:** ¿Esta app podría ahorrarte tiempo frente a tus métodos actuales (Excel, papel, WhatsApp)?
+
+#### **Seguimiento y métricas:**
+7. **Visualización de progreso:** ¿Cómo valoras la manera en la que se presentan los resultados o avances de tus clientes?
+8. **Panel de control:** ¿Te resultó útil tener una vista general del estado de cada cliente? ¿Qué le agregarías?
+9. **Alertas e insights:** ¿Te parecieron relevantes las alertas (por ejemplo: cliente sin actividad, progreso lento, etc.)?
+
+#### **Comunicación y soporte al cliente:**
+10. **Interacción:** ¿Qué te pareció el sistema de mensajes o comentarios entre tú y tus clientes? ¿Es suficiente?
+11. **Simplicidad para el usuario final:** ¿Crees que tus clientes podrían entender y usar la app sin complicaciones?
+12. **Recursos educativos:** ¿Te gustaría tener material de ayuda para ti y tus clientes dentro de la app (videos, tips, etc.)?
+
+#### **Monetización y propuesta de valor:**
+13. **Valor profesional:** ¿Esta plataforma podría ayudarte a escalar tu negocio o brindar un servicio más profesional? ¿Por qué?
+14. **Planes premium:** ¿Estarías dispuesto a pagar por una versión profesional? ¿Qué funcionalidades lo justificarían?
+15. **Expectativas generales:** ¿Qué esperas de una app de este tipo que no has encontrado aún en otras soluciones?
+
+### 5.3.2 Registro de Entrevistas
+
+| **Entrevista 1** |
+|------------------|
+| <strong>Nombre:</strong> Diego Alonso Quispe Flores |
+| <strong>Edad:</strong> 24 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Adultos y jóvenes ocupados |
+| <strong>Resumen:</strong> Diego Alonso Crispe Flores, de 23 años, trabaja como analista de créditos en la Caja de Arequipa y estudia Administración de Empresas en la Universidad UTP en el turno nocturno, lo que le deja poco tiempo libre y afecta negativamente su estilo de vida saludable. Aunque antes realizaba actividad física regularmente y cuidaba su alimentación, hoy su rutina es sedentaria y su dieta irregular debido al cansancio, la falta de tiempo y la desorganización. A pesar de esto, desea retomar hábitos saludables motivado por el bienestar emocional que el ejercicio le proporcionaba. Prefiere entrenamientos de calistenia en casa por su practicidad y estaría interesado en una aplicación que le ayude a organizar su rutina con recordatorios, planes personalizados, recetas sencillas y accesibles, y elementos de gamificación como logros o medallas. Considera útil una app que se adapte a su contexto local, como sugerencias de menús saludables en restaurantes cercanos o en su universidad, y estaría dispuesto a pagar por una versión premium si la gratuita demuestra resultados y el contenido adicional agrega valor real. |
+| <strong>Enlace de video:</strong>  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220294_upc_edu_pe/ESwCtLk4kE1Lnp8YkRGHsNcBoPXnGLWSh5duFhkk6c_lMg?e=WmAhT5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+| <strong>Tiempo:</strong> 7:44 minutos |
+| <strong>Foto del entrevistado:</strong><br><img src="https://i.postimg.cc/Wz821t34/image.png" style="height: 200px;" />
+
+| **Entrevista 2** |
+|------------------|
+| <strong>Nombre:</strong> Jhon Danny Guerrero Vasquez |
+| <strong>Edad:</strong> 21 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Adultos y jóvenes ocupados |
+| <strong>Resumen:</strong> Jhon Danny Guerrero Vasquez, de 21 años, estudia Ingeniería de Software en la UPC y lleva una vida mayormente sedentaria debido a su carga académica. Aunque antes tenía mejores hábitos, ahora le cuesta organizarse para hacer ejercicio y comer sano, pero está motivado a retomar un estilo de vida saludable por sus beneficios físicos y mentales. Prefiere rutinas prácticas como calistenia en casa y le gustaría una app que le ayude a planificar entrenamientos, ofrecer recetas rápidas y utilizar gamificación para motivarlo. Además, revisó la landing page de nuestro proyecto y le pareció muy profesional; también navegó por nuestro front end y le gustó tanto el diseño como las herramientas que ofrece. Consideraría pagar por una versión premium si la gratuita le da buenos resultados. |
+| <strong>Enlace de video:</strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/ERvVFEyEiKBFgvo7m8ob8FUB6eGS51Tf5SsxycGYPmzPMA?e=v7cwHF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| <strong>Tiempo:</strong> 9:31 minutos |
+| <strong>Foto del entrevistado:</strong><br><img src="assets/Ent2Jhon.png" style="height: 200px;" />
+
+| **Entrevista 3** |
+|------------------|
+| <strong>Nombre:</strong> Sebastian Valentino Silva Tirado |
+| <strong>Edad:</strong> 21 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Adultos y jóvenes ocupados |
+| <strong>Resumen:</strong> Sebastian Valentino Silva Tirado, también de 21 años y estudiante de Ingeniería de Software en la UPC, está interesado en mantenerse en forma y valora el apoyo de una aplicación para organizar rutinas y hábitos saludables. Al revisar la landing page de nuestro proyecto, comentó que le encantaron los colores, la animación y el estilo general. Sin embargo, aunque comprende bien las herramientas del front end y reconoce que la interfaz es intuitiva, considera que el diseño estético del front podría mejorarse, ya que no le gustó mucho visualmente. Sugiere que deberíamos poner más atención en la apariencia de la página para lograr una mejor experiencia visual. |
+| <strong>Enlace de video:</strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/EXOfPiAF4ARIq1MiSXqFMd0Btiv6p3mS6zcbN6nW24UKEA?e=CAzq7K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| <strong>Tiempo:</strong> 8:00 minutos |
+| <strong>Foto del entrevistado:</strong><br><img src="assets/Ent3Sebastian.png" style="height: 200px;" />
+
+### 5.3.3 Evaluaciones según heurísticas
+
+#### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de usuario nuevo
+2. Visualización del landing page
+3. Acceso a la aplicación mediante botón de "Call to Action"
+4. Revisión de planes de salud (dietas, ejercicios)
+5. Evaluación de perfiles de entrenadores
+6. Seguimiento de rutinas
+7. Creación y asignación de planes de salud
+8. Agendamiento de sesiones presenciales
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Sincronización con smartwatch
+2. Generación automática de dieta con ingredientes disponibles
+3. Compartir avances con otros usuarios
+4. Integración con sistemas de pago reales
+
+### TABLA RESUMEN - Evaluación Heurística de FitWise
+
+| #  | Problema detectado                                                                 | Escala de severidad | Heurística/Principio violado(a)                                       |
+|----|-------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------|
+| 1  | No hay elementos multimedia que refuercen la propuesta (e.g., video demostrativo)  | 2                   | Usability: Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores |
+| 2  | Reviews visibles sin estar autenticado generan confusión en funcionalidades        | 2                   | Usability: Control y libertad del usuario                             |
+| 3  | Falta de claridad al mostrar el propósito y contenido de las secciones iniciales   | 3                   | Information Architecture: Is it understandable?                      |
+| 4  | La sección "Sales" no está completamente operativa                               | 3                   | Usability: Prevención de errores                                     |
+| 5  | No existe función de generación de dieta basada en ingredientes disponibles        | 1                   | Inclusive Design: Personalización y adaptabilidad                    |
+| 6  | El proceso de seguimiento de rutina y pagos aún no es claro ni completamente funcional | 3               | Information Architecture: Is it usable?                             |
+| 7  | No hay retroalimentación clara al realizar acciones como seguir o dejar de seguir  | 2                   | Usability: Visibilidad del estado del sistema                         |
+
+### DESCRIPCIÓN DE PROBLEMAS
+
+---
+
+#### PROBLEMA #1: No hay elementos multimedia que refuercen la propuesta (e.g., video demostrativo)  
+**Severidad**: 2  
+**Heurística violada**: Usabilidad – Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores  
+
+**Problema**:  
+Durante la revisión del landing page, el usuario expresó que, si bien el diseño es atractivo, se siente poco convincente. La falta de elementos como videos explicativos o testimoniales reduce la capacidad del usuario de entender cómo funciona realmente la app. Esto puede afectar negativamente la primera impresión y la decisión de continuar explorando la aplicación.  
+
+**Recomendación**:  
+Incluir un video corto en el landing page mostrando cómo funciona FitWise, con testimonios reales de usuarios. Esto genera confianza, refuerza la propuesta de valor y mejora la comprensión general del servicio.
+
+---
+
+#### PROBLEMA #2: Reviews visibles sin estar autenticado generan confusión  
+**Severidad**: 2  
+**Heurística violada**: Usabilidad – Control y libertad del usuario  
+
+**Problema**:  
+El sistema permite visualizar reseñas y comentarios sin que el usuario haya iniciado sesión. Esto puede llevar a malentendidos sobre quién puede comentar, editar o interactuar con dichas secciones. Además, puede dar una sensación de falta de seguridad o control.  
+
+**Recomendación**:  
+Mostrar las reseñas de forma limitada (solo lectura) y desactivar opciones de interacción (como editar, reportar o eliminar) si el usuario no ha iniciado sesión. Incluir un mensaje claro que indique que se requiere autenticación para interactuar.
+
+---
+
+#### PROBLEMA #3: Falta de claridad en el propósito y contenido de las secciones iniciales  
+**Severidad**: 3  
+**Heurística violada**: Arquitectura de la Información – ¿Es comprensible?  
+
+**Problema**:  
+El usuario manifestó confusión sobre las primeras secciones del landing page, pues no queda claro de inmediato cuál es el propósito principal de la app. Las secciones están ordenadas, pero su contenido no comunica eficazmente su función ni cómo ayudan al usuario.  
+
+**Recomendación**:  
+Agregar títulos más descriptivos y textos introductorios breves en cada sección. Reorganizar la estructura inicial para que en los primeros segundos se entienda qué es FitWise, a quién está dirigido y cómo puede ayudar.
+
+---
+
+#### PROBLEMA #4: La sección "Sales" no está completamente operativa  
+**Severidad**: 3  
+**Heurística violada**: Usabilidad – Prevención de errores  
+
+**Problema**:  
+Durante la demostración se identificó que la sección “Sales” aún no está habilitada o no responde correctamente. Esto genera una experiencia incompleta, ya que el usuario puede ingresar, pero no realizar ninguna acción relevante, generando frustración.  
+
+**Recomendación**:  
+Ocultar esta sección hasta que esté completamente funcional o incluir un aviso que indique que está en desarrollo. Así se evitan confusiones y se mantiene la coherencia de la experiencia.
+
+---
+
+#### PROBLEMA #5: No existe función de generación de dieta basada en ingredientes disponibles  
+**Severidad**: 1  
+**Heurística violada**: Inclusive Design – Personalización y adaptabilidad  
+
+**Problema**:  
+El usuario sugirió que sería útil poder crear un plan de alimentación basado en los ingredientes que ya tiene en casa. Actualmente, la app no ofrece esa opción, lo que limita su flexibilidad, especialmente para personas con restricciones económicas o de acceso.  
+
+**Recomendación**:  
+Incluir una funcionalidad que permita ingresar ingredientes disponibles y generar sugerencias alimenticias en base a ellos. Esto mejoraría la personalización y la accesibilidad.
+
+---
+
+#### PROBLEMA #6: El proceso de seguimiento de rutina y pagos no es claro  
+**Severidad**: 3  
+**Heurística violada**: Arquitectura de la Información – ¿Es usable?  
+
+**Problema**:  
+Las rutas que llevan al historial de pagos, adquisición de planes y seguimiento de rutina no están bien definidas ni explicadas. El usuario puede perderse en el flujo o no entender cómo se conectan las acciones.  
+
+**Recomendación**:  
+Reorganizar la navegación y añadir breadcrumbs o un flujo guiado que conecte las secciones de planes, pagos y rutinas. También sería útil incluir tutoriales o ayudas contextuales.
+
+---
+
+#### PROBLEMA #7: No hay retroalimentación clara al seguir o dejar de seguir entrenadores  
+**Severidad**: 2  
+**Heurística violada**: Usabilidad – Visibilidad del estado del sistema  
+
+**Problema**:  
+Al realizar acciones como seguir o dejar de seguir entrenadores, el sistema no muestra un mensaje ni cambio visible inmediato que confirme la acción, lo cual genera incertidumbre.  
+
+**Recomendación**:  
+Añadir retroalimentación visual (cambio de botón, animación o mensaje flotante) que indique con claridad que la acción se realizó correctamente.
+
+## Video About-the-Product
+
+
 
 ## Conclusiones
-
 
 1. **Viabilidad del Proyecto**
    - A lo largo del proceso de investigación y desarrollo, se validó la viabilidad técnica y comercial de la startup FitWise. La solución propuesta responde a una necesidad real en el mercado de fitness y bienestar, especialmente dirigida a un segmento de usuarios con un enfoque en la salud y el entrenamiento personalizado.
@@ -2385,3 +3494,7 @@ Link de la Organización: https://github.com/AplicacionesWeb-4380-G2-VibeFit
 Link de la documentanción: https://github.com/AplicacionesWeb-4380-G2-VibeFit/Report
 
 Link de la Landing Page: https://aplicacionesweb-4380-g2-vibefit.github.io/LandingPage-FitWise/
+
+Link del Deploy del FrontEnd: https://fitwise-frontend.web.app/home
+
+Link del json server desplegado: https://my-json-server.typicode.com/AplicacionesWeb-4380-G2-VibeFit/db.json
