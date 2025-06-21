@@ -3493,6 +3493,6 @@ Link de la documentanción: https://github.com/AplicacionesWeb-4380-G2-VibeFit/R
 
 Link de la Landing Page: https://aplicacionesweb-4380-g2-vibefit.github.io/LandingPage-FitWise/
 
-Link del Deploy del FrontEnd: https://fit-wise-499c9.web.app
+Link del Deploy del FrontEnd: https://fitwise-frontend.web.app/home
 
 Link del json server desplegado: https://my-json-server.typicode.com/AplicacionesWeb-4380-G2-VibeFit/db.json
