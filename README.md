@@ -3361,6 +3361,7 @@ Para realizar las entrevistas de validación, primero se han planteado 15 pregun
 | <strong>Resumen:</strong> Paolo Guillen Cesar Luna, de 24 años y estudiante de Ingeniería de Software en la UPC y administrador de fitness con su familia, es una persona que valora la vida saludable, él considera que la landing page es agradable a la vista y es suficiente para entender la aplicación y atraer al usuario, luego propone mejoras para el front end, dando comentarios positivos sobre algunas funcionalidades como la confirmación de acciones mediante un mensaje en la esquina, propone también incluir video tutoriales de la aplicación porque es fácil de perderse al menos al inicio |
 | <strong>Enlace de video:</strong> [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f211_upc_edu_pe/EThRz0CKJa5Bl2UtURgujdMBgViRuet6yCrHo034Md15-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OThnWE](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f211_upc_edu_pe/EThRz0CKJa5Bl2UtURgujdMBgViRuet6yCrHo034Md15-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OThnWE) |
 | <strong>Tiempo:</strong> 13:07 minutos |
+| <strong>Foto del entrevistado:</strong><br><img src="assets/entrevista4.jpg" style="height: 200px;" />
 
 
 ### 5.3.3 Evaluaciones según heurísticas
