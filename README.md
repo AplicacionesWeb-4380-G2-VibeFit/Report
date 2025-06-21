@@ -3292,11 +3292,21 @@ Para realizar las entrevistas de validación, primero se han planteado 15 pregun
 | <strong>Edad:</strong> 21 |
 | <strong>Procedencia:</strong> Lima |
 | <strong>Segmento:</strong> Adultos y jóvenes ocupados |
-| <strong>Resumen:</strong> Copilot said: Jhon Danny Guerrero Vasquez, de 21 años,
-Jhon Danny Guerrero Vasquez, de 21 años, estudia Ingeniería de Software en la UPC y lleva una vida mayormente sedentaria debido a su carga académica. Aunque antes tenía mejores hábitos, ahora le cuesta organizarse para hacer ejercicio y comer sano, pero está motivado a retomar un estilo de vida saludable por sus beneficios físicos y mentales. Prefiere rutinas prácticas como calistenia en casa y le gustaría una app que le ayude a planificar entrenamientos, ofrecer recetas rápidas y utilizar gamificación para motivarlo. Además, revisó la landing page de nuestro proyecto y le pareció muy profesional; también navegó por nuestro front end y le gustó tanto el diseño como las herramientas que ofrece. Consideraría pagar por una versión premium si la gratuita le da buenos resultados. |
+| <strong>Resumen:</strong> Jhon Danny Guerrero Vasquez, de 21 años, estudia Ingeniería de Software en la UPC y lleva una vida mayormente sedentaria debido a su carga académica. Aunque antes tenía mejores hábitos, ahora le cuesta organizarse para hacer ejercicio y comer sano, pero está motivado a retomar un estilo de vida saludable por sus beneficios físicos y mentales. Prefiere rutinas prácticas como calistenia en casa y le gustaría una app que le ayude a planificar entrenamientos, ofrecer recetas rápidas y utilizar gamificación para motivarlo. Además, revisó la landing page de nuestro proyecto y le pareció muy profesional; también navegó por nuestro front end y le gustó tanto el diseño como las herramientas que ofrece. Consideraría pagar por una versión premium si la gratuita le da buenos resultados. |
 | <strong>Enlace de video:</strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/ERvVFEyEiKBFgvo7m8ob8FUB6eGS51Tf5SsxycGYPmzPMA?e=v7cwHF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
 | <strong>Tiempo:</strong> 9:31 minutos |
 | <strong>Foto del entrevistado:</strong><br><img src="assets/Ent2Jhon.png" style="height: 200px;" />
+
+| **Entrevista 3** |
+|------------------|
+| <strong>Nombre:</strong> Sebastian Valentino Silva Tirado |
+| <strong>Edad:</strong> 21 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Adultos y jóvenes ocupados |
+| <strong>Resumen:</strong> Sebastian Valentino Silva Tirado, también de 21 años y estudiante de Ingeniería de Software en la UPC, está interesado en mantenerse en forma y valora el apoyo de una aplicación para organizar rutinas y hábitos saludables. Al revisar la landing page de nuestro proyecto, comentó que le encantaron los colores, la animación y el estilo general. Sin embargo, aunque comprende bien las herramientas del front end y reconoce que la interfaz es intuitiva, considera que el diseño estético del front podría mejorarse, ya que no le gustó mucho visualmente. Sugiere que deberíamos poner más atención en la apariencia de la página para lograr una mejor experiencia visual. |
+| <strong>Enlace de video:</strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/EXOfPiAF4ARIq1MiSXqFMd0Btiv6p3mS6zcbN6nW24UKEA?e=CAzq7K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| <strong>Tiempo:</strong> 8:00 minutos |
+| <strong>Foto del entrevistado:</strong><br><img src="assets/Ent3Sebastian.png" style="height: 200px;" />
 
 ### 5.3.3 Evaluaciones según heurísticas
 
