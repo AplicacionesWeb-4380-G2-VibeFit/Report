@@ -78,11 +78,50 @@
 
     <img src="./assets/COLABO.png" alt="COLABO"/>
 
+
+
+
     Para facilitar el desarrollo del trabajo, optamos por seguir el flujo de trabajo Gitflow. En este esquema, cada subtítulo del informe fue tratado como una feature. Un miembro del equipo creaba una rama específica para ese subtítulo y trabajaba en ella, mientras que otros miembros podían colaborar directamente o supervisar su progreso. Una vez finalizada la feature, todo el equipo revisaba el contenido y, tras obtener el consenso, se realizaba el merge hacia la rama develop. Además, organizamos las tareas considerando su nivel de dificultad, asegurando así una distribución equitativa del trabajo entre todos los integrantes.
 
   A lo largo del desarrollo de la TB1, generamos varias ramas distintas que fueron integradas a la rama develop. Cada una representaba una sección específica del proyecto. Este enfoque nos permitió trabajar de manera ordenada y colaborativa, asegurando que cada parte del informe fuera desarrollada y revisada de forma independiente antes de su integración final.
 
     <img src="./assets/COLABO2.png" alt="COLABO2"/>
+
+
+La presente entrega de la TB2 documenta el avance del proyecto en su tercera iteración de desarrollo, así como los esfuerzos de validación y cierre parcial, alineados con el marco ágil adoptado.
+
+Se incluyen los siguientes apartados:
+
+5.2.3. Sprint 3: Detalla la planificación y ejecución del tercer sprint, abarcando la definición del sprint backlog, los responsables por aspecto, la evidencia de desarrollo, ejecución, documentación de servicios y despliegue del software, así como los hallazgos de la colaboración del equipo durante el sprint.
+
+5.3. Validation Interviews: Describe el diseño, registro y análisis heurístico de entrevistas realizadas a usuarios y expertos, con el fin de evaluar la usabilidad y funcionalidad del producto en desarrollo.
+
+5.4. Video About-the-Product: Incluye un material audiovisual de apoyo que presenta el producto, sus principales características y el estado actual del desarrollo.
+
+Avance de Conclusiones, Bibliografía y Anexos: Se presentan los primeros avances en los apartados de conclusiones, las fuentes bibliográficas utilizadas y los anexos que complementan la documentación del trabajo realizado.
+
+Esta entrega refleja el progreso logrado hasta el momento, evidenciando la planificación, la construcción incremental del producto y las acciones realizadas para su validación y mejora continua.
+
+![image](https://github.com/user-attachments/assets/9b11734d-7368-457a-8548-24a130b5430a)
+![image](https://github.com/user-attachments/assets/45247518-1543-4e71-bc54-864a2220716e)
+![image](https://github.com/user-attachments/assets/28f69e11-40d5-4b4d-8770-f28d451bcd39)
+
+FRONTEND
+
+![image](https://github.com/user-attachments/assets/88e128db-31fc-4ad4-b49c-2b71dea3abb6)
+![image](https://github.com/user-attachments/assets/c3c5152a-9e5a-4e27-a528-66afda84e4a6)
+
+
+LANDING
+
+![image](https://github.com/user-attachments/assets/dd0b5c26-f1e3-4b28-bc43-c3f91b880d37)
+![image](https://github.com/user-attachments/assets/a6c67de9-6b03-42e4-a5cf-968bee278f84)
+
+
+BACKEND
+![image](https://github.com/user-attachments/assets/5645a755-bbca-45b8-9aa2-daf0c3520bdc)
+![image](https://github.com/user-attachments/assets/e679c56f-5b4a-4951-aca2-3ae1ef71fb39)
+![image](https://github.com/user-attachments/assets/97211206-8d38-49ce-a498-5e35ecf77196)
 
     
 ---
