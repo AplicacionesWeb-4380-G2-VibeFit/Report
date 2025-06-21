@@ -2607,19 +2607,36 @@ Segunda vista de profile
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-📝 Introducción
-Durante este Sprint se avanzó con la documentación completa de los Web Services correspondientes al contexto de planes de salud (HealthPlans) y sus componentes (Meals, Exercises, Instructions, Ingredients).
+Durante este Sprint se avanzó con la documentación completa de los Web Services correspondientes a los siguientes contextos:
+- CreatorHealthPlans
+- HealthPlan
+- Review
+- ReviewComment
+- ReviewReport
 
-A continuación, se presenta una tabla con los endpoints documentados, incluyendo acciones soportadas (verbos HTTP), sintaxis y parámetros
+A continuación, se presenta una tabla con los endpoints documentados, incluyendo acciones soportadas (verbos HTTP), sintaxis y parámetros:
 
-| Recurso      | Acción           | Verbo HTTP | Endpoint                          | Parámetros   | Ejemplo de Response |
-| ------------ | ---------------- | ---------- | --------------------------------- | ------------ | ------------------- |
-| HealthPlans  | Obtener todos    | `GET`      | `/api/healthplans`                | —            | ✅                   |
-| HealthPlans  | Obtener por ID   | `GET`      | `/api/healthplans/{id}`           | `id: number` | ✅                   |
-| Meals        | Obtener por plan | `GET`      | `/api/healthplans/{id}/meals`     | `id: number` | ✅                   |
-| Exercises    | Obtener por plan | `GET`      | `/api/healthplans/{id}/exercises` | `id: number` | ✅                   |
-| Ingredients  | Obtener por meal | `GET`      | `/api/meals/{id}/ingredients`     | `id: number` | ✅                   |
-| Instructions | Obtener por meal | `GET`      | `/api/meals/{id}/instructions`    | `id: number` | ✅                   |
+| Recurso             | Acción                         | Verbo HTTP | Endpoint                                          | Parámetros                          | Ejemplo de Response |
+|---------------------|--------------------------------|------------|---------------------------------------------------|-------------------------------------|---------------------|
+| CreatorHealthPlans   | Obtener por creatorId          | GET        | /api/v1/creator/{creatorId}/healthplans           | creatorId: string                   | ✅                  |
+| HealthPlan           | Obtener todos                  | GET        | /api/v1/health-plan                               | —                                   | ✅                  |
+| HealthPlan           | Crear                          | POST       | /api/v1/health-plan                               | body: objeto healthPlan             | ✅                  |
+| HealthPlan           | Obtener por ID                 | GET        | /api/v1/health-plan/{healthPlanId}                | healthPlanId: string                | ✅                  |
+| HealthPlan           | Actualizar                     | PUT        | /api/v1/health-plan/{healthPlanId}                | healthPlanId: string, body: plan    | ✅                  |
+| HealthPlan           | Eliminar                       | DELETE     | /api/v1/health-plan/{healthPlanId}                | healthPlanId: string                | ✅                  |
+| Review               | Obtener todos                  | GET        | /api/v1/review                                    | —                                   | ✅                  |
+| Review               | Crear                          | POST       | /api/v1/review                                    | body: objeto review                 | ✅                  |
+| Review               | Obtener por ID                 | GET        | /api/v1/review/{id}                               | id: string                          | ✅                  |
+| Review               | Actualizar                     | PUT        | /api/v1/review/{id}                               | id: string, body: review            | ✅                  |
+| ReviewComment        | Obtener todos                  | GET        | /api/v1/review-comment                            | —                                   | ✅                  |
+| ReviewComment        | Crear                          | POST       | /api/v1/review-comment                            | body: objeto comment                | ✅                  |
+| ReviewComment        | Obtener por reviewId           | GET        | /api/v1/review-comment/by-review/{reviewId}       | reviewId: string                    | ✅                  |
+| ReviewComment        | Actualizar                     | PUT        | /api/v1/review-comment/{id}                       | id: string, body: comment           | ✅                  |
+| ReviewComment        | Eliminar                       | DELETE     | /api/v1/review-comment/{id}                       | id: string                          | ✅                  |
+| ReviewReport         | Obtener todos                  | GET        | /api/v1/review-report                             | —                                   | ✅                  |
+| ReviewReport         | Crear                          | POST       | /api/v1/review-report                             | body: objeto report                 | ✅                  |
+| ReviewReport         | Obtener por reviewId           | GET        | /api/v1/review-report/by-review/{reviewId}        | reviewId: string                    | ✅                  |
+| ReviewReport         | Actualizar estado              | PATCH      | /api/v1/review-report/{id}/status                 | id: string, body: status            | ✅                  |
 
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
