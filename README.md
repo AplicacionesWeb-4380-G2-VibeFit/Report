@@ -217,63 +217,17 @@ BACKEND
 ---
 
 **ABET – EAC - Student Outcome 5**  
-**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.  
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. | 
-**MAURICIO MUÑOZ**  <br>
-**TB1:** Me comuniqué activamente con mi equipo para coordinar las tareas asignadas a cada miembro. Además, realicé consultas al profesor para resolver dudas del grupo y transmitir la información de forma clara y útil.  <br><br>
-**TP:** Supervisé el correcto uso de componentes reutilizables. Organicé una revisión de código conjunta para detectar inconsistencias y duplicidades.<br><br>
-**TB2:** Implementé mejoras visuales y ajustes de estructura a partir del feedback recibido. Contribuí al testing visual del Front-End en múltiples resoluciones. <br><br>
-**RAMIRO GUZMÁN**  <br>
-**TB1:** Participé en la organización interna del equipo, proponiendo soluciones durante reuniones técnicas. Fomenté el diálogo entre los miembros para asegurar una comunicación abierta y lideré la revisión final de entregables.  <br><br>
-**TP:** Me encargué de integrar el router de Vue y definir la navegación entre vistas. Documenté el funcionamiento básico del Front-End en Notion para una mejor organización. <br><br>
-**TB2:** Propuse mejoras de accesibilidad para los inputs y enlaces del Front-End. Añadí animaciones y microinteracciones. <br><br>
-**MIGUEL GOMEZ**  <br>
-**TB1:** Realicé las secciones de 2.1, 3.2 - 3.4, 4.1 y 4.2. En las cuales recibí retroalimentación de mis compañeros para los mockups. Además, siempre mantuve un canal abierto para informar sobre mis avances y en cómo afectarían al desarrollo de mis compañeros.  <br><br>
-**TP:** Realicé el bounded context de publishing y modifiqué las historias de usuarios pertinentes  <br><br>
-**TB2:** Finalicé el diseño del front end Publishing y entregué la primera versión del BackEnd de Publishing (HealthPlans)  <br><br>
-**FARID BRICEÑO**  <br>
-**TB1:** Coordiné las reuniones para asegurarme de que todos los miembros del equipo estuvieran alineados con los objetivos del proyecto. Además, propuse estrategias para mantener la motivación y el enfoque dentro del equipo, contribuyendo a la toma de decisiones finales en conjunto.  <br><br>
-**TP:** Lideré la conexión de las pantallas con los componentes Vue. Establecí estándares para nombrar carpetas y variables en el Front-End. <br><br>
-**TB2:** Añadí validaciones necesarias para los inputs y propuse mejoras de diseño para los componentes de tipo tarjeta.<br><br>
-**DIEGO ACUÑA**  <br>
-**TB1:** Asumí un rol activo en la toma de decisiones técnicas y en la organización del trabajo. Realicé propuestas para mejorar los procesos del equipo y garantice que se cumplieran los plazos establecidos.  <br><br>
-**TP:** Decidimos cómo separar los bounded context y nos pusimos de acuerdo en las fechas para entregar los avances. También nos apoyamos para solucionar los problemas de desplegar el front end.  <br><br>
-**TB2:** Dimos fechas para finalizar el front end, además de decidir las preguntas para las entrevistas y avances del backend.  <br><br> | 
-**TB1:** Cada integrante cumplió con las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva, lo cual fortaleció la confianza entre los miembros. Esto contribuyó significativamente al fortalecimiento del trabajo en equipo, un aspecto esencial en proyectos colaborativos. <br><br>  
-**TP:** Cada integrante realizó sus actividades y mantuvieron una comunicación efectiva mediante el desarrollo del front end en GitHub y ramas. Esto contribuyó en el cumplimiento de los diferentes objetivos propuestos para este sprint.  <br><br>
-**TB2:** Esta entrega estuvo principalmente centrada en terminar definitivamente el desarrollo del FrontEnd y la presentación del inicio del BackEnd. Utilizamos herramientas nuevas como deploy de bases de datos y uso de plantillas Vue como Sakai. |
-| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | 
-**MAURICIO MUÑOZ**  <br>
-**TB1:** Respeté los objetivos y fechas establecidos por el equipo, cumpliendo con mis tareas puntualmente. También informaba sobre nuevos avisos o cambios relevantes, ayudando a mantener la planificación y coordinación del grupo.  <br><br>
-**TP:** Me aseguré de que los cambios en las vistas no rompieran la navegación. Registré bugs visuales y propuse soluciones que fueron validadas por el equipo.  <br><br>
-**TB2:** Participé en la documentación de endpoints y ayudé a coordinar la primera conexión entre frontend y backend en entorno local.  <br><br>
-**RAMIRO GUZMÁN**  <br>
-**TB1:** Apoyé activamente la planificación del proyecto, sugiriendo cronogramas realistas y detectando posibles cuellos de botella. Promoví un ambiente donde todos los integrantes se sintieran cómodos aportando ideas, favoreciendo la inclusión y el compromiso.  <br><br>
-**TP:** Implementé rutas dinámicas para las secciones de experiencias. Ayudé a crear wireframes adicionales de mejora para vistas incompletas.  <br><br>
-**TB2:** Reduje redundancias en componentes Vue, optimizando su carga. Coordiné la integración de tablas CRUD.  <br><br>
-**MIGUEL GOMEZ**  <br>
-**TB1:** Ayudé a segmentar nuestro público objetivo de mejor manera. En adición a esto, me presentaba a la pequeña reunión después de clases para coordinar los detalles de nuestros avances y trabajos a realizar.  <br><br>
-**TP:** Me encargué de la distribución de bounded context con los integrantes del grupo, mantuve cierta auditoría con los progresos del equipo y fomenté el apoyo ante dudas de tema teórico y práctico.  <br><br>
-**TB2:** Me encargué de la coordinación del desarrollo del apartado BackEnd mediante la entrega de proyectos base y prototipos de mis endpoints.  <br><br>
-**FARID BRICEÑO**  <br>
-**TB1:** Contribuí al establecimiento de metas claras, ayudando a organizar las tareas de manera efectiva. Aseguré que todos los miembros del equipo tuvieran las herramientas necesarias para cumplir sus objetivos y fomentar una atmósfera inclusiva.  <br><br>
-**TP:** Organicé pruebas de stress visual para analizar el desempeño. Reuní sugerencias UX del equipo y las consolidé en un documento entregable.  <br><br>
-**TB2:** Contribuí con mejoras responsive y ajusté los breakpoints definidos para diferentes tamaños de pantalla.  <br><br>
-**DIEGO ACUÑA**  <br>
-**TB1:** Propuse y coordiné varias reuniones para establecer metas claras y medibles para el proyecto. Además, gestioné los tiempos de cada tarea para asegurar el cumplimiento de los objetivos del equipo.  <br><br>
-**TP:** Tuvimos reuniones para separar las tablas y funcionalidades de cada bounded context, también para ayudar en el diseño de cada página del front end.  <br><br>
-**TB2:** Tuvimos reuniones para confirmar la finalización de cada bounded context, además de decidir qué página nos puede proporcionar una API fake para el front, y ayudar o explicar cómo haremos el backend.  <br><br| 
-**TB1:** En conjunto, el equipo logró crear un entorno de trabajo colaborativo e inclusivo, en el que cada integrante aportó al establecimiento de metas claras, la planificación de tareas y el cumplimiento de los objetivos propuestos. La coordinación constante, el respeto por los plazos y la participación activa de todos los miembros permitieron un desarrollo fluido del proyecto, fortaleciendo tanto la eficiencia del grupo como el sentido de responsabilidad compartida.  <br><br>
-**TP:** El equipo logró mantener un orden en su cronograma de entregas, ya que consideramos pertinentes múltiples reuniones para coordinar las divisiones de carga de trabajo durante el desarrollo del front end.  <br><br>
-**TB2:** El equipo pudo avanzar el desarrollo de manera continua aunque un poco pausada debido a la dificultad con la que se adaptaban al desarrollo backend. |
-
+| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta.** | **TB1:** <br> **Mauricio Muñoz**: Coordinó tareas del equipo y realizó consultas al profesor para resolver dudas. <br> **Ramiro Guzmán**: Lideró la revisión final de entregables y fomentó comunicación abierta.<br> **Miguel Gomez**: Redactó secciones del documento con apoyo del equipo y comunicó avances.<br> **Farid Briceño**: Coordinó reuniones y propuso estrategias para mantener motivación.<br> **Diego Acuña**: Tomó decisiones técnicas y organizó el trabajo para cumplir plazos. <br><br> **TP:** <br> **Mauricio Muñoz**: Supervisó componentes reutilizables y organizó revisión de código.<br> **Ramiro Guzmán**: Integró el router de Vue y documentó funcionalidades.<br> **Miguel Gomez**: Definió bounded context y actualizó historias de usuario.<br> **Farid Briceño**: Lideró conexión de pantallas y estandarizó el código.<br> **Diego Acuña**: Coordinó fechas de entrega y resolvió problemas de despliegue. <br><br> **TB2:** <br> **Mauricio Muñoz**: Ajustó diseño visual y participó en testing en diferentes resoluciones.<br> **Ramiro Guzmán**: Propuso mejoras de accesibilidad y añadió microinteracciones.<br> **Miguel Gomez**: Finalizó el front de Publishing y entregó el backend inicial.<br> **Farid Briceño**: Añadió validaciones a inputs y mejoró diseño de tarjetas.<br> **Diego Acuña**: Coordinó avances del backend y preparó entrevistas. | **TB1:** Cada integrante cumplió con sus tareas asignadas, manteniendo una comunicación constante y efectiva, lo cual fortaleció la confianza entre los miembros y el trabajo en equipo.<br><br> **TP:** Se mantuvo una comunicación efectiva a través de GitHub y el uso de ramas, facilitando el cumplimiento de los objetivos del sprint.<br><br> **TB2:** El equipo finalizó el desarrollo del frontend e inició el backend, aplicando nuevas herramientas como el deploy de bases de datos y plantillas Vue como Sakai. |
+| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **TB1:** <br> **Mauricio Muñoz**: Cumplió fechas y avisó sobre cambios relevantes.<br> **Ramiro Guzmán**: Propuso cronogramas realistas y promovió un ambiente inclusivo.<br> **Miguel Gomez**: Asistió a reuniones postclase para coordinar tareas.<br> **Farid Briceño**: Contribuyó a establecer metas claras y facilitar herramientas.<br> **Diego Acuña**: Coordinó reuniones para definir metas claras y tiempos.<br><br> **TP:** <br> **Mauricio Muñoz**: Verificó la navegación y reportó bugs visuales.<br> **Ramiro Guzmán**: Implementó rutas dinámicas y colaboró en wireframes.<br> **Miguel Gomez**: Distribuyó tareas por bounded context y apoyó dudas técnicas.<br> **Farid Briceño**: Realizó pruebas visuales y recopiló sugerencias UX.<br> **Diego Acuña**: Dividió tablas y funcionalidades en reuniones técnicas.<br><br> **TB2:** <br> **Mauricio Muñoz**: Documentó endpoints y coordinó conexión local entre frontend y backend.<br> **Ramiro Guzmán**: Optimizó componentes Vue y coordinó tablas CRUD.<br> **Miguel Gomez**: Coordinó desarrollo backend y entregó prototipos.<br> **Farid Briceño**: Aplicó mejoras responsive y ajustó breakpoints.<br> **Diego Acuña**: Validó finalización de bounded context y búsqueda de APIs fake. | **TB1:** El equipo creó un entorno de trabajo colaborativo e inclusivo, logrando establecer metas claras, planificar tareas y cumplir objetivos con coordinación y responsabilidad compartida.<br><br> **TP:** Se mantuvo orden y cronograma gracias a reuniones que permitieron una distribución eficiente del trabajo frontend.<br><br> **TB2:** El equipo logró avanzar en el desarrollo, a pesar de las dificultades del backend, gracias a una comunicación constante y apoyo mutuo. |
 
 ---
+
 
 ## Capítulo I: Introducción
 
