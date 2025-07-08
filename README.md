@@ -200,17 +200,21 @@ BACKEND
       - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
       - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
       - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
-      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      -  [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
       - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+      - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+      - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [5.3.3 Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
+    - [Conclusiones](#conclusiones)
+    - [Recomendaciones](#recomendaciones)
+    - [Bibliografía](#bibliografía)
+    - [Anexos](#anexos)
 
-- [Conclusiones](#conclusiones)
-- [Recomendaciones](#recomendaciones)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
 
 ## Student Outcome
 
@@ -2710,7 +2714,7 @@ El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes
 | Briceño De La Cruz, Farid Sebastian        | InjustShin                   | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
 | Muñoz Vilcapoma, Mauricio Rigoberto        | MauricioMVilcapoma           | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
 
-##### 5.2.3.3. Sprint Backlog 3
+### 5.2.3.3. Sprint Backlog 3
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
@@ -2833,7 +2837,7 @@ El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes
   </tr>
 </table>
 
-##### 5.2.3.4. Development Evidence for Sprint Review
+### 5.2.3.4. Development Evidence for Sprint Review
 
 En estos commits se puede observar los últimos updates a la rama develop que se hizo en el repositorio del Front End.
 
@@ -2846,7 +2850,7 @@ En estos commits se puede observar los últimos updates a la rama develop que se
 | https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   7c83563 | feat: Add schedule-management                                           | Correcciones mayores del bounded context organizing (Schedule) | 18/06/2025         |
 | https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/publishing |   eaac4377bb69dae29ad443e2811227437871b49f | feat: Added Exercise Post Command                                           | Inicio del desarrollo de Exercises. HealthPlans Finalizado. | 20/06/2025         |
 
-##### 5.2.3.5. Execution Evidence for Sprint Review
+### 5.2.3.5. Execution Evidence for Sprint Review
 En esta entrega se corrigieron los bounded context y se agregaron nuevos en el frontend
 
 Home:
@@ -2902,7 +2906,7 @@ Video explicación HealthPlan Endpoints: https://upcedupe-my.sharepoint.com/:v:/
 <img src="./assets/Backend3.png" alt="Backend3">
 
 
-##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante este Sprint se avanzó con la documentación completa de los Web Services correspondientes a los siguientes contextos:
 - Users
@@ -3007,7 +3011,7 @@ A continuación, se presenta una tabla con los endpoints documentados, incluyend
 | PurchaseHistory   | Actualizar (agregar pago)    | PATCH      | /api/purchaseHistory/{userId}            | userId, body: payments    | ✅                  |
 
 
-##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 En este caso hemos realizado el `deploy` mediante el servicio de **Hosting** de Firebase.
 
@@ -3098,13 +3102,13 @@ Link del Deploy del FrontEnd: https://fitwise-9402e.web.app/
 
 Link del Deploy del BackEnd: https://appwebfitwise-dbggb4h4bqdkb6hw.eastus2-01.azurewebsites.net/swagger/index.html
 
-##### 5.2.3.8. Team Collaboration Insights during Sprint
+### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Participantes: Ramiro y Miguel, respectivamente.
 
 [![image.png](https://i.postimg.cc/JnKQKpSr/image.png)](https://postimg.cc/wyyJjQ6Z)
 
-## 5.3 Validation Interviews
+## 5.3. Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
 
@@ -3330,7 +3334,7 @@ Al realizar acciones como seguir o dejar de seguir entrenadores, el sistema no m
 **Recomendación**:  
 Añadir retroalimentación visual (cambio de botón, animación o mensaje flotante) que indique con claridad que la acción se realizó correctamente.
 
-## Video About-the-Product
+## 5.4. Video About-the-Product
 
 
 
