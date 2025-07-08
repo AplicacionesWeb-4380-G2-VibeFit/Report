@@ -50,16 +50,16 @@
 | TP      | 14/05/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - Realicé el código del bounded context de selling, el cual se encarga de editar, mostrar planes a vender.     |
 | TP      | 14/05/2025  |   Diego Rolin Acuña Tomas    |      - Realicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario.     |
 | TP      | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Realicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar el perfil comentarios.     |
-| TB2     | 14/05/2025  |   Diego Rolin Acuña Tomas    |      - Actualicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario y administrar seguidores.     |
-| TB2     | 14/05/2025  |   Diego Rolin Acuña Tomas    |      - reporte algo   |
-| TB2     | 14/05/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - Actualicé el código del bounded context de selling, el cual se encarga de editar, mostrar, registrar las ventas del usuario.     |
-| TB2     | 14/05/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - reporte algo |
-| TB2     | 14/05/2025  |   Farid Sebastian Briceño De La Cruz    |      - Actualicé el código del bounded context de organizing, el cual se encarga de editar, mostrar y eliminar itinerarios del usuario.     |
-| TB2     | 14/05/2025  |   Farid Sebastian Briceño De La Cruz    |      - Añadí el punto 5.2.3 que corresponde al sprint 3 del proyecto     |
-| TB2     | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - Actualicé el código del bounded context de publishing, el cual se encarga de editar, mostrar, agregar y eliminar rutinas gestionadas por el usuario.     |
-| TB2     | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - Use MockApi para que nuestro front end tenga una backend y base de datos provisional hasta tener la ultima version de nuestro Web Services  |
-| TB2     | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Actualicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar, añadir, borrar y reportar comentarios.     |
-| TB2     | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
+| TB2     | 20/06/2025  |   Diego Rolin Acuña Tomas    |      - Actualicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario y administrar seguidores.     |
+| TB2     | 20/06/2025  |   Diego Rolin Acuña Tomas    |      - Realicé el informe de validación de entrevistas, registrando los hallazgos clave de usabilidad identificados en la interacción con los usuarios y proponiendo mejoras sobre las funcionalidades más valoradas por ellos.   |
+| TB2     | 20/06/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - Actualicé el código del bounded context de selling, el cual se encarga de editar, mostrar, registrar las ventas del usuario.     |
+| TB2     | 20/06/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - Elaboré el resumen ejecutivo del avance del proyecto para el capítulo 5.4, integrando hallazgos del backend, estado del frontend y plan de despliegue, con foco en la presentación del MVP. |
+| TB2     | 20/06/2025  |   Farid Sebastian Briceño De La Cruz    |      - Actualicé el código del bounded context de organizing, el cual se encarga de editar, mostrar y eliminar itinerarios del usuario.     |
+| TB2     | 20/06/2025  |   Farid Sebastian Briceño De La Cruz    |      - Añadí el punto 5.2.3 que corresponde al sprint 3 del proyecto     |
+| TB2     | 20/06/2025  |   Miguel Angel Gomez Hurtado    |      - Actualicé el código del bounded context de publishing, el cual se encarga de editar, mostrar, agregar y eliminar rutinas gestionadas por el usuario.     |
+| TB2     | 20/06/2025  |   Miguel Angel Gomez Hurtado    |      - Use MockApi para que nuestro front end tenga una backend y base de datos provisional hasta tener la ultima version de nuestro Web Services  |
+| TB2     | 20/06/2025  |   Ramiro Alexander Guzman Chavez    |      - Actualicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar, añadir, borrar y reportar comentarios.     |
+| TB2     | 20/06/2025  |   Ramiro Alexander Guzman Chavez    |      - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
 
 
 ---
@@ -223,8 +223,68 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **MAURICIO MUÑOZ** <br> **TB1:** Me comuniqué activamente con mi equipo para coordinar las tareas asignadas a cada miembro. Además, realicé consultas al profesor para resolver dudas del grupo y transmitir la información de forma clara y útil. <br><br> **TP:**<br><br>  **RAMIRO GUZMÁN** <br> **TB1:** Participé en la organización interna del equipo, proponiendo soluciones durante reuniones técnicas. Fomenté el diálogo entre los miembros para asegurar una comunicación abierta y lideré la revisión final de entregables. <br><br> **TP:** <br><br> **MIGUEL GOMEZ** <br> **TB1:** Realicé las secciones de 2.1, 3.2 - 3.4, 4.1 y 4.2. En las cuales recibi retroalimentación de mis compañeros para los mock ups. Además, siempre mantuve un canal abierto para informar sobre mis avances y en cómo afectarían al desarrollo de mis compañeros. <br><br> **TP:** Realizé el bounded context de publishing y modiqfique las historias de usaurios pertinentes<br><br> **TB2:** Finalizé el diseño del front end Publishing y entregué la primera versión del BackEnd de Publishing (HealthPlans)<br><br>**FARID BRICEÑO** <br> **TB1:** Coordiné las reuniones para asegurarme de que todos los miembros del equipo estuvieran alineados con los objetivos del proyecto. Además, propuse estrategias para mantener la motivación y el enfoque dentro del equipo, contribuyendo a la toma de decisiones finales en conjunto. <br><br> **TP:** <br><br> **DIEGO ACUÑA** <br> **TB1:** Asumí un rol activo en la toma de decisiones técnicas y en la organización del trabajo. Realicé propuestas para mejorar los procesos del equipo y garantice que se cumplieran los plazos establecidos. <br><br> **TP:** Decidimos como separar los bounded context y nos pusimos de acuerdo las fechas para entregar los avances, tambien nos apoyamos para solucionar los problemas de desplegar el front end. <br><br> **TB2:** Dimos fechas para finalizar el front end, ademas de decidir las preguntas para las entrevistas y avances del backend.  <br><br> | **TB1:** Cada integrante cumplió con las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva, lo cual fortaleció la confianza entre los miembros. Esto contribuyó significativamente al fortalecimiento del trabajo en equipo, un aspecto esencial en proyectos colaborativos. <br><br> **TP:** Cada integrantes realizó sus actividades realizadasy mantuvieron una comunicación efectiva mediante el desarrollo del front end en github y ramas. Esto contribuyó en el cumplimiento de los diferentes objetivos propuestos para este sprint.<br><br>**TB2:** Esta entregra estuvo principalmente centrada en terminar definitivamente el desarrollo del FrontEnd y la presentación del inicio del BackEnd. Utilizamos herramientas nuevas como deploy de bases de datos y uso de platillas vue como Sakai.<br><br>|
- | 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **MAURICIO MUÑOZ** <br> **TB1:** Respeté los objetivos y fechas establecidos por el equipo, cumpliendo con mis tareas puntualmente. También informaba sobre nuevos avisos o cambios relevantes, ayudando a mantener la planificación y coordinación del grupo. <br><br> **TP:** <br><br> **RAMIRO GUZMÁN** <br> **TB1:** Apoyé activamente la planificación del proyecto, sugiriendo cronogramas realistas y detectando posibles cuellos de botella. Promoví un ambiente donde todos los integrantes se sintieran cómodos aportando ideas, favoreciendo la inclusión y el compromiso. <br><br> **TP:** <br><br> **MIGUEL GOMEZ** <br> **TB1:** Ayudé a segmentar nuestro público objetivo de mejor manera. En adición a esto, me presentaba a la pequeña reunión después de clases para coordinar los detalles de nuestros avances y trabajos a realizar. <br><br> **TP:** M encagué de la destribución de bounded context con los integrantes del grupo, mantuve cierta auditoría con los progresos del equipo y fomente el apoyo antes dudas de tema teórico y práctico.<br><br>**TB2:** Me encargue de la coordinación del desarrollo del apartado BackEnd mediante la entrega de proyectos base y prototipos de mis endpoints.<br><br> **FARID BRICEÑO** <br> **TB1:** Contribuí al establecimiento de metas claras, ayudando a organizar las tareas de manera efectiva. Aseguré que todos los miembros del equipo tuvieran las herramientas necesarias para cumplir sus objetivos y fomentar una atmósfera inclusiva. <br><br> **TP:** <br><br> **DIEGO ACUÑA** <br> **TB1:** Propuse y coordine varias reuniones para establecer metas claras y medibles para el proyecto. Además, gestioné los tiempos de cada tarea para asegurar el cumplimiento de los objetivos del equipo. <br><br> **TP:** Tuvimos reuniiones para separa el las tablas y funcionalidades de cada bounded context, tambien para ayudar en el diseño de cada pagina del front end  <br><br> **TB2:** Tuvimos reuniones para confirmar la finalizacion de cada bounded context, ademas de decidir que pagina nos puede proporcionar un api fake para el front, y ayudar o explicar como haremos el backend. <br><br> | **TB1:** En conjunto, el equipo logró crear un entorno de trabajo colaborativo e inclusivo, en el que cada integrante aportó al establecimiento de metas claras, la planificación de tareas y el cumplimiento de los objetivos propuestos. La coordinación constante, el respeto por los plazos y la participación activa de todos los miembros permitieron un desarrollo fluido del proyecto, fortaleciendo tanto la eficiencia del grupo como el sentido de responsabilidad compartida. <br><br> **TP:** El equipo de trabajó logro mantener un orden en su cronograma de entregas, ya que consideramos pertinentes múltiples reuniones para coordinar las divisiones de carga de trabajo durante el desarrollo del front end.<br><br>**TB2:** El equipo pudo avanzar el desarrollo de manera continua aunque un poco pausada debido a la dificultad con la que se adaptaban al desarrallo backend.<br><br>|
+| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. | 
+**MAURICIO MUÑOZ**  
+**TB1:** Me comuniqué activamente con mi equipo para coordinar las tareas asignadas a cada miembro. Además, realicé consultas al profesor para resolver dudas del grupo y transmitir la información de forma clara y útil.  
+**TP:** Supervisé el correcto uso de componentes reutilizables. Organicé una revisión de código conjunta para detectar inconsistencias y duplicidades.
+**TB2:** Implementé mejoras visuales y ajustes de estructura a partir del feedback recibido. Contribuí al testing visual del Front-End en múltiples resoluciones.
+
+**RAMIRO GUZMÁN**  
+**TB1:** Participé en la organización interna del equipo, proponiendo soluciones durante reuniones técnicas. Fomenté el diálogo entre los miembros para asegurar una comunicación abierta y lideré la revisión final de entregables.  
+**TP:** Me encargué de integrar el router de Vue y definir la navegación entre vistas. Documenté el funcionamiento básico del Front-End en Notion para una mejor organización. 
+**TB2:** Propuse mejoras de accesibilidad para los inputs y enlaces del Front-End. Añadí animaciones y microinteracciones. 
+
+**MIGUEL GOMEZ**  
+**TB1:** Realicé las secciones de 2.1, 3.2 - 3.4, 4.1 y 4.2. En las cuales recibí retroalimentación de mis compañeros para los mockups. Además, siempre mantuve un canal abierto para informar sobre mis avances y en cómo afectarían al desarrollo de mis compañeros.  
+**TP:** Realicé el bounded context de publishing y modifiqué las historias de usuarios pertinentes  
+**TB2:** Finalicé el diseño del front end Publishing y entregué la primera versión del BackEnd de Publishing (HealthPlans)  
+
+**FARID BRICEÑO**  
+**TB1:** Coordiné las reuniones para asegurarme de que todos los miembros del equipo estuvieran alineados con los objetivos del proyecto. Además, propuse estrategias para mantener la motivación y el enfoque dentro del equipo, contribuyendo a la toma de decisiones finales en conjunto.  
+**TP:** Lideré la conexión de las pantallas con los componentes Vue. Establecí estándares para nombrar carpetas y variables en el Front-End. 
+**TB2:** Añadí validaciones necesarias para los inputs y propuse mejoras de diseño para los componentes de tipo tarjeta.
+
+
+**DIEGO ACUÑA**  
+**TB1:** Asumí un rol activo en la toma de decisiones técnicas y en la organización del trabajo. Realicé propuestas para mejorar los procesos del equipo y garantice que se cumplieran los plazos establecidos.  
+**TP:** Decidimos cómo separar los bounded context y nos pusimos de acuerdo en las fechas para entregar los avances. También nos apoyamos para solucionar los problemas de desplegar el front end.  
+**TB2:** Dimos fechas para finalizar el front end, además de decidir las preguntas para las entrevistas y avances del backend.  
+| 
+**TB1:** Cada integrante cumplió con las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva, lo cual fortaleció la confianza entre los miembros. Esto contribuyó significativamente al fortalecimiento del trabajo en equipo, un aspecto esencial en proyectos colaborativos.  
+**TP:** Cada integrante realizó sus actividades y mantuvieron una comunicación efectiva mediante el desarrollo del front end en GitHub y ramas. Esto contribuyó en el cumplimiento de los diferentes objetivos propuestos para este sprint.  
+**TB2:** Esta entrega estuvo principalmente centrada en terminar definitivamente el desarrollo del FrontEnd y la presentación del inicio del BackEnd. Utilizamos herramientas nuevas como deploy de bases de datos y uso de plantillas Vue como Sakai. |
+
+| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | 
+**MAURICIO MUÑOZ**  
+**TB1:** Respeté los objetivos y fechas establecidos por el equipo, cumpliendo con mis tareas puntualmente. También informaba sobre nuevos avisos o cambios relevantes, ayudando a mantener la planificación y coordinación del grupo.  
+**TP:** Me aseguré de que los cambios en las vistas no rompieran la navegación. Registré bugs visuales y propuse soluciones que fueron validadas por el equipo.  
+**TB2:** Participé en la documentación de endpoints y ayudé a coordinar la primera conexión entre frontend y backend en entorno local.  
+
+
+**RAMIRO GUZMÁN**  
+**TB1:** Apoyé activamente la planificación del proyecto, sugiriendo cronogramas realistas y detectando posibles cuellos de botella. Promoví un ambiente donde todos los integrantes se sintieran cómodos aportando ideas, favoreciendo la inclusión y el compromiso.  
+**TP:** Implementé rutas dinámicas para las secciones de experiencias. Ayudé a crear wireframes adicionales de mejora para vistas incompletas.  
+**TB2:** Reduje redundancias en componentes Vue, optimizando su carga. Coordiné la integración de tablas CRUD.  
+
+**MIGUEL GOMEZ**  
+**TB1:** Ayudé a segmentar nuestro público objetivo de mejor manera. En adición a esto, me presentaba a la pequeña reunión después de clases para coordinar los detalles de nuestros avances y trabajos a realizar.  
+**TP:** Me encargué de la distribución de bounded context con los integrantes del grupo, mantuve cierta auditoría con los progresos del equipo y fomenté el apoyo ante dudas de tema teórico y práctico.  
+**TB2:** Me encargué de la coordinación del desarrollo del apartado BackEnd mediante la entrega de proyectos base y prototipos de mis endpoints.  
+
+**FARID BRICEÑO**  
+**TB1:** Contribuí al establecimiento de metas claras, ayudando a organizar las tareas de manera efectiva. Aseguré que todos los miembros del equipo tuvieran las herramientas necesarias para cumplir sus objetivos y fomentar una atmósfera inclusiva.  
+**TP:** Organicé pruebas de stress visual para analizar el desempeño. Reuní sugerencias UX del equipo y las consolidé en un documento entregable.  
+**TB2:** Contribuí con mejoras responsive y ajusté los breakpoints definidos para diferentes tamaños de pantalla.  
+
+
+**DIEGO ACUÑA**  
+**TB1:** Propuse y coordiné varias reuniones para establecer metas claras y medibles para el proyecto. Además, gestioné los tiempos de cada tarea para asegurar el cumplimiento de los objetivos del equipo.  
+**TP:** Tuvimos reuniones para separar las tablas y funcionalidades de cada bounded context, también para ayudar en el diseño de cada página del front end.  
+**TB2:** Tuvimos reuniones para confirmar la finalización de cada bounded context, además de decidir qué página nos puede proporcionar una API fake para el front, y ayudar o explicar cómo haremos el backend.  
+| 
+**TB1:** En conjunto, el equipo logró crear un entorno de trabajo colaborativo e inclusivo, en el que cada integrante aportó al establecimiento de metas claras, la planificación de tareas y el cumplimiento de los objetivos propuestos. La coordinación constante, el respeto por los plazos y la participación activa de todos los miembros permitieron un desarrollo fluido del proyecto, fortaleciendo tanto la eficiencia del grupo como el sentido de responsabilidad compartida.  
+**TP:** El equipo logró mantener un orden en su cronograma de entregas, ya que consideramos pertinentes múltiples reuniones para coordinar las divisiones de carga de trabajo durante el desarrollo del front end.  
+**TB2:** El equipo pudo avanzar el desarrollo de manera continua aunque un poco pausada debido a la dificultad con la que se adaptaban al desarrollo backend. |
 
 
 ---
@@ -2446,6 +2506,17 @@ En el segundo sprint backlog, el equipo centró su trabajo en mostrar las rutina
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
+En estos commits se puede observar los últimos updates a la rama main que se hizo en el repositorio del frontend.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | b7dad8a | Para que se muestre schedule | - | 14/05/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | 9e1b36e | Profile | - | 14/05/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | 27a6ba1 | Update App.vue | - | 14/05/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | af908a1 | se resolvieron conflictos | - | 14/05/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | 8f172fe | varios cambios | - | 14/05/2025 |
+
+
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
 En esta entrega, nuestro equipo ha desplegado con éxito del Front End.
@@ -3085,6 +3156,8 @@ Hosting URL: https://fitwise-frontend.web.app/home
 
 Link del Deploy del FrontEnd: https://fitwise-9402e.web.app/
 
+Link del Deploy del BackEnd: https://appwebfitwise-dbggb4h4bqdkb6hw.eastus2-01.azurewebsites.net/swagger/index.html
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Participantes: Ramiro y Miguel, respectivamente.
@@ -3381,5 +3454,7 @@ Link de la documentanción: https://github.com/AplicacionesWeb-4380-G2-VibeFit/R
 Link de la Landing Page: https://aplicacionesweb-4380-g2-vibefit.github.io/LandingPage-FitWise/
 
 Link del Deploy del FrontEnd: https://fitwise-frontend.web.app/home
+
+Link del Deploy del BackEnd: https://appwebfitwise-dbggb4h4bqdkb6hw.eastus2-01.azurewebsites.net/swagger/index.html
 
 Link del json server desplegado: https://my-json-server.typicode.com/AplicacionesWeb-4380-G2-VibeFit/db.json
