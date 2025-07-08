@@ -210,6 +210,15 @@ BACKEND
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
     - [5.3. Validation Interviews](#53-validation-interviews)
       - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
       - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -3112,6 +3121,44 @@ Link del Deploy del BackEnd: https://appwebfitwise-dbggb4h4bqdkb6hw.eastus2-01.a
 Participantes: Ramiro y Miguel, respectivamente.
 
 [![image.png](https://i.postimg.cc/JnKQKpSr/image.png)](https://postimg.cc/wyyJjQ6Z)
+
+---
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+Descripción de los objetivos del Sprint 4, planificación de tareas y alcance esperado. Se detallan las metas propuestas y las funcionalidades a implementar.
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+Listado de responsables por cada aspecto del desarrollo durante el Sprint 4 (Frontend, Backend, Testing, Diseño, Integración, etc.) y los colaboradores asignados.
+
+### 5.2.4.3. Sprint Backlog 4
+
+Tabla con el backlog definido para el Sprint 4. Incluye ID de User Story, tareas asociadas, estimación en horas, responsable y estado actual (To-do, In Progress, Done).
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+Capturas, fragmentos de código y commits realizados durante el desarrollo de funcionalidades correspondientes al Sprint 4. Se incluyen enlaces a pull requests o repositorios si aplica.
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+Evidencia de ejecución funcional del software: gifs, capturas de pantalla, flujos grabados de navegación en la plataforma desarrollada durante este Sprint.
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Documentación técnica de los servicios desarrollados: endpoints, contratos de API, flujos de datos, modelos utilizados, y ejemplos de respuestas esperadas.
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Evidencia de despliegue en entorno de pruebas o producción: versiones generadas, logs del pipeline de CI/CD, dirección de despliegue (por ejemplo: vercel, firebase, render, etc.).
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Reflexión sobre la dinámica de trabajo en equipo durante el Sprint 4. Incluye aspectos positivos, retos enfrentados y mejoras para los próximos sprints.
+
+---
 
 ## 5.3. Validation Interviews
 
