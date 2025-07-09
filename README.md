@@ -3590,13 +3590,51 @@ Tabla con el backlog definido para el Sprint 4. Incluye ID de User Story, tareas
 
 Capturas, fragmentos de código y commits realizados durante el desarrollo de funcionalidades correspondientes al Sprint 4. Se incluyen enlaces a pull requests o repositorios si aplica.
 
-| Repository                                                          | Branch  | Commit Id | Commit Message                                                          | Description                                                    | Commited on (Date) |
-|---------------------------------------------------------------------|---------|-----------|-------------------------------------------------------------------------|----------------------------------------------------------------|--------------------|
-| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   be3af24 | feat: fixed env production                                                    | Actualización de variables de entorno                                      | 09/07/2025         |
-| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   3a48cf8 | feat: fixed stores                                                    | Implementación de stores para identificar users                                      | 09/07/2025         |
-| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   bc5dbf3 | feat: added IAM bounded context                                                    | Agregar el bounded context de iam y conectarlo con el proyecto                                      | 09/07/2025         |
-| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | develop |   a803d31 | Merge pull request #19 from AplicacionesWeb-4380-G2-VibeFit/feature/publishingcontext                                                    | Pull request closed                                      | 09/07/2025         |
-| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | develop |   f02fa28 | feat: added IAM                                                   | Se añadió el bounded context de ima y si hizo el facade de USER de presenting para usarlo en el signup                                      | 08/07/2025         |
+BACKEND
+
+| Repository | Branch | Commit Id | Commit Message | Description | Commited on (Date) |
+|------------|--------|-----------|----------------|-------------|---------------------|
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `563f2f6` | Update Program.cs | Ajuste en Program.cs para mejorar configuración general | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `ea33ee4` | Update appsettings.json | Actualización en appsettings.json | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `773f867` | Update appsettings.Development.json | Actualización para entorno de desarrollo | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | develop | `a803d31` | Merge pull request #19 from AplicacionesWeb-4380-G2-VibeFit/feature/publishing | Se fusionó el contexto de publishing | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | develop | `d950f4f` | feat: added routes authorize | Rutas protegidas añadidas con autorización | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/publishing | `19337db` | feat: endpoints fixed publishing | Endpoints corregidos en publishing | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/iam | `e0d29e8` | feat: added IAM | Se añadió bounded context IAM | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/publishing | `de5469e` | feat: added controllers | Se añadieron controladores al módulo publishing | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/publishing | `b7603c7` | commit: saves | Cambios parciales guardados en publishing | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/publishing | `b7603c7` | feat: actualiza nombres controllers en plural | Controllers renombrados en plural | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `7c9acc1` | feat: actualiza nombres controllers en plural | Unificación de nombres de controllers | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `2d44ff4` | feat: actualiza nombres controllers en plural | Se renombraron los controladores | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `5a2f5b0` | Cambia el env de presentin | Ajustes de entorno en módulo presenting | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `0060f0a` | Cambia el nombre de los controller de presenting | Renombrado de controllers en Presenting | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `0800d8f` | Mejorar el certificado de presenting | Certificados refinados en módulo Presenting | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `8b0ca2a` | Mejorar los parámetros de cada Get de presenting | Ajustes en parámetros de consultas GET | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `7b60b2a` | Arreglando el atributo ImageURL de User | Fix en campo de imagen del usuario | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `2c4671d` | Arreglando el atributo ProfileId de User | Corrección en campo ProfileId | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `662b6a3` | Presenting | Inicio del módulo Presenting | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `5e7d80a` | Update Program.cs | Update adicional a Program.cs | 07/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `917b6be` | Update appsettings.Development.json | Configuración development actualizada | 07/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `2a222d6` | Update appsettings.json | Actualización general de appsettings | 07/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `5ddba03` | Add or update the Azure App Service build and deployment workflow config | Se añade o actualiza configuración de despliegue Azure | 07/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `a85522f` | Add or update the Azure App Service build and deployment workflow config | Despliegue automatizado en Azure | 07/07/2025 |
+
+
+FRONTEND
+| Repository | Branch | Commit Id | Commit Message | Description | Commited on (Date) |
+|------------|--------|-----------|----------------|-------------|---------------------|
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/publishing | `be3af24` | feat: fixed env production | Corrige las variables de entorno para producción | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/publishing | `bc5dfb3` | feat: fixed stores | Implementación de stores para identificación de usuarios | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/publishing | `02d85ff` | feat: added IAM bounded context | Agrega el bounded context de IAM | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/publishing | `75636de` | feat: added publishing bounded context | Conecta el bounded context de publishing con el frontend | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/publishing | `75636de` | chore: actualiza nombres de endpoints en plural en .env | Corrección de nombres en archivo de entorno | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop | `5e738bf` | chore: actualiza nombres de endpoints en plural en .env | Refactor en nombres de endpoints para pluralizar | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/presenting | `351907f` | Actualiza el env de presenting | Actualización de variables de entorno en módulo presenting | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | `8e334f2` | feat: actualiza endpoints y configuración .env | Se actualizan endpoints en entorno de configuración | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/presenting | `351907f` | Actualiza los components y pages para que use los entity y services | Refactor para usar entities y services en presenting | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/presenting | `eae6d66` | fix: correct endpoints and delete models no used | Corrige endpoints y elimina modelos no utilizados | 08/07/2025 |
+
+
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
