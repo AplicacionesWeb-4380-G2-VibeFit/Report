@@ -3843,6 +3843,9 @@ Al apretar el boton de comentarios se muestran los comentarios por reviews, dond
 Luego para cada review tambien hay un boton donde se puede reportar en caso se requiera, esto se almacena en la base de datos:
 <img src="./assets/review5.png" alt="review5">
 
+Ahora para demostrar los endpoints del lado del backend de reviewing(Reviews, ReviewComments, ReviewReports):
+<img src="./assets/reviewbackend.png" alt="reviewbackend">
+
 ##### Organizing:
 ##### Presenting:
 ##### Selling:
