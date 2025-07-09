@@ -60,6 +60,9 @@
 | TB2     | 20/06/2025  |   Miguel Angel Gomez Hurtado    |      - Use MockApi para que nuestro front end tenga una backend y base de datos provisional hasta tener la ultima version de nuestro Web Services  |
 | TB2     | 20/06/2025  |   Ramiro Alexander Guzman Chavez    |      - Actualicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar, añadir, borrar y reportar comentarios.     |
 | TB2     | 20/06/2025  |   Ramiro Alexander Guzman Chavez    |      - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
+| TF     | 06/07/2025  |   Miguel Angel Gomez Hurtado    |      - Revisé y realicé la implementación del bounded context IAM en frontend y backend. |
+| TF     | 07/06/2025  |   Miguel Angel Gomez Hurtado    |      - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
+| TF     | 09/06/2025  |   Miguel Angel Gomez Hurtado    |      - Refactorizé los endpoints del bounded context Publishing. |
 
 
 ---
