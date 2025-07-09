@@ -152,6 +152,7 @@ BACKEND
   - [TB1](#tb1)
   - [TP](#tp)
   - [TB2](#tb2)
+  - [TF](#tf)
   - [Contenido](#contenido)
       - [Tabla de contenidos](#tabla-de-contenidos)
   - [Student Outcome](#student-outcome)
@@ -356,6 +357,13 @@ BACKEND
   - [🛠️ Build del Proyecto Vue](#️-build-del-proyecto-vue-1)
   - [🔧 Inicializar Firebase Hosting](#-inicializar-firebase-hosting-1)
   - [🚀 Hacer Deploy](#-hacer-deploy-1)
+- [Despliegue del Backend en Azure App Service](#despliegue-del-backend-en-azure-app-service)
+  - [1. Creación del grupo de recursos](#1-creación-del-grupo-de-recursos)
+  - [2. Configuración del App Service](#2-configuración-del-app-service)
+  - [3. Integración con GitHub](#3-integración-con-github)
+  - [4. Conexión a base de datos MySQL Flexible](#4-conexión-a-base-de-datos-mysql-flexible)
+  - [5. Verificación de funcionamiento](#5-verificación-de-funcionamiento)
+  - [Conclusión](#conclusión)
   - [Evidencia del deploy](#evidencia-del-deploy-1)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.2.4. Sprint 4](#524-sprint-4)
@@ -364,6 +372,7 @@ BACKEND
     - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
     - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
     - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+        - [Publishing:](#publishing-1)
     - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
     - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
     - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
@@ -3373,7 +3382,7 @@ Participantes: Ramiro y Miguel, respectivamente.
 
 ### 5.2.4.1. Sprint Planning 4
 
-El Sprint #3, iniciado el 20/06/2025, tiene como objetivo mejorar las siguientes bounded context en el backend:
+El Sprint #4, iniciado el 20/06/2025, tiene como objetivo mejorar las siguientes bounded context en el backend:
 
 - Implementar el bounded **Publishing** y sus endpoints
 - Implementar el bounded **Reviewing** y sus endpoints
@@ -3385,7 +3394,7 @@ El Sprint #3, iniciado el 20/06/2025, tiene como objetivo mejorar las siguientes
 <table>
   <tr>
     <th> Sprint # </th>
-    <th> Sprint 3 </th>
+    <th> Sprint 4 </th>
   </tr>
   <tr>
     <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
@@ -3413,7 +3422,7 @@ El Sprint #3, iniciado el 20/06/2025, tiene como objetivo mejorar las siguientes
         <br> Guzmán Chávez, Ramiro Alexander
         <br> Gómez Hurtado, Miguel Angel
         <br> Briceño De La Cruz, Farid Sebastian
-        <br> Muñoz Vilcapoma, Mauricio Rigoberto
+        <br> Muñoz Vilcapoma, Mauricio Rigoberto <br>
     </td>
   </tr>
   <tr>
@@ -3449,11 +3458,11 @@ El Sprint #3, iniciado el 20/06/2025, tiene como objetivo mejorar las siguientes
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 4 Velocity </td>
-    <td> 37 </td>
+    <td> 124 </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sum of Story Points </td>
-    <td> 37 </td>
+    <td> 124 </td>
   </tr>
 </table>
 
@@ -3478,7 +3487,7 @@ Tabla con el backlog definido para el Sprint 4. Incluye ID de User Story, tareas
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <th colspan="4"> Sprint # </th>
-    <th colspan="7"> Sprint 3 </th>
+    <th colspan="7"> Sprint 4 </th>
   </tr>
   <tr>
     <th colspan="4"> User Story </th>
@@ -3510,7 +3519,7 @@ Tabla con el backlog definido para el Sprint 4. Incluye ID de User Story, tareas
     <th> UT34 </th>
     <th> Agregar rutina al cronograma </th>
     <th> Implementar la funcionalidad que permita añadir una rutina ya creada al cronograma del usuario </th>
-    <th> 3 </th>
+    <th> 4 </th>
     <th> Farid Briceño </th>
     <th> Done </th>
   </tr>
@@ -3520,7 +3529,7 @@ Tabla con el backlog definido para el Sprint 4. Incluye ID de User Story, tareas
     <th> UT35 </th>
     <th> Agregar ejercicios </th>
     <th> Implementar la funcionalidad que permita añadir ejercicios a una rutina </th>
-    <th> 3 </th>
+    <th> 4 </th>
     <th> Miguel Gomez </th>
     <th> Done </th>
   </tr>
@@ -3530,14 +3539,14 @@ Tabla con el backlog definido para el Sprint 4. Incluye ID de User Story, tareas
     <th> UT36 </th>
     <th> Agregar comidas </th>
     <th> Implementar la funcionalidad que permita añadir comidas a una rutina </th>
-    <th> 3 </th>
+    <th> 4 </th>
     <th> Miguel Gomez </th>
     <th> Done </th>
   </tr>
   <tr>
     <th> US24 </th>
     <th colspan="3"> Visualizar comentarios de una rutina publicada </th>
-    <th> UT38 </th>
+    <th> UT37 </th>
     <th> Ver comentarios </th>
     <th> Implementar la interfaz que permita mostrar los comentarios relacionados a una rutina publicada </th>
     <th> 3 </th>
@@ -3547,41 +3556,181 @@ Tabla con el backlog definido para el Sprint 4. Incluye ID de User Story, tareas
   <tr>
     <th> US25 </th>
     <th colspan="3"> Agregar un comentario a una rutina publicada </th>
-    <th> UT39 </th>
+    <th> UT38 </th>
     <th> Agregar comentario </th>
     <th> Implementar la funcionalidad que permita agregar comentarios a una rutina publicada </th>
-    <th> 3 </th>
+    <th> 4 </th>
     <th> Ramiro Guzmán </th>
     <th> Done </th>
   </tr>
   <tr>
     <th> US29 </th>
     <th colspan="3"> Editar información de perfil </th>
-    <th> UT40 </th>
+    <th> UT39 </th>
     <th> Editar perfil </th>
     <th> Implementar funcionalidad para editar el perfil del usuario. </th>
-    <th> 6 </th>
+    <th> 4 </th>
     <th> Diego Acuña </th>
     <th> Done </th>
   </tr>
   <tr>
     <th> US35 </th>
     <th colspan="3"> Comprar un curso </th>
-    <th> UT41 </th>
+    <th> UT40 </th>
     <th> Comprar curso </th>
     <th> Implementar la funcionalidad que permita comprar un curso publicado </th>
-    <th> 3 </th>
+    <th> 4 </th>
     <th> Mauricio Vilcapoma </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US09 </th>
+    <th colspan="3"> Registro básico </th>
+    <th> UT41 </th>
+    <th> Registrarse </th>
+    <th> Permitir al usuario el registro inicial con su correo electrónico </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US10 </th>
+    <th colspan="3"> Registro completo </th>
+    <th> UT42 </th>
+    <th> Actualizar su perfil </th>
+    <th> Ser capaz de actualizar los datos de su perfil </th>
+    <th> 4 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US14 </th>
+    <th colspan="3"> Actualización objetivos </th>
+    <th> UT43 </th>
+    <th> Actualizar objetivos </th>
+    <th> Implementar la posibilidad de actualizar objetivos de un plan </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US19 </th>
+    <th colspan="3"> Creación de una nueva rutina </th>
+    <th> UT44 </th>
+    <th> Crear rutina </th>
+    <th> Implementar la función de crear rutinas </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US23 </th>
+    <th colspan="3"> Visualización de rutina y sus componentes </th>
+    <th> UT45 </th>
+    <th> Ver rutina </th>
+    <th> Implementar la función de ver rutinas existentes </th>
+    <th> 3 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US26 </th>
+    <th colspan="3"> Editar un comentario propio </th>
+    <th> UT46 </th>
+    <th> Editar comentario </th>
+    <th> Cambiar el contenido de un comentario realizado por el mismo usuario </th>
+    <th> 4 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US27 </th>
+    <th colspan="3"> Eliminar un comentario propio </th>
+    <th> UT47 </th>
+    <th> Eliminar comentario </th>
+    <th> Eliminar un comentario realizado por el mismo usuario </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US31 </th>
+    <th colspan="3"> Agregar y eliminar amigos </th>
+    <th> UT48 </th>
+    <th> Agregar amigo </th>
+    <th> Añadir un amigo al usuario </th>
+    <th> 4 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US31 </th>
+    <th colspan="3"> Agregar y eliminar amigos </th>
+    <th> UT49 </th>
+    <th> Eliminar amigo </th>
+    <th> Eliminar un amigo del usuario </th>
+    <th> 3 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US34 </th>
+    <th colspan="3"> Ver detalles de un curso </th>
+    <th> UT50 </th>
+    <th> Ver curso </th>
+    <th> Se observará el detalle/data completo de un curso </th>
+    <th> 3 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> TS02 </th>
+    <th colspan="3"> API para consulta estructurada del cronograma </th>
+    <th> UT51 </th>
+    <th> Crear endpoints del bounded context organizing (Schedules) </th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades Schedules </th>
+    <th> 8 </th>
+    <th> Farid Briceño </th>
     <th> Done </th>
   </tr>
   <tr>
     <th> TS03 </th>
     <th colspan="3"> Estructura relacional entre Rutina, Ejercicio y Comida </th>
-    <th> UT42 </th>
+    <th> UT52 </th>
     <th> Crear endpoints del bounded context publishing (HealthPlans) </th>
     <th> Implementar los métodos HTTP para interactuar con las entidades HealthPlan, Exercise y Meals </th>
-    <th> 6 </th>
+    <th> 8 </th>
     <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> TS05 </th>
+    <th colspan="3"> Modelo de comentarios con rating vinculado a rutina </th>
+    <th> UT53 </th>
+    <th> Crear endpoints del bounded context reviewing (Reviews) </th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades Reviews, Comments, Reports </th>
+    <th> 8 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> TS08 </th>
+    <th colspan="3"> Relaciones entre usuarios para funcionalidad de amistad </th>
+    <th> UT54 </th>
+    <th> Crear endpoints del bounded context presenting (Profile) </th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades Followers </th>
+    <th> 8 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> TS10 </th>
+    <th colspan="3"> Lógica de compra y asignación de cursos </th>
+    <th> UT55 </th>
+    <th> Crear endpoints del bounded context selling (Routine sales) </th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades Payments, Purchased Plans, Purchase History </th>
+    <th> 8 </th>
+    <th> Mauricio Vilcapoma </th>
     <th> Done </th>
   </tr>
   </table>
