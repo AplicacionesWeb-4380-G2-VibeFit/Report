@@ -3842,6 +3842,12 @@ Al apretar el boton de comentarios se muestran los comentarios por reviews, dond
 Luego para cada review tambien hay un boton donde se puede reportar en caso se requiera, esto se almacena en la base de datos:
 <img src="./assets/review5.png" alt="review5">
 
+##### Organizing:
+##### Presenting:
+##### Selling:
+
+
+
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
