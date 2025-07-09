@@ -3643,6 +3643,19 @@ Ahora para demostrar los endpoints del lado del backend de publishing (Exercises
 
 [![image.png](https://i.postimg.cc/rpcbrPhb/image.png)](https://postimg.cc/pmGqNqMY)
 
+##### Reviewing:
+En esta imagen muestra todas reviews:
+<img src="./assets/review1.png" alt="review1">
+En esta imagen se muestra solo las review por un plan seleccionado:
+<img src="./assets/review2.png" alt="review2">
+En esta imagen se muestra el formulario para poder crear una nueva review:
+<img src="./assets/review3.png" alt="review3">
+Al apretar el boton de comentarios se muestran los comentarios por reviews, donde se puede escribir un comentario y seleccionar una review para poder asignarle el comentario:
+<img src="./assets/review4.png" alt="review4">
+Luego para cada review tambien hay un boton donde se puede reportar en caso se requiera, esto se almacena en la base de datos:
+<img src="./assets/review5.png" alt="review5">
+
+
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Documentación técnica de los servicios desarrollados: endpoints, contratos de API, flujos de datos, modelos utilizados, y ejemplos de respuestas esperadas.
