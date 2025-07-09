@@ -3110,6 +3110,77 @@ Hosting URL: https://fitwise-frontend.web.app/home
 ```
 
 ---
+# Despliegue del Backend en Azure App Service
+
+El backend del proyecto **FitWise** fue desplegado en la plataforma **Azure App Service**, aprovechando los recursos disponibles en la suscripción **Azure for Students**. A continuación, se detallan los pasos seguidos durante el proceso de implementación.
+
+---
+
+## 1. Creación del grupo de recursos
+
+Se creó el grupo de recursos `FitWiseAppWeb`, que sirve como contenedor lógico para los recursos del proyecto. Este agrupamiento permite una mejor organización, monitoreo y control de costos desde el portal de Azure.
+
+---
+
+## 2. Configuración del App Service
+
+En la sección *App Services* del portal de Azure, se configuró una nueva aplicación web con las siguientes características:
+
+- **Nombre de la aplicación**: `Fitwise` (con sufijo automático para generar un dominio único)
+- **Sistema operativo**: Linux
+- **Plan de App Service**: `ASP-FitWiseAppWeb-89ce`
+- **SKU**: Básico (B1) — 1.75 GB de memoria, 1 vCPU
+- **Región**: East US 2
+- **Publicación**: Código
+
+---
+
+## 3. Integración con GitHub
+
+Se habilitó la integración continua a través de **GitHub Actions**, conectando el App Service al repositorio:
+
+
+Esta integración generó un *workflow* automático que permite desplegar la aplicación cada vez que se realiza un *push* al repositorio. La última implementación registrada se completó con éxito, según los registros disponibles en el portal de Azure.
+
+---
+
+## 4. Conexión a base de datos MySQL Flexible
+
+El backend se conecta a una base de datos tipo **Azure Database for MySQL - Flexible Server**, con el identificador `fitwiseappweb-server`. La conexión fue configurada mediante variables de entorno dentro del App Service:
+
+- Se añadió la cadena de conexión en:  
+  `Configuración > Configuración de la aplicación`
+- Se siguió el formato requerido por Entity Framework Core para su correcto reconocimiento desde el backend.
+
+---
+
+## 5. Verificación de funcionamiento
+
+La validación del despliegue se realizó accediendo a la interfaz Swagger de la API, confirmando que los endpoints estaban operativos. Algunos de los endpoints disponibles son:
+
+- `GET /api/v1/certificate`
+- `POST /api/v1/exercise`
+- `GET /api/v1/follower`
+
+Esto evidenció que la aplicación fue desplegada correctamente y se encuentra funcionando con éxito.
+
+---
+
+## Conclusión
+
+Gracias a esta implementación en Azure, el backend de FitWise quedó alojado en la nube con capacidad de escalado, disponibilidad continua y control de versiones. Además, la integración con GitHub asegura un flujo automatizado para futuros despliegues y actualizaciones del proyecto.
+
+
+
+![image](https://github.com/user-attachments/assets/73d3c827-ed3a-4aa6-a16c-2551d143efff)
+![image](https://github.com/user-attachments/assets/a1a5e8af-afcd-4da8-a813-2e2bec79de57)
+![image](https://github.com/user-attachments/assets/e75f3ecd-f5a9-4fcb-9926-ce665e656f9d)
+![image](https://github.com/user-attachments/assets/b4c8fda3-2e81-418a-a071-e1cdde5aa1c7)
+![image](https://github.com/user-attachments/assets/9fa0638c-a4d8-4d2a-b1be-30404ba94484)
+![image](https://github.com/user-attachments/assets/1347c7ed-13d5-493a-be63-5c0e86f770ef)
+![image](https://github.com/user-attachments/assets/fcbfef06-412d-4660-bc2a-814e97d52e66)
+
+
 ## Evidencia del deploy
 
 Link del Deploy del FrontEnd: https://fitwise-9402e.web.app/
