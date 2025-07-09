@@ -373,6 +373,7 @@ BACKEND
     - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
     - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
         - [Publishing:](#publishing-1)
+        - [Reviewing:](#reviewing)
     - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
     - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
     - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
@@ -3454,7 +3455,7 @@ El Sprint #4, iniciado el 20/06/2025, tiene como objetivo mejorar las siguientes
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 4 Goal</td>
-    <td> Mejorar y completar las funcionalidades implementadas en el frontend. </td>
+    <td> Mejorar y completar las funcionalidades implementadas en el front-end, desarrollar los servicios de back-end para que haya una comunicación bilateral, así como con la base de datos y deployaer todos los servicios del proyecto.</td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 4 Velocity </td>
