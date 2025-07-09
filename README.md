@@ -3633,6 +3633,11 @@ Luego tenemos la página para crear comidas/ejercicios o editarlos. Además de h
 
 [![image.png](https://i.postimg.cc/8PN1TZGy/image.png)](https://postimg.cc/9zg3ptrT)
 
+Ahora para demostrar los endpoints del lado del backend de publishing (Exercises, Meals, HealthPlan, HealthPlanMeal, HealthPlanExercise y HealthPlanDetails):
+[![image.png](https://i.postimg.cc/6QJK1cML/image.png)](https://postimg.cc/75Vj538f)
+
+[![image.png](https://i.postimg.cc/rpcbrPhb/image.png)](https://postimg.cc/pmGqNqMY)
+
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Documentación técnica de los servicios desarrollados: endpoints, contratos de API, flujos de datos, modelos utilizados, y ejemplos de respuestas esperadas.
