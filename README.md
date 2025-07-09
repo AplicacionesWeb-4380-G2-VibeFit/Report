@@ -3585,6 +3585,14 @@ Tabla con el backlog definido para el Sprint 4. Incluye ID de User Story, tareas
 
 Capturas, fragmentos de código y commits realizados durante el desarrollo de funcionalidades correspondientes al Sprint 4. Se incluyen enlaces a pull requests o repositorios si aplica.
 
+| Repository                                                          | Branch  | Commit Id | Commit Message                                                          | Description                                                    | Commited on (Date) |
+|---------------------------------------------------------------------|---------|-----------|-------------------------------------------------------------------------|----------------------------------------------------------------|--------------------|
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   be3af24 | feat: fixed env production                                                    | Actualización de variables de entorno                                      | 09/07/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   3a48cf8 | feat: fixed stores                                                    | Implementación de stores para identificar users                                      | 09/07/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   bc5dbf3 | feat: added IAM bounded context                                                    | Agregar el bounded context de iam y conectarlo con el proyecto                                      | 09/07/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | develop |   a803d31 | Merge pull request #19 from AplicacionesWeb-4380-G2-VibeFit/feature/publishingcontext                                                    | Pull request closed                                      | 09/07/2025         |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | develop |   f02fa28 | feat: added IAM                                                   | Se añadió el bounded context de ima y si hizo el facade de USER de presenting para usarlo en el signup                                      | 08/07/2025         |
+
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
 Evidencia de ejecución funcional del software: gifs, capturas de pantalla, flujos grabados de navegación en la plataforma desarrollada durante este Sprint.
