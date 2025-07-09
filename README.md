@@ -3637,6 +3637,34 @@ Luego tenemos la página para crear comidas/ejercicios o editarlos. Además de h
 
 Documentación técnica de los servicios desarrollados: endpoints, contratos de API, flujos de datos, modelos utilizados, y ejemplos de respuestas esperadas.
 
+| Recurso           | Acción                       | Verbo HTTP | Endpoint                                 | Parámetros                | Ejemplo de Response |
+|-------------------|------------------------------|------------|------------------------------------------|---------------------------|---------------------|
+| HealthPlans       | Obtener todos                | GET        | /api/healthplans                         | —                         | ✅                  |
+| HealthPlans       | Obtener por ID               | GET        | /api/healthplans/{id}                    | id: number                | ✅                  |
+| HealthPlans       | Crear                        | POST       | /api/healthplans                         | body: objeto plan         | ✅                  |
+| HealthPlans       | Actualizar                   | PUT        | /api/healthplans/{id}                    | id: number, body: plan    | ✅                  |
+| HealthPlans       | Eliminar                     | DELETE     | /api/healthplans/{id}                    | id: number                | ✅                  |
+| Meals             | Obtener todos                | GET        | /api/meals                               | —                         | ✅                  |
+| Meals             | Obtener por ID               | GET        | /api/meals/{id}                          | id: number                | ✅                  |
+| Meals             | Obtener por healthPlanId     | GET        | /api/meals?healthPlanId={id}             | healthPlanId: number      | ✅                  |
+| Meals             | Crear                        | POST       | /api/meals                               | body: objeto meal         | ✅                  |
+| Meals             | Actualizar                   | PUT        | /api/meals/{id}                          | id: number, body: meal    | ✅                  |
+| Exercises         | Obtener todos                | GET        | /api/exercises                           | —                         | ✅                  |
+| Exercises         | Obtener por ID               | GET        | /api/exercises/{id}                      | id: number                | ✅                  |
+| Exercises         | Obtener por healthPlanId     | GET        | /api/exercises?healthPlanId={id}         | healthPlanId: number      | ✅                  |
+| Exercises         | Crear                        | POST       | /api/exercises                           | body: objeto ex           | ✅                  |
+| Exercises         | Actualizar                   | PUT        | /api/exercises/{id}                      | id: number, body: ex      | ✅                  |
+| healthPlanMeals             | Obtener todos                | GET        | /api/healthPlanMeals                               | —                         | ✅                  |
+| healthPlanMeals             | Obtener por ID               | GET        | /api/healthPlanMeals/{id}                          | id: number                | ✅                  |
+| healthPlanMeals             | Obtener meals asignados a un healthPlan     | GET        | /api/healthPlan/{healthPlanId}/meals            | healthPlanId: number      | ✅                  |
+| healthPlanMeals             | Crear                        | POST       | /api/healthPlanMeals                               | body: objeto healthPlanMeals         | ✅                  |
+| healthPlanMeals             | Actualizar                   | PUT        | /api/healthPlanMeals/{id}                          | id: number, body: healthPlanMeals    | ✅                  |
+| healthPlanExercises             | Obtener todos                | GET        | /api/healthPlanExercises                               | —                         | ✅                  |
+| healthPlanExercises             | Obtener por ID               | GET        | /api/healthPlanExercises/{id}                          | id: number                | ✅                  |
+| healthPlanExercises             | Obtener exercises asignados a un healthPlan     | GET        | /api/healthPlan/{healthPlanId}/exercises            | healthPlanId: number      | ✅                  |
+| healthPlanExercises             | Crear                        | POST       | /api/healthPlanExercises                               | body: objeto healthPlanExercises         | ✅                  |
+| healthPlanExercises             | Actualizar                   | PUT        | /api/healthPlanExercises/{id}                          | id: number, body: healthPlanExercises    | ✅                  |
+
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 Evidencia de despliegue en entorno de pruebas o producción: versiones generadas, logs del pipeline de CI/CD, dirección de despliegue (por ejemplo: vercel, firebase, render, etc.).
