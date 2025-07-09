@@ -3597,6 +3597,42 @@ Capturas, fragmentos de código y commits realizados durante el desarrollo de fu
 
 Evidencia de ejecución funcional del software: gifs, capturas de pantalla, flujos grabados de navegación en la plataforma desarrollada durante este Sprint.
 
+##### Publishing:
+
+Esta imagen muestra los planes que uno puede crear:
+[![image.png](https://i.postimg.cc/zGpYDN7v/image.png)](https://postimg.cc/WdDHSQQc)
+
+Esta imagen tiene la pantalla de update de un plan de salud y comparte campos con el de creación:
+[![image.png](https://i.postimg.cc/vT5CJwDQ/image.png)](https://postimg.cc/gLkMh5v5)
+
+Esta imagen muestra el dialog de confirmación para eliminar un plan de salud y es común a lo largo del proyecto:
+[![image.png](https://i.postimg.cc/mgLK5q4s/image.png)](https://postimg.cc/6yPH7MTj)
+
+Este página se encarga de dar detalles de los planes de salud y se accde con el botón de ver de color celeste.
+:[![image.png](https://i.postimg.cc/wBt4KYbS/image.png)](https://postimg.cc/7Ckn7d4V)
+
+Esta página tambien puede editar y eliminar un plan de salud:
+[![image.png](https://i.postimg.cc/KvRMDckS/image.png)](https://postimg.cc/ZCznTSxV)
+
+[![image.png](https://i.postimg.cc/jSYSnRyh/image.png)](https://postimg.cc/Vd483QGS)
+
+La pagína de details tiene la función de asignar comidas y ejercicios a un plan de salud. Además, los filtra por día de la semana.:
+[![image.png](https://i.postimg.cc/SsPyS4yC/image.png)](https://postimg.cc/0MpgnLKy)
+
+[![image.png](https://i.postimg.cc/Vs3C4QjJ/image.png)](https://postimg.cc/14rX5d7S)
+
+A su vez cuenta con opciones de edición y eliminado:
+[![image.png](https://i.postimg.cc/B6RXhHPr/image.png)](https://postimg.cc/JDcr0yqx)
+
+[![image.png](https://i.postimg.cc/brXw0PK8/image.png)](https://postimg.cc/zbjN5szP)
+
+Luego tenemos la página para crear comidas/ejercicios o editarlos. Además de hacer un filtrado por nombre. Cabe resalta que tambien cuenta con un paginado:
+[![image.png](https://i.postimg.cc/kXvgSkw3/image.png)](https://postimg.cc/9rz25gvJ)
+
+[![image.png](https://i.postimg.cc/pd4WxxV8/image.png)](https://postimg.cc/sBPd9khD)
+
+[![image.png](https://i.postimg.cc/8PN1TZGy/image.png)](https://postimg.cc/9zg3ptrT)
+
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Documentación técnica de los servicios desarrollados: endpoints, contratos de API, flujos de datos, modelos utilizados, y ejemplos de respuestas esperadas.
