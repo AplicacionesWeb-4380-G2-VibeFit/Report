@@ -354,9 +354,11 @@ BACKEND
     - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-  - [🛠️ Build del Proyecto Vue](#️-build-del-proyecto-vue-1)
-  - [🔧 Inicializar Firebase Hosting](#-inicializar-firebase-hosting-1)
-  - [🚀 Hacer Deploy](#-hacer-deploy-1)
+- [Despliegue del Frontend en Firebase](#despliegue-del-frontend-en-firebase)
+  - [1. Build del Proyecto Vue](#1-build-del-proyecto-vue)
+  - [](#)
+  - [2. Inicialización de Firebase Hosting](#2-inicialización-de-firebase-hosting)
+  - [3. Deploy a Firebase Hosting](#3-deploy-a-firebase-hosting)
 - [Despliegue del Backend en Azure App Service](#despliegue-del-backend-en-azure-app-service)
   - [1. Creación del grupo de recursos](#1-creación-del-grupo-de-recursos)
   - [2. Configuración del App Service](#2-configuración-del-app-service)
@@ -3221,89 +3223,47 @@ A continuación, se presenta una tabla con los endpoints documentados, incluyend
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-En este caso hemos realizado el `deploy` mediante el servicio de **Hosting** de Firebase.
-
-Aquí tienes los pasos para hacer deploy de tu proyecto Vue a Firebase en formato `.md`:
-
----
-
-````markdown
-# 🚀 Deploy de Proyecto Vue.js a Firebase Hosting
-
-## ✅ Requisitos Previos
-
-1. **Instalar Node.js y npm**  
-   Asegúrate de tener Node.js y npm instalados en tu máquina. Puedes verificarlo con:
-
-   ```bash
-   node -v
-   npm -v
-````
-
-2. **Instalar Firebase CLI**
-
-   ```bash
-   npm install -g firebase-tools
-   ```
-
-3. **Tener una cuenta de Firebase y crear un proyecto**
-
-   * Ve a [https://console.firebase.google.com](https://console.firebase.google.com)
-   * Crea un proyecto nuevo o usa uno existente.
+# Despliegue del Frontend en Firebase
+El frontend del proyecto **FitWise** fue desplegado en la plataforma **Firebase Hosting**, permitiendo una publicación rápida y segura de la aplicación web. A continuación, se detallan los pasos seguidos durante el proceso de implementación.
 
 ---
 
-## 🛠️ Build del Proyecto Vue
+## 1. Build del Proyecto Vue
 
-Si estás usando Vue CLI:
+Se ejecutó el comando `npm run build` en el proyecto Vue para generar la carpeta `dist` con los archivos listos para producción.
 
-```bash
-npm run build
-```
+<img src="./assets/build1.png" alt="build">
 
-Si estás usando Vite:
+<img src="./assets/build2.png" alt="build">
+---
 
-```bash
-npm run build
-```
+## 2. Inicialización de Firebase Hosting
 
-Esto generará una carpeta `dist/` con los archivos listos para producción.
+- Se instaló la CLI de Firebase con `npm install -g firebase-tools`.
+- Se inició sesión con `firebase login`.
+- Se ejecutó `firebase init` y se seleccionó el proyecto correspondiente en Firebase.
+- Se configuró la carpeta pública como `dist`.
+
+<img src="./assets/init1.png" alt="build">
+<img src="./assets/init2.png" alt="build">
 
 ---
 
-## 🔧 Inicializar Firebase Hosting
+## 3. Deploy a Firebase Hosting
 
-Ejecuta lo siguiente en la raíz del proyecto:
-
-```bash
-firebase login
-firebase init hosting
-```
-
-Durante el proceso:
-
-* Selecciona tu proyecto de Firebase
-* Establece `dist` como directorio público
-* Responde `Yes` a la opción de configurar como SPA (Single Page App)
-* Responde `No` cuando pregunte si quieres sobrescribir `index.html`
-
----
-
-## 🚀 Hacer Deploy
-
-Una vez configurado correctamente, ejecuta:
+Se realizó el despliegue con el comando:
 
 ```bash
 firebase deploy
 ```
+<img src="./assets/init3.png" alt="build">
 
-Al finalizar, recibirás una URL pública como esta:
+Al finalizar, se obtuvo la URL pública del frontend:
 
-```
-Hosting URL: https://fitwise-frontend.web.app/home
-```
+- **Link del Deploy del FrontEnd:** https://fitwise-frontend.web.app
 
 ---
+
 # Despliegue del Backend en Azure App Service
 
 El backend del proyecto **FitWise** fue desplegado en la plataforma **Azure App Service**, aprovechando los recursos disponibles en la suscripción **Azure for Students**. A continuación, se detallan los pasos seguidos durante el proceso de implementación.
