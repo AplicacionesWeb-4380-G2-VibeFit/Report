@@ -30,36 +30,44 @@
 
 ## Registro de Versiones del Informe
 
+
 | Versión | Fecha       | Autor | Descripción |
 |---------|-------------|-------|-------------|
-| TB1     | 17/04/2025  |  Ramiro Alexander Guzman Chavez <br><br> Miguel Angel Gomez Hurtado  | - Desarrollé la carátula del repositorio, el startup profile, la solution profile, establecí los segmentos objetivos, el diseño de las entrevistas y mis entrevistas por segmento objetivo. <br> - Realizé el análisis de competidores y las estrategias contra ellos. Tome liderazgo en la creación de las historias de usuario e impact Mapping |
-| TB1     | 25/04/2025  |   Ramiro Alexander Guzman Chavez  <br><br> Miguel Angel Gomez Hurtado |  - Desarrollé el diagrama de clases, el class dictionary, el diseño de la base de datos y el prototipo web. <br> - Realizé el Product Backlog y la guía de estilos generales y web de los puntos 4.1 y 4.2. Además, valida los deploys y documenté los resultados de la creación de la Landing Page.  |
-| TB1     | 24/04/2025  |   Farid Sebastian Briceño De La Cruz   | - Desarollé el wireframe y mockup de la landing page (4.3). |
-| TB1     | 25/04/2025  |   Farid Sebastian Briceño De La Cruz   | - Desarollé Web Application UX/UI Design (4.4), lo que incluye wireframe, wireflow, mockup y user flow. |
-| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    | -Desarrolle el needfinding (user persona, task matrix, journey mapping e impact mapping)            |
-| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma   |     -Desarrolle el modelo c4 del diagrama de contexto        |
-| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma     |        -Desarrolle el modelo c4 del diagrama de componentes     |
-| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |       -Desarrolle el modelo c4 del diagrama de contenedores      |
-| TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas     |    - Realicé las entrevistas asignadas y desarrollé un registro para ellas.         |
-| TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas     |     - Programé la landing page estática desde cero, asegurándome de que fuera responsive y que pudiera hacer deploy. También estuve modificándola para solucionar errores.        |
-| TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas    |      - Realicé los As-is Scenario Mapping, Ubiquitous Language y To-Be Scenario Mapping al revisar el trabajo, reconocer las palabras clave y guiarme por las entrevistas.       |
-| TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas    |      - Completé los capítulos del Sprint 1, incluyendo el Sprint Planning 1, Aspect Leaders and Collaborators, y Sprint Backlog 1.     |
-| TB1     | 25/04/2025  |   Diego Rolin Acuña    |      - Realicé el Trello para organizar y confirmar el desarrollo de las secciones de la landing page.     |
-| TP      | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - Realicé el código del bounded context de publishing, el cual se encarga de editar, mostrar rutinas.     |
-| TP      | 14/05/2025  |   Farid Sebastian Briceño De La Cruz    |      - Realicé el código del bounded context de organizing, el cual se encarga de editar, mostrar itinerarios.     |
-| TP      | 14/05/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - Realicé el código del bounded context de selling, el cual se encarga de editar, mostrar planes a vender.     |
-| TP      | 14/05/2025  |   Diego Rolin Acuña Tomas    |      - Realicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario.     |
-| TP      | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Realicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar el perfil comentarios.     |
-| TB2     | 14/05/2025  |   Diego Rolin Acuña Tomas    |      - Actualicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario y administrar seguidores.     |
-| TB2     | 14/05/2025  |   Diego Rolin Acuña Tomas    |      - reporte algo   |
-| TB2     | 14/05/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - Actualicé el código del bounded context de selling, el cual se encarga de editar, mostrar, registrar las ventas del usuario.     |
-| TB2     | 14/05/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - reporte algo |
-| TB2     | 14/05/2025  |   Farid Sebastian Briceño De La Cruz    |      - Actualicé el código del bounded context de organizing, el cual se encarga de editar, mostrar y eliminar itinerarios del usuario.     |
-| TB2     | 14/05/2025  |   Farid Sebastian Briceño De La Cruz    |      - Añadí el punto 5.2.3 que corresponde al sprint 3 del proyecto     |
-| TB2     | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - Actualicé el código del bounded context de publishing, el cual se encarga de editar, mostrar, agregar y eliminar rutinas gestionadas por el usuario.     |
-| TB2     | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - Use MockApi para que nuestro front end tenga una backend y base de datos provisional hasta tener la ultima version de nuestro Web Services  |
-| TB2     | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Actualicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar, añadir, borrar y reportar comentarios.     |
-| TB2     | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
+| TB1     | 17/04/2025  | Ramiro Alexander Guzman Chavez <br><br> Miguel Angel Gomez Hurtado | - Desarrollé la carátula del repositorio, el startup profile, la solution profile, establecí los segmentos objetivos, el diseño de las entrevistas y mis entrevistas por segmento objetivo. <br> - Realicé el análisis de competidores y las estrategias contra ellos. Tomé liderazgo en la creación de las historias de usuario e impact Mapping |
+| TB1     | 25/04/2025  | Ramiro Alexander Guzman Chavez <br><br> Miguel Angel Gomez Hurtado | - Desarrollé el diagrama de clases, el class dictionary, el diseño de la base de datos y el prototipo web. <br> - Realicé el Product Backlog y la guía de estilos generales y web de los puntos 4.1 y 4.2. Además, validé los deploys y documenté los resultados de la creación de la Landing Page. |
+| TB1     | 24/04/2025  | Farid Sebastian Briceño De La Cruz | - Desarrollé el wireframe y mockup de la landing page (4.3). |
+| TB1     | 25/04/2025  | Farid Sebastian Briceño De La Cruz | - Desarrollé Web Application UX/UI Design (4.4), lo que incluye wireframe, wireflow, mockup y user flow. |
+| TB1     | 25/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Desarrollé el needfinding (user persona, task matrix, journey mapping e impact mapping) |
+| TB1     | 25/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Desarrollé el modelo c4 del diagrama de contexto |
+| TB1     | 25/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Desarrollé el modelo c4 del diagrama de componentes |
+| TB1     | 25/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Desarrollé el modelo c4 del diagrama de contenedores |
+| TB1     | 25/04/2025  | Diego Rolin Acuña Tomas | - Realicé las entrevistas asignadas y desarrollé un registro para ellas. |
+| TB1     | 25/04/2025  | Diego Rolin Acuña Tomas | - Programé la landing page estática desde cero, asegurándome de que fuera responsive y que pudiera hacer deploy. También estuve modificándola para solucionar errores. |
+| TB1     | 25/04/2025  | Diego Rolin Acuña Tomas | - Realicé los As-is Scenario Mapping, Ubiquitous Language y To-Be Scenario Mapping al revisar el trabajo, reconocer las palabras clave y guiarme por las entrevistas. |
+| TB1     | 25/04/2025  | Diego Rolin Acuña Tomas | - Completé los capítulos del Sprint 1, incluyendo el Sprint Planning 1, Aspect Leaders and Collaborators, y Sprint Backlog 1. |
+| TB1     | 25/04/2025  | Diego Rolin Acuña | - Realicé el Trello para organizar y confirmar el desarrollo de las secciones de la landing page. |
+| TP      | 14/05/2025  | Miguel Angel Gomez Hurtado | - Realicé el código del bounded context de publishing, el cual se encarga de editar, mostrar rutinas. |
+| TP      | 14/05/2025  | Farid Sebastian Briceño De La Cruz | - Realicé el código del bounded context de organizing, el cual se encarga de editar, mostrar itinerarios. |
+| TP      | 14/05/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Realicé el código del bounded context de selling, el cual se encarga de editar, mostrar planes a vender. |
+| TP      | 14/05/2025  | Diego Rolin Acuña Tomas | - Realicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario. |
+| TP      | 14/05/2025  | Ramiro Alexander Guzman Chavez | - Realicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar el perfil comentarios. |
+| TB2     | 20/06/2025  | Diego Rolin Acuña Tomas | - Actualicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario y administrar seguidores. |
+| TB2     | 20/06/2025  | Diego Rolin Acuña Tomas | - Realicé el informe de validación de entrevistas, registrando los hallazgos clave de usabilidad identificados en la interacción con los usuarios y proponiendo mejoras sobre las funcionalidades más valoradas por ellos. |
+| TB2     | 20/06/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Actualicé el código del bounded context de selling, el cual se encarga de editar, mostrar, registrar las ventas del usuario. |
+| TB2     | 20/06/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Elaboré el resumen ejecutivo del avance del proyecto para el capítulo 5.4, integrando hallazgos del backend, estado del frontend y plan de despliegue, con foco en la presentación del MVP. |
+| TB2     | 20/06/2025  | Farid Sebastian Briceño De La Cruz | - Actualicé el código del bounded context de organizing, el cual se encarga de editar, mostrar y eliminar itinerarios del usuario. |
+| TB2     | 20/06/2025  | Farid Sebastian Briceño De La Cruz | - Añadí el punto 5.2.3 que corresponde al sprint 3 del proyecto |
+| TB2     | 20/06/2025  | Miguel Angel Gomez Hurtado | - Actualicé el código del bounded context de publishing, el cual se encarga de editar, mostrar, agregar y eliminar rutinas gestionadas por el usuario. |
+| TB2     | 20/06/2025  | Miguel Angel Gomez Hurtado | - Use MockApi para que nuestro front end tenga una backend y base de datos provisional hasta tener la última versión de nuestro Web Services |
+| TB2     | 20/06/2025  | Ramiro Alexander Guzman Chavez | - Actualicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar, añadir, borrar y reportar comentarios. |
+| TB2     | 20/06/2025  | Ramiro Alexander Guzman Chavez | - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
+| TF      | 06/07/2025  | Miguel Angel Gomez Hurtado | - Revisé y realicé la implementación del bounded context IAM en frontend y backend. |
+| TF      | 07/06/2025  | Miguel Angel Gomez Hurtado | - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
+| TF      | 09/06/2025  | Miguel Angel Gomez Hurtado | - Refactoricé los endpoints del bounded context Publishing. |
+| TF      | 07/06/2025  | Ramiro Alexander Guzman Chavez | - Refactoricé los endpoints del bounded context Reviewing. |
+| TF      | 07/06/2025  | Diego Rolin Acuña Tomas | - Refactoricé los endpoints del bounded context Presenting. |
+| TF      | 07/06/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Refactoricé los endpoints del bounded context Selling. |
+| TF      | 07/06/2025  | Farid Sebastian Briceño De La Cruz | - Refactoricé los endpoints del bounded context Organizing. |
 
 
 ---
@@ -78,283 +86,210 @@
 
     <img src="./assets/COLABO.png" alt="COLABO"/>
 
-    Para facilitar el desarrollo del trabajo, optamos por seguir el flujo de trabajo Gitflow. En este esquema, cada subtítulo del informe fue tratado como una feature. Un miembro del equipo creaba una rama específica para ese subtítulo y trabajaba en ella, mientras que otros miembros podían colaborar directamente o supervisar su progreso. Una vez finalizada la feature, todo el equipo revisaba el contenido y, tras obtener el consenso, se realizaba el merge hacia la rama develop. Además, organizamos las tareas considerando su nivel de dificultad, asegurando así una distribución equitativa del trabajo entre todos los integrantes.
+## TB1
 
-  A lo largo del desarrollo de la TB1, generamos varias ramas distintas que fueron integradas a la rama develop. Cada una representaba una sección específica del proyecto. Este enfoque nos permitió trabajar de manera ordenada y colaborativa, asegurando que cada parte del informe fuera desarrollada y revisada de forma independiente antes de su integración final.
+Para facilitar el desarrollo del trabajo, optamos por seguir el flujo de trabajo Gitflow. En este esquema, cada subtítulo del informe fue tratado como una *feature*. Un miembro del equipo creaba una rama específica para ese subtítulo y trabajaba en ella, mientras que otros miembros podían colaborar directamente o supervisar su progreso. Una vez finalizada la *feature*, todo el equipo revisaba el contenido y, tras obtener el consenso, se realizaba el merge hacia la rama `develop`. Además, organizamos las tareas considerando su nivel de dificultad, asegurando así una distribución equitativa del trabajo entre todos los integrantes.
 
-    <img src="./assets/COLABO2.png" alt="COLABO2"/>
+A lo largo del desarrollo de la TB1, generamos varias ramas distintas que fueron integradas a la rama `develop`. Cada una representaba una sección específica del proyecto. Este enfoque nos permitió trabajar de manera ordenada y colaborativa, asegurando que cada parte del informe fuera desarrollada y revisada de forma independiente antes de su integración final.
+
+![COLABO2](./assets/COLABO2.png)
+
+## TP
+A lo largo del desarrollo del TP, generamos varias ramas distintas que fueron integradas a la rama develop. Cada una representaba una sección específica del proyecto. Este enfoque nos permitió trabajar de manera ordenada y colaborativa, asegurando que cada parte del informe fuera desarrollada y revisada de forma independiente antes de su integración final.
+Aquí se pueden visualizar todos los commits realizados para la TP1, lo cual evidencia el trabajo colaborativo del equipo.
+
+![TPWEB1](./assets/TPWEB1.png)
+
+## TB2
+La presente entrega de la TB2 documenta el avance del proyecto en su tercera iteración de desarrollo, así como los esfuerzos de validación y cierre parcial, alineados con el marco ágil adoptado.
+
+Se incluyen los siguientes apartados:
+
+5.2.3. Sprint 3: Detalla la planificación y ejecución del tercer sprint, abarcando la definición del sprint backlog, los responsables por aspecto, la evidencia de desarrollo, ejecución, documentación de servicios y despliegue del software, así como los hallazgos de la colaboración del equipo durante el sprint.
+
+5.3. Validation Interviews: Describe el diseño, registro y análisis heurístico de entrevistas realizadas a usuarios y expertos, con el fin de evaluar la usabilidad y funcionalidad del producto en desarrollo.
+
+5.4. Video About-the-Product: Incluye un material audiovisual de apoyo que presenta el producto, sus principales características y el estado actual del desarrollo.
+
+Avance de Conclusiones, Bibliografía y Anexos: Se presentan los primeros avances en los apartados de conclusiones, las fuentes bibliográficas utilizadas y los anexos que complementan la documentación del trabajo realizado.
+
+Esta entrega refleja el progreso logrado hasta el momento, evidenciando la planificación, la construcción incremental del producto y las acciones realizadas para su validación y mejora continua.
+
+![image](https://github.com/user-attachments/assets/9b11734d-7368-457a-8548-24a130b5430a)
+![image](https://github.com/user-attachments/assets/45247518-1543-4e71-bc54-864a2220716e)
+![image](https://github.com/user-attachments/assets/28f69e11-40d5-4b4d-8770-f28d451bcd39)
+
+FRONTEND
+
+![image](https://github.com/user-attachments/assets/88e128db-31fc-4ad4-b49c-2b71dea3abb6)
+![image](https://github.com/user-attachments/assets/c3c5152a-9e5a-4e27-a528-66afda84e4a6)
+
+
+LANDING
+
+![image](https://github.com/user-attachments/assets/dd0b5c26-f1e3-4b28-bc43-c3f91b880d37)
+![image](https://github.com/user-attachments/assets/a6c67de9-6b03-42e4-a5cf-968bee278f84)
+
+
+BACKEND
+![image](https://github.com/user-attachments/assets/5645a755-bbca-45b8-9aa2-daf0c3520bdc)
+![image](https://github.com/user-attachments/assets/e679c56f-5b4a-4951-aca2-3ae1ef71fb39)
+![image](https://github.com/user-attachments/assets/97211206-8d38-49ce-a498-5e35ecf77196)
+
+## TF
+Se presenta el historico del report:
+<img src="./assets/TB2REPORTE1.png" alt="TB2REPORTE1">
+<img src="./assets/TB2REPORTE2.png" alt="TB2REPORTE2">
 
     
 ---
 ---
 ## Contenido
-#### Tabla de contenidos
+## Tabla de Contenidos
 
-- [VibeFit](#vibefit)
-- [UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS](#universidad-peruana-de-ciencias-aplicadas)
-    - [Carrera: Ingeniería de Software](#carrera-ingeniería-de-software)
-    - [Ciclo: 5° ciclo](#ciclo-5-ciclo)
-    - [Curso: Aplicaciones Web](#curso-aplicaciones-web)
-    - [Sección: 1ASI0730](#sección-1asi0730)
-    - [Profesor: Hugo Allan Mori Paiva](#profesor-hugo-allan-mori-paiva)
-  - [Informe de Trabajo Final](#informe-de-trabajo-final)
-    - [Integrantes:](#integrantes)
-  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
-  - [Contenido](#contenido)
-      - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Student Outcome](#student-outcome)
-  - [Capítulo I: Introducción](#capítulo-i-introducción)
-    - [1.1. Startup Profile](#11-startup-profile)
-      - [1.1.1. Descripción de la startup](#111-descripción-de-la-startup)
-      - [1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo)
-      - [**Muñoz Vilcapoma Mauricio – Ingeniería de Software – U202217212**](#muñoz-vilcapoma-mauricio--ingeniería-de-software--u202217212)
-      - [**Ramiro Alexander Guzman Chavez – Ingeniería de Software – U202217062**](#ramiro-alexander-guzman-chavez--ingeniería-de-software--u202217062)
-      - [**Farid Sebastian Briceño De La Cruz – Ingeniería de Software – U20211F211**](#farid-sebastian-briceño-de-la-cruz--ingeniería-de-software--u20211f211)
-      - [**Miguel Angel Gómez Hurtado – Ingeniería de Software – U202220294**](#miguel-angel-gómez-hurtado--ingeniería-de-software--u202220294)
-      - [**Diego Rolin Acuña Tomas – Ingeniería de Software – u202221436**](#diego-rolin-acuña-tomas--ingeniería-de-software--u202221436)
-    - [1.2. Solution Profile](#12-solution-profile)
-      - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-      - [1.2.2. Lean UX Process](#122-lean-ux-process)
-        - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-        - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-        - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-        - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-    - [1. Adultos y jóvenes ocupados](#1-adultos-y-jóvenes-ocupados)
-    - [2. Entrenadores y profesionales del fitness](#2-entrenadores-y-profesionales-del-fitness)
-  - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
-    - [2.1. Competidores](#21-competidores)
-    - [a) Freeletics](#a-freeletics)
-    - [b) Fitbod](#b-fitbod)
-    - [c) MyFitnessPal (Under Armour)](#c-myfitnesspal-under-armour)
-      - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-  - [Análisis SWOT](#análisis-swot)
-      - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-        - [1. **Diferenciación Básica pero Clave**](#1-diferenciación-básica-pero-clave)
-        - [2. **Enfoque en Nichos Específicos**](#2-enfoque-en-nichos-específicos)
-        - [3. **Alianzas de Bajo Costo**](#3-alianzas-de-bajo-costo)
-      - [**Acciones por Competidor (Enfoque Práctico)**](#acciones-por-competidor-enfoque-práctico)
-    - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [Segmento: Adultos y jóvenes ocupados](#segmento-adultos-y-jóvenes-ocupados)
-      - [**Principales:**](#principales)
-    - [Segmento: Entrenadores y profesionales del fitness](#segmento-entrenadores-y-profesionales-del-fitness)
-      - [**Principales:**](#principales-1)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-      - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-        - [🔍 **Análisis de la Entrevista 1 – Christopher Ursia**](#-análisis-de-la-entrevista-1--christopher-ursia)
-        - [🔍 **Análisis de la Entrevista 2 – Joaquin Zapata**](#-análisis-de-la-entrevista-2--joaquin-zapata)
-        - [🔍 **Análisis de la Entrevista 3 – Alexia Acuña**](#-análisis-de-la-entrevista-3--alexia-acuña)
-        - [🔍 **Análisis de la Entrevista 4 – Renzo Dueñas**](#-análisis-de-la-entrevista-4--renzo-dueñas)
-        - [🔍 **Análisis de la Entrevista 5 – Gino Tineo**](#-análisis-de-la-entrevista-5--gino-tineo)
-        - [🔍 **Análisis de la Entrevista 6 – Diego Quispe**](#-análisis-de-la-entrevista-6--diego-quispe)
-    - [2.3. Needfinding](#23-needfinding)
-      - [2.3.1. User Personas](#231-user-personas)
-      - [2.3.2. User Task Matrix](#232-user-task-matrix)
-      - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-      - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-      - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-  - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-    - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-    - [3.2. User Stories](#32-user-stories)
-    - [3.3. Impact Mapping](#33-impact-mapping)
-      - [Business Goal 1:](#business-goal-1)
-      - [Business Goal 2:](#business-goal-2)
-      - [Business Goal 3:](#business-goal-3)
-      - [Business Goal 4:](#business-goal-4)
-    - [3.4. Product Backlog](#34-product-backlog)
-  - [Capítulo IV: Product Design](#capítulo-iv-product-design)
-    - [4.1. Style Guidelines](#41-style-guidelines)
-      - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-        - [**1. BRANDING**](#1-branding)
-        - [**2. TYPOGRAPHY**](#2-typography)
-        - [**3. COLORS**](#3-colors)
-        - [**4. SPACING**](#4-spacing)
-        - [**5. TONO DE COMUNICACIÓN**](#5-tono-de-comunicación)
-        - [**6. LENGUAJE APLICADO**](#6-lenguaje-aplicado)
-      - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-      - [**1. Componentes UI Responsive**](#1-componentes-ui-responsive)
-        - [**A. Header/Navegación**](#a-headernavegación)
-        - [**B. Cards (Dietas/Rutinas)**](#b-cards-dietasrutinas)
-        - [**C. Formularios (Login/Registro)**](#c-formularios-loginregistro)
-      - [**2. Interacciones y Estados**](#2-interacciones-y-estados)
-      - [**3. Breakpoints y Grid**](#3-breakpoints-y-grid)
-      - [**4. Animaciones y Transiciones**](#4-animaciones-y-transiciones)
-      - [**5. Ejemplo de Código (CSS Responsive)**](#5-ejemplo-de-código-css-responsive)
-    - [4.2. Information Architecture](#42-information-architecture)
-      - [4.2.1. Organization Systems](#421-organization-systems)
-        - [1. Organización Visual del Contenido](#1-organización-visual-del-contenido)
-          - [a) Jerárquica (Prioridad Visual)](#a-jerárquica-prioridad-visual)
-          - [b) Secuencial (Paso a Paso)](#b-secuencial-paso-a-paso)
-          - [c) Matricial (Cuadrícula)](#c-matricial-cuadrícula)
-        - [2. Esquemas de Categorización](#2-esquemas-de-categorización)
-          - [a) Por Temas](#a-por-temas)
-          - [b) Por Tipo de Usuario](#b-por-tipo-de-usuario)
-          - [c) Cronológico](#c-cronológico)
-          - [Mapa de Organización](#mapa-de-organización)
-      - [4.2.2. Labeling Systems](#422-labeling-systems)
-        - [1. Landing Page](#1-landing-page)
-          - [a) Navegación Principal](#a-navegación-principal)
-          - [b) Sección Hero](#b-sección-hero)
-          - [c) Sección de Beneficios](#c-sección-de-beneficios)
-          - [d) Sección de Sobre Nosotros](#d-sección-de-sobre-nosotros)
-          - [e) Sección de Contactanos](#e-sección-de-contactanos)
-          - [d) Sección de Información](#d-sección-de-información)
-        - [2. Aplicación Web](#2-aplicación-web)
-          - [a) Navegación Global](#a-navegación-global)
-          - [b) Panel de Control](#b-panel-de-control)
-          - [c) Formularios](#c-formularios)
-        - [3. Convenciones Transversales](#3-convenciones-transversales)
-          - [a) Estados](#a-estados)
-          - [b) Tamaños de Texto](#b-tamaños-de-texto)
-        - [4. Reglas de Implementación](#4-reglas-de-implementación)
-      - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-        - [1. Landing Page](#1-landing-page-1)
-        - [2. Aplicación Web](#2-aplicación-web-1)
-      - [4.2.4. Searching Systems](#424-searching-systems)
-        - [1. Búsqueda en Dashboard Principal](#1-búsqueda-en-dashboard-principal)
-          - [Filtros Disponibles:](#filtros-disponibles)
-        - [2. Búsqueda en Módulo de Nutrición](#2-búsqueda-en-módulo-de-nutrición)
-          - [Filtros Avanzados:](#filtros-avanzados)
-      - [4.2.5. Navigation Systems](#425-navigation-systems)
-        - [1. Landing Page](#1-landing-page-2)
-          - [Estructura Principal](#estructura-principal)
-        - [2. Aplicación Web](#2-aplicación-web-2)
-          - [Navegación Global](#navegación-global)
-    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-      - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-      - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-    - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-      - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-      - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-      - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-      - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-      - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-      - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-      - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-      - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.7.2 Class Dictionary](#472-class-dictionary)
-      - [4.8 Database Design](#48-database-design)
-      - [4.8.1. Database Diagram](#481-database-diagram)
-  - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
-    - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-      - [Project Management](#project-management)
-      - [Requirement Management](#requirement-management)
-      - [Product UX/UI Design](#product-uxui-design)
-      - [Software Development](#software-development)
-      - [Software Documentation](#software-documentation)
-      - [Software Deployment](#software-deployment)
-    - [5.1.2. Source Code Management](#512-source-code-management)
-      - [Producto y Repositorio](#producto-y-repositorio)
-      - [Estructura del Repositorio](#estructura-del-repositorio)
-      - [Flujo de trabajo GitFlow](#flujo-de-trabajo-gitflow)
-      - [Mensajes de Commits](#mensajes-de-commits)
-      - [Documentación](#documentación)
-    - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
-      - [HTML](#html)
-      - [CSS](#css)
-      - [JavaScript](#javascript)
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-      - [Landing Page](#landing-page)
-      - [Control de Versiones](#control-de-versiones)
-    - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
-      - [5.2.1. Sprint 1](#521-sprint-1)
-        - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-        - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-        - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-        - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-        - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-        - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [🧰 **Requisitos previos**](#-requisitos-previos)
-    - [🚀 **Pasos para hacer deploy**](#-pasos-para-hacer-deploy)
-        - [1. Crear un nuevo repositorio en GitHub](#1-crear-un-nuevo-repositorio-en-github)
-        - [2. Subir tu proyecto al repositorio](#2-subir-tu-proyecto-al-repositorio)
-        - [3. Habilitar GitHub Pages](#3-habilitar-github-pages)
-        - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
+- [Tabla de contenidos](#tabla-de-contenidos)
+- [Student Outcome](#student-outcome)
+
+### Capítulo I: Introducción
+- [1.1. Startup Profile](#11-startup-profile)
+  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+- [1.2. Solution Profile](#12-solution-profile)
+  - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+  - [1.2.2. Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+
+### Capítulo II: Requirements Elicitation & Analysis
+- [2.1. Competidores](#21-competidores)
+  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2. Entrevistas](#22-entrevistas)
+  - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+  - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+- [2.3. Needfinding](#23-needfinding)
+  - [2.3.1. User Personas](#231-user-personas)
+  - [2.3.2. User Task Matrix](#232-user-task-matrix)
+  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [2.4. Ubiquitous Language](#24-ubiquitous-language)
+
+### Capítulo III: Requirements Specification
+- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+- [3.2. User Stories](#32-user-stories)
+- [3.3. Impact Mapping](#33-impact-mapping)
+- [3.4. Product Backlog](#34-product-backlog)
+
+### Capítulo IV: Product Design
+- [4.1. Style Guidelines](#41-style-guidelines)
+  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+- [4.2. Information Architecture](#42-information-architecture)
+  - [4.2.1. Organization Systems](#421-organization-systems)
+  - [4.2.2. Labeling Systems](#422-labeling-systems)
+  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+  - [4.2.4. Searching Systems](#424-searching-systems)
+  - [4.2.5. Navigation Systems](#425-navigation-systems)
+- [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+  - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+- [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+  - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+  - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+- [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+- [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+  - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+  - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+  - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+- [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+  - [4.7.1. Class Diagrams](#471-class-diagrams)
+  - [4.7.2. Class Dictionary](#472-class-dictionary)
+- [4.8. Database Design](#48-database-design)
+  - [4.8.1. Database Diagram](#481-database-diagram)
+
+### Capítulo V: Product Implementation, Validation & Deployment
+- [5.1. Software Configuration Management](#51-software-configuration-management)
+  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+  - [5.1.2. Source Code Management](#512-source-code-management)
+  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+  - [5.2.1. Sprint 1](#521-sprint-1)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+    - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+    - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+    - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
   - [5.2.2. Sprint 2](#522-sprint-2)
     - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
     - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
     - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
-        - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
-        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-          - [Home](#home)
-          - [Publishing](#publishing)
-          - [Profile](#profile)
-        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-  - [🛠️ Build del Proyecto Vue](#️-build-del-proyecto-vue)
-  - [🔧 Inicializar Firebase Hosting](#-inicializar-firebase-hosting)
-  - [🚀 Hacer Deploy](#-hacer-deploy)
-  - [Evidencia del deploy](#evidencia-del-deploy)
-        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-      - [5.2.3. Sprint 3](#523-sprint-3)
-        - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-        - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
-        - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
-        - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
-        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-  - [🛠️ Build del Proyecto Vue](#️-build-del-proyecto-vue-1)
-  - [🔧 Inicializar Firebase Hosting](#-inicializar-firebase-hosting-1)
-  - [🚀 Hacer Deploy](#-hacer-deploy-1)
-  - [Evidencia del deploy](#evidencia-del-deploy-1)
-        - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-  - [5.3 Validation Interviews](#53-validation-interviews)
-    - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [Segmento: Adultos y jóvenes ocupados](#segmento-adultos-y-jóvenes-ocupados-1)
-      - [**Interacción con la landing page:**](#interacción-con-la-landing-page)
-      - [**Uso de la aplicación (navegación y funcionalidad):**](#uso-de-la-aplicación-navegación-y-funcionalidad)
-      - [**Personalización y adaptación a su rutina:**](#personalización-y-adaptación-a-su-rutina)
-      - [**Atractivo motivacional y emocional:**](#atractivo-motivacional-y-emocional)
-      - [**Valor percibido y disposición a pagar:**](#valor-percibido-y-disposición-a-pagar)
-    - [Segmento: Entrenadores y profesionales del fitness](#segmento-entrenadores-y-profesionales-del-fitness-1)
-      - [**Experiencia general con la plataforma:**](#experiencia-general-con-la-plataforma)
-      - [**Creación de contenido profesional:**](#creación-de-contenido-profesional)
-      - [**Seguimiento y métricas:**](#seguimiento-y-métricas)
-      - [**Comunicación y soporte al cliente:**](#comunicación-y-soporte-al-cliente)
-      - [**Monetización y propuesta de valor:**](#monetización-y-propuesta-de-valor)
-    - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3 Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-      - [TAREAS A EVALUAR:](#tareas-a-evaluar)
-    - [TABLA RESUMEN - Evaluación Heurística de FitWise](#tabla-resumen---evaluación-heurística-de-fitwise)
-    - [DESCRIPCIÓN DE PROBLEMAS](#descripción-de-problemas)
-      - [PROBLEMA #1: No hay elementos multimedia que refuercen la propuesta (e.g., video demostrativo)](#problema-1-no-hay-elementos-multimedia-que-refuercen-la-propuesta-eg-video-demostrativo)
-      - [PROBLEMA #2: Reviews visibles sin estar autenticado generan confusión](#problema-2-reviews-visibles-sin-estar-autenticado-generan-confusión)
-      - [PROBLEMA #3: Falta de claridad en el propósito y contenido de las secciones iniciales](#problema-3-falta-de-claridad-en-el-propósito-y-contenido-de-las-secciones-iniciales)
-      - [PROBLEMA #4: La sección "Sales" no está completamente operativa](#problema-4-la-sección-sales-no-está-completamente-operativa)
-      - [PROBLEMA #5: No existe función de generación de dieta basada en ingredientes disponibles](#problema-5-no-existe-función-de-generación-de-dieta-basada-en-ingredientes-disponibles)
-      - [PROBLEMA #6: El proceso de seguimiento de rutina y pagos no es claro](#problema-6-el-proceso-de-seguimiento-de-rutina-y-pagos-no-es-claro)
-      - [PROBLEMA #7: No hay retroalimentación clara al seguir o dejar de seguir entrenadores](#problema-7-no-hay-retroalimentación-clara-al-seguir-o-dejar-de-seguir-entrenadores)
-  - [Video About-the-Product](#video-about-the-product)
-  - [Conclusiones](#conclusiones)
-  - [Recomendaciones](#recomendaciones)
-  - [Bibliografía](#bibliografía)
-  - [Anexos](#anexos)
+    - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+    - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+    - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+    - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+    - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+    - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+- [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-the-Product](#54-video-about-the-product)
+
+### Conclusiones
+- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+- [Video About-the-Team](#video-about-the-team)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
+
+
 
 ## Student Outcome
 
 ---
 
 **ABET – EAC - Student Outcome 5**  
-**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.  
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **MAURICIO MUÑOZ** <br> **TB1:** Me comuniqué activamente con mi equipo para coordinar las tareas asignadas a cada miembro. Además, realicé consultas al profesor para resolver dudas del grupo y transmitir la información de forma clara y útil. <br><br> **TP:**<br><br>  **RAMIRO GUZMÁN** <br> **TB1:** Participé en la organización interna del equipo, proponiendo soluciones durante reuniones técnicas. Fomenté el diálogo entre los miembros para asegurar una comunicación abierta y lideré la revisión final de entregables. <br><br> **TP:** <br><br> **MIGUEL GOMEZ** <br> **TB1:** Realicé las secciones de 2.1, 3.2 - 3.4, 4.1 y 4.2. En las cuales recibi retroalimentación de mis compañeros para los mock ups. Además, siempre mantuve un canal abierto para informar sobre mis avances y en cómo afectarían al desarrollo de mis compañeros. <br><br> **TP:** Realizé el bounded context de publishing y modiqfique las historias de usaurios pertinentes<br><br> **TB2:** Finalizé el diseño del front end Publishing y entregué la primera versión del BackEnd de Publishing (HealthPlans)<br><br>**FARID BRICEÑO** <br> **TB1:** Coordiné las reuniones para asegurarme de que todos los miembros del equipo estuvieran alineados con los objetivos del proyecto. Además, propuse estrategias para mantener la motivación y el enfoque dentro del equipo, contribuyendo a la toma de decisiones finales en conjunto. <br><br> **TP:** <br><br> **DIEGO ACUÑA** <br> **TB1:** Asumí un rol activo en la toma de decisiones técnicas y en la organización del trabajo. Realicé propuestas para mejorar los procesos del equipo y garantice que se cumplieran los plazos establecidos. <br><br> **TP:** Decidimos como separar los bounded context y nos pusimos de acuerdo las fechas para entregar los avances, tambien nos apoyamos para solucionar los problemas de desplegar el front end. <br><br> **TB2:** Dimos fechas para finalizar el front end, ademas de decidir las preguntas para las entrevistas y avances del backend.  <br><br> | **TB1:** Cada integrante cumplió con las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva, lo cual fortaleció la confianza entre los miembros. Esto contribuyó significativamente al fortalecimiento del trabajo en equipo, un aspecto esencial en proyectos colaborativos. <br><br> **TP:** Cada integrantes realizó sus actividades realizadasy mantuvieron una comunicación efectiva mediante el desarrollo del front end en github y ramas. Esto contribuyó en el cumplimiento de los diferentes objetivos propuestos para este sprint.<br><br>**TB2:** Esta entregra estuvo principalmente centrada en terminar definitivamente el desarrollo del FrontEnd y la presentación del inicio del BackEnd. Utilizamos herramientas nuevas como deploy de bases de datos y uso de platillas vue como Sakai.<br><br>|
- | 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **MAURICIO MUÑOZ** <br> **TB1:** Respeté los objetivos y fechas establecidos por el equipo, cumpliendo con mis tareas puntualmente. También informaba sobre nuevos avisos o cambios relevantes, ayudando a mantener la planificación y coordinación del grupo. <br><br> **TP:** <br><br> **RAMIRO GUZMÁN** <br> **TB1:** Apoyé activamente la planificación del proyecto, sugiriendo cronogramas realistas y detectando posibles cuellos de botella. Promoví un ambiente donde todos los integrantes se sintieran cómodos aportando ideas, favoreciendo la inclusión y el compromiso. <br><br> **TP:** <br><br> **MIGUEL GOMEZ** <br> **TB1:** Ayudé a segmentar nuestro público objetivo de mejor manera. En adición a esto, me presentaba a la pequeña reunión después de clases para coordinar los detalles de nuestros avances y trabajos a realizar. <br><br> **TP:** M encagué de la destribución de bounded context con los integrantes del grupo, mantuve cierta auditoría con los progresos del equipo y fomente el apoyo antes dudas de tema teórico y práctico.<br><br>**TB2:** Me encargue de la coordinación del desarrollo del apartado BackEnd mediante la entrega de proyectos base y prototipos de mis endpoints.<br><br> **FARID BRICEÑO** <br> **TB1:** Contribuí al establecimiento de metas claras, ayudando a organizar las tareas de manera efectiva. Aseguré que todos los miembros del equipo tuvieran las herramientas necesarias para cumplir sus objetivos y fomentar una atmósfera inclusiva. <br><br> **TP:** <br><br> **DIEGO ACUÑA** <br> **TB1:** Propuse y coordine varias reuniones para establecer metas claras y medibles para el proyecto. Además, gestioné los tiempos de cada tarea para asegurar el cumplimiento de los objetivos del equipo. <br><br> **TP:** Tuvimos reuniiones para separa el las tablas y funcionalidades de cada bounded context, tambien para ayudar en el diseño de cada pagina del front end  <br><br> **TB2:** Tuvimos reuniones para confirmar la finalizacion de cada bounded context, ademas de decidir que pagina nos puede proporcionar un api fake para el front, y ayudar o explicar como haremos el backend. <br><br> | **TB1:** En conjunto, el equipo logró crear un entorno de trabajo colaborativo e inclusivo, en el que cada integrante aportó al establecimiento de metas claras, la planificación de tareas y el cumplimiento de los objetivos propuestos. La coordinación constante, el respeto por los plazos y la participación activa de todos los miembros permitieron un desarrollo fluido del proyecto, fortaleciendo tanto la eficiencia del grupo como el sentido de responsabilidad compartida. <br><br> **TP:** El equipo de trabajó logro mantener un orden en su cronograma de entregas, ya que consideramos pertinentes múltiples reuniones para coordinar las divisiones de carga de trabajo durante el desarrollo del front end.<br><br>**TB2:** El equipo pudo avanzar el desarrollo de manera continua aunque un poco pausada debido a la dificultad con la que se adaptaban al desarrallo backend.<br><br>|
-
+| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta.** | **TB1:** <br> **Mauricio Muñoz**: Coordinó tareas del equipo y realizó consultas al profesor para resolver dudas. <br> **Ramiro Guzmán**: Lideró la revisión final de entregables y fomentó comunicación abierta.<br> **Miguel Gomez**: Redactó secciones del documento con apoyo del equipo y comunicó avances.<br> **Farid Briceño**: Coordinó reuniones y propuso estrategias para mantener motivación.<br> **Diego Acuña**: Tomó decisiones técnicas y organizó el trabajo para cumplir plazos. <br><br> **TP:** <br> **Mauricio Muñoz**: Supervisó componentes reutilizables y organizó revisión de código.<br> **Ramiro Guzmán**: Integró el router de Vue y documentó funcionalidades.<br> **Miguel Gomez**: Definió bounded context y actualizó historias de usuario.<br> **Farid Briceño**: Lideró conexión de pantallas y estandarizó el código.<br> **Diego Acuña**: Coordinó fechas de entrega y resolvió problemas de despliegue. <br><br> **TB2:** <br> **Mauricio Muñoz**: Ajustó diseño visual y participó en testing en diferentes resoluciones.<br> **Ramiro Guzmán**: Propuso mejoras de accesibilidad y añadió microinteracciones.<br> **Miguel Gomez**: Finalizó el front de Publishing y entregó el backend inicial.<br> **Farid Briceño**: Añadió validaciones a inputs y mejoró diseño de tarjetas.<br> **Diego Acuña**: Coordinó avances del backend y preparó entrevistas. <br><br> **TF:** <br> **Miguel Gomez**: Mantuvo la comunicación y la repartición de responsabilidades con los miembros del equipo, además brindó ayuda en sus respectivos bounded context.<br> **Ramiro Guzmán**: Refactorizó endpoints de Reviewing y promovió revisión cruzada de código.<br> **Mauricio Muñoz**: Refactorizó endpoints de Selling y coordinó validación de flujos críticos.<br> **Farid Briceño**: Refactorizó endpoints de Organizing y estandarizó documentación técnica.<br> **Diego Acuña**: Refactorizó endpoints de Presenting y lideró pruebas finales del sistema. | **TB1:** Cada integrante cumplió con sus tareas asignadas, manteniendo una comunicación constante y efectiva, lo cual fortaleció la confianza entre los miembros y el trabajo en equipo.<br><br> **TP:** Se mantuvo una comunicación efectiva a través de GitHub y el uso de ramas, facilitando el cumplimiento de los objetivos del sprint.<br><br> **TB2:** El equipo finalizó el desarrollo del frontend e inició el backend, aplicando nuevas herramientas como el deploy de bases de datos y plantillas Vue como Sakai. <br><br> **TF:** Se finalizó el desarrollo de la aplicación web con los requerimientos definidos por el equipo y los requerimientos del docente. Se demostró liderazgo compartido, autonomía técnica y responsabilidad conjunta en los entregables finales. |
+| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **TB1:** <br> **Mauricio Muñoz**: Cumplió fechas y avisó sobre cambios relevantes.<br> **Ramiro Guzmán**: Propuso cronogramas realistas y promovió un ambiente inclusivo.<br> **Miguel Gomez**: Asistió a reuniones postclase para coordinar tareas.<br> **Farid Briceño**: Contribuyó a establecer metas claras y facilitar herramientas.<br> **Diego Acuña**: Coordinó reuniones para definir metas claras y tiempos.<br><br> **TP:** <br> **Mauricio Muñoz**: Verificó la navegación y reportó bugs visuales.<br> **Ramiro Guzmán**: Implementó rutas dinámicas y colaboró en wireframes.<br> **Miguel Gomez**: Distribuyó tareas por bounded context y apoyó dudas técnicas.<br> **Farid Briceño**: Realizó pruebas visuales y recopiló sugerencias UX.<br> **Diego Acuña**: Dividió tablas y funcionalidades en reuniones técnicas.<br><br> **TB2:** <br> **Mauricio Muñoz**: Documentó endpoints y coordinó conexión local entre frontend y backend.<br> **Ramiro Guzmán**: Optimizó componentes Vue y coordinó tablas CRUD.<br> **Miguel Gomez**: Coordinó desarrollo backend y entregó prototipos.<br> **Farid Briceño**: Aplicó mejoras responsive y ajustó breakpoints.<br> **Diego Acuña**: Validó finalización de bounded context y búsqueda de APIs fake. <br><br> **TF:** <br> **Miguel Gomez**: Realicé la implementación de servicios y componentes visuales, los cuales los compartí con los miembros del equipo para su uso como plantilla en sus respectivos trabajos.<br> **Ramiro Guzmán**: Colaboró en definir entregables intermedios y validó cumplimiento de tareas de equipo.<br> **Mauricio Muñoz**: Coordinó testeo conjunto y propuso mejoras para la versión final.<br> **Farid Briceño**: Aplicó cambios visuales por feedback del equipo y mantuvo comunicación con front/backend.<br> **Diego Acuña**: Organizó pull requests finales y aseguró integración completa del sistema. | **TB1:** El equipo creó un entorno de trabajo colaborativo e inclusivo, logrando establecer metas claras, planificar tareas y cumplir objetivos con coordinación y responsabilidad compartida.<br><br> **TP:** Se mantuvo orden y cronograma gracias a reuniones que permitieron una distribución eficiente del trabajo frontend.<br><br> **TB2:** El equipo logró avanzar en el desarrollo, a pesar de las dificultades del backend, gracias a una comunicación constante y apoyo mutuo. <br><br> **TF:** El equipo mantuvo una estricta comunicación de responsabilidades para poder seguir los avances de los demás miembros, permitiendo la correcta integración de funcionalidades y una entrega final alineada con los objetivos del proyecto. |
 
 ---
+
 
 ## Capítulo I: Introducción
 
@@ -2478,7 +2413,7 @@ El Sprint #2, iniciado el 28 de agosto de 2024, tiene como objetivo desarrollar 
 
 En el segundo sprint backlog, el equipo centró su trabajo en mostrar las rutinas y ventas disponibles, así como gestionar reseñas de usuarios. Se continuó utilizando Trello como herramienta principal de organización.
 
-![Trello](assets/Sprint2.png)
+![Trello Sprint 2](./assets/Trello2.png)
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
@@ -2572,6 +2507,17 @@ En el segundo sprint backlog, el equipo centró su trabajo en mostrar las rutina
 </table>
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
+
+En estos commits se puede observar los últimos updates a la rama main que se hizo en el repositorio del frontend.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | b7dad8a | Para que se muestre schedule | - | 14/05/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | 9e1b36e | Profile | - | 14/05/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | 27a6ba1 | Update App.vue | - | 14/05/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | af908a1 | se resolvieron conflictos | - | 14/05/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | 8f172fe | varios cambios | - | 14/05/2025 |
+
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -2736,7 +2682,7 @@ Para este sprint, las tareas de diseño, implementación y documentación del fr
 [![image.png](https://i.postimg.cc/zDQGxV1t/image.png)](https://postimg.cc/w3hzvxML)
 
 #### 5.2.3. Sprint 3
-[descripcion breve de qué se hizo en este sprint]
+En este sprint, el equipo se centró en terminar el desarrollo del front-end de la aplicación, habiendo completado las funcionalidades iniciadas en el sprint 2. Así como también se inició con el desarrollo de un endpoint del back-end de la aplicación.
 
 ##### 5.2.3.1. Sprint Planning 3
 El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes funcionalidades en el frontend:
@@ -2797,7 +2743,7 @@ El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes
   </tr>
    <tr>
     <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
-    <td> Se identificaron mejor agilidad para presentar entregables diarios entre los miembros del equipo. </td>
+    <td> Se identificó mejor agilidad para presentar entregables diarios entre los miembros del equipo. </td>
   </tr>
   <tr> 
     <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
@@ -2826,7 +2772,11 @@ El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes
 | Briceño De La Cruz, Farid Sebastian        | InjustShin                   | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
 | Muñoz Vilcapoma, Mauricio Rigoberto        | MauricioMVilcapoma           | C                   | C                  | C       | C                   | C                       | C                       | C                           | C                         |
 
-##### 5.2.3.3. Sprint Backlog 3
+### 5.2.3.3. Sprint Backlog 3
+
+En el tercer sprint backlog, el equipo centró su trabajo en mostrar los bounded context faltantes del front-end y el inicio de un endpoint del back-end. Se continuó utilizando Trello como herramienta principal de organización.
+
+![Trello Sprint 3](./assets/Trello3.png)
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
@@ -2942,14 +2892,14 @@ El Sprint #3, iniciado el 02/06/2025, tiene como objetivo mejorar las siguientes
     <th colspan="3"> Estructura relacional entre Rutina, Ejercicio y Comida </th>
     <th> UT32 </th>
     <th> Crear endpoints del bounded context publishing (HealthPlans)</th>
-    <th> Implementar los métodos HTTP para interactuar con las entidades HealthPlan, Exercise y Meals </th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades HealthPlan, Exercise y Meals. </th>
     <th> 4 </th>
     <th> Miguel Gomez </th>
     <th> InProgress </th>
   </tr>
 </table>
 
-##### 5.2.3.4. Development Evidence for Sprint Review
+### 5.2.3.4. Development Evidence for Sprint Review
 
 En estos commits se puede observar los últimos updates a la rama develop que se hizo en el repositorio del Front End.
 
@@ -2962,7 +2912,7 @@ En estos commits se puede observar los últimos updates a la rama develop que se
 | https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop |   7c83563 | feat: Add schedule-management                                           | Correcciones mayores del bounded context organizing (Schedule) | 18/06/2025         |
 | https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/publishing |   eaac4377bb69dae29ad443e2811227437871b49f | feat: Added Exercise Post Command                                           | Inicio del desarrollo de Exercises. HealthPlans Finalizado. | 20/06/2025         |
 
-##### 5.2.3.5. Execution Evidence for Sprint Review
+### 5.2.3.5. Execution Evidence for Sprint Review
 En esta entrega se corrigieron los bounded context y se agregaron nuevos en el frontend
 
 Home:
@@ -3018,7 +2968,7 @@ Video explicación HealthPlan Endpoints: https://upcedupe-my.sharepoint.com/:v:/
 <img src="./assets/Backend3.png" alt="Backend3">
 
 
-##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante este Sprint se avanzó con la documentación completa de los Web Services correspondientes a los siguientes contextos:
 - Users
@@ -3123,102 +3073,889 @@ A continuación, se presenta una tabla con los endpoints documentados, incluyend
 | PurchaseHistory   | Actualizar (agregar pago)    | PATCH      | /api/purchaseHistory/{userId}            | userId, body: payments    | ✅                  |
 
 
-##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-En este caso hemos realizado el `deploy` mediante el servicio de **Hosting** de Firebase.
-
-Aquí tienes los pasos para hacer deploy de tu proyecto Vue a Firebase en formato `.md`:
-
----
-
-````markdown
-# 🚀 Deploy de Proyecto Vue.js a Firebase Hosting
-
-## ✅ Requisitos Previos
-
-1. **Instalar Node.js y npm**  
-   Asegúrate de tener Node.js y npm instalados en tu máquina. Puedes verificarlo con:
-
-   ```bash
-   node -v
-   npm -v
-````
-
-2. **Instalar Firebase CLI**
-
-   ```bash
-   npm install -g firebase-tools
-   ```
-
-3. **Tener una cuenta de Firebase y crear un proyecto**
-
-   * Ve a [https://console.firebase.google.com](https://console.firebase.google.com)
-   * Crea un proyecto nuevo o usa uno existente.
+# Despliegue del Frontend en Firebase
+El frontend del proyecto **FitWise** fue desplegado en la plataforma **Firebase Hosting**, permitiendo una publicación rápida y segura de la aplicación web. A continuación, se detallan los pasos seguidos durante el proceso de implementación.
 
 ---
 
-## 🛠️ Build del Proyecto Vue
+## 1. Build del Proyecto Vue
 
-Si estás usando Vue CLI:
+Se ejecutó el comando `npm run build` en el proyecto Vue para generar la carpeta `dist` con los archivos listos para producción.
 
-```bash
-npm run build
-```
+<img src="./assets/build1.png" alt="build">
 
-Si estás usando Vite:
+<img src="./assets/build2.png" alt="build">
+---
 
-```bash
-npm run build
-```
+## 2. Inicialización de Firebase Hosting
 
-Esto generará una carpeta `dist/` con los archivos listos para producción.
+- Se instaló la CLI de Firebase con `npm install -g firebase-tools`.
+- Se inició sesión con `firebase login`.
+- Se ejecutó `firebase init` y se seleccionó el proyecto correspondiente en Firebase.
+- Se configuró la carpeta pública como `dist`.
+
+<img src="./assets/init1.png" alt="build">
+<img src="./assets/init2.png" alt="build">
 
 ---
 
-## 🔧 Inicializar Firebase Hosting
+## 3. Deploy a Firebase Hosting
 
-Ejecuta lo siguiente en la raíz del proyecto:
-
-```bash
-firebase login
-firebase init hosting
-```
-
-Durante el proceso:
-
-* Selecciona tu proyecto de Firebase
-* Establece `dist` como directorio público
-* Responde `Yes` a la opción de configurar como SPA (Single Page App)
-* Responde `No` cuando pregunte si quieres sobrescribir `index.html`
-
----
-
-## 🚀 Hacer Deploy
-
-Una vez configurado correctamente, ejecuta:
+Se realizó el despliegue con el comando:
 
 ```bash
 firebase deploy
 ```
+<img src="./assets/init3.png" alt="build">
 
-Al finalizar, recibirás una URL pública como esta:
+Al finalizar, se obtuvo la URL pública del frontend:
 
-```
-Hosting URL: https://fitwise-frontend.web.app/home
-```
+- **Link del Deploy del FrontEnd:** https://fitwise-frontend.web.app
 
 ---
+
+# Despliegue del Backend en Azure App Service
+
+El backend del proyecto **FitWise** fue desplegado en la plataforma **Azure App Service**, aprovechando los recursos disponibles en la suscripción **Azure for Students**. A continuación, se detallan los pasos seguidos durante el proceso de implementación.
+
+---
+
+## 1. Creación del grupo de recursos
+
+Se creó el grupo de recursos `FitWiseAppWeb`, que sirve como contenedor lógico para los recursos del proyecto. Este agrupamiento permite una mejor organización, monitoreo y control de costos desde el portal de Azure.
+
+---
+
+## 2. Configuración del App Service
+
+En la sección *App Services* del portal de Azure, se configuró una nueva aplicación web con las siguientes características:
+
+- **Nombre de la aplicación**: `Fitwise` (con sufijo automático para generar un dominio único)
+- **Sistema operativo**: Linux
+- **Plan de App Service**: `ASP-FitWiseAppWeb-89ce`
+- **SKU**: Básico (B1) — 1.75 GB de memoria, 1 vCPU
+- **Región**: East US 2
+- **Publicación**: Código
+
+---
+
+## 3. Integración con GitHub
+
+Se habilitó la integración continua a través de **GitHub Actions**, conectando el App Service al repositorio:
+
+
+Esta integración generó un *workflow* automático que permite desplegar la aplicación cada vez que se realiza un *push* al repositorio. La última implementación registrada se completó con éxito, según los registros disponibles en el portal de Azure.
+
+---
+
+## 4. Conexión a base de datos MySQL Flexible
+
+El backend se conecta a una base de datos tipo **Azure Database for MySQL - Flexible Server**, con el identificador `fitwiseappweb-server`. La conexión fue configurada mediante variables de entorno dentro del App Service:
+
+- Se añadió la cadena de conexión en:  
+  `Configuración > Configuración de la aplicación`
+- Se siguió el formato requerido por Entity Framework Core para su correcto reconocimiento desde el backend.
+
+---
+
+## 5. Verificación de funcionamiento
+
+La validación del despliegue se realizó accediendo a la interfaz Swagger de la API, confirmando que los endpoints estaban operativos. Algunos de los endpoints disponibles son:
+
+- `GET /api/v1/certificate`
+- `POST /api/v1/exercise`
+- `GET /api/v1/follower`
+
+Esto evidenció que la aplicación fue desplegada correctamente y se encuentra funcionando con éxito.
+
+---
+
+## Conclusión
+
+Gracias a esta implementación en Azure, el backend de FitWise quedó alojado en la nube con capacidad de escalado, disponibilidad continua y control de versiones. Además, la integración con GitHub asegura un flujo automatizado para futuros despliegues y actualizaciones del proyecto.
+
+
+
+![image](https://github.com/user-attachments/assets/73d3c827-ed3a-4aa6-a16c-2551d143efff)
+![image](https://github.com/user-attachments/assets/a1a5e8af-afcd-4da8-a813-2e2bec79de57)
+![image](https://github.com/user-attachments/assets/e75f3ecd-f5a9-4fcb-9926-ce665e656f9d)
+![image](https://github.com/user-attachments/assets/b4c8fda3-2e81-418a-a071-e1cdde5aa1c7)
+![image](https://github.com/user-attachments/assets/9fa0638c-a4d8-4d2a-b1be-30404ba94484)
+![image](https://github.com/user-attachments/assets/1347c7ed-13d5-493a-be63-5c0e86f770ef)
+![image](https://github.com/user-attachments/assets/fcbfef06-412d-4660-bc2a-814e97d52e66)
+
+
 ## Evidencia del deploy
 
 Link del Deploy del FrontEnd: https://fitwise-9402e.web.app/
 
-##### 5.2.3.8. Team Collaboration Insights during Sprint
+Link del Deploy del BackEnd: https://appwebfitwise-dbggb4h4bqdkb6hw.eastus2-01.azurewebsites.net/swagger/index.html
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Participantes: Ramiro y Miguel, respectivamente.
 
 [![image.png](https://i.postimg.cc/JnKQKpSr/image.png)](https://postimg.cc/wyyJjQ6Z)
 
-## 5.3 Validation Interviews
+---
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+El Sprint #4, iniciado el 20/06/2025, tiene como objetivo mejorar las siguientes bounded context en el backend:
+
+- Implementar el bounded **Publishing** y sus endpoints
+- Implementar el bounded **Reviewing** y sus endpoints
+- Implementar el bounded **Organizing** y sus endpoints
+- Implementar el bounded **Presenting** y sus endpoints
+- Implementar el bounded **Selling** y sus endpoints
+
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 4 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 20/06/2025 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 15:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Modalidad remota a través de Discord </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Guzmán Chávez, Ramiro Alexander </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td> 
+        <br> Acuña Tomas, Diego Rolin
+        <br> Guzmán Chávez, Ramiro Alexander
+        <br> Gómez Hurtado, Miguel Angel
+        <br> Briceño De La Cruz, Farid Sebastian
+        <br> Muñoz Vilcapoma, Mauricio Rigoberto <br>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+    <td> Se completó exitosamente la landing page con todas las secciones planificadas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+    <td> Se identificaron mejoras en la comunicación y coordinación entre los miembros del equipo. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+    <td> Se completó parcialmente el front-end incluyendo todas las secciones planificadas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+    <td> Se identificó mejor agilidad para presentar entregables diarios entre los miembros del equipo. </td>
+  </tr>
+   <tr>
+    <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+    <td> Se completó totalmente el front-end incluyendo todas las secciones planificadas. Se inició el desarrollo de un endpoint del back-end</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+    <td> Se identificaron debilidades entre los entregables de los miembros del equipo. </td>
+  </tr>
+  <tr> 
+    <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 4 Goal</td>
+    <td> Mejorar y completar las funcionalidades implementadas en el front-end, desarrollar los servicios de back-end para que haya una comunicación bilateral, así como con la base de datos y deployaer todos los servicios del proyecto.</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+    <td> 124 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 124 </td>
+  </tr>
+</table>
+
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+| Miembro del equipo (Apellido, Nombre)      | Nombre de usuario en GitHub  | Gestión de Planes | Ventas de Rutinas  | Gestión de Reseñas | Gestión de Perfil | Gestión del Cronograma | Documentación del Sprint |
+|--------------------------------------------|------------------------------|-------------------|--------------------|--------------------|-------------------|------------------------|--------------------------|
+| Acuña Tomas, Diego Rolin                   | ComidaRapida007              | C                 | C                  | C                  | L                 | C                      | C                        |
+| Guzmán Chávez, Ramiro Alexander            | RamiroGuzmanCh               | C                 | C                  | L                  | C                 | C                      | L                        |
+| Gómez Hurtado, Miguel Angel                | Miguel26112001               | L                 | C                  | C                  | C                 | C                      | C                        |
+| Briceño De La Cruz, Farid Sebastian        | InjustShin                   | C                 | C                  | C                  | C                 | L                      | C                        |
+| Muñoz Vilcapoma, Mauricio Rigoberto        | MauricioMVilcapoma           | C                 | L                  | C                  | C                 | C                      | C                        |
+
+
+### 5.2.4.3. Sprint Backlog 4
+
+Tabla con el backlog definido para el Sprint 4. Incluye ID de User Story, tareas asociadas, estimación en horas, responsable y estado actual (To-do, In Progress, Done).
+
+![Trello Sprint 4](./assets/Trello4.png)
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th colspan="4"> Sprint # </th>
+    <th colspan="7"> Sprint 4 </th>
+  </tr>
+  <tr>
+    <th colspan="4"> User Story </th>
+    <th colspan="7"> Work-Item / Task </th>
+  </tr>
+  <tr>
+    <th> Id </th>
+    <th colspan="3"> Title </th>
+    <th> Id </th>
+    <th> Title </th>
+    <th> Description </th>
+    <th> Estimation (Hours) </th>
+    <th> Assigned To </th>
+    <th> Status </th>
+  </tr>
+  <tr>
+    <th> US16 </th>
+    <th colspan="3"> Visualización resumida de rutinas por fecha </th>
+    <th> UT33 </th>
+    <th> Ver rutinas </th>
+    <th> Implementar la interfaz que permita mostrar las rutinas con respecto a la fecha asignada </th>
+    <th> 3 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US17 </th>
+    <th colspan="3"> Asignación de nueva rutina al cronograma </th>
+    <th> UT34 </th>
+    <th> Agregar rutina al cronograma </th>
+    <th> Implementar la funcionalidad que permita añadir una rutina ya creada al cronograma del usuario </th>
+    <th> 4 </th>
+    <th> Farid Briceño </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US20 </th>
+    <th colspan="3"> Agregar ejercicios a una rutina </th>
+    <th> UT35 </th>
+    <th> Agregar ejercicios </th>
+    <th> Implementar la funcionalidad que permita añadir ejercicios a una rutina </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US21 </th>
+    <th colspan="3"> Agregar comidas a una rutina </th>
+    <th> UT36 </th>
+    <th> Agregar comidas </th>
+    <th> Implementar la funcionalidad que permita añadir comidas a una rutina </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US24 </th>
+    <th colspan="3"> Visualizar comentarios de una rutina publicada </th>
+    <th> UT37 </th>
+    <th> Ver comentarios </th>
+    <th> Implementar la interfaz que permita mostrar los comentarios relacionados a una rutina publicada </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US25 </th>
+    <th colspan="3"> Agregar un comentario a una rutina publicada </th>
+    <th> UT38 </th>
+    <th> Agregar comentario </th>
+    <th> Implementar la funcionalidad que permita agregar comentarios a una rutina publicada </th>
+    <th> 4 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US29 </th>
+    <th colspan="3"> Editar información de perfil </th>
+    <th> UT39 </th>
+    <th> Editar perfil </th>
+    <th> Implementar funcionalidad para editar el perfil del usuario. </th>
+    <th> 4 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US35 </th>
+    <th colspan="3"> Comprar un curso </th>
+    <th> UT40 </th>
+    <th> Comprar curso </th>
+    <th> Implementar la funcionalidad que permita comprar un curso publicado </th>
+    <th> 4 </th>
+    <th> Mauricio Vilcapoma </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US09 </th>
+    <th colspan="3"> Registro básico </th>
+    <th> UT41 </th>
+    <th> Registrarse </th>
+    <th> Permitir al usuario el registro inicial con su correo electrónico </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US10 </th>
+    <th colspan="3"> Registro completo </th>
+    <th> UT42 </th>
+    <th> Actualizar su perfil </th>
+    <th> Ser capaz de actualizar los datos de su perfil </th>
+    <th> 4 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US14 </th>
+    <th colspan="3"> Actualización objetivos </th>
+    <th> UT43 </th>
+    <th> Actualizar objetivos </th>
+    <th> Implementar la posibilidad de actualizar objetivos de un plan </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US19 </th>
+    <th colspan="3"> Creación de una nueva rutina </th>
+    <th> UT44 </th>
+    <th> Crear rutina </th>
+    <th> Implementar la función de crear rutinas </th>
+    <th> 4 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US23 </th>
+    <th colspan="3"> Visualización de rutina y sus componentes </th>
+    <th> UT45 </th>
+    <th> Ver rutina </th>
+    <th> Implementar la función de ver rutinas existentes </th>
+    <th> 3 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US26 </th>
+    <th colspan="3"> Editar un comentario propio </th>
+    <th> UT46 </th>
+    <th> Editar comentario </th>
+    <th> Cambiar el contenido de un comentario realizado por el mismo usuario </th>
+    <th> 4 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US27 </th>
+    <th colspan="3"> Eliminar un comentario propio </th>
+    <th> UT47 </th>
+    <th> Eliminar comentario </th>
+    <th> Eliminar un comentario realizado por el mismo usuario </th>
+    <th> 3 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US31 </th>
+    <th colspan="3"> Agregar y eliminar amigos </th>
+    <th> UT48 </th>
+    <th> Agregar amigo </th>
+    <th> Añadir un amigo al usuario </th>
+    <th> 4 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US31 </th>
+    <th colspan="3"> Agregar y eliminar amigos </th>
+    <th> UT49 </th>
+    <th> Eliminar amigo </th>
+    <th> Eliminar un amigo del usuario </th>
+    <th> 3 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US34 </th>
+    <th colspan="3"> Ver detalles de un curso </th>
+    <th> UT50 </th>
+    <th> Ver curso </th>
+    <th> Se observará el detalle/data completo de un curso </th>
+    <th> 3 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> TS02 </th>
+    <th colspan="3"> API para consulta estructurada del cronograma </th>
+    <th> UT51 </th>
+    <th> Crear endpoints del bounded context organizing (Schedules) </th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades Schedules </th>
+    <th> 8 </th>
+    <th> Farid Briceño </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> TS03 </th>
+    <th colspan="3"> Estructura relacional entre Rutina, Ejercicio y Comida </th>
+    <th> UT52 </th>
+    <th> Crear endpoints del bounded context publishing (HealthPlans) </th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades HealthPlan, Exercise y Meals </th>
+    <th> 8 </th>
+    <th> Miguel Gomez </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> TS05 </th>
+    <th colspan="3"> Modelo de comentarios con rating vinculado a rutina </th>
+    <th> UT53 </th>
+    <th> Crear endpoints del bounded context reviewing (Reviews) </th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades Reviews, Comments, Reports </th>
+    <th> 8 </th>
+    <th> Ramiro Guzmán </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> TS08 </th>
+    <th colspan="3"> Relaciones entre usuarios para funcionalidad de amistad </th>
+    <th> UT54 </th>
+    <th> Crear endpoints del bounded context presenting (Profile) </th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades Followers </th>
+    <th> 8 </th>
+    <th> Diego Acuña </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> TS10 </th>
+    <th colspan="3"> Lógica de compra y asignación de cursos </th>
+    <th> UT55 </th>
+    <th> Crear endpoints del bounded context selling (Routine sales) </th>
+    <th> Implementar los métodos HTTP para interactuar con las entidades Payments, Purchased Plans, Purchase History </th>
+    <th> 8 </th>
+    <th> Mauricio Vilcapoma </th>
+    <th> Done </th>
+  </tr>
+  </table>
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+Capturas, fragmentos de código y commits realizados durante el desarrollo de funcionalidades correspondientes al Sprint 4. Se incluyen enlaces a pull requests o repositorios si aplica.
+
+BACKEND
+
+| Repository | Branch | Commit Id | Commit Message | Description | Commited on (Date) |
+|------------|--------|-----------|----------------|-------------|---------------------|
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `563f2f6` | Update Program.cs | Ajuste en Program.cs para mejorar configuración general | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `ea33ee4` | Update appsettings.json | Actualización en appsettings.json | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `773f867` | Update appsettings.Development.json | Actualización para entorno de desarrollo | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | develop | `a803d31` | Merge pull request #19 from AplicacionesWeb-4380-G2-VibeFit/feature/publishing | Se fusionó el contexto de publishing | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | develop | `d950f4f` | feat: added routes authorize | Rutas protegidas añadidas con autorización | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/publishing | `19337db` | feat: endpoints fixed publishing | Endpoints corregidos en publishing | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/iam | `e0d29e8` | feat: added IAM | Se añadió bounded context IAM | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/publishing | `de5469e` | feat: added controllers | Se añadieron controladores al módulo publishing | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/publishing | `b7603c7` | commit: saves | Cambios parciales guardados en publishing | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feature/publishing | `b7603c7` | feat: actualiza nombres controllers en plural | Controllers renombrados en plural | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `7c9acc1` | feat: actualiza nombres controllers en plural | Unificación de nombres de controllers | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `2d44ff4` | feat: actualiza nombres controllers en plural | Se renombraron los controladores | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `5a2f5b0` | Cambia el env de presentin | Ajustes de entorno en módulo presenting | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `0060f0a` | Cambia el nombre de los controller de presenting | Renombrado de controllers en Presenting | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `0800d8f` | Mejorar el certificado de presenting | Certificados refinados en módulo Presenting | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `8b0ca2a` | Mejorar los parámetros de cada Get de presenting | Ajustes en parámetros de consultas GET | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `7b60b2a` | Arreglando el atributo ImageURL de User | Fix en campo de imagen del usuario | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `2c4671d` | Arreglando el atributo ProfileId de User | Corrección en campo ProfileId | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | feat/presenting | `662b6a3` | Presenting | Inicio del módulo Presenting | 08/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `5e7d80a` | Update Program.cs | Update adicional a Program.cs | 07/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `917b6be` | Update appsettings.Development.json | Configuración development actualizada | 07/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `2a222d6` | Update appsettings.json | Actualización general de appsettings | 07/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `5ddba03` | Add or update the Azure App Service build and deployment workflow config | Se añade o actualiza configuración de despliegue Azure | 07/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-BackEnd | main | `a85522f` | Add or update the Azure App Service build and deployment workflow config | Despliegue automatizado en Azure | 07/07/2025 |
+
+
+FRONTEND
+| Repository | Branch | Commit Id | Commit Message | Description | Commited on (Date) |
+|------------|--------|-----------|----------------|-------------|---------------------|
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/publishing | `be3af24` | feat: fixed env production | Corrige las variables de entorno para producción | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/publishing | `bc5dfb3` | feat: fixed stores | Implementación de stores para identificación de usuarios | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/publishing | `02d85ff` | feat: added IAM bounded context | Agrega el bounded context de IAM | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/publishing | `75636de` | feat: added publishing bounded context | Conecta el bounded context de publishing con el frontend | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/publishing | `75636de` | chore: actualiza nombres de endpoints en plural en .env | Corrección de nombres en archivo de entorno | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | develop | `5e738bf` | chore: actualiza nombres de endpoints en plural en .env | Refactor en nombres de endpoints para pluralizar | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/presenting | `351907f` | Actualiza el env de presenting | Actualización de variables de entorno en módulo presenting | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | main | `8e334f2` | feat: actualiza endpoints y configuración .env | Se actualizan endpoints en entorno de configuración | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/presenting | `351907f` | Actualiza los components y pages para que use los entity y services | Refactor para usar entities y services en presenting | 09/07/2025 |
+| https://github.com/AplicacionesWeb-4380-G2-VibeFit/FitWise-FrontEnd | feat/presenting | `eae6d66` | fix: correct endpoints and delete models no used | Corrige endpoints y elimina modelos no utilizados | 08/07/2025 |
+
+
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+Evidencia de ejecución funcional del software: gifs, capturas de pantalla, flujos grabados de navegación en la plataforma desarrollada durante este Sprint.
+
+##### Publishing:
+
+Esta imagen muestra los planes que uno puede crear:
+[![image.png](https://i.postimg.cc/zGpYDN7v/image.png)](https://postimg.cc/WdDHSQQc)
+
+Esta imagen tiene la pantalla de update de un plan de salud y comparte campos con el de creación:
+[![image.png](https://i.postimg.cc/vT5CJwDQ/image.png)](https://postimg.cc/gLkMh5v5)
+
+Esta imagen muestra el dialog de confirmación para eliminar un plan de salud y es común a lo largo del proyecto:
+[![image.png](https://i.postimg.cc/mgLK5q4s/image.png)](https://postimg.cc/6yPH7MTj)
+
+Este página se encarga de dar detalles de los planes de salud y se accde con el botón de ver de color celeste.
+:[![image.png](https://i.postimg.cc/wBt4KYbS/image.png)](https://postimg.cc/7Ckn7d4V)
+
+Esta página tambien puede editar y eliminar un plan de salud:
+[![image.png](https://i.postimg.cc/KvRMDckS/image.png)](https://postimg.cc/ZCznTSxV)
+
+[![image.png](https://i.postimg.cc/jSYSnRyh/image.png)](https://postimg.cc/Vd483QGS)
+
+La pagína de details tiene la función de asignar comidas y ejercicios a un plan de salud. Además, los filtra por día de la semana.:
+[![image.png](https://i.postimg.cc/SsPyS4yC/image.png)](https://postimg.cc/0MpgnLKy)
+
+[![image.png](https://i.postimg.cc/Vs3C4QjJ/image.png)](https://postimg.cc/14rX5d7S)
+
+A su vez cuenta con opciones de edición y eliminado:
+[![image.png](https://i.postimg.cc/B6RXhHPr/image.png)](https://postimg.cc/JDcr0yqx)
+
+[![image.png](https://i.postimg.cc/brXw0PK8/image.png)](https://postimg.cc/zbjN5szP)
+
+Luego tenemos la página para crear comidas/ejercicios o editarlos. Además de hacer un filtrado por nombre. Cabe resalta que tambien cuenta con un paginado:
+[![image.png](https://i.postimg.cc/kXvgSkw3/image.png)](https://postimg.cc/9rz25gvJ)
+
+[![image.png](https://i.postimg.cc/pd4WxxV8/image.png)](https://postimg.cc/sBPd9khD)
+
+[![image.png](https://i.postimg.cc/8PN1TZGy/image.png)](https://postimg.cc/9zg3ptrT)
+
+Ahora para demostrar los endpoints del lado del backend de publishing (Exercises, Meals, HealthPlan, HealthPlanMeal, HealthPlanExercise y HealthPlanDetails):
+[![image.png](https://i.postimg.cc/6QJK1cML/image.png)](https://postimg.cc/75Vj538f)
+
+[![image.png](https://i.postimg.cc/rpcbrPhb/image.png)](https://postimg.cc/pmGqNqMY)
+
+##### Reviewing:
+En esta imagen muestra todas reviews:
+<img src="./assets/review1.png" alt="review1">
+En esta imagen se muestra solo las review por un plan seleccionado:
+<img src="./assets/review2.png" alt="review2">
+En esta imagen se muestra el formulario para poder crear una nueva review:
+<img src="./assets/review3.png" alt="review3">
+Al apretar el boton de comentarios se muestran los comentarios por reviews, donde se puede escribir un comentario y seleccionar una review para poder asignarle el comentario:
+<img src="./assets/review4.png" alt="review4">
+Luego para cada review tambien hay un boton donde se puede reportar en caso se requiera, esto se almacena en la base de datos:
+<img src="./assets/review5.png" alt="review5">
+
+Ahora para demostrar los endpoints del lado del backend de reviewing(Reviews, ReviewComments, ReviewReports):
+<img src="./assets/reviewbackend.png" alt="reviewbackend">
+
+##### Organizing:
+En esta imagen se muestran los cronogramas:
+<img src="./assets/e-organizing1.png" alt="cronograma">
+En esta imagen se muestran el formulario para crear un cronograma:
+<img src="./assets/e-organizing-crear.png" alt="cronograma-crear">
+En esta imagen se muestran el formulario para editar un cronograma:
+<img src="./assets/e-organizing-editar.png" alt="cronograma-editar">
+En esta imagen se muestran el formulario para borrar un cronograma:
+<img src="./assets/e-organizing-borrar.png" alt="cronograma-borrar">
+
+Ahora para demostrar los endpoints del lado del backend de organizing(Schedules):
+<img src="./assets/e-organizing-endpoint.png" alt="organizing-backend">
+
+##### Presenting:
+##### Selling:
+![image](https://github.com/user-attachments/assets/1252d5d8-fecf-465a-a49e-a83ed9a98f72)
+![image](https://github.com/user-attachments/assets/59c64c45-3ab9-443b-af75-54409a0326d2)
+![image](https://github.com/user-attachments/assets/1c22cc3b-9ade-4c17-ba26-6f3434567322)
+![image](https://github.com/user-attachments/assets/ba2e5f0c-b68b-49ba-b5d8-da54b06590b6)
+
+Endpoints - Payments
+
+| Método | Endpoint                               | Descripción                                           |
+|--------|----------------------------------------|-------------------------------------------------------|
+| POST   | `/api/v1/payments`                     | Crea un nuevo registro de pago                        |
+| GET    | `/api/v1/payments`                     | Lista todos los pagos registrados                     |
+| PATCH  | `/api/v1/payments/{id}`                | Actualiza el estado de un pago específico             |
+| DELETE | `/api/v1/payments/{id}`                | Elimina un pago por su ID                             |
+| GET    | `/api/v1/payments/{id}`                | Recupera un pago específico por ID                    |
+| GET    | `/api/v1/payments/pending/{ownerId}`   | Recupera pagos pendientes para un usuario específico  |
+
+---
+
+Endpoints - PurchasedPlans
+
+| Método | Endpoint                                 | Descripción                                               |
+|--------|------------------------------------------|-----------------------------------------------------------|
+| GET    | `/api/v1/purchased-plans`                | Lista todos los planes comprados                          |
+| POST   | `/api/v1/purchased-plans`                | Registra un nuevo plan comprado                           |
+| GET    | `/api/v1/purchased-plans/{id}`           | Recupera información de un plan comprado por su ID        |
+| PUT    | `/api/v1/purchased-plans/{id}`           | Actualiza un plan comprado existente                      |
+| DELETE | `/api/v1/purchased-plans/{id}`           | Elimina un plan comprado por su ID                        |
+
+---
+
+Endpoints - PurchaseHistories
+
+| Método | Endpoint                                         | Descripción                                                         |
+|--------|--------------------------------------------------|---------------------------------------------------------------------|
+| GET    | `/api/v1/purchase-histories/{userId}`            | Recupera el historial de compras de un usuario específico           |
+| PATCH  | `/api/v1/purchase-histories/{userId}`            | Asocia un pago a un historial de compra existente                   |
+| POST   | `/api/v1/purchase-histories`                     | Crea un nuevo historial de compra para un usuario                   |
+| GET    | `/api/v1/purchase-histories`                     | Lista todos los historiales de compra registrados                   |
+
+
+![image](https://github.com/user-attachments/assets/52827926-b353-4433-abaa-e8bbcdcee9a5)
+
+
+
+
+
+
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Documentación técnica de los servicios desarrollados: endpoints, contratos de API, flujos de datos, modelos utilizados, y ejemplos de respuestas esperadas.
+
+| Recurso | Acción | Verbo HTTP | Endpoint | Parámetros |
+|---------|--------|------------|----------|-------------|
+| Certificates | Listar certificados | GET | `/api/v1/certificates` | userId (query) |
+| Certificates | Crear certificado | POST | `/api/v1/certificates` | body |
+| Certificates | Obtener certificado por ID | GET | `/api/v1/certificates/{id}` | id (path) |
+| Certificates | Actualizar certificado por ID | PUT | `/api/v1/certificates/{id}` | id (path), body |
+| Certificates | Eliminar certificado por ID | DELETE | `/api/v1/certificates/{id}` | id (path) |
+| Exercises | Listar ejercicios | GET | `/api/v1/exercises` |  |
+| Exercises | Crear ejercicio | POST | `/api/v1/exercises` | body |
+| Exercises | Obtener ejercicio por ID | GET | `/api/v1/exercises/{id}` | id (path) |
+| Exercises | Actualizar ejercicio por ID | PUT | `/api/v1/exercises/{id}` | id (path), body |
+| HealthPlanDetails | Listar ejercicios de plan | GET | `/api/v1/health-plans/{healthPlanId}/exercises` | healthPlanId (path), dayOfWeek (query) |
+| HealthPlanDetails | Listar comidas de plan | GET | `/api/v1/health-plans/{healthPlanId}/meals` | healthPlanId (path), dayOfWeek (query) |
+| HealthPlanExercises | Obtener ejercicio asignado | GET | `/api/v1/health-plan-exercises/{id}` | id (path) |
+| HealthPlanExercises | Actualizar ejercicio asignado | PUT | `/api/v1/health-plan-exercises/{id}` | id (path), body |
+| HealthPlanExercises | Eliminar ejercicio asignado | DELETE | `/api/v1/health-plan-exercises/{id}` | id (path) |
+| HealthPlanExercises | Asignar ejercicio a plan | POST | `/api/v1/health-plan-exercises` | body |
+| HealthPlanMeals | Obtener comida asignada | GET | `/api/v1/health-plan-meals/{id}` | id (path) |
+| HealthPlanMeals | Actualizar comida asignada | PUT | `/api/v1/health-plan-meals/{id}` | id (path), body |
+| HealthPlanMeals | Eliminar comida asignada | DELETE | `/api/v1/health-plan-meals/{id}` | id (path) |
+| HealthPlanMeals | Asignar comida a plan | POST | `/api/v1/health-plan-meals` | body |
+| HealthPlans | Listar planes | GET | `/api/v1/health-plans` | profileId (query) |
+| HealthPlans | Crear plan | POST | `/api/v1/health-plans` | body |
+| HealthPlans | Obtener plan por ID | GET | `/api/v1/health-plans/{id}` | id (path) |
+| HealthPlans | Actualizar plan | PUT | `/api/v1/health-plans/{id}` | id (path), body |
+| HealthPlans | Eliminar plan | DELETE | `/api/v1/health-plans/{id}` | id (path) |
+| Meals | Listar comidas | GET | `/api/v1/meals` |  |
+| Meals | Crear comida | POST | `/api/v1/meals` | body |
+| Meals | Obtener comida por ID | GET | `/api/v1/meals/{id}` | id (path) |
+| Meals | Actualizar comida | PUT | `/api/v1/meals/{id}` | id (path), body |
+| Meals | Eliminar comida | DELETE | `/api/v1/meals/{id}` | id (path) |
+| Followers | Listar seguidores | GET | `/api/v1/followers` | followerUserId (query) |
+| Followers | Crear seguidor | POST | `/api/v1/followers` | body |
+| Followers | Obtener seguidor por ID | GET | `/api/v1/followers/{id}` | id (path) |
+| Followers | Eliminar seguidor | DELETE | `/api/v1/followers/{id}` | id (path) |
+| Users | Listar usuarios | GET | `/api/v1/users` | emailValue, profileId (query) |
+| Users | Crear usuario | POST | `/api/v1/users` | body |
+| Users | Obtener usuario por ID | GET | `/api/v1/users/{id}` | id (path) |
+| Users | Actualizar usuario | PUT | `/api/v1/users/{id}` | id (path), body |
+| Users | Eliminar usuario | DELETE | `/api/v1/users/{id}` | id (path) |
+| Authentication | Inicio de sesión | POST | `/api/v1/authentication/sign-in` | body |
+| Authentication | Registro de usuario | POST | `/api/v1/authentication/sign-up` | body |
+| Profiles | Obtener perfil por ID | GET | `/api/v1/profiles/{id}` | id (path) |
+| Profiles | Listar perfiles | GET | `/api/v1/profiles` |  |
+| Payments | Listar pagos | GET | `/api/v1/payments` |  |
+| Payments | Crear pago | POST | `/api/v1/payments` | body |
+| Payments | Obtener pago por ID | GET | `/api/v1/payments/{id}` | id (path) |
+| Payments | Actualizar estado de pago | PATCH | `/api/v1/payments/{id}` | id (path), body |
+| Payments | Eliminar pago | DELETE | `/api/v1/payments/{id}` | id (path) |
+| Payments | Obtener pagos pendientes | GET | `/api/v1/payments/pending/{ownerId}` | ownerId (path) |
+| PurchasedPlans | Listar planes comprados | GET | `/api/v1/purchased-plans` |  |
+| PurchasedPlans | Crear plan comprado | POST | `/api/v1/purchased-plans` | body |
+| PurchasedPlans | Obtener plan comprado | GET | `/api/v1/purchased-plans/{id}` | id (path) |
+| PurchasedPlans | Actualizar plan comprado | PUT | `/api/v1/purchased-plans/{id}` | id (path), body |
+| PurchasedPlans | Eliminar plan comprado | DELETE | `/api/v1/purchased-plans/{id}` | id (path) |
+| PurchaseHistories | Listar historiales de compra | GET | `/api/v1/purchase-histories` |  |
+| PurchaseHistories | Crear historial de compra | POST | `/api/v1/purchase-histories` | body |
+| PurchaseHistories | Obtener historial de usuario | GET | `/api/v1/purchase-histories/{userId}` | userId (path) |
+| PurchaseHistories | Actualizar historial de usuario | PATCH | `/api/v1/purchase-histories/{userId}` | userId (path), body |
+| ReviewComments | Listar comentarios | GET | `/api/v1/review-comments` |  |
+| ReviewComments | Crear comentario | POST | `/api/v1/review-comments` | body |
+| ReviewComments | Obtener comentarios por review | GET | `/api/v1/review-comments/by-review/{reviewId}` | reviewId (path) |
+| ReviewComments | Actualizar comentario | PUT | `/api/v1/review-comments/{id}` | id (path), body |
+| ReviewComments | Eliminar comentario | DELETE | `/api/v1/review-comments/{id}` | id (path) |
+| ReviewReports | Listar reportes | GET | `/api/v1/review-reports` |  |
+| ReviewReports | Crear reporte | POST | `/api/v1/review-reports` | body |
+| ReviewReports | Obtener reportes por review | GET | `/api/v1/review-reports/by-review/{reviewId}` | reviewId (path) |
+| ReviewReports | Actualizar estado de reporte | PATCH | `/api/v1/review-reports/{id}/status` | id (path), body |
+| Reviews | Listar reseñas | GET | `/api/v1/reviews` |  |
+| Reviews | Crear reseña | POST | `/api/v1/reviews` | body |
+| Reviews | Obtener reseña por ID | GET | `/api/v1/reviews/{id}` | id (path) |
+| Reviews | Actualizar reseña | PUT | `/api/v1/reviews/{id}` | id (path), body |
+| Reviews | Eliminar reseña | DELETE | `/api/v1/reviews/{id}` | id (path) |
+| Reviews | Obtener reseñas por plan | GET | `/api/v1/reviews/by-health-plan/{healthPlanId}` | healthPlanId (path) |
+| Schedules | Listar horarios | GET | `/api/v1/schedules` |  |
+| Schedules | Crear horario | POST | `/api/v1/schedules` | body |
+| Schedules | Obtener horario | GET | `/api/v1/schedules/{id}` | id (path) |
+| Schedules | Actualizar horario | PUT | `/api/v1/schedules/{id}` | id (path), body |
+| Schedules | Eliminar horario | DELETE | `/api/v1/schedules/{id}` | id (path) |
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+# Despliegue del Frontend en Firebase
+El frontend del proyecto **FitWise** fue desplegado en la plataforma **Firebase Hosting**, permitiendo una publicación rápida y segura de la aplicación web. A continuación, se detallan los pasos seguidos durante el proceso de implementación.
+
+---
+
+## 1. Build del Proyecto Vue
+
+Se ejecutó el comando `npm run build` en el proyecto Vue para generar la carpeta `dist` con los archivos listos para producción.
+
+<img src="./assets/build1.png" alt="build">
+
+<img src="./assets/build2.png" alt="build">
+---
+
+## 2. Inicialización de Firebase Hosting
+
+- Se instaló la CLI de Firebase con `npm install -g firebase-tools`.
+- Se inició sesión con `firebase login`.
+- Se ejecutó `firebase init` y se seleccionó el proyecto correspondiente en Firebase.
+- Se configuró la carpeta pública como `dist`.
+
+<img src="./assets/init1.png" alt="build">
+<img src="./assets/init2.png" alt="build">
+
+---
+
+## 3. Deploy a Firebase Hosting
+
+Se realizó el despliegue con el comando:
+
+```bash
+firebase deploy
+```
+<img src="./assets/init3.png" alt="build">
+
+Al finalizar, se obtuvo la URL pública del frontend:
+
+- **Link del Deploy del FrontEnd:** https://fitwise-frontend.web.app
+
+---
+
+# Despliegue del Backend en Azure App Service
+
+El backend del proyecto **FitWise** fue desplegado en la plataforma **Azure App Service**, aprovechando los recursos disponibles en la suscripción **Azure for Students**. A continuación, se detallan los pasos seguidos durante el proceso de implementación.
+
+---
+
+## 1. Creación del grupo de recursos
+
+Se creó el grupo de recursos `FitWiseAppWeb`, que sirve como contenedor lógico para los recursos del proyecto. Este agrupamiento permite una mejor organización, monitoreo y control de costos desde el portal de Azure.
+
+---
+
+## 2. Configuración del App Service
+
+En la sección *App Services* del portal de Azure, se configuró una nueva aplicación web con las siguientes características:
+
+- **Nombre de la aplicación**: `Fitwise` (con sufijo automático para generar un dominio único)
+- **Sistema operativo**: Linux
+- **Plan de App Service**: `ASP-FitWiseAppWeb-89ce`
+- **SKU**: Básico (B1) — 1.75 GB de memoria, 1 vCPU
+- **Región**: East US 2
+- **Publicación**: Código
+
+---
+
+## 3. Integración con GitHub
+
+Se habilitó la integración continua a través de **GitHub Actions**, conectando el App Service al repositorio:
+
+
+Esta integración generó un *workflow* automático que permite desplegar la aplicación cada vez que se realiza un *push* al repositorio. La última implementación registrada se completó con éxito, según los registros disponibles en el portal de Azure.
+
+---
+
+## 4. Conexión a base de datos MySQL Flexible
+
+El backend se conecta a una base de datos tipo **Azure Database for MySQL - Flexible Server**, con el identificador `fitwiseappweb-server`. La conexión fue configurada mediante variables de entorno dentro del App Service:
+
+- Se añadió la cadena de conexión en:  
+  `Configuración > Configuración de la aplicación`
+- Se siguió el formato requerido por Entity Framework Core para su correcto reconocimiento desde el backend.
+
+---
+
+## 5. Verificación de funcionamiento
+
+La validación del despliegue se realizó accediendo a la interfaz Swagger de la API, confirmando que los endpoints estaban operativos. Algunos de los endpoints disponibles son:
+
+- `GET /api/v1/certificate`
+- `POST /api/v1/exercise`
+- `GET /api/v1/follower`
+
+Esto evidenció que la aplicación fue desplegada correctamente y se encuentra funcionando con éxito.
+
+---
+
+## Conclusión
+
+Gracias a esta implementación en Azure, el backend de FitWise quedó alojado en la nube con capacidad de escalado, disponibilidad continua y control de versiones. Además, la integración con GitHub asegura un flujo automatizado para futuros despliegues y actualizaciones del proyecto.
+
+
+
+![image](https://github.com/user-attachments/assets/73d3c827-ed3a-4aa6-a16c-2551d143efff)
+![image](https://github.com/user-attachments/assets/a1a5e8af-afcd-4da8-a813-2e2bec79de57)
+![image](https://github.com/user-attachments/assets/e75f3ecd-f5a9-4fcb-9926-ce665e656f9d)
+![image](https://github.com/user-attachments/assets/b4c8fda3-2e81-418a-a071-e1cdde5aa1c7)
+![image](https://github.com/user-attachments/assets/9fa0638c-a4d8-4d2a-b1be-30404ba94484)
+![image](https://github.com/user-attachments/assets/1347c7ed-13d5-493a-be63-5c0e86f770ef)
+![image](https://github.com/user-attachments/assets/fcbfef06-412d-4660-bc2a-814e97d52e66)
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+BACKEND
+
+![image](https://github.com/user-attachments/assets/5fc9c592-c722-44c5-ab29-80cb89d2038b)
+![image](https://github.com/user-attachments/assets/6758766f-61db-48ea-8d60-28a7aad3db24)
+
+FRONTEND
+
+![image](https://github.com/user-attachments/assets/53ebda89-a516-47f6-8b28-5508ba428fc7)
+![image](https://github.com/user-attachments/assets/111828d5-f1ff-4401-b00d-4f69eefca17e)
+
+
+LANDING PAGE
+
+![image](https://github.com/user-attachments/assets/fa196f93-2e14-4c2e-abe2-2b70834ed4ac)
+![image](https://github.com/user-attachments/assets/5287561f-4d7a-4cab-a29b-c0731b33c704)
+
+REPORT
+![image](https://github.com/user-attachments/assets/4204b904-77aa-4a43-9544-12bf3358c146)
+![image](https://github.com/user-attachments/assets/f125e64b-6d17-442a-9a57-f17134e44b98)
+
+
+
+
+---
+
+## 5.3. Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
 
@@ -3312,6 +4049,18 @@ Para realizar las entrevistas de validación, primero se han planteado 15 pregun
 | <strong>Enlace de video:</strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221436_upc_edu_pe/EXOfPiAF4ARIq1MiSXqFMd0Btiv6p3mS6zcbN6nW24UKEA?e=CAzq7K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
 | <strong>Tiempo:</strong> 8:00 minutos |
 | <strong>Foto del entrevistado:</strong><br><img src="assets/Ent3Sebastian.png" style="height: 200px;" />
+
+| **Entrevista 4** |
+|------------------|
+| <strong>Nombre:</strong> Paolo Guillen Cesar Luna |
+| <strong>Edad:</strong> 24 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Entrenadores y profesionales del fitness |
+| <strong>Resumen:</strong> Paolo Guillen Cesar Luna, de 24 años y estudiante de Ingeniería de Software en la UPC y administrador de fitness con su familia, es una persona que valora la vida saludable, él considera que la landing page es agradable a la vista y es suficiente para entender la aplicación y atraer al usuario, luego propone mejoras para el front end, dando comentarios positivos sobre algunas funcionalidades como la confirmación de acciones mediante un mensaje en la esquina, propone también incluir video tutoriales de la aplicación porque es fácil de perderse al menos al inicio |
+| <strong>Enlace de video:</strong> [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f211_upc_edu_pe/EThRz0CKJa5Bl2UtURgujdMBgViRuet6yCrHo034Md15-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OThnWE](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f211_upc_edu_pe/EThRz0CKJa5Bl2UtURgujdMBgViRuet6yCrHo034Md15-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OThnWE) |
+| <strong>Tiempo:</strong> 13:07 minutos |
+| <strong>Foto del entrevistado:</strong><br><img src="assets/entrevista4.jpg" style="height: 200px;" />
+
 
 ### 5.3.3 Evaluaciones según heurísticas
 
@@ -3432,7 +4181,10 @@ Al realizar acciones como seguir o dejar de seguir entrenadores, el sistema no m
 **Recomendación**:  
 Añadir retroalimentación visual (cambio de botón, animación o mensaje flotante) que indique con claridad que la acción se realizó correctamente.
 
-## Video About-the-Product
+## 5.4. Video About-the-Product
+
+https://www.youtube.com/watch?v=WPnCVqFLYmY
+
 
 
 
@@ -3452,6 +4204,10 @@ Añadir retroalimentación visual (cambio de botón, animación o mensaje flotan
 
 5. **Desafíos en el Desarrollo**
    - El desarrollo de la arquitectura de software y la integración de la plataforma con otros servicios presentó ciertos retos, especialmente en la gestión de la base de datos y la escalabilidad de los servicios. A pesar de esto, se superaron la mayoría de los obstáculos técnicos, y la arquitectura de software está bien encaminada.
+
+## Video About-the-Team
+
+https://www.youtube.com/watch?v=h4fJsXTCTp4
 
 ## Recomendaciones
 
@@ -3497,4 +4253,8 @@ Link de la Landing Page: https://aplicacionesweb-4380-g2-vibefit.github.io/Landi
 
 Link del Deploy del FrontEnd: https://fitwise-frontend.web.app/home
 
+Link del Deploy del BackEnd: https://appwebfitwise-dbggb4h4bqdkb6hw.eastus2-01.azurewebsites.net/swagger/index.html
+
 Link del json server desplegado: https://my-json-server.typicode.com/AplicacionesWeb-4380-G2-VibeFit/db.json
+
+ABOUT THE TEAM VIDEO https://www.youtube.com/watch?v=h4fJsXTCTp4
