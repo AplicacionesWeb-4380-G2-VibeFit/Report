@@ -30,39 +30,44 @@
 
 ## Registro de Versiones del Informe
 
+
 | Versión | Fecha       | Autor | Descripción |
 |---------|-------------|-------|-------------|
-| TB1     | 17/04/2025  |  Ramiro Alexander Guzman Chavez <br><br> Miguel Angel Gomez Hurtado  | - Desarrollé la carátula del repositorio, el startup profile, la solution profile, establecí los segmentos objetivos, el diseño de las entrevistas y mis entrevistas por segmento objetivo. <br> - Realizé el análisis de competidores y las estrategias contra ellos. Tome liderazgo en la creación de las historias de usuario e impact Mapping |
-| TB1     | 25/04/2025  |   Ramiro Alexander Guzman Chavez  <br><br> Miguel Angel Gomez Hurtado |  - Desarrollé el diagrama de clases, el class dictionary, el diseño de la base de datos y el prototipo web. <br> - Realizé el Product Backlog y la guía de estilos generales y web de los puntos 4.1 y 4.2. Además, valida los deploys y documenté los resultados de la creación de la Landing Page.  |
-| TB1     | 24/04/2025  |   Farid Sebastian Briceño De La Cruz   | - Desarollé el wireframe y mockup de la landing page (4.3). |
-| TB1     | 25/04/2025  |   Farid Sebastian Briceño De La Cruz   | - Desarollé Web Application UX/UI Design (4.4), lo que incluye wireframe, wireflow, mockup y user flow. |
-| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    | -Desarrolle el needfinding (user persona, task matrix, journey mapping e impact mapping)            |
-| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma   |     -Desarrolle el modelo c4 del diagrama de contexto        |
-| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma     |        -Desarrolle el modelo c4 del diagrama de componentes     |
-| TB1     | 25/04/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |       -Desarrolle el modelo c4 del diagrama de contenedores      |
-| TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas     |    - Realicé las entrevistas asignadas y desarrollé un registro para ellas.         |
-| TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas     |     - Programé la landing page estática desde cero, asegurándome de que fuera responsive y que pudiera hacer deploy. También estuve modificándola para solucionar errores.        |
-| TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas    |      - Realicé los As-is Scenario Mapping, Ubiquitous Language y To-Be Scenario Mapping al revisar el trabajo, reconocer las palabras clave y guiarme por las entrevistas.       |
-| TB1     | 25/04/2025  |   Diego Rolin Acuña Tomas    |      - Completé los capítulos del Sprint 1, incluyendo el Sprint Planning 1, Aspect Leaders and Collaborators, y Sprint Backlog 1.     |
-| TB1     | 25/04/2025  |   Diego Rolin Acuña    |      - Realicé el Trello para organizar y confirmar el desarrollo de las secciones de la landing page.     |
-| TP      | 14/05/2025  |   Miguel Angel Gomez Hurtado    |      - Realicé el código del bounded context de publishing, el cual se encarga de editar, mostrar rutinas.     |
-| TP      | 14/05/2025  |   Farid Sebastian Briceño De La Cruz    |      - Realicé el código del bounded context de organizing, el cual se encarga de editar, mostrar itinerarios.     |
-| TP      | 14/05/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - Realicé el código del bounded context de selling, el cual se encarga de editar, mostrar planes a vender.     |
-| TP      | 14/05/2025  |   Diego Rolin Acuña Tomas    |      - Realicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario.     |
-| TP      | 14/05/2025  |   Ramiro Alexander Guzman Chavez    |      - Realicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar el perfil comentarios.     |
-| TB2     | 20/06/2025  |   Diego Rolin Acuña Tomas    |      - Actualicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario y administrar seguidores.     |
-| TB2     | 20/06/2025  |   Diego Rolin Acuña Tomas    |      - Realicé el informe de validación de entrevistas, registrando los hallazgos clave de usabilidad identificados en la interacción con los usuarios y proponiendo mejoras sobre las funcionalidades más valoradas por ellos.   |
-| TB2     | 20/06/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - Actualicé el código del bounded context de selling, el cual se encarga de editar, mostrar, registrar las ventas del usuario.     |
-| TB2     | 20/06/2025  |   Mauricio Rigoberto Muñoz Vilcapoma    |      - Elaboré el resumen ejecutivo del avance del proyecto para el capítulo 5.4, integrando hallazgos del backend, estado del frontend y plan de despliegue, con foco en la presentación del MVP. |
-| TB2     | 20/06/2025  |   Farid Sebastian Briceño De La Cruz    |      - Actualicé el código del bounded context de organizing, el cual se encarga de editar, mostrar y eliminar itinerarios del usuario.     |
-| TB2     | 20/06/2025  |   Farid Sebastian Briceño De La Cruz    |      - Añadí el punto 5.2.3 que corresponde al sprint 3 del proyecto     |
-| TB2     | 20/06/2025  |   Miguel Angel Gomez Hurtado    |      - Actualicé el código del bounded context de publishing, el cual se encarga de editar, mostrar, agregar y eliminar rutinas gestionadas por el usuario.     |
-| TB2     | 20/06/2025  |   Miguel Angel Gomez Hurtado    |      - Use MockApi para que nuestro front end tenga una backend y base de datos provisional hasta tener la ultima version de nuestro Web Services  |
-| TB2     | 20/06/2025  |   Ramiro Alexander Guzman Chavez    |      - Actualicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar, añadir, borrar y reportar comentarios.     |
-| TB2     | 20/06/2025  |   Ramiro Alexander Guzman Chavez    |      - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
-| TF     | 06/07/2025  |   Miguel Angel Gomez Hurtado    |      - Revisé y realicé la implementación del bounded context IAM en frontend y backend. |
-| TF     | 07/06/2025  |   Miguel Angel Gomez Hurtado    |      - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
-| TF     | 09/06/2025  |   Miguel Angel Gomez Hurtado    |      - Refactorizé los endpoints del bounded context Publishing. |
+| TB1     | 17/04/2025  | Ramiro Alexander Guzman Chavez <br><br> Miguel Angel Gomez Hurtado | - Desarrollé la carátula del repositorio, el startup profile, la solution profile, establecí los segmentos objetivos, el diseño de las entrevistas y mis entrevistas por segmento objetivo. <br> - Realicé el análisis de competidores y las estrategias contra ellos. Tomé liderazgo en la creación de las historias de usuario e impact Mapping |
+| TB1     | 25/04/2025  | Ramiro Alexander Guzman Chavez <br><br> Miguel Angel Gomez Hurtado | - Desarrollé el diagrama de clases, el class dictionary, el diseño de la base de datos y el prototipo web. <br> - Realicé el Product Backlog y la guía de estilos generales y web de los puntos 4.1 y 4.2. Además, validé los deploys y documenté los resultados de la creación de la Landing Page. |
+| TB1     | 24/04/2025  | Farid Sebastian Briceño De La Cruz | - Desarrollé el wireframe y mockup de la landing page (4.3). |
+| TB1     | 25/04/2025  | Farid Sebastian Briceño De La Cruz | - Desarrollé Web Application UX/UI Design (4.4), lo que incluye wireframe, wireflow, mockup y user flow. |
+| TB1     | 25/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Desarrollé el needfinding (user persona, task matrix, journey mapping e impact mapping) |
+| TB1     | 25/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Desarrollé el modelo c4 del diagrama de contexto |
+| TB1     | 25/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Desarrollé el modelo c4 del diagrama de componentes |
+| TB1     | 25/04/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Desarrollé el modelo c4 del diagrama de contenedores |
+| TB1     | 25/04/2025  | Diego Rolin Acuña Tomas | - Realicé las entrevistas asignadas y desarrollé un registro para ellas. |
+| TB1     | 25/04/2025  | Diego Rolin Acuña Tomas | - Programé la landing page estática desde cero, asegurándome de que fuera responsive y que pudiera hacer deploy. También estuve modificándola para solucionar errores. |
+| TB1     | 25/04/2025  | Diego Rolin Acuña Tomas | - Realicé los As-is Scenario Mapping, Ubiquitous Language y To-Be Scenario Mapping al revisar el trabajo, reconocer las palabras clave y guiarme por las entrevistas. |
+| TB1     | 25/04/2025  | Diego Rolin Acuña Tomas | - Completé los capítulos del Sprint 1, incluyendo el Sprint Planning 1, Aspect Leaders and Collaborators, y Sprint Backlog 1. |
+| TB1     | 25/04/2025  | Diego Rolin Acuña | - Realicé el Trello para organizar y confirmar el desarrollo de las secciones de la landing page. |
+| TP      | 14/05/2025  | Miguel Angel Gomez Hurtado | - Realicé el código del bounded context de publishing, el cual se encarga de editar, mostrar rutinas. |
+| TP      | 14/05/2025  | Farid Sebastian Briceño De La Cruz | - Realicé el código del bounded context de organizing, el cual se encarga de editar, mostrar itinerarios. |
+| TP      | 14/05/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Realicé el código del bounded context de selling, el cual se encarga de editar, mostrar planes a vender. |
+| TP      | 14/05/2025  | Diego Rolin Acuña Tomas | - Realicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario. |
+| TP      | 14/05/2025  | Ramiro Alexander Guzman Chavez | - Realicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar el perfil comentarios. |
+| TB2     | 20/06/2025  | Diego Rolin Acuña Tomas | - Actualicé el código del bounded context de presenting, el cual se encarga de editar, mostrar el perfil del usuario y administrar seguidores. |
+| TB2     | 20/06/2025  | Diego Rolin Acuña Tomas | - Realicé el informe de validación de entrevistas, registrando los hallazgos clave de usabilidad identificados en la interacción con los usuarios y proponiendo mejoras sobre las funcionalidades más valoradas por ellos. |
+| TB2     | 20/06/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Actualicé el código del bounded context de selling, el cual se encarga de editar, mostrar, registrar las ventas del usuario. |
+| TB2     | 20/06/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Elaboré el resumen ejecutivo del avance del proyecto para el capítulo 5.4, integrando hallazgos del backend, estado del frontend y plan de despliegue, con foco en la presentación del MVP. |
+| TB2     | 20/06/2025  | Farid Sebastian Briceño De La Cruz | - Actualicé el código del bounded context de organizing, el cual se encarga de editar, mostrar y eliminar itinerarios del usuario. |
+| TB2     | 20/06/2025  | Farid Sebastian Briceño De La Cruz | - Añadí el punto 5.2.3 que corresponde al sprint 3 del proyecto |
+| TB2     | 20/06/2025  | Miguel Angel Gomez Hurtado | - Actualicé el código del bounded context de publishing, el cual se encarga de editar, mostrar, agregar y eliminar rutinas gestionadas por el usuario. |
+| TB2     | 20/06/2025  | Miguel Angel Gomez Hurtado | - Use MockApi para que nuestro front end tenga una backend y base de datos provisional hasta tener la última versión de nuestro Web Services |
+| TB2     | 20/06/2025  | Ramiro Alexander Guzman Chavez | - Actualicé el código del bounded context de reviewing, el cual se encarga de editar, mostrar, añadir, borrar y reportar comentarios. |
+| TB2     | 20/06/2025  | Ramiro Alexander Guzman Chavez | - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
+| TF      | 06/07/2025  | Miguel Angel Gomez Hurtado | - Revisé y realicé la implementación del bounded context IAM en frontend y backend. |
+| TF      | 07/06/2025  | Miguel Angel Gomez Hurtado | - Revisé y realicé las correcciones correspondientes del diagrama de base de datos. |
+| TF      | 09/06/2025  | Miguel Angel Gomez Hurtado | - Refactoricé los endpoints del bounded context Publishing. |
+| TF      | 07/06/2025  | Ramiro Alexander Guzman Chavez | - Refactoricé los endpoints del bounded context Reviewing. |
+| TF      | 07/06/2025  | Diego Rolin Acuña Tomas | - Refactoricé los endpoints del bounded context Presenting. |
+| TF      | 07/06/2025  | Mauricio Rigoberto Muñoz Vilcapoma | - Refactoricé los endpoints del bounded context Selling. |
+| TF      | 07/06/2025  | Farid Sebastian Briceño De La Cruz | - Refactoricé los endpoints del bounded context Organizing. |
 
 
 ---
