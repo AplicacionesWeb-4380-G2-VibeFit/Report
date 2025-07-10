@@ -137,6 +137,9 @@ BACKEND
 ![image](https://github.com/user-attachments/assets/97211206-8d38-49ce-a498-5e35ecf77196)
 
 ## TF
+Se presenta el historico del report:
+<img src="./assets/TB2REPORTE1.png" alt="TB2REPORTE1">
+<img src="./assets/TB2REPORTE2.png" alt="TB2REPORTE2">
 
     
 ---
