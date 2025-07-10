@@ -3868,6 +3868,50 @@ En esta imagen se muestran el formulario para borrar un cronograma:
 
 ##### Presenting:
 ##### Selling:
+![image](https://github.com/user-attachments/assets/1252d5d8-fecf-465a-a49e-a83ed9a98f72)
+![image](https://github.com/user-attachments/assets/59c64c45-3ab9-443b-af75-54409a0326d2)
+![image](https://github.com/user-attachments/assets/1c22cc3b-9ade-4c17-ba26-6f3434567322)
+![image](https://github.com/user-attachments/assets/ba2e5f0c-b68b-49ba-b5d8-da54b06590b6)
+
+Endpoints - Payments
+
+| Método | Endpoint                               | Descripción                                           |
+|--------|----------------------------------------|-------------------------------------------------------|
+| POST   | `/api/v1/payments`                     | Crea un nuevo registro de pago                        |
+| GET    | `/api/v1/payments`                     | Lista todos los pagos registrados                     |
+| PATCH  | `/api/v1/payments/{id}`                | Actualiza el estado de un pago específico             |
+| DELETE | `/api/v1/payments/{id}`                | Elimina un pago por su ID                             |
+| GET    | `/api/v1/payments/{id}`                | Recupera un pago específico por ID                    |
+| GET    | `/api/v1/payments/pending/{ownerId}`   | Recupera pagos pendientes para un usuario específico  |
+
+---
+
+Endpoints - PurchasedPlans
+
+| Método | Endpoint                                 | Descripción                                               |
+|--------|------------------------------------------|-----------------------------------------------------------|
+| GET    | `/api/v1/purchased-plans`                | Lista todos los planes comprados                          |
+| POST   | `/api/v1/purchased-plans`                | Registra un nuevo plan comprado                           |
+| GET    | `/api/v1/purchased-plans/{id}`           | Recupera información de un plan comprado por su ID        |
+| PUT    | `/api/v1/purchased-plans/{id}`           | Actualiza un plan comprado existente                      |
+| DELETE | `/api/v1/purchased-plans/{id}`           | Elimina un plan comprado por su ID                        |
+
+---
+
+Endpoints - PurchaseHistories
+
+| Método | Endpoint                                         | Descripción                                                         |
+|--------|--------------------------------------------------|---------------------------------------------------------------------|
+| GET    | `/api/v1/purchase-histories/{userId}`            | Recupera el historial de compras de un usuario específico           |
+| PATCH  | `/api/v1/purchase-histories/{userId}`            | Asocia un pago a un historial de compra existente                   |
+| POST   | `/api/v1/purchase-histories`                     | Crea un nuevo historial de compra para un usuario                   |
+| GET    | `/api/v1/purchase-histories`                     | Lista todos los historiales de compra registrados                   |
+
+
+![image](https://github.com/user-attachments/assets/52827926-b353-4433-abaa-e8bbcdcee9a5)
+
+
+
 
 
 
