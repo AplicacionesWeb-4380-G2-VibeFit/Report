@@ -3857,33 +3857,85 @@ Ahora para demostrar los endpoints del lado del backend de reviewing(Reviews, Re
 
 Documentación técnica de los servicios desarrollados: endpoints, contratos de API, flujos de datos, modelos utilizados, y ejemplos de respuestas esperadas.
 
-| Recurso           | Acción                       | Verbo HTTP | Endpoint                                 | Parámetros                | Ejemplo de Response |
-|-------------------|------------------------------|------------|------------------------------------------|---------------------------|---------------------|
-| HealthPlans       | Obtener todos                | GET        | /api/healthplans                         | —                         | ✅                  |
-| HealthPlans       | Obtener por ID               | GET        | /api/healthplans/{id}                    | id: number                | ✅                  |
-| HealthPlans       | Crear                        | POST       | /api/healthplans                         | body: objeto plan         | ✅                  |
-| HealthPlans       | Actualizar                   | PUT        | /api/healthplans/{id}                    | id: number, body: plan    | ✅                  |
-| HealthPlans       | Eliminar                     | DELETE     | /api/healthplans/{id}                    | id: number                | ✅                  |
-| Meals             | Obtener todos                | GET        | /api/meals                               | —                         | ✅                  |
-| Meals             | Obtener por ID               | GET        | /api/meals/{id}                          | id: number                | ✅                  |
-| Meals             | Obtener por healthPlanId     | GET        | /api/meals?healthPlanId={id}             | healthPlanId: number      | ✅                  |
-| Meals             | Crear                        | POST       | /api/meals                               | body: objeto meal         | ✅                  |
-| Meals             | Actualizar                   | PUT        | /api/meals/{id}                          | id: number, body: meal    | ✅                  |
-| Exercises         | Obtener todos                | GET        | /api/exercises                           | —                         | ✅                  |
-| Exercises         | Obtener por ID               | GET        | /api/exercises/{id}                      | id: number                | ✅                  |
-| Exercises         | Obtener por healthPlanId     | GET        | /api/exercises?healthPlanId={id}         | healthPlanId: number      | ✅                  |
-| Exercises         | Crear                        | POST       | /api/exercises                           | body: objeto ex           | ✅                  |
-| Exercises         | Actualizar                   | PUT        | /api/exercises/{id}                      | id: number, body: ex      | ✅                  |
-| healthPlanMeals             | Obtener todos                | GET        | /api/healthPlanMeals                               | —                         | ✅                  |
-| healthPlanMeals             | Obtener por ID               | GET        | /api/healthPlanMeals/{id}                          | id: number                | ✅                  |
-| healthPlanMeals             | Obtener meals asignados a un healthPlan     | GET        | /api/healthPlan/{healthPlanId}/meals            | healthPlanId: number      | ✅                  |
-| healthPlanMeals             | Crear                        | POST       | /api/healthPlanMeals                               | body: objeto healthPlanMeals         | ✅                  |
-| healthPlanMeals             | Actualizar                   | PUT        | /api/healthPlanMeals/{id}                          | id: number, body: healthPlanMeals    | ✅                  |
-| healthPlanExercises             | Obtener todos                | GET        | /api/healthPlanExercises                               | —                         | ✅                  |
-| healthPlanExercises             | Obtener por ID               | GET        | /api/healthPlanExercises/{id}                          | id: number                | ✅                  |
-| healthPlanExercises             | Obtener exercises asignados a un healthPlan     | GET        | /api/healthPlan/{healthPlanId}/exercises            | healthPlanId: number      | ✅                  |
-| healthPlanExercises             | Crear                        | POST       | /api/healthPlanExercises                               | body: objeto healthPlanExercises         | ✅                  |
-| healthPlanExercises             | Actualizar                   | PUT        | /api/healthPlanExercises/{id}                          | id: number, body: healthPlanExercises    | ✅                  |
+| Recurso | Acción | Verbo HTTP | Endpoint | Parámetros |
+|---------|--------|------------|----------|-------------|
+| Certificates | Listar certificados | GET | `/api/v1/certificates` | userId (query) |
+| Certificates | Crear certificado | POST | `/api/v1/certificates` | body |
+| Certificates | Obtener certificado por ID | GET | `/api/v1/certificates/{id}` | id (path) |
+| Certificates | Actualizar certificado por ID | PUT | `/api/v1/certificates/{id}` | id (path), body |
+| Certificates | Eliminar certificado por ID | DELETE | `/api/v1/certificates/{id}` | id (path) |
+| Exercises | Listar ejercicios | GET | `/api/v1/exercises` |  |
+| Exercises | Crear ejercicio | POST | `/api/v1/exercises` | body |
+| Exercises | Obtener ejercicio por ID | GET | `/api/v1/exercises/{id}` | id (path) |
+| Exercises | Actualizar ejercicio por ID | PUT | `/api/v1/exercises/{id}` | id (path), body |
+| HealthPlanDetails | Listar ejercicios de plan | GET | `/api/v1/health-plans/{healthPlanId}/exercises` | healthPlanId (path), dayOfWeek (query) |
+| HealthPlanDetails | Listar comidas de plan | GET | `/api/v1/health-plans/{healthPlanId}/meals` | healthPlanId (path), dayOfWeek (query) |
+| HealthPlanExercises | Obtener ejercicio asignado | GET | `/api/v1/health-plan-exercises/{id}` | id (path) |
+| HealthPlanExercises | Actualizar ejercicio asignado | PUT | `/api/v1/health-plan-exercises/{id}` | id (path), body |
+| HealthPlanExercises | Eliminar ejercicio asignado | DELETE | `/api/v1/health-plan-exercises/{id}` | id (path) |
+| HealthPlanExercises | Asignar ejercicio a plan | POST | `/api/v1/health-plan-exercises` | body |
+| HealthPlanMeals | Obtener comida asignada | GET | `/api/v1/health-plan-meals/{id}` | id (path) |
+| HealthPlanMeals | Actualizar comida asignada | PUT | `/api/v1/health-plan-meals/{id}` | id (path), body |
+| HealthPlanMeals | Eliminar comida asignada | DELETE | `/api/v1/health-plan-meals/{id}` | id (path) |
+| HealthPlanMeals | Asignar comida a plan | POST | `/api/v1/health-plan-meals` | body |
+| HealthPlans | Listar planes | GET | `/api/v1/health-plans` | profileId (query) |
+| HealthPlans | Crear plan | POST | `/api/v1/health-plans` | body |
+| HealthPlans | Obtener plan por ID | GET | `/api/v1/health-plans/{id}` | id (path) |
+| HealthPlans | Actualizar plan | PUT | `/api/v1/health-plans/{id}` | id (path), body |
+| HealthPlans | Eliminar plan | DELETE | `/api/v1/health-plans/{id}` | id (path) |
+| Meals | Listar comidas | GET | `/api/v1/meals` |  |
+| Meals | Crear comida | POST | `/api/v1/meals` | body |
+| Meals | Obtener comida por ID | GET | `/api/v1/meals/{id}` | id (path) |
+| Meals | Actualizar comida | PUT | `/api/v1/meals/{id}` | id (path), body |
+| Meals | Eliminar comida | DELETE | `/api/v1/meals/{id}` | id (path) |
+| Followers | Listar seguidores | GET | `/api/v1/followers` | followerUserId (query) |
+| Followers | Crear seguidor | POST | `/api/v1/followers` | body |
+| Followers | Obtener seguidor por ID | GET | `/api/v1/followers/{id}` | id (path) |
+| Followers | Eliminar seguidor | DELETE | `/api/v1/followers/{id}` | id (path) |
+| Users | Listar usuarios | GET | `/api/v1/users` | emailValue, profileId (query) |
+| Users | Crear usuario | POST | `/api/v1/users` | body |
+| Users | Obtener usuario por ID | GET | `/api/v1/users/{id}` | id (path) |
+| Users | Actualizar usuario | PUT | `/api/v1/users/{id}` | id (path), body |
+| Users | Eliminar usuario | DELETE | `/api/v1/users/{id}` | id (path) |
+| Authentication | Inicio de sesión | POST | `/api/v1/authentication/sign-in` | body |
+| Authentication | Registro de usuario | POST | `/api/v1/authentication/sign-up` | body |
+| Profiles | Obtener perfil por ID | GET | `/api/v1/profiles/{id}` | id (path) |
+| Profiles | Listar perfiles | GET | `/api/v1/profiles` |  |
+| Payments | Listar pagos | GET | `/api/v1/payments` |  |
+| Payments | Crear pago | POST | `/api/v1/payments` | body |
+| Payments | Obtener pago por ID | GET | `/api/v1/payments/{id}` | id (path) |
+| Payments | Actualizar estado de pago | PATCH | `/api/v1/payments/{id}` | id (path), body |
+| Payments | Eliminar pago | DELETE | `/api/v1/payments/{id}` | id (path) |
+| Payments | Obtener pagos pendientes | GET | `/api/v1/payments/pending/{ownerId}` | ownerId (path) |
+| PurchasedPlans | Listar planes comprados | GET | `/api/v1/purchased-plans` |  |
+| PurchasedPlans | Crear plan comprado | POST | `/api/v1/purchased-plans` | body |
+| PurchasedPlans | Obtener plan comprado | GET | `/api/v1/purchased-plans/{id}` | id (path) |
+| PurchasedPlans | Actualizar plan comprado | PUT | `/api/v1/purchased-plans/{id}` | id (path), body |
+| PurchasedPlans | Eliminar plan comprado | DELETE | `/api/v1/purchased-plans/{id}` | id (path) |
+| PurchaseHistories | Listar historiales de compra | GET | `/api/v1/purchase-histories` |  |
+| PurchaseHistories | Crear historial de compra | POST | `/api/v1/purchase-histories` | body |
+| PurchaseHistories | Obtener historial de usuario | GET | `/api/v1/purchase-histories/{userId}` | userId (path) |
+| PurchaseHistories | Actualizar historial de usuario | PATCH | `/api/v1/purchase-histories/{userId}` | userId (path), body |
+| ReviewComments | Listar comentarios | GET | `/api/v1/review-comments` |  |
+| ReviewComments | Crear comentario | POST | `/api/v1/review-comments` | body |
+| ReviewComments | Obtener comentarios por review | GET | `/api/v1/review-comments/by-review/{reviewId}` | reviewId (path) |
+| ReviewComments | Actualizar comentario | PUT | `/api/v1/review-comments/{id}` | id (path), body |
+| ReviewComments | Eliminar comentario | DELETE | `/api/v1/review-comments/{id}` | id (path) |
+| ReviewReports | Listar reportes | GET | `/api/v1/review-reports` |  |
+| ReviewReports | Crear reporte | POST | `/api/v1/review-reports` | body |
+| ReviewReports | Obtener reportes por review | GET | `/api/v1/review-reports/by-review/{reviewId}` | reviewId (path) |
+| ReviewReports | Actualizar estado de reporte | PATCH | `/api/v1/review-reports/{id}/status` | id (path), body |
+| Reviews | Listar reseñas | GET | `/api/v1/reviews` |  |
+| Reviews | Crear reseña | POST | `/api/v1/reviews` | body |
+| Reviews | Obtener reseña por ID | GET | `/api/v1/reviews/{id}` | id (path) |
+| Reviews | Actualizar reseña | PUT | `/api/v1/reviews/{id}` | id (path), body |
+| Reviews | Eliminar reseña | DELETE | `/api/v1/reviews/{id}` | id (path) |
+| Reviews | Obtener reseñas por plan | GET | `/api/v1/reviews/by-health-plan/{healthPlanId}` | healthPlanId (path) |
+| Schedules | Listar horarios | GET | `/api/v1/schedules` |  |
+| Schedules | Crear horario | POST | `/api/v1/schedules` | body |
+| Schedules | Obtener horario | GET | `/api/v1/schedules/{id}` | id (path) |
+| Schedules | Actualizar horario | PUT | `/api/v1/schedules/{id}` | id (path), body |
+| Schedules | Eliminar horario | DELETE | `/api/v1/schedules/{id}` | id (path) |
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
