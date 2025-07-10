@@ -381,6 +381,11 @@ BACKEND
         - [Selling:](#selling)
     - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
     - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+- [Despliegue del Frontend en Firebase](#despliegue-del-frontend-en-firebase-1)
+  - [1. Build del Proyecto Vue](#1-build-del-proyecto-vue-1)
+  - [](#-1)
+  - [2. Inicialización de Firebase Hosting](#2-inicialización-de-firebase-hosting-1)
+  - [3. Deploy a Firebase Hosting](#3-deploy-a-firebase-hosting-1)
 - [Despliegue del Backend en Azure App Service](#despliegue-del-backend-en-azure-app-service-1)
   - [1. Creación del grupo de recursos](#1-creación-del-grupo-de-recursos-1)
   - [2. Configuración del App Service](#2-configuración-del-app-service-1)
@@ -3964,6 +3969,47 @@ Documentación técnica de los servicios desarrollados: endpoints, contratos de 
 | Schedules | Eliminar horario | DELETE | `/api/v1/schedules/{id}` | id (path) |
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+# Despliegue del Frontend en Firebase
+El frontend del proyecto **FitWise** fue desplegado en la plataforma **Firebase Hosting**, permitiendo una publicación rápida y segura de la aplicación web. A continuación, se detallan los pasos seguidos durante el proceso de implementación.
+
+---
+
+## 1. Build del Proyecto Vue
+
+Se ejecutó el comando `npm run build` en el proyecto Vue para generar la carpeta `dist` con los archivos listos para producción.
+
+<img src="./assets/build1.png" alt="build">
+
+<img src="./assets/build2.png" alt="build">
+---
+
+## 2. Inicialización de Firebase Hosting
+
+- Se instaló la CLI de Firebase con `npm install -g firebase-tools`.
+- Se inició sesión con `firebase login`.
+- Se ejecutó `firebase init` y se seleccionó el proyecto correspondiente en Firebase.
+- Se configuró la carpeta pública como `dist`.
+
+<img src="./assets/init1.png" alt="build">
+<img src="./assets/init2.png" alt="build">
+
+---
+
+## 3. Deploy a Firebase Hosting
+
+Se realizó el despliegue con el comando:
+
+```bash
+firebase deploy
+```
+<img src="./assets/init3.png" alt="build">
+
+Al finalizar, se obtuvo la URL pública del frontend:
+
+- **Link del Deploy del FrontEnd:** https://fitwise-frontend.web.app
+
+---
 
 # Despliegue del Backend en Azure App Service
 
