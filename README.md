@@ -3866,6 +3866,9 @@ En esta imagen se muestran el formulario para editar un cronograma:
 En esta imagen se muestran el formulario para borrar un cronograma:
 <img src="./assets/e-organizing-borrar.png" alt="cronograma-borrar">
 
+Ahora para demostrar los endpoints del lado del backend de organizing(Schedules):
+<img src="./assets/e-organizing-endpoint.png" alt="organizing-backend">
+
 ##### Presenting:
 ##### Selling:
 ![image](https://github.com/user-attachments/assets/1252d5d8-fecf-465a-a49e-a83ed9a98f72)
