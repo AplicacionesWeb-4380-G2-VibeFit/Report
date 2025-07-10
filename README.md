@@ -374,8 +374,18 @@ BACKEND
     - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
         - [Publishing:](#publishing-1)
         - [Reviewing:](#reviewing)
+        - [Organizing:](#organizing)
+        - [Presenting:](#presenting)
+        - [Selling:](#selling)
     - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
     - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+- [Despliegue del Backend en Azure App Service](#despliegue-del-backend-en-azure-app-service-1)
+  - [1. Creación del grupo de recursos](#1-creación-del-grupo-de-recursos-1)
+  - [2. Configuración del App Service](#2-configuración-del-app-service-1)
+  - [3. Integración con GitHub](#3-integración-con-github-1)
+  - [4. Conexión a base de datos MySQL Flexible](#4-conexión-a-base-de-datos-mysql-flexible-1)
+  - [5. Verificación de funcionamiento](#5-verificación-de-funcionamiento-1)
+  - [Conclusión](#conclusión-1)
     - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
@@ -3847,6 +3857,15 @@ Ahora para demostrar los endpoints del lado del backend de reviewing(Reviews, Re
 <img src="./assets/reviewbackend.png" alt="reviewbackend">
 
 ##### Organizing:
+En esta imagen se muestran los cronogramas:
+<img src="./assets/e-organizing1.png" alt="cronograma">
+En esta imagen se muestran el formulario para crear un cronograma:
+<img src="./assets/e-organizing-crear.png" alt="cronograma-crear">
+En esta imagen se muestran el formulario para editar un cronograma:
+<img src="./assets/e-organizing-editar.png" alt="cronograma-editar">
+En esta imagen se muestran el formulario para borrar un cronograma:
+<img src="./assets/e-organizing-borrar.png" alt="cronograma-borrar">
+
 ##### Presenting:
 ##### Selling:
 
