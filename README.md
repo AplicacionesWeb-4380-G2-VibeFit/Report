@@ -4180,6 +4180,9 @@ Añadir retroalimentación visual (cambio de botón, animación o mensaje flotan
 
 ## 5.4. Video About-the-Product
 
+https://www.youtube.com/watch?v=WPnCVqFLYmY
+
+
 
 
 ## Conclusiones
@@ -4198,6 +4201,10 @@ Añadir retroalimentación visual (cambio de botón, animación o mensaje flotan
 
 5. **Desafíos en el Desarrollo**
    - El desarrollo de la arquitectura de software y la integración de la plataforma con otros servicios presentó ciertos retos, especialmente en la gestión de la base de datos y la escalabilidad de los servicios. A pesar de esto, se superaron la mayoría de los obstáculos técnicos, y la arquitectura de software está bien encaminada.
+
+## Video About-the-Team
+
+https://www.youtube.com/watch?v=h4fJsXTCTp4
 
 ## Recomendaciones
 
@@ -4246,3 +4253,5 @@ Link del Deploy del FrontEnd: https://fitwise-frontend.web.app/home
 Link del Deploy del BackEnd: https://appwebfitwise-dbggb4h4bqdkb6hw.eastus2-01.azurewebsites.net/swagger/index.html
 
 Link del json server desplegado: https://my-json-server.typicode.com/AplicacionesWeb-4380-G2-VibeFit/db.json
+
+ABOUT THE TEAM VIDEO https://www.youtube.com/watch?v=h4fJsXTCTp4
