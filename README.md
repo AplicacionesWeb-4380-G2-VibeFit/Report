@@ -3943,7 +3943,28 @@ Evidencia de despliegue en entorno de pruebas o producción: versiones generadas
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
-Reflexión sobre la dinámica de trabajo en equipo durante el Sprint 4. Incluye aspectos positivos, retos enfrentados y mejoras para los próximos sprints.
+BACKEND
+
+![image](https://github.com/user-attachments/assets/5fc9c592-c722-44c5-ab29-80cb89d2038b)
+![image](https://github.com/user-attachments/assets/6758766f-61db-48ea-8d60-28a7aad3db24)
+
+FRONTEND
+
+![image](https://github.com/user-attachments/assets/53ebda89-a516-47f6-8b28-5508ba428fc7)
+![image](https://github.com/user-attachments/assets/111828d5-f1ff-4401-b00d-4f69eefca17e)
+
+
+LANDING PAGE
+
+![image](https://github.com/user-attachments/assets/fa196f93-2e14-4c2e-abe2-2b70834ed4ac)
+![image](https://github.com/user-attachments/assets/5287561f-4d7a-4cab-a29b-c0731b33c704)
+
+REPORT
+![image](https://github.com/user-attachments/assets/4204b904-77aa-4a43-9544-12bf3358c146)
+![image](https://github.com/user-attachments/assets/f125e64b-6d17-442a-9a57-f17134e44b98)
+
+
+
 
 ---
 
